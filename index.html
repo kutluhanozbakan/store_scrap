@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Store Scrap — App Store & Google Play tracker</title>
+    <link rel="stylesheet" href="assets/app.css" />
+  </head>
+  <body>
+    <header class="page-header">
+      <div>
+        <p class="eyebrow">Store Scrap</p>
+        <h1>App Store & Google Play tracker</h1>
+        <p class="subhead">
+          Browse new and trending game releases by country, with incremental refreshes every few
+          minutes.
+        </p>
+      </div>
+      <div class="status" id="status">
+        <span class="status-label">Last refreshed</span>
+        <span class="status-value" id="last-updated">Loading…</span>
+      </div>
+    </header>
+
+    <section class="controls">
+      <label>
+        Country
+        <select id="country-select"></select>
+      </label>
+      <label>
+        Time range
+        <select id="time-range">
+          <option value="all">All time</option>
+          <option value="24h">Last 24 hours</option>
+          <option value="7d">Last 7 days</option>
+          <option value="30d">Last 30 days</option>
+        </select>
+      </label>
+      <label>
+        Price
+        <select id="price-filter">
+          <option value="all">All</option>
+          <option value="free">Free</option>
+          <option value="paid">Paid</option>
+        </select>
+      </label>
+    </section>
+
+    <nav class="tabs" id="tabs">
+      <button data-tab="apple-new" class="tab active">Apple · New</button>
+      <button data-tab="apple-updated" class="tab">Apple · Updated</button>
+      <button data-tab="google-new" class="tab">Google · New</button>
+      <button data-tab="google-updated" class="tab">Google · Updated</button>
+    </nav>
+
+    <main>
+      <section class="content" id="content">
+        <div class="empty" id="empty">Loading store data…</div>
+      </section>
+    </main>
+
+    <footer class="page-footer">
+      <p>
+        Data sourced from Apple RSS/iTunes and Google Play (beta). Listings may be incomplete or
+        delayed.
+      </p>
+    </footer>
+
+    <script type="module" src="assets/app.js"></script>
+  </body>
+</html>
