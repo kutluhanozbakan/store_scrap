@@ -14,18 +14,53 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ITUNES_CACHE_PATH = path.join(__dirname, '..', 'cache', 'itunes_cache.json');
 const ITUNES_TTL_MS = 1000 * 60 * 60 * 24 * 7;
 const RSS_BASE = 'https://rss.applemarketingtools.com/api/v2';
+const RSS_LIMIT = 100;
+const TARGET_SIZE = 50;
+const RETRY_DELAYS = [300, 800, 1500];
 
 const feeds = {
-  new: 'new-apps-we-love',
-  updated: 'top-free',
+  new: ['top-free', 'top-grossing', 'top-paid'],
+  updated: ['top-grossing', 'top-free', 'top-paid'],
 };
 
 const limiter = createLimiter(6);
 
-async function fetchRssFeed(country, feedName) {
-  const url = `${RSS_BASE}/${country}/apps/${feedName}/50/apps.json`;
-  const data = await fetchJson(url);
-  return data.feed?.results ?? [];
+async function sleep(ms) {
+  await new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+async function fetchWithRetry(url) {
+  let lastError;
+  for (let i = 0; i <= RETRY_DELAYS.length; i += 1) {
+    try {
+      return await fetchJson(url);
+    } catch (error) {
+      lastError = error;
+      if (i < RETRY_DELAYS.length) {
+        await sleep(RETRY_DELAYS[i]);
+      }
+    }
+  }
+  throw lastError;
+}
+
+async function fetchRssFeed(country, feedNames) {
+  let lastError;
+  for (const feedName of feedNames) {
+    const url = `${RSS_BASE}/${country}/apps/${feedName}/${RSS_LIMIT}/apps.json`;
+    try {
+      const data = await fetchWithRetry(url);
+      return data.feed?.results ?? [];
+    } catch (error) {
+      lastError = error;
+      if (error.message?.includes('(404)')) {
+        continue;
+      }
+      continue;
+    }
+  }
+  console.warn(`Apple RSS fetch failed for ${country}`, lastError?.message ?? lastError);
+  return [];
 }
 
 async function loadItunesCache() {
@@ -68,17 +103,11 @@ function formatItem(result, itunesData, country) {
 
 export async function fetchAppleData(country) {
   const cache = await loadItunesCache();
-  const errors = [];
 
   const feedEntries = await Promise.all(
     Object.entries(feeds).map(async ([key, feedName]) => {
-      try {
-        const results = await fetchRssFeed(country, feedName);
-        return [key, results];
-      } catch (error) {
-        errors.push({ feed: key, message: error.message });
-        return [key, []];
-      }
+      const results = await fetchRssFeed(country, feedName);
+      return [key, results];
     })
   );
 
@@ -100,14 +129,20 @@ export async function fetchAppleData(country) {
             }
             return formatItem(entry, itunesData, country);
           } catch (error) {
-            errors.push({ feed: type, id: entry.id, message: error.message });
             return null;
           }
         })
       )
     );
-
-    enriched[type] = items.filter(Boolean);
+    const normalized = items.filter(Boolean);
+    if (type === 'new') {
+      normalized.sort((a, b) => {
+        const aDate = a.releaseDate ? new Date(a.releaseDate).getTime() : 0;
+        const bDate = b.releaseDate ? new Date(b.releaseDate).getTime() : 0;
+        return bDate - aDate;
+      });
+    }
+    enriched[type] = normalized.slice(0, TARGET_SIZE);
   }
 
   await saveItunesCache(cache);
@@ -118,6 +153,6 @@ export async function fetchAppleData(country) {
     updatedAt: new Date().toISOString(),
     new: enriched.new ?? [],
     updated: enriched.updated ?? [],
-    errors,
+    errors: [],
   };
 }

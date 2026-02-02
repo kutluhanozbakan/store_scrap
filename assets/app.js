@@ -3,7 +3,10 @@ const state = {
   dataCache: new Map(),
   activeTab: 'apple-new',
   activeCountry: null,
+  isLoading: false,
 };
+
+const REFRESH_MS = 5 * 60 * 1000;
 
 const selectors = {
   countrySelect: document.getElementById('country-select'),
@@ -13,6 +16,7 @@ const selectors = {
   content: document.getElementById('content'),
   lastUpdated: document.getElementById('last-updated'),
   empty: document.getElementById('empty'),
+  refreshButton: document.getElementById('refresh-country'),
 };
 
 function formatDate(value) {
@@ -28,20 +32,52 @@ function formatDate(value) {
 
 function buildCountryOptions(countries) {
   selectors.countrySelect.innerHTML = '';
+  const placeholder = document.createElement('option');
+  placeholder.value = '';
+  placeholder.textContent = 'Select a country';
+  selectors.countrySelect.append(placeholder);
   countries.forEach((country) => {
     const option = document.createElement('option');
     option.value = country.code;
-    option.textContent = country.code;
+    option.textContent = country.name ?? country.code;
     selectors.countrySelect.append(option);
   });
 }
 
 function updateLastUpdated() {
+  if (!state.activeCountry) {
+    selectors.lastUpdated.textContent = 'Select a country';
+    return;
+  }
   const entries = state.summary?.countries ?? [];
   const active = entries.find((entry) => entry.code === state.activeCountry);
   const timestamp =
     active?.apple?.updatedAt || active?.google?.updatedAt || state.summary?.generatedAt;
   selectors.lastUpdated.textContent = formatDate(timestamp);
+}
+
+function delay(ms) {
+  return new Promise((resolve) => {
+    setTimeout(resolve, ms);
+  });
+}
+
+async function withLoading(task, minMs = 200) {
+  if (state.isLoading) {
+    return task();
+  }
+  state.isLoading = true;
+  render();
+  await new Promise((resolve) => requestAnimationFrame(resolve));
+  const start = Date.now();
+  const result = await task();
+  const elapsed = Date.now() - start;
+  if (elapsed < minMs) {
+    await delay(minMs - elapsed);
+  }
+  state.isLoading = false;
+  render();
+  return result;
 }
 
 async function fetchJson(path) {
@@ -53,26 +89,61 @@ async function fetchJson(path) {
 }
 
 async function loadSummary() {
-  const summary = await fetchJson('data/global_summary.json');
-  state.summary = summary;
-  const countries = summary.countries ?? [];
-  buildCountryOptions(countries);
-  state.activeCountry = countries[0]?.code ?? null;
-  selectors.countrySelect.value = state.activeCountry;
-  updateLastUpdated();
-  await loadCountryData(state.activeCountry);
-  render();
+  await withLoading(async () => {
+    const summary = await fetchJson('/api/summary');
+    state.summary = summary;
+    const countries = summary.countries ?? [];
+    buildCountryOptions(countries);
+    state.activeCountry = null;
+    selectors.countrySelect.value = '';
+    updateLastUpdated();
+  }, 400);
 }
 
 async function loadCountryData(country) {
   if (!country || state.dataCache.has(country)) {
     return;
   }
-  const [appleData, googleData] = await Promise.all([
-    fetchJson(`data/apple/${country}.json`).catch(() => null),
-    fetchJson(`data/google/${country}.json`).catch(() => null),
-  ]);
-  state.dataCache.set(country, { apple: appleData, google: googleData });
+  const payload = await fetchJson(`/api/country/${country}`).catch(() => null);
+  if (!payload) {
+    state.dataCache.set(country, { apple: null, google: null });
+    return;
+  }
+  state.dataCache.set(country, { apple: payload.apple, google: payload.google });
+}
+
+async function refreshActiveCountry() {
+  if (!state.activeCountry) {
+    return;
+  }
+  const button = selectors.refreshButton;
+  const previousLabel = button?.textContent ?? '';
+  if (button) {
+    button.disabled = true;
+    button.textContent = 'Refreshing...';
+  }
+
+  try {
+    await withLoading(async () => {
+      const payload = await fetchJson(`/api/country/${state.activeCountry}?refresh=1`);
+      state.dataCache.set(state.activeCountry, {
+        apple: payload.apple ?? null,
+        google: payload.google ?? null,
+      });
+      const summary = await fetchJson('/api/summary');
+      state.summary = summary;
+      updateLastUpdated();
+    });
+  } catch (error) {
+    console.warn('Manual refresh failed', error);
+    const message = renderMessage(`Refresh failed: ${error.message}`, 'error');
+    selectors.content.prepend(message);
+  }
+
+  if (button) {
+    button.disabled = false;
+    button.textContent = previousLabel;
+  }
 }
 
 function getActiveDataset() {
@@ -118,6 +189,16 @@ function filterByPrice(items, filter) {
 function render() {
   const { store, type, data } = getActiveDataset();
   selectors.content.innerHTML = '';
+
+  if (state.isLoading) {
+    selectors.content.append(renderMessage('Loading data...', 'loading'));
+    return;
+  }
+
+  if (!state.activeCountry) {
+    selectors.content.append(renderMessage('Select a country to load store data.', 'empty'));
+    return;
+  }
 
   if (!data) {
     selectors.content.append(renderMessage('No data for this country yet.', 'empty'));
@@ -184,14 +265,25 @@ function renderCard(item) {
 }
 
 selectors.countrySelect.addEventListener('change', async (event) => {
-  state.activeCountry = event.target.value;
-  await loadCountryData(state.activeCountry);
-  updateLastUpdated();
-  render();
+  await withLoading(async () => {
+    const nextCountry = event.target.value;
+    state.activeCountry = nextCountry || null;
+    if (!state.activeCountry) {
+      updateLastUpdated();
+      return;
+    }
+    state.dataCache.delete(state.activeCountry);
+    await loadCountryData(state.activeCountry);
+    updateLastUpdated();
+  });
 });
 
-selectors.timeRange.addEventListener('change', render);
-selectors.priceFilter.addEventListener('change', render);
+selectors.timeRange.addEventListener('change', () => {
+  withLoading(async () => {}, 150);
+});
+selectors.priceFilter.addEventListener('change', () => {
+  withLoading(async () => {}, 150);
+});
 
 selectors.tabs.addEventListener('click', (event) => {
   const button = event.target.closest('button[data-tab]');
@@ -201,11 +293,29 @@ selectors.tabs.addEventListener('click', (event) => {
   selectors.tabs.querySelectorAll('.tab').forEach((tab) => tab.classList.remove('active'));
   button.classList.add('active');
   state.activeTab = button.dataset.tab;
-  render();
+  withLoading(async () => {}, 150);
 });
+
+selectors.refreshButton?.addEventListener('click', refreshActiveCountry);
 
 loadSummary().catch((error) => {
   selectors.content.innerHTML = '';
   const message = renderMessage(`Failed to load summary: ${error.message}`, 'error');
   selectors.content.append(message);
 });
+
+setInterval(async () => {
+  if (!state.activeCountry) {
+    return;
+  }
+  try {
+    const summary = await fetchJson('/api/summary');
+    state.summary = summary;
+    state.dataCache.delete(state.activeCountry);
+    await loadCountryData(state.activeCountry);
+    updateLastUpdated();
+    render();
+  } catch (error) {
+    console.warn('Auto-refresh failed', error);
+  }
+}, REFRESH_MS);

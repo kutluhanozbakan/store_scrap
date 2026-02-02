@@ -1,13 +1,15 @@
 # Store Scrap
 
-Store Scrap keeps a lightweight, country-by-country snapshot of newly released and recently updated game listings from the Apple App Store and Google Play. Data is refreshed in small increments and published as static JSON so it can be hosted on GitHub Pages or any static site host.
+Store Scrap provides a lightweight Node API that fetches the latest top 50 game listings per
+country from the Apple App Store and Google Play. The UI calls the API on demand, caches responses
+for a short time, and lets you filter by country, time range, and price.
 
 ## Features
 
-- Incremental refreshes to avoid hitting store rate limits.
-- Per-country snapshots for Apple and Google listings.
-- Global summary feed for a fast front-end bootstrap.
-- Static, zero-backend front-end with filters for country, time range, and price.
+- On-demand per-country fetch with a configurable cache (default 5 minutes).
+- Top 50 "new" games sorted by release date from store charts.
+- Manual refresh button to bypass the cache for the selected country.
+- Filters for country, time range, and price.
 
 ## Local setup
 
@@ -15,42 +17,41 @@ Store Scrap keeps a lightweight, country-by-country snapshot of newly released a
 npm install
 ```
 
-### Run an incremental build
-
 ```bash
-node scripts/build.mjs --incremental
+npm run dev
 ```
 
-### Run a full rebuild
+Open `http://localhost:8787`.
+
+### Environment variables
+
+- `PORT` (default: 8787)
+- `CACHE_TTL_MS` (default: 300000)
+
+Example:
 
 ```bash
-node scripts/build.mjs --full
+PORT=9000 CACHE_TTL_MS=60000 npm run dev
 ```
 
-### Limit countries (optional)
+## API
 
-```bash
-node scripts/build.mjs --incremental --countries=US,CA,GB --limit=3
+```text
+GET /api/summary
+GET /api/country/{CODE}
+GET /api/country/{CODE}?refresh=1
+GET /api/health
 ```
 
-## Local preview
+## Legacy build scripts (optional)
 
-Serve the project root with any static server. Example using Python:
-
-```bash
-python -m http.server 8080
-```
-
-Then open `http://localhost:8080`.
-
-## GitHub Pages
-
-1. Enable GitHub Pages for the repository (Settings → Pages → Deploy from a branch).
-2. Point Pages at the default branch root.
-3. The GitHub Action workflow will refresh `data/` and `cache/` every 10 minutes and push updates.
+`scripts/build.mjs` can still generate JSON snapshots, but the current UI expects the API endpoints
+above. If you want a fully static build, update `assets/app.js` to read from `data/` again.
 
 ## Data sources and licensing
 
-- Apple RSS feeds and iTunes lookup APIs are used to identify games. Apple content and metadata remain subject to Apple’s terms.
-- Google Play data is collected via `google-play-scraper`, which may be subject to Google Play terms. Treat this data source as beta and avoid production usage without proper review.
-- This repository provides the data “as-is” without warranties.
+- Apple RSS feeds and iTunes lookup APIs are used to identify games. Apple content and metadata
+  remain subject to Apple's terms.
+- Google Play data is collected via `google-play-scraper`, which may be subject to Google Play
+  terms. Treat this data source as beta and avoid production usage without proper review.
+- This repository provides the data "as-is" without warranties.

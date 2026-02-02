@@ -9,7 +9,9 @@
   "scripts": {
     "build": "node scripts/build.mjs --incremental",
     "build:full": "node scripts/build.mjs --full",
-    "lint": "node -c scripts/build.mjs"
+    "lint": "node -c scripts/build.mjs",
+    "dev": "node scripts/server.mjs",
+    "start": "node scripts/server.mjs"
   },
   "dependencies": {
     "google-play-scraper": "^9.0.2"

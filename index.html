@@ -3,18 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Store Scrap — App Store & Google Play tracker</title>
+    <title>OTILAB — App Store & Google Play tracker</title>
     <link rel="stylesheet" href="assets/app.css" />
   </head>
   <body>
     <header class="page-header">
       <div>
-        <p class="eyebrow">Store Scrap</p>
+        <p class="eyebrow">OTILAB</p>
         <h1>App Store & Google Play tracker</h1>
-        <p class="subhead">
-          Browse new and trending game releases by country, with incremental refreshes every few
-          minutes.
-        </p>
       </div>
       <div class="status" id="status">
         <span class="status-label">Last refreshed</span>
@@ -44,6 +40,10 @@
           <option value="paid">Paid</option>
         </select>
       </label>
+      <div class="control-actions">
+        <span>Refresh</span>
+        <button class="refresh-button" id="refresh-country" type="button">Refresh now</button>
+      </div>
     </section>
 
     <nav class="tabs" id="tabs">
