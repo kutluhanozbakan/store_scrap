@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-02-02T15:26:02.883Z",
+  "generatedAt": "2026-02-02T16:02:00.761Z",
   "meta": {
     "runType": "incremental",
     "countriesProcessed": [
-      "MF",
-      "MG",
-      "MH",
-      "MK",
-      "ML",
-      "MM",
-      "MN",
-      "MO",
-      "MP",
-      "MQ",
-      "MR",
-      "MS",
-      "MT",
-      "MU",
-      "MV",
-      "MW",
-      "MX",
-      "MY",
-      "MZ",
-      "NA"
+      "NC",
+      "NE",
+      "NF",
+      "NG",
+      "NI",
+      "NL",
+      "NO",
+      "NP",
+      "NR",
+      "NU",
+      "NZ",
+      "OM",
+      "PA",
+      "PE",
+      "PF",
+      "PG",
+      "PH",
+      "PK",
+      "PL",
+      "PM"
     ],
     "totalCountries": 249
   },
@@ -2429,103 +2429,303 @@
     },
     {
       "code": "NC",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:00:19.733Z",
+        "newCount": 0,
+        "updatedCount": 0,
+        "errorCount": 0
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:00:32.488Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "NE",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:01:29.693Z",
+        "newCount": 3,
+        "updatedCount": 3,
+        "errorCount": 0
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:01:39.065Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "NF",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:00:19.722Z",
+        "newCount": 0,
+        "updatedCount": 0,
+        "errorCount": 0
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:00:29.692Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "NG",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:00:21.626Z",
+        "newCount": 0,
+        "updatedCount": 1,
+        "errorCount": 0
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:00:32.934Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "NI",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:00:41.302Z",
+        "newCount": 3,
+        "updatedCount": 1,
+        "errorCount": 0
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:00:45.528Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "NL",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:00:46.587Z",
+        "newCount": 1,
+        "updatedCount": 0,
+        "errorCount": 0
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:00:50.736Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "NO",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:00:49.628Z",
+        "newCount": 2,
+        "updatedCount": 2,
+        "errorCount": 0
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:00:54.603Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "NP",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:00:57.061Z",
+        "newCount": 1,
+        "updatedCount": 1,
+        "errorCount": 0
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:01:01.172Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "NR",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:01:03.881Z",
+        "newCount": 0,
+        "updatedCount": 0,
+        "errorCount": 0
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:01:08.040Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "NU",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:01:08.025Z",
+        "newCount": 0,
+        "updatedCount": 0,
+        "errorCount": 0
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:01:12.005Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "NZ",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:01:13.574Z",
+        "newCount": 1,
+        "updatedCount": 2,
+        "errorCount": 0
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:01:20.549Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "OM",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:01:15.206Z",
+        "newCount": 0,
+        "updatedCount": 0,
+        "errorCount": 0
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:01:21.754Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "PA",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:01:21.510Z",
+        "newCount": 2,
+        "updatedCount": 2,
+        "errorCount": 0
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:01:25.583Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "PE",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:01:27.195Z",
+        "newCount": 2,
+        "updatedCount": 2,
+        "errorCount": 0
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:01:31.433Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "PF",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:01:34.255Z",
+        "newCount": 0,
+        "updatedCount": 0,
+        "errorCount": 0
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:01:43.829Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "PG",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:01:32.749Z",
+        "newCount": 1,
+        "updatedCount": 1,
+        "errorCount": 0
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:01:42.444Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "PH",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:01:43.995Z",
+        "newCount": 5,
+        "updatedCount": 2,
+        "errorCount": 0
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:01:54.512Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "PK",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:01:50.217Z",
+        "newCount": 0,
+        "updatedCount": 0,
+        "errorCount": 0
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:02:00.653Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "PL",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:01:50.101Z",
+        "newCount": 1,
+        "updatedCount": 1,
+        "errorCount": 0
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:02:00.667Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "PM",
-      "apple": null,
-      "google": null
+      "apple": {
+        "updatedAt": "2026-02-02T16:01:43.976Z",
+        "newCount": 0,
+        "updatedCount": 0,
+        "errorCount": 1
+      },
+      "google": {
+        "updatedAt": "2026-02-02T16:01:51.915Z",
+        "newCount": 50,
+        "updatedCount": 50,
+        "errorCount": 0
+      }
     },
     {
       "code": "PN",
