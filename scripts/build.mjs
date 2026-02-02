@@ -75,7 +75,7 @@ async function build() {
 
         let appleData;
         try {
-          appleData = await fetchAppleData(country, previousApple);
+          appleData = await fetchAppleData(country);
         } catch (error) {
           appleData = previousApple ?? {
             country,

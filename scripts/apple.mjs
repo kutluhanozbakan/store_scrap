@@ -66,7 +66,7 @@ function formatItem(result, itunesData, country) {
   };
 }
 
-export async function fetchAppleData(country, previousData = null) {
+export async function fetchAppleData(country) {
   const cache = await loadItunesCache();
   const errors = [];
 
@@ -83,21 +83,6 @@ export async function fetchAppleData(country, previousData = null) {
   );
 
   const entriesByType = Object.fromEntries(feedEntries);
-  const totalFailures =
-    Object.values(entriesByType).every((entries) => entries.length === 0) && errors.length > 0;
-
-  if (totalFailures && previousData) {
-    return {
-      ...previousData,
-      country,
-      store: 'apple',
-      preservedAt: new Date().toISOString(),
-      errors: [
-        ...(previousData.errors ?? []),
-        ...errors.map((error) => ({ ...error, preserved: true })),
-      ],
-    };
-  }
   const enriched = {};
 
   for (const [type, entries] of Object.entries(entriesByType)) {
