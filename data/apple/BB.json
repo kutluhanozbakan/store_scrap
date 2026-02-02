@@ -51,5 +51,10 @@
       "country": "BB"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "message": "Unexpected non-whitespace character after JSON at position 18814087",
+      "preserved": true
+    }
+  ]
 }
