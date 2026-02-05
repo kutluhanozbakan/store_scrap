@@ -1,8 +1,36 @@
 {
   "country": "IQ",
   "store": "google",
-  "updatedAt": "2026-02-04T17:01:55.251Z",
+  "updatedAt": "2026-02-05T03:10:14.986Z",
   "new": [
+    {
+      "id": "com.miniclip.eightballpool",
+      "name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T16:34:15.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "IQ"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T15:16:02.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "IQ"
+    },
     {
       "id": "com.oakever.tiletrip",
       "name": "Tile Explorer - Triple Match",
@@ -28,20 +56,6 @@
       "releaseDate": "2026-02-04T13:47:17.000Z",
       "genres": [
         "Role Playing"
-      ],
-      "country": "IQ"
-    },
-    {
-      "id": "com.outfit7.mytalkingangela2",
-      "name": "My Talking Angela 2",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T13:25:06.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "IQ"
     },
@@ -224,20 +238,6 @@
       "releaseDate": "2026-02-03T14:49:51.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "IQ"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T14:43:46.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "IQ"
     },
@@ -606,20 +606,6 @@
       "country": "IQ"
     },
     {
-      "id": "com.miniclip.eightballpool",
-      "name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T15:03:48.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "IQ"
-    },
-    {
       "id": "com.Polystation.BuildABabe",
       "name": "Build A Queen",
       "developer": "Supersonic Studios LTD",
@@ -702,6 +688,20 @@
         "Music"
       ],
       "country": "IQ"
+    },
+    {
+      "id": "com.orange.coloring.learn.kids",
+      "name": "Coloring & Learn",
+      "developer": "Orange Studios Games",
+      "url": "https://play.google.com/store/apps/details?id=com.orange.coloring.learn.kids&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/p7PG8fih_pKYrhUGUbflyihK8LmTqil066RhPNjOTt-TRr9YAYwvAK8OGEob76kEbWY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-26T14:31:02.000Z",
+      "genres": [
+        "Educational"
+      ],
+      "country": "IQ"
     }
   ],
   "updated": [
@@ -769,7 +769,7 @@
       "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-28T15:03:48.000Z",
+      "releaseDate": "2026-02-04T16:34:15.000Z",
       "genres": [
         "Sports"
       ],
@@ -874,20 +874,6 @@
       "country": "IQ"
     },
     {
-      "id": "jp.konami.pesam",
-      "name": "eFootball™",
-      "developer": "KONAMI",
-      "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/o-iscF0u9uAm9jaems25nNUw3cIgxrzIELVTy-DPKb3CxN0_HLBcaWoeetZca_BBOp_u_NXeyQKz0nJkXiFMkA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-06T08:22:29.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "IQ"
-    },
-    {
       "id": "com.tfv.draw.one.missing.partdop.puzzle.games",
       "name": "Complete Puzzle: Draw One Part",
       "developer": "The Fashion Valley",
@@ -986,6 +972,20 @@
       "country": "IQ"
     },
     {
+      "id": "jp.konami.pesam",
+      "name": "eFootball™",
+      "developer": "KONAMI",
+      "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/o-iscF0u9uAm9jaems25nNUw3cIgxrzIELVTy-DPKb3CxN0_HLBcaWoeetZca_BBOp_u_NXeyQKz0nJkXiFMkA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-06T08:22:29.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "IQ"
+    },
+    {
       "id": "com.wilds.craft.mysticland.explore",
       "name": "Block Craft 3D: Realm Builder",
       "developer": "Metagame.Ltd",
@@ -1042,20 +1042,6 @@
       "country": "IQ"
     },
     {
-      "id": "com.alien.shooter.galaxy.attack",
-      "name": "Galaxy Attack: Shooting Game",
-      "developer": "1SOFT",
-      "url": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/0VU1tELbaW2f8vgJYqW_RyZF6DrWY177bYFPt8oXT5esZzFl4V2c39zWlxhDWKo5Mtc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T04:30:59.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "IQ"
-    },
-    {
       "id": "com.outfit7.mytalkingtom2",
       "name": "My Talking Tom 2: Pet Game",
       "developer": "Outfit7 Limited",
@@ -1066,6 +1052,20 @@
       "releaseDate": "2026-01-14T12:55:59.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "IQ"
+    },
+    {
+      "id": "com.alien.shooter.galaxy.attack",
+      "name": "Galaxy Attack: Shooting Game",
+      "developer": "1SOFT",
+      "url": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/0VU1tELbaW2f8vgJYqW_RyZF6DrWY177bYFPt8oXT5esZzFl4V2c39zWlxhDWKo5Mtc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T04:30:59.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "IQ"
     },
@@ -1112,20 +1112,6 @@
       "country": "IQ"
     },
     {
-      "id": "com.Garawell.BridgeRace",
-      "name": "Bridge Race",
-      "developer": "Supersonic Studios LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.Garawell.BridgeRace&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/ebWtAyC4uzKL5rXAjsPzy1AlqVbjpK0r0kGYzTtoljvu7RqYTfOLLObeotRCZkisC7Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T20:48:21.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "IQ"
-    },
-    {
       "id": "com.gf.busdriving.publictransport.citypassenger.drivinggames",
       "name": "Bus Simulator : 3D Bus Games",
       "developer": "GamePark",
@@ -1136,6 +1122,20 @@
       "releaseDate": "2026-01-20T12:05:35.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "IQ"
+    },
+    {
+      "id": "com.Garawell.BridgeRace",
+      "name": "Bridge Race",
+      "developer": "Supersonic Studios LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.Garawell.BridgeRace&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/ebWtAyC4uzKL5rXAjsPzy1AlqVbjpK0r0kGYzTtoljvu7RqYTfOLLObeotRCZkisC7Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T20:48:21.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "IQ"
     },
@@ -1266,6 +1266,20 @@
       "country": "IQ"
     },
     {
+      "id": "com.ziipin.card",
+      "name": "Heroic Era",
+      "developer": "Arclight  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.ziipin.card&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/5cA9Yqcvuj4EFArg4mWIKXs3AGmDtx1QVkWb0BofZBu5b1KjqjUuUA4IjD96vhLYAvPN7w4NkQYDHGu7AoV76w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T15:12:36.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "IQ"
+    },
+    {
       "id": "com.gps.draw.flag.coloring.games",
       "name": "Satisfying Coloring",
       "developer": "Mad1 Games",
@@ -1276,20 +1290,6 @@
       "releaseDate": "2026-02-03T11:09:22.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "IQ"
-    },
-    {
-      "id": "com.game.minicraft.village",
-      "name": "Village City Life Building",
-      "developer": "XGame VN",
-      "url": "https://play.google.com/store/apps/details?id=com.game.minicraft.village&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/_Qko3MojDBWZ6CVMm5BTqH7n3J9XlpYT5O0uHY0mSv5-8C4xfoSP5gstc28PogzUzCA4GocgF2eyMmKnsAHVOg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-08-01T11:49:38.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "IQ"
     },
@@ -1308,20 +1308,6 @@
       "country": "IQ"
     },
     {
-      "id": "com.outfit7.mytalkingtomfree",
-      "name": "My Talking Tom",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/AuT-b_-pfg0F05H_lZ8lwapl1Ll_6tVwSGL4GgVKSeK9KezqHh35V0mF0xBYGhnoRbU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T13:07:30.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "IQ"
-    },
-    {
       "id": "com.playspare.supermarket.store.simulator",
       "name": "My Supermarket Simulator 3D®",
       "developer": "Game District LLC",
@@ -1332,6 +1318,34 @@
       "releaseDate": "2026-02-03T05:33:55.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "IQ"
+    },
+    {
+      "id": "com.game.minicraft.village",
+      "name": "Village City Life Building",
+      "developer": "XGame VN",
+      "url": "https://play.google.com/store/apps/details?id=com.game.minicraft.village&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/_Qko3MojDBWZ6CVMm5BTqH7n3J9XlpYT5O0uHY0mSv5-8C4xfoSP5gstc28PogzUzCA4GocgF2eyMmKnsAHVOg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-01T11:49:38.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "IQ"
+    },
+    {
+      "id": "com.outfit7.mytalkingtomfree",
+      "name": "My Talking Tom",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/AuT-b_-pfg0F05H_lZ8lwapl1Ll_6tVwSGL4GgVKSeK9KezqHh35V0mF0xBYGhnoRbU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T13:07:30.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "IQ"
     },
@@ -1350,34 +1364,6 @@
       "country": "IQ"
     },
     {
-      "id": "com.Earthkwak.Platformer",
-      "name": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-26T09:16:49.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "IQ"
-    },
-    {
-      "id": "com.orange.coloring.learn.kids",
-      "name": "Coloring & Learn",
-      "developer": "Orange Studios Games",
-      "url": "https://play.google.com/store/apps/details?id=com.orange.coloring.learn.kids&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/p7PG8fih_pKYrhUGUbflyihK8LmTqil066RhPNjOTt-TRr9YAYwvAK8OGEob76kEbWY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-26T14:31:02.000Z",
-      "genres": [
-        "Educational"
-      ],
-      "country": "IQ"
-    },
-    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -1388,6 +1374,20 @@
       "releaseDate": "2026-02-02T13:54:14.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "IQ"
+    },
+    {
+      "id": "com.Earthkwak.Platformer",
+      "name": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-26T09:16:49.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "IQ"
     },
