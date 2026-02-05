@@ -1,8 +1,36 @@
 {
   "country": "RW",
   "store": "google",
-  "updatedAt": "2026-02-05T08:02:03.748Z",
+  "updatedAt": "2026-02-05T19:52:23.848Z",
   "new": [
+    {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T17:28:18.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "RW"
+    },
+    {
+      "id": "com.impp.cityair.plane.driver",
+      "name": "Pilot Flight Simulator Games",
+      "developer": "Imperial Arts Pty Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.impp.cityair.plane.driver&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/9nAxEgu2VNUg6xCsHmVeb0ItrUMTGLuNqwddc1Acbw4GYHD66TI_DTSerYvR-Ch98w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T10:33:34.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "RW"
+    },
     {
       "id": "com.wood.block.sudoku.puzzle.bm",
       "name": "Block Crush!",
@@ -64,7 +92,7 @@
       "name": "My Talking Tom",
       "developer": "Outfit7 Limited",
       "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/AuT-b_-pfg0F05H_lZ8lwapl1Ll_6tVwSGL4GgVKSeK9KezqHh35V0mF0xBYGhnoRbU",
+      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-04T13:07:30.000Z",
@@ -144,16 +172,30 @@
       "country": "RW"
     },
     {
-      "id": "com.niceteen.games.milliondeal",
-      "name": "Million Deal: Win Million",
-      "developer": "Niceteen Games",
-      "url": "https://play.google.com/store/apps/details?id=com.niceteen.games.milliondeal&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/IFSoZwwPhrpEHdkeUkEJ-xG00q0aLZe-TZOTnaWwZFVQfsjv2slcmTuA4q8QROP2Dis",
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/upYircnh6-mH07OxwtX7L0EPFd4_FNV71xd8w4gHiyLKopipJxwPzoupoQgpzgf8_Fk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T11:42:55.000Z",
+      "releaseDate": "2026-02-03T15:34:55.000Z",
       "genres": [
-        "Trivia"
+        "Arcade"
+      ],
+      "country": "RW"
+    },
+    {
+      "id": "com.fxroyale.app",
+      "name": "Trading Arena-Crypto Simulator",
+      "developer": "Edusystems OU",
+      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T15:20:24.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "RW"
     },
@@ -354,20 +396,6 @@
       "country": "RW"
     },
     {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T19:57:22.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "RW"
-    },
-    {
       "id": "com.soccer.score.star",
       "name": "Soccer Superstar",
       "developer": "Real Freestyle Soccer",
@@ -378,6 +406,20 @@
       "releaseDate": "2026-01-29T15:32:33.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "RW"
+    },
+    {
+      "id": "games.joker.bird.road",
+      "name": "Chicken Cross - Sky Road 2",
+      "developer": "Joker Game",
+      "url": "https://play.google.com/store/apps/details?id=games.joker.bird.road&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/7bXVeCpp5ki9n3PTSQnRpgngKQ2uvSKQzsT4TZIkcCvw-_7N8iw_P11868fyfU17KHm485HYESUaLl5OyJyE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T13:47:17.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "RW"
     },
@@ -536,6 +578,20 @@
       "country": "RW"
     },
     {
+      "id": "com.ludo.king",
+      "name": "Ludo King®",
+      "developer": "Gametion",
+      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-22T14:46:31.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "RW"
+    },
+    {
       "id": "ball.sort.puzzle.color.bubble.games.magic",
       "name": "Ball Sort Magic - Puzzle Game",
       "developer": "Passion Fruit Joy",
@@ -564,16 +620,16 @@
       "country": "RW"
     },
     {
-      "id": "com.fxroyale.app",
-      "name": "Trading Arena-Crypto Simulator",
-      "developer": "Edusystems OU",
-      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
+      "id": "com.ea.game.nfs14_row",
+      "name": "Need for Speed™ No Limits",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.game.nfs14_row&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/rDAmDCGhyX7FcXYJcR0QrcO04uWgdiQaiWw6oA3T93oK4Xq8qOof0-J_qtw2XFYpKg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-20T22:57:05.000Z",
+      "releaseDate": "2026-01-21T02:39:50.000Z",
       "genres": [
-        "Simulation"
+        "Racing"
       ],
       "country": "RW"
     },
@@ -634,91 +690,21 @@
       "country": "RW"
     },
     {
-      "id": "com.ustwogames.choice",
-      "name": "Chckn Card Road",
-      "developer": "KVKM SOLUTIONS",
-      "url": "https://play.google.com/store/apps/details?id=com.ustwogames.choice&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/GtY7Raid3Lul2ksebtgHaflZrIOW7qYr9ZHVbf7p59dDy-aKEC0efOBQkuICqPC_Uv8aeZFq1Mj5CfSNmtgRvw",
+      "id": "com.sega.sonicdash",
+      "name": "Sonic Dash: Endless Run",
+      "developer": "SEGA",
+      "url": "https://play.google.com/store/apps/details?id=com.sega.sonicdash&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/4F-WwVKAs56rT6DGSfu1-9sW4MqSjenlIUqWS1K_8iB25ktsHKXXScAwJonvwo7DuMA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-19T11:12:34.000Z",
+      "releaseDate": "2026-01-19T11:42:43.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "RW"
-    },
-    {
-      "id": "com.us.army.truck.military.game",
-      "name": "US Army Truck 3D Military Game",
-      "developer": "Gamix Fusion",
-      "url": "https://play.google.com/store/apps/details?id=com.us.army.truck.military.game&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/cZ5NO43U4saUjSpH4VU3TKDzvQ87d6gBrQK7YWxoy8wYbtTu_v5fnabThnva1NfBNwWU3w-txPH6myAIGiIRsg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-16T06:49:17.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "RW"
-    },
-    {
-      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
-      "name": "Agent Shooter - Shooting Game",
-      "developer": "Rebel Actions",
-      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-16T06:00:02.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "RW"
-    },
-    {
-      "id": "com.firsttouchgames.dls7",
-      "name": "Dream League Soccer 2026",
-      "developer": "First Touch Games Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-13T16:56:53.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "RW"
-    },
-    {
-      "id": "com.blockpuzzle.jewel.diamond",
-      "name": "Block Puzzle Gem: Jewel Blast",
-      "developer": "Lynn Mobile Puzzle Games",
-      "url": "https://play.google.com/store/apps/details?id=com.blockpuzzle.jewel.diamond&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/ErgWtYxQnrvXY-UG0G1hlM9eenOrs5uZ2ifF2Q3BMWfYUTPjJUcNrL9pGBae2YM5-Oz0g_fu-sqsgjJNOfuLCg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-13T09:06:44.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "RW"
     }
   ],
   "updated": [
-    {
-      "id": "com.football.soccer.league",
-      "name": "Football League 2026",
-      "developer": "MOBILE SOCCER",
-      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-09T03:23:37.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "RW"
-    },
     {
       "id": "ball.sort.color.puz.game.puzzle",
       "name": "Ball Sort - Color Puz Game",
@@ -730,6 +716,20 @@
       "releaseDate": "2026-02-03T09:39:56.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "RW"
+    },
+    {
+      "id": "com.football.soccer.league",
+      "name": "Football League 2026",
+      "developer": "MOBILE SOCCER",
+      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-09T03:23:37.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "RW"
     },
@@ -748,6 +748,20 @@
       "country": "RW"
     },
     {
+      "id": "dk.logisoft.airattack",
+      "name": "Air Attack (Ad)",
+      "developer": "Four Pixels Games",
+      "url": "https://play.google.com/store/apps/details?id=dk.logisoft.airattack&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/lvWm40KQwVca9BN9LukHiJZWYYsO8Nc-TgesvJ-q_SsWRtBt56GnjdzK2hb4xGpGRA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-01-16T12:16:47.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "RW"
+    },
+    {
       "id": "com.fxroyale.app",
       "name": "Trading Arena-Crypto Simulator",
       "developer": "Edusystems OU",
@@ -755,7 +769,7 @@
       "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-20T22:57:05.000Z",
+      "releaseDate": "2026-02-03T15:20:24.000Z",
       "genres": [
         "Simulation"
       ],
@@ -776,30 +790,16 @@
       "country": "RW"
     },
     {
-      "id": "dk.logisoft.airattack",
-      "name": "Air Attack (Ad)",
-      "developer": "Four Pixels Games",
-      "url": "https://play.google.com/store/apps/details?id=dk.logisoft.airattack&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/lvWm40KQwVca9BN9LukHiJZWYYsO8Nc-TgesvJ-q_SsWRtBt56GnjdzK2hb4xGpGRA",
+      "id": "com.ustwogames.choice",
+      "name": "Chckn Card Road",
+      "developer": "KVKM SOLUTIONS",
+      "url": "https://play.google.com/store/apps/details?id=com.ustwogames.choice&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/GtY7Raid3Lul2ksebtgHaflZrIOW7qYr9ZHVbf7p59dDy-aKEC0efOBQkuICqPC_Uv8aeZFq1Mj5CfSNmtgRvw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-01-16T12:16:47.000Z",
+      "releaseDate": "2026-01-19T11:12:34.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "RW"
-    },
-    {
-      "id": "com.xgame.VehicleDriving3D",
-      "name": "Real Driving: Vehicle & Park",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T06:55:58.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "RW"
     },
@@ -818,16 +818,16 @@
       "country": "RW"
     },
     {
-      "id": "com.ffgames.racingincar2",
-      "name": "Racing in Car 2",
-      "developer": "ckgames",
-      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "id": "com.ssi.bus.games.bus.simulator",
+      "name": "Real Bus Simulator : Bus Games",
+      "developer": "Solo Studio Inc",
+      "url": "https://play.google.com/store/apps/details?id=com.ssi.bus.games.bus.simulator&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/3jwfrNqNLgdtj3zS2-i0mMACBopCLRyNWdeyC2zUxFQbgKrOAbSjiILNGzfGzmIJaQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-19T14:55:06.000Z",
+      "releaseDate": "2026-01-30T10:33:47.000Z",
       "genres": [
-        "Racing"
+        "Strategy"
       ],
       "country": "RW"
     },
@@ -846,16 +846,30 @@
       "country": "RW"
     },
     {
-      "id": "com.ssi.bus.games.bus.simulator",
-      "name": "Real Bus Simulator : Bus Games",
-      "developer": "Solo Studio Inc",
-      "url": "https://play.google.com/store/apps/details?id=com.ssi.bus.games.bus.simulator&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/3jwfrNqNLgdtj3zS2-i0mMACBopCLRyNWdeyC2zUxFQbgKrOAbSjiILNGzfGzmIJaQ",
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-30T10:33:47.000Z",
+      "releaseDate": "2025-12-19T14:55:06.000Z",
       "genres": [
-        "Strategy"
+        "Racing"
+      ],
+      "country": "RW"
+    },
+    {
+      "id": "com.xgame.VehicleDriving3D",
+      "name": "Real Driving: Vehicle & Park",
+      "developer": "XGAME STUDIO",
+      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T06:55:58.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "RW"
     },
@@ -870,20 +884,6 @@
       "releaseDate": "2026-01-30T17:00:36.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "RW"
-    },
-    {
-      "id": "com.ustwogames.choice",
-      "name": "Chckn Card Road",
-      "developer": "KVKM SOLUTIONS",
-      "url": "https://play.google.com/store/apps/details?id=com.ustwogames.choice&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/GtY7Raid3Lul2ksebtgHaflZrIOW7qYr9ZHVbf7p59dDy-aKEC0efOBQkuICqPC_Uv8aeZFq1Mj5CfSNmtgRvw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-19T11:12:34.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "RW"
     },
@@ -916,20 +916,6 @@
       "country": "RW"
     },
     {
-      "id": "com.rfg.Sniper.Rage.Zombie.Assassin3D",
-      "name": "Sniper Shooting Game Offline",
-      "developer": "Pacific Games Club",
-      "url": "https://play.google.com/store/apps/details?id=com.rfg.Sniper.Rage.Zombie.Assassin3D&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/jbZ7OdprQUI1fasb_J7qTVAugZ67OXbVh7CRtXwqNiWoseQdiVr-IvTl-jhav1z7UQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-29T10:33:59.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "RW"
-    },
-    {
       "id": "com.dreamgames.royalmatch",
       "name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -940,48 +926,6 @@
       "releaseDate": "2026-01-30T15:41:31.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "RW"
-    },
-    {
-      "id": "com.tohsoft.arashi.ninja.shadow",
-      "name": "Ninja warrior: legend of adven",
-      "developer": "TOH Games",
-      "url": "https://play.google.com/store/apps/details?id=com.tohsoft.arashi.ninja.shadow&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/Z2XnSlqHWZ6rgOdWJoOJJbIQIqQHcbDsCrF23Oo1ciu878Vnzqn0chW9-Fe04FPI9tGp",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-07-17T03:10:56.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "RW"
-    },
-    {
-      "id": "com.gp.pilot.simulator.airplanegames",
-      "name": "Pilot Simulator: Airplane Game",
-      "developer": "GamePark",
-      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-27T12:54:07.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "RW"
-    },
-    {
-      "id": "com.billiards.city.pool.nation.club",
-      "name": "Pooking - Billiards City",
-      "developer": "MOUNTAIN GAME",
-      "url": "https://play.google.com/store/apps/details?id=com.billiards.city.pool.nation.club&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/GX2TaMJf2dWDsDva9feSz8u4b0bP0ldc68Dka9KiZL16HvzcghN9T2jygTlElZNElrE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-28T11:44:00.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "RW"
     },
@@ -1000,16 +944,16 @@
       "country": "RW"
     },
     {
-      "id": "com.ansangha.drdriving",
-      "name": "Dr. Driving",
-      "developer": "SUD Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
+      "id": "com.rfg.Sniper.Rage.Zombie.Assassin3D",
+      "name": "Sniper Shooting Game Offline",
+      "developer": "Pacific Games Club",
+      "url": "https://play.google.com/store/apps/details?id=com.rfg.Sniper.Rage.Zombie.Assassin3D&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/jbZ7OdprQUI1fasb_J7qTVAugZ67OXbVh7CRtXwqNiWoseQdiVr-IvTl-jhav1z7UQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-08-25T07:34:27.000Z",
+      "releaseDate": "2025-12-29T10:33:59.000Z",
       "genres": [
-        "Racing"
+        "Action"
       ],
       "country": "RW"
     },
@@ -1056,14 +1000,14 @@
       "country": "RW"
     },
     {
-      "id": "com.topnewgames.bus.driving.games.free",
-      "name": "Bus Driving 3d– Bus Games 2023",
-      "developer": "Envision Software Pvt Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.topnewgames.bus.driving.games.free&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/0aMX1TPuPJzKNc7VUuqDdPeIf21lDhtHi4VJlKmstV3-jaFFRUZ0PokMbnTE0Trv89M",
+      "id": "com.gp.pilot.simulator.airplanegames",
+      "name": "Pilot Simulator: Airplane Game",
+      "developer": "GamePark",
+      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-08T05:38:17.000Z",
+      "releaseDate": "2025-10-27T12:54:07.000Z",
       "genres": [
         "Simulation"
       ],
@@ -1084,20 +1028,6 @@
       "country": "RW"
     },
     {
-      "id": "europe.truck.simulator2",
-      "name": "Truckers of Europe 2",
-      "developer": "Wanda Software",
-      "url": "https://play.google.com/store/apps/details?id=europe.truck.simulator2&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/tS6pdPz6GKrP87gOTTPcBDFMJFd2RsD4ngkl92pqEQp6nkHRIPU30BRM7wB6l5_VaOw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2024-01-11T13:20:11.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "RW"
-    },
-    {
       "id": "com.andregal.android.poolbilliard",
       "name": "Pool Billiards offline",
       "developer": "Andregal",
@@ -1108,6 +1038,48 @@
       "releaseDate": "2025-08-29T17:16:25.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "RW"
+    },
+    {
+      "id": "com.billiards.city.pool.nation.club",
+      "name": "Pooking - Billiards City",
+      "developer": "MOUNTAIN GAME",
+      "url": "https://play.google.com/store/apps/details?id=com.billiards.city.pool.nation.club&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/GX2TaMJf2dWDsDva9feSz8u4b0bP0ldc68Dka9KiZL16HvzcghN9T2jygTlElZNElrE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-28T11:44:00.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "RW"
+    },
+    {
+      "id": "com.tohsoft.arashi.ninja.shadow",
+      "name": "Ninja warrior: legend of adven",
+      "developer": "TOH Games",
+      "url": "https://play.google.com/store/apps/details?id=com.tohsoft.arashi.ninja.shadow&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/Z2XnSlqHWZ6rgOdWJoOJJbIQIqQHcbDsCrF23Oo1ciu878Vnzqn0chW9-Fe04FPI9tGp",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-07-17T03:10:56.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "RW"
+    },
+    {
+      "id": "com.ansangha.drdriving",
+      "name": "Dr. Driving",
+      "developer": "SUD Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-25T07:34:27.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "RW"
     },
@@ -1140,6 +1112,34 @@
       "country": "RW"
     },
     {
+      "id": "com.topnewgames.bus.driving.games.free",
+      "name": "Bus Driving 3d– Bus Games 2023",
+      "developer": "Envision Software Pvt Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.topnewgames.bus.driving.games.free&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/0aMX1TPuPJzKNc7VUuqDdPeIf21lDhtHi4VJlKmstV3-jaFFRUZ0PokMbnTE0Trv89M",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-08T05:38:17.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "RW"
+    },
+    {
+      "id": "europe.truck.simulator2",
+      "name": "Truckers of Europe 2",
+      "developer": "Wanda Software",
+      "url": "https://play.google.com/store/apps/details?id=europe.truck.simulator2&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/tS6pdPz6GKrP87gOTTPcBDFMJFd2RsD4ngkl92pqEQp6nkHRIPU30BRM7wB6l5_VaOw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2024-01-11T13:20:11.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "RW"
+    },
+    {
       "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
       "name": "Shoot Bubble - Pop Bubbles",
       "developer": "IVYGAMES",
@@ -1161,7 +1161,7 @@
       "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-29T19:57:22.000Z",
+      "releaseDate": "2026-02-05T17:28:18.000Z",
       "genres": [
         "Adventure"
       ],
@@ -1182,16 +1182,16 @@
       "country": "RW"
     },
     {
-      "id": "com.aircraft.jetmoderan.fighterplane",
-      "name": "Aircraft Strike: Jet Fighter",
-      "developer": "Game Skills",
-      "url": "https://play.google.com/store/apps/details?id=com.aircraft.jetmoderan.fighterplane&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/0may7g0e27kTaFBv_h7B3IGsUMIEFOxRPNDXb38FpFlZNcosvif3Xa49kaR-89mDIeKX",
+      "id": "water.sort.color.puzzle.offline.games",
+      "name": "Water Sort! Color Sort Puzzle",
+      "developer": "Bobodoo Game",
+      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/Ua9HL2jL6escu3RIMriqdI70cCXpCsL64ZO7Qp8VXdjHv9BrAHjIIFX5v61JHBFZJQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-05T06:58:00.000Z",
+      "releaseDate": "2026-01-30T18:20:46.000Z",
       "genres": [
-        "Action"
+        "Puzzle"
       ],
       "country": "RW"
     },
@@ -1206,20 +1206,6 @@
       "releaseDate": "2026-02-04T16:34:15.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "RW"
-    },
-    {
-      "id": "net.apex_designs.payback2",
-      "name": "Payback 2 - The Battle Sandbox",
-      "developer": "Apex Designs Games LLP",
-      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-08-27T16:01:25.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "RW"
     },
@@ -1252,20 +1238,6 @@
       "country": "RW"
     },
     {
-      "id": "water.sort.color.puzzle.offline.games",
-      "name": "Water Sort! Color Sort Puzzle",
-      "developer": "Bobodoo Game",
-      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/Ua9HL2jL6escu3RIMriqdI70cCXpCsL64ZO7Qp8VXdjHv9BrAHjIIFX5v61JHBFZJQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T18:20:46.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "RW"
-    },
-    {
       "id": "com.uog.newfreegames.truck.cargo.legends.driver",
       "name": "Cargo Truck Transport Truck 3D",
       "developer": "US Offroad Gamers",
@@ -1290,20 +1262,6 @@
       "releaseDate": "2026-01-19T12:00:17.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "RW"
-    },
-    {
-      "id": "rw.nzeyi.igisoro",
-      "name": "IGISORO",
-      "developer": "Antoine Nzeyimana",
-      "url": "https://play.google.com/store/apps/details?id=rw.nzeyi.igisoro&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/U7fNPP_ZV4ETJaktpWPlGFcZZwtLR3zWlzYEtu3FbG3h3jjp9zbWOe5I8i56PQLmCu8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-08-30T20:05:08.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "RW"
     },
@@ -1350,34 +1308,6 @@
       "country": "RW"
     },
     {
-      "id": "com.gamincat.jigsolitaire",
-      "name": "Jigsolitaire",
-      "developer": "Gamincat",
-      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T04:25:54.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "RW"
-    },
-    {
-      "id": "com.ansangha.drparking4",
-      "name": "Dr. Parking 4",
-      "developer": "SUD Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drparking4&hl=en&gl=RW",
-      "artwork": "https://play-lh.googleusercontent.com/4zLzs-gRiu6A0F7zMyKU9Gu1s6PpfbmWKyXutD8Iuc3ItHeVYk-Cp7leiOJiyVqctQVN",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-08-22T07:41:13.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "RW"
-    },
-    {
       "id": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
       "name": "Ramp Car Games: GT Car Stunts",
       "developer": "Fun Drive Games",
@@ -1402,6 +1332,76 @@
       "releaseDate": "2025-12-31T11:06:57.000Z",
       "genres": [
         "Strategy"
+      ],
+      "country": "RW"
+    },
+    {
+      "id": "com.brokendiamond.advance.car.parking.car.driver.simulator",
+      "name": "Car Parking Advance: Car Games",
+      "developer": "Broken Diamond",
+      "url": "https://play.google.com/store/apps/details?id=com.brokendiamond.advance.car.parking.car.driver.simulator&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/WGnJmbwXXxTx1KeKWzO7uFkPn6l7np7sMwyMl-uOlvqAukfDfNnXiV9aHdStEEMNmQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-13T08:00:37.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "RW"
+    },
+    {
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/IHBNszxS4-19qbvbXMs2J_G6JccF-wQWBM-6e9C1P46fwXPUL8WDccXML3gPawaiIw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T13:54:14.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "RW"
+    },
+    {
+      "id": "rw.nzeyi.igisoro",
+      "name": "IGISORO",
+      "developer": "Antoine Nzeyimana",
+      "url": "https://play.google.com/store/apps/details?id=rw.nzeyi.igisoro&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/U7fNPP_ZV4ETJaktpWPlGFcZZwtLR3zWlzYEtu3FbG3h3jjp9zbWOe5I8i56PQLmCu8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-30T20:05:08.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "RW"
+    },
+    {
+      "id": "com.hyperkani.trialbike",
+      "name": "Stunt Bike Extreme",
+      "developer": "Hyperkani",
+      "url": "https://play.google.com/store/apps/details?id=com.hyperkani.trialbike&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/NRovxU1rnnI2BzDw989gmkSb8DOnEmgybKJysHKE4-5WSWonNXFwGJGDXMppfxHBkI4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-26T11:02:39.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "RW"
+    },
+    {
+      "id": "com.ig.moto.racing",
+      "name": "Moto Rider, Bike Racing Game",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.ig.moto.racing&hl=en&gl=RW",
+      "artwork": "https://play-lh.googleusercontent.com/2E-3SXkVyyUzgOclua8zduFIYb0p6dg6tZM_bs49VXCS90hxme7eaoT1BsbHZUfLUnI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-30T06:47:25.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "RW"
     }
