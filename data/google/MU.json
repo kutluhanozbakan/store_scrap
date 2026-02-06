@@ -1,8 +1,36 @@
 {
   "country": "MU",
   "store": "google",
-  "updatedAt": "2026-02-06T15:58:18.836Z",
+  "updatedAt": "2026-02-06T23:57:14.883Z",
   "new": [
+    {
+      "id": "com.football.soccer.league",
+      "name": "Football League 2026",
+      "developer": "MOBILE SOCCER",
+      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=MU",
+      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:06:59.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "MU"
+    },
+    {
+      "id": "games.burny.associations.word.puzzle",
+      "name": "Associations - Colorwood Game",
+      "developer": "Burny Games",
+      "url": "https://play.google.com/store/apps/details?id=games.burny.associations.word.puzzle&hl=en&gl=MU",
+      "artwork": "https://play-lh.googleusercontent.com/bwNj3Phx8c5VWiXvCYMMcMs3ULNFqockg6BTcirDGbnUig0gSitTidoDQlOzSbl3Zbrd6Vc9Wj2TB9LpItR3Sw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T15:13:06.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "MU"
+    },
     {
       "id": "com.moonfrog.ludo.club",
       "name": "Ludo Club - Fun Dice Game",
@@ -674,34 +702,6 @@
         "Puzzle"
       ],
       "country": "MU"
-    },
-    {
-      "id": "com.biglime.cookingmadness",
-      "name": "Cooking Madness: A Chef's Game",
-      "developer": "ZenLife Games Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.biglime.cookingmadness&hl=en&gl=MU",
-      "artwork": "https://play-lh.googleusercontent.com/GkQt7bnV75imAMpQ1dvd5WbTGvawyD80IaXb1ELhySklCLGMGJRzCEZ-9jJOZsAeq-0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T12:54:25.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "MU"
-    },
-    {
-      "id": "com.oakever.jigsawcard",
-      "name": "Jigsawcard Solitaire Puzzle",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.jigsawcard&hl=en&gl=MU",
-      "artwork": "https://play-lh.googleusercontent.com/PZTHuvocowzHTJJ-DSWITmX2gB00UVdXdQM6UKmtzTFTZHq4QLHvhht19UMfaRYa9gfzp1gHB_JFXMY7HtEz6Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T04:09:55.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MU"
     }
   ],
   "updated": [
@@ -1028,6 +1028,20 @@
       "country": "MU"
     },
     {
+      "id": "ig.com.hot.pot.qdc",
+      "name": "Hotpot Flow: Food Games",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=ig.com.hot.pot.qdc&hl=en&gl=MU",
+      "artwork": "https://play-lh.googleusercontent.com/wy4-8vLbPov2utuXORrZKLhkYlDjhy4JRs8EgBa5zsEPsprLSVdeKKTO3haVBdJ0Q9kkeKMkPxmByOLCw_kh2Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-31T07:30:56.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MU"
+    },
+    {
       "id": "com.ecffri.arrows",
       "name": "Arrows – Puzzle Escape",
       "developer": "Lessmore UG",
@@ -1066,20 +1080,6 @@
       "releaseDate": "2026-02-06T11:33:52.000Z",
       "genres": [
         "Music"
-      ],
-      "country": "MU"
-    },
-    {
-      "id": "ig.com.hot.pot.qdc",
-      "name": "Hotpot Flow: Food Games",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=ig.com.hot.pot.qdc&hl=en&gl=MU",
-      "artwork": "https://play-lh.googleusercontent.com/wy4-8vLbPov2utuXORrZKLhkYlDjhy4JRs8EgBa5zsEPsprLSVdeKKTO3haVBdJ0Q9kkeKMkPxmByOLCw_kh2Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-31T07:30:56.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "MU"
     },
@@ -1231,7 +1231,7 @@
       "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-09T03:23:37.000Z",
+      "releaseDate": "2026-02-06T16:06:59.000Z",
       "genres": [
         "Sports"
       ],
@@ -1248,6 +1248,20 @@
       "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "MU"
+    },
+    {
+      "id": "com.olzhas.carparking.multyplayer",
+      "name": "Car Parking Multiplayer",
+      "developer": "olzhass",
+      "url": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer&hl=en&gl=MU",
+      "artwork": "https://play-lh.googleusercontent.com/86cQqI_vflAIckhMPWltYthLFh4YnemCi5hXm0VCQe4Lbj346-jH3r6uy3lsQtpO9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-17T11:37:40.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "MU"
     },
@@ -1290,20 +1304,6 @@
       "releaseDate": "2026-02-03T17:49:46.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "MU"
-    },
-    {
-      "id": "com.olzhas.carparking.multyplayer",
-      "name": "Car Parking Multiplayer",
-      "developer": "olzhass",
-      "url": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer&hl=en&gl=MU",
-      "artwork": "https://play-lh.googleusercontent.com/86cQqI_vflAIckhMPWltYthLFh4YnemCi5hXm0VCQe4Lbj346-jH3r6uy3lsQtpO9A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-17T11:37:40.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "MU"
     },
@@ -1378,6 +1378,20 @@
       "country": "MU"
     },
     {
+      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
+      "name": "Agent Shooter - Shooting Game",
+      "developer": "Rebel Actions",
+      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=MU",
+      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-16T06:00:02.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "MU"
+    },
+    {
       "id": "com.activision.callofduty.shooter",
       "name": "Call of Duty®: Mobile",
       "developer": "Activision Publishing, Inc.",
@@ -1388,20 +1402,6 @@
       "releaseDate": "2025-12-03T22:38:38.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "MU"
-    },
-    {
-      "id": "com.advant.streamer",
-      "name": "Lamar - Idle Vlogger",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=MU",
-      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-16T11:00:23.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "MU"
     }

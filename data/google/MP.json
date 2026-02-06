@@ -1,8 +1,36 @@
 {
   "country": "MP",
   "store": "google",
-  "updatedAt": "2026-02-06T15:58:02.204Z",
+  "updatedAt": "2026-02-06T23:56:57.862Z",
   "new": [
+    {
+      "id": "com.football.soccer.league",
+      "name": "Football League 2026",
+      "developer": "MOBILE SOCCER",
+      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:06:59.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "MP"
+    },
+    {
+      "id": "com.rubygames.assassin",
+      "name": "Hunter Assassin",
+      "developer": "Ruby Games AS",
+      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T14:35:39.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "MP"
+    },
     {
       "id": "com.youmusic.magictiles",
       "name": "Magic Tiles 3™ - Piano Game",
@@ -674,34 +702,6 @@
         "Sports"
       ],
       "country": "MP"
-    },
-    {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "MP"
-    },
-    {
-      "id": "com.dreamgames.royalkingdom",
-      "name": "Royal Kingdom",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T11:27:21.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MP"
     }
   ],
   "updated": [
@@ -895,7 +895,7 @@
       "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-09T03:23:37.000Z",
+      "releaseDate": "2026-02-06T16:06:59.000Z",
       "genres": [
         "Sports"
       ],
@@ -1091,7 +1091,7 @@
       "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-26T12:55:30.000Z",
+      "releaseDate": "2026-02-06T14:35:39.000Z",
       "genres": [
         "Action"
       ],
@@ -1378,6 +1378,20 @@
       "country": "MP"
     },
     {
+      "id": "com.advant.streamer",
+      "name": "Lamar - Idle Vlogger",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-16T11:00:23.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MP"
+    },
+    {
       "id": "com.skgames.trafficrider",
       "name": "Traffic Rider",
       "developer": "skgames",
@@ -1388,20 +1402,6 @@
       "releaseDate": "2025-12-08T14:58:29.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "MP"
-    },
-    {
-      "id": "com.gamincat.jigsolitaire",
-      "name": "Jigsolitaire",
-      "developer": "Gamincat",
-      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T04:25:54.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "MP"
     }
