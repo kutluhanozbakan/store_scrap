@@ -1,8 +1,36 @@
 {
   "country": "LT",
   "store": "google",
-  "updatedAt": "2026-02-06T15:10:23.875Z",
+  "updatedAt": "2026-02-06T23:35:16.943Z",
   "new": [
+    {
+      "id": "net.peakgames.match",
+      "name": "Match Factory!",
+      "developer": "Peak",
+      "url": "https://play.google.com/store/apps/details?id=net.peakgames.match&hl=en&gl=LT",
+      "artwork": "https://play-lh.googleusercontent.com/JdkgreDBCOxt7_0eeiVgbwtQkkdWmlWMO9cwAyj6rfVcAM5Z9l99zbg4eoUac5C0Bw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T17:17:09.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "LT"
+    },
+    {
+      "id": "com.yolo.hiddenobjects",
+      "name": "Find Hidden Objects - Spot It!",
+      "developer": "Yolo Game Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.yolo.hiddenobjects&hl=en&gl=LT",
+      "artwork": "https://play-lh.googleusercontent.com/qwrFeZSR8gnwR9x9_Ee4GOJRK6m9qfY6-QcBJb9SwQQ2ozJPx6YMlzxwSd9gSWG30cU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T15:21:38.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "LT"
+    },
     {
       "id": "solitaire.patience.card.games.klondike.free",
       "name": "Solitaire - Classic Card Games",
@@ -98,20 +126,6 @@
       "releaseDate": "2026-02-06T07:24:42.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "LT"
-    },
-    {
-      "id": "com.yolo.hiddenobjects",
-      "name": "Find Hidden Objects - Spot It!",
-      "developer": "Yolo Game Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.yolo.hiddenobjects&hl=en&gl=LT",
-      "artwork": "https://play-lh.googleusercontent.com/qwrFeZSR8gnwR9x9_Ee4GOJRK6m9qfY6-QcBJb9SwQQ2ozJPx6YMlzxwSd9gSWG30cU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T06:28:49.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "LT"
     },
@@ -688,20 +702,6 @@
         "Arcade"
       ],
       "country": "LT"
-    },
-    {
-      "id": "com.dreamgames.royalmatch",
-      "name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=LT",
-      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T15:41:31.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "LT"
     }
   ],
   "updated": [
@@ -1252,20 +1252,6 @@
       "country": "LT"
     },
     {
-      "id": "ru.playvision.durak",
-      "name": "Durak Online 3D",
-      "developer": "Playvision Games",
-      "url": "https://play.google.com/store/apps/details?id=ru.playvision.durak&hl=en&gl=LT",
-      "artwork": "https://play-lh.googleusercontent.com/PehM0b0e2GiWWZGOW__IgQfkh2M-jM72aWJyMrsYX4wujAJ2LRm4UQgDQwe9DG0T90SW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-13T16:24:05.000Z",
-      "genres": [
-        "Card"
-      ],
-      "country": "LT"
-    },
-    {
       "id": "com.totalbattle",
       "name": "Total Battle: Strategy Games",
       "developer": "Scorewarrior",
@@ -1276,6 +1262,20 @@
       "releaseDate": "2026-02-05T14:52:21.000Z",
       "genres": [
         "Strategy"
+      ],
+      "country": "LT"
+    },
+    {
+      "id": "ru.playvision.durak",
+      "name": "Durak Online 3D",
+      "developer": "Playvision Games",
+      "url": "https://play.google.com/store/apps/details?id=ru.playvision.durak&hl=en&gl=LT",
+      "artwork": "https://play-lh.googleusercontent.com/PehM0b0e2GiWWZGOW__IgQfkh2M-jM72aWJyMrsYX4wujAJ2LRm4UQgDQwe9DG0T90SW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-13T16:24:05.000Z",
+      "genres": [
+        "Card"
       ],
       "country": "LT"
     },

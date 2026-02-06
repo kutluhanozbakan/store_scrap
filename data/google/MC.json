@@ -1,8 +1,36 @@
 {
   "country": "MC",
   "store": "google",
-  "updatedAt": "2026-02-06T15:10:40.758Z",
+  "updatedAt": "2026-02-06T23:35:37.271Z",
   "new": [
+    {
+      "id": "com.football.soccer.league",
+      "name": "Football League 2026",
+      "developer": "MOBILE SOCCER",
+      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=MC",
+      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:06:59.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "MC"
+    },
+    {
+      "id": "com.rubygames.assassin",
+      "name": "Hunter Assassin",
+      "developer": "Ruby Games AS",
+      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=MC",
+      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T14:35:39.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "MC"
+    },
     {
       "id": "com.youmusic.magictiles",
       "name": "Magic Tiles 3™ - Piano Game",
@@ -280,20 +308,6 @@
       "releaseDate": "2026-02-04T14:18:09.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "MC"
-    },
-    {
-      "id": "com.fun.lastwar.gp",
-      "name": "Last War:Survival Game",
-      "developer": "FUNFLY PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp&hl=en&gl=MC",
-      "artwork": "https://play-lh.googleusercontent.com/2sOxb_s3uan-AmiF_XRh_K2yqRrmVeuzHAqtYCrwrFP-s1u_FMKo1NtlPz0kdn0qQUH8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T13:28:23.000Z",
-      "genres": [
-        "Strategy"
       ],
       "country": "MC"
     },
@@ -688,20 +702,6 @@
         "Adventure"
       ],
       "country": "MC"
-    },
-    {
-      "id": "com.dreamgames.royalkingdom",
-      "name": "Royal Kingdom",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=MC",
-      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T11:27:21.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MC"
     }
   ],
   "updated": [
@@ -895,7 +895,7 @@
       "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-09T03:23:37.000Z",
+      "releaseDate": "2026-02-06T16:06:59.000Z",
       "genres": [
         "Sports"
       ],
@@ -1063,7 +1063,7 @@
       "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-26T12:55:30.000Z",
+      "releaseDate": "2026-02-06T14:35:39.000Z",
       "genres": [
         "Action"
       ],
@@ -1364,6 +1364,20 @@
       "country": "MC"
     },
     {
+      "id": "com.advant.streamer",
+      "name": "Lamar - Idle Vlogger",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=MC",
+      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-16T11:00:23.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MC"
+    },
+    {
       "id": "com.skgames.trafficrider",
       "name": "Traffic Rider",
       "developer": "skgames",
@@ -1388,20 +1402,6 @@
       "releaseDate": "2026-02-04T04:25:54.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "MC"
-    },
-    {
-      "id": "com.outfit7.mytalkingtomfriends",
-      "name": "My Talking Tom Friends",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=en&gl=MC",
-      "artwork": "https://play-lh.googleusercontent.com/Z4MTPicT_94fzdH4aLwARpQjHpuEjid6zNue4APAS_KQWhMV0RDYnKjLVwytjy_M9tk2",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-12T12:36:50.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "MC"
     }
