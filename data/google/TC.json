@@ -1,8 +1,36 @@
 {
   "country": "TC",
   "store": "google",
-  "updatedAt": "2026-02-06T18:57:13.767Z",
+  "updatedAt": "2026-02-07T05:28:35.866Z",
   "new": [
+    {
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast: Wonders",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=TC",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:43:25.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "TC"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=TC",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:35:27.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "TC"
+    },
     {
       "id": "com.football.soccer.league",
       "name": "Football League 2026",
@@ -172,20 +200,6 @@
       "country": "TC"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=TC",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T16:09:23.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "TC"
-    },
-    {
       "id": "com.wood.block.sudoku.puzzle.bm",
       "name": "Block Crush!",
       "developer": "Wonderful  Studio",
@@ -280,20 +294,6 @@
       "releaseDate": "2026-02-04T16:34:15.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "TC"
-    },
-    {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast: Wonders",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=TC",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T15:04:59.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "TC"
     },
@@ -606,6 +606,20 @@
       "country": "TC"
     },
     {
+      "id": "com.Garawell.BridgeRace",
+      "name": "Bridge Race",
+      "developer": "Supersonic Studios LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.Garawell.BridgeRace&hl=en&gl=TC",
+      "artwork": "https://play-lh.googleusercontent.com/ebWtAyC4uzKL5rXAjsPzy1AlqVbjpK0r0kGYzTtoljvu7RqYTfOLLObeotRCZkisC7Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T20:48:21.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "TC"
+    },
+    {
       "id": "com.blockgamesstudio.blockworld3d",
       "name": "Block World 3D: Craft & Build",
       "developer": "Funburstgame LTD",
@@ -688,20 +702,6 @@
         "Sports"
       ],
       "country": "TC"
-    },
-    {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=TC",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "TC"
     }
   ],
   "updated": [
@@ -727,7 +727,7 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T16:09:23.000Z",
+      "releaseDate": "2026-02-06T16:35:27.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -776,20 +776,6 @@
       "country": "TC"
     },
     {
-      "id": "com.ludo.king",
-      "name": "Ludo King®",
-      "developer": "Gametion",
-      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=TC",
-      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-22T14:46:31.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "TC"
-    },
-    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -798,6 +784,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-02T13:54:14.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "TC"
+    },
+    {
+      "id": "com.ludo.king",
+      "name": "Ludo King®",
+      "developer": "Gametion",
+      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=TC",
+      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-22T14:46:31.000Z",
       "genres": [
         "Board"
       ],
@@ -916,20 +916,6 @@
       "country": "TC"
     },
     {
-      "id": "com.dino.race.master",
-      "name": "Car Race",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=TC",
-      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-09T02:55:19.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "TC"
-    },
-    {
       "id": "com.ea.gp.fifamobile",
       "name": "EA SPORTS FC™ Mobile Soccer 26",
       "developer": "ELECTRONIC ARTS",
@@ -954,6 +940,20 @@
       "releaseDate": "2026-02-04T16:34:15.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "TC"
+    },
+    {
+      "id": "com.dino.race.master",
+      "name": "Car Race",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=TC",
+      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-09T02:55:19.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "TC"
     },
@@ -1042,20 +1042,6 @@
       "country": "TC"
     },
     {
-      "id": "com.rioo.runnersubway",
-      "name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=TC",
-      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T01:29:03.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "TC"
-    },
-    {
       "id": "com.Earthkwak.Platformer",
       "name": "Super Bear Adventure",
       "developer": "Earthkwak Games",
@@ -1070,16 +1056,16 @@
       "country": "TC"
     },
     {
-      "id": "com.ecffri.arrows",
-      "name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore UG",
-      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=TC",
-      "artwork": "https://play-lh.googleusercontent.com/uD7EXtrZgAt275U1Zb7Ej11VpLdJ1fgjVSdy6g5Ref_XaNkX4OK2Ev16wRpgHOqYkg",
+      "id": "com.rioo.runnersubway",
+      "name": "Subway Princess Runner",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=TC",
+      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T13:57:41.000Z",
+      "releaseDate": "2026-01-27T01:29:03.000Z",
       "genres": [
-        "Puzzle"
+        "Arcade"
       ],
       "country": "TC"
     },
@@ -1112,20 +1098,6 @@
       "country": "TC"
     },
     {
-      "id": "com.gtsy.annoying.punch.game",
-      "name": "Annoying Uncle Punch Game",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=TC",
-      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T15:38:31.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "TC"
-    },
-    {
       "id": "com.wood.block.sudoku.puzzle.bm",
       "name": "Block Crush!",
       "developer": "Wonderful  Studio",
@@ -1154,6 +1126,20 @@
       "country": "TC"
     },
     {
+      "id": "com.ecffri.arrows",
+      "name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore UG",
+      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=TC",
+      "artwork": "https://play-lh.googleusercontent.com/uD7EXtrZgAt275U1Zb7Ej11VpLdJ1fgjVSdy6g5Ref_XaNkX4OK2Ev16wRpgHOqYkg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T13:57:41.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "TC"
+    },
+    {
       "id": "com.MadOut.BIG",
       "name": "MadOut 2: Grand Auto Racing",
       "developer": "MadOut Games LLC FZ",
@@ -1168,16 +1154,16 @@
       "country": "TC"
     },
     {
-      "id": "com.outfit7.mytalkingtomfree",
-      "name": "My Talking Tom",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=TC",
-      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=TC",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T13:07:30.000Z",
+      "releaseDate": "2026-01-23T15:38:31.000Z",
       "genres": [
-        "Casual"
+        "Simulation"
       ],
       "country": "TC"
     },
@@ -1192,20 +1178,6 @@
       "releaseDate": "2026-02-05T17:30:32.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "TC"
-    },
-    {
-      "id": "com.dvloper.granny",
-      "name": "Granny",
-      "developer": "DVloper",
-      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=TC",
-      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-01T14:35:20.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "TC"
     },
@@ -1238,16 +1210,16 @@
       "country": "TC"
     },
     {
-      "id": "com.youmusic.magictiles",
-      "name": "Magic Tiles 3™ - Piano Game",
-      "developer": "AMANOTES PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=TC",
-      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
+      "id": "com.dvloper.granny",
+      "name": "Granny",
+      "developer": "DVloper",
+      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=TC",
+      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T11:33:52.000Z",
+      "releaseDate": "2025-12-01T14:35:20.000Z",
       "genres": [
-        "Music"
+        "Arcade"
       ],
       "country": "TC"
     },
@@ -1266,42 +1238,14 @@
       "country": "TC"
     },
     {
-      "id": "com.miniclip.carrom",
-      "name": "Carrom Pool: Disc Game",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.carrom&hl=en&gl=TC",
-      "artwork": "https://play-lh.googleusercontent.com/J01HmnDl9u2G-qHEdYsKmoPtuxbxEZQU4TZIczlGneGArCcn4tqFcsji3P2aK7hQEej_",
+      "id": "com.youmusic.magictiles",
+      "name": "Magic Tiles 3™ - Piano Game",
+      "developer": "AMANOTES PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=TC",
+      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T17:49:46.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "TC"
-    },
-    {
-      "id": "com.gf.busdriving.publictransport.citypassenger.drivinggames",
-      "name": "Bus Simulator : 3D Bus Games",
-      "developer": "GamePark",
-      "url": "https://play.google.com/store/apps/details?id=com.gf.busdriving.publictransport.citypassenger.drivinggames&hl=en&gl=TC",
-      "artwork": "https://play-lh.googleusercontent.com/rp9LqQcNwWly8QgjZnDdiK8gSHQyUAHTVzC5DQBFDC-Fm3eHZobtoFTUAlsdRBcatpI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-20T12:05:35.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "TC"
-    },
-    {
-      "id": "com.bunbunstudio.magicblocktiles",
-      "name": "Music Piano 7: Rush Song Games",
-      "developer": "Melodya Muses",
-      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=TC",
-      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T03:06:33.000Z",
+      "releaseDate": "2026-02-06T11:33:52.000Z",
       "genres": [
         "Music"
       ],
@@ -1322,6 +1266,48 @@
       "country": "TC"
     },
     {
+      "id": "com.outfit7.mytalkingtomfree",
+      "name": "My Talking Tom",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=TC",
+      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T13:07:30.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "TC"
+    },
+    {
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=TC",
+      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T03:06:33.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "TC"
+    },
+    {
+      "id": "com.gf.busdriving.publictransport.citypassenger.drivinggames",
+      "name": "Bus Simulator : 3D Bus Games",
+      "developer": "GamePark",
+      "url": "https://play.google.com/store/apps/details?id=com.gf.busdriving.publictransport.citypassenger.drivinggames&hl=en&gl=TC",
+      "artwork": "https://play-lh.googleusercontent.com/rp9LqQcNwWly8QgjZnDdiK8gSHQyUAHTVzC5DQBFDC-Fm3eHZobtoFTUAlsdRBcatpI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-20T12:05:35.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "TC"
+    },
+    {
       "id": "com.masomo.headball2",
       "name": "Head Ball 2 - Online Soccer",
       "developer": "Masomo Gaming",
@@ -1330,6 +1316,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-06T07:24:42.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "TC"
+    },
+    {
+      "id": "com.miniclip.carrom",
+      "name": "Carrom Pool: Disc Game",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.carrom&hl=en&gl=TC",
+      "artwork": "https://play-lh.googleusercontent.com/J01HmnDl9u2G-qHEdYsKmoPtuxbxEZQU4TZIczlGneGArCcn4tqFcsji3P2aK7hQEej_",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T17:49:46.000Z",
       "genres": [
         "Sports"
       ],
@@ -1364,20 +1364,6 @@
       "country": "TC"
     },
     {
-      "id": "com.imangi.templerun2",
-      "name": "Temple Run 2: Endless Escape",
-      "developer": "Imangi Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=TC",
-      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-19T12:00:17.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "TC"
-    },
-    {
       "id": "com.run.tower.defense",
       "name": "Kingshot",
       "developer": "Century Games PTE. LTD.",
@@ -1388,6 +1374,20 @@
       "releaseDate": "2026-02-03T09:09:20.000Z",
       "genres": [
         "Strategy"
+      ],
+      "country": "TC"
+    },
+    {
+      "id": "com.imangi.templerun2",
+      "name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=TC",
+      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-19T12:00:17.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "TC"
     },
