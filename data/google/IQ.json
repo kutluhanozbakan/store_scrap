@@ -1,7 +1,7 @@
 {
   "country": "IQ",
   "store": "google",
-  "updatedAt": "2026-02-07T16:48:21.690Z",
+  "updatedAt": "2026-02-07T22:38:24.430Z",
   "new": [
     {
       "id": "com.games.bus.arrival",
@@ -536,20 +536,6 @@
       "country": "IQ"
     },
     {
-      "id": "io.voodoo.holeio",
-      "name": "Hole.io",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T16:47:57.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "IQ"
-    },
-    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -702,6 +688,20 @@
         "Puzzle"
       ],
       "country": "IQ"
+    },
+    {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "IQ"
     }
   ],
   "updated": [
@@ -804,20 +804,6 @@
       "country": "IQ"
     },
     {
-      "id": "com.demin.emojipuzzle",
-      "name": "Emoji Puzzle!",
-      "developer": "Supersonic Studios LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.demin.emojipuzzle&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/yc-lkb5w7xQYXt6hr9uzeswRiXN74KFrbVv6ryj_yvBd2kkpsLCfdRKoYH2VtGh72wX5",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-25T11:32:46.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "IQ"
-    },
-    {
       "id": "com.roblox.client",
       "name": "Roblox",
       "developer": "Roblox Corporation",
@@ -828,20 +814,6 @@
       "releaseDate": "2026-02-05T17:28:18.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "IQ"
-    },
-    {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T19:50:09.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "IQ"
     },
@@ -870,6 +842,34 @@
       "releaseDate": "2026-02-07T06:39:12.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "IQ"
+    },
+    {
+      "id": "com.demin.emojipuzzle",
+      "name": "Emoji Puzzle!",
+      "developer": "Supersonic Studios LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.demin.emojipuzzle&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/yc-lkb5w7xQYXt6hr9uzeswRiXN74KFrbVv6ryj_yvBd2kkpsLCfdRKoYH2VtGh72wX5",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-25T11:32:46.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "IQ"
+    },
+    {
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T19:50:09.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "IQ"
     },
@@ -916,16 +916,16 @@
       "country": "IQ"
     },
     {
-      "id": "com.dvloper.granny",
-      "name": "Granny",
-      "developer": "DVloper",
-      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-01T14:35:20.000Z",
+      "releaseDate": "2026-02-03T01:41:34.000Z",
       "genres": [
-        "Arcade"
+        "Sports"
       ],
       "country": "IQ"
     },
@@ -944,30 +944,16 @@
       "country": "IQ"
     },
     {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "id": "com.dvloper.granny",
+      "name": "Granny",
+      "developer": "DVloper",
+      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "releaseDate": "2025-12-01T14:35:20.000Z",
       "genres": [
-        "Sports"
-      ],
-      "country": "IQ"
-    },
-    {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
+        "Arcade"
       ],
       "country": "IQ"
     },
@@ -986,30 +972,44 @@
       "country": "IQ"
     },
     {
-      "id": "com.sh.tricky.relax.ticktock.mini.challenges.puzzle.games",
-      "name": "Tricky Relax Challenge Games",
-      "developer": "stick hunter",
-      "url": "https://play.google.com/store/apps/details?id=com.sh.tricky.relax.ticktock.mini.challenges.puzzle.games&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/qNKv4eZyuLsbhByTASevFJNpHqtSjkFkFuv-ytiakm2JmhVO2q6dH6b4uSSz5CM7XA",
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-19T10:37:24.000Z",
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "IQ"
+    },
+    {
+      "id": "com.pronetis.ironball2",
+      "name": "Going Balls",
+      "developer": "Supersonic Studios LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.pronetis.ironball2&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/a8zcuqCydhNbHi-lsqas4V3G93TRcglFCFmS65IH7bUcaPx_o8bpTfDX0jTjFiVDS2Jhsd9VKJr85FQiEG-gumk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T11:14:24.000Z",
       "genres": [
         "Casual"
       ],
       "country": "IQ"
     },
     {
-      "id": "com.masomo.headball2",
-      "name": "Head Ball 2 - Online Soccer",
-      "developer": "Masomo Gaming",
-      "url": "https://play.google.com/store/apps/details?id=com.masomo.headball2&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/0j0dq4LmRgx4MAqp1q_AsNWAxCsv9ZRd1pmwl0UPAnai9mu5cwlEKTg66vYH9Iv_lWM",
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/IHBNszxS4-19qbvbXMs2J_G6JccF-wQWBM-6e9C1P46fwXPUL8WDccXML3gPawaiIw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T07:24:42.000Z",
+      "releaseDate": "2026-02-02T13:54:14.000Z",
       "genres": [
-        "Sports"
+        "Board"
       ],
       "country": "IQ"
     },
@@ -1042,16 +1042,16 @@
       "country": "IQ"
     },
     {
-      "id": "com.pronetis.ironball2",
-      "name": "Going Balls",
-      "developer": "Supersonic Studios LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.pronetis.ironball2&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/a8zcuqCydhNbHi-lsqas4V3G93TRcglFCFmS65IH7bUcaPx_o8bpTfDX0jTjFiVDS2Jhsd9VKJr85FQiEG-gumk",
+      "id": "com.masomo.headball2",
+      "name": "Head Ball 2 - Online Soccer",
+      "developer": "Masomo Gaming",
+      "url": "https://play.google.com/store/apps/details?id=com.masomo.headball2&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/0j0dq4LmRgx4MAqp1q_AsNWAxCsv9ZRd1pmwl0UPAnai9mu5cwlEKTg66vYH9Iv_lWM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T11:14:24.000Z",
+      "releaseDate": "2026-02-06T07:24:42.000Z",
       "genres": [
-        "Casual"
+        "Sports"
       ],
       "country": "IQ"
     },
@@ -1070,34 +1070,6 @@
       "country": "IQ"
     },
     {
-      "id": "com.geck.piano.cattiles.edm",
-      "name": "Piano Beat: Rush Tiles",
-      "developer": "Geckolor Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.geck.piano.cattiles.edm&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/hL4KteyfX56_XCH12a7_bSrxSY1b_s9Vs43b6VnwinkCsrKfusj_kZRzDmPnS-VE1g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T10:51:34.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "IQ"
-    },
-    {
-      "id": "com.DefaultCompany.DrawOnePartGame",
-      "name": "DOP Fun : Draw One Part Games",
-      "developer": "Variety Vista",
-      "url": "https://play.google.com/store/apps/details?id=com.DefaultCompany.DrawOnePartGame&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/ua1bcagIHkijwDxeQNVO_6rjN0bo2MuuMFxMebdynWhg1taToBcz_WwI3s-rULSUgWCz5Cuc7VE0Pyv6tqqGWw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T13:58:04.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "IQ"
-    },
-    {
       "id": "com.ansangha.drdriving",
       "name": "Dr. Driving",
       "developer": "SUD Inc.",
@@ -1108,6 +1080,20 @@
       "releaseDate": "2025-08-25T07:34:27.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "IQ"
+    },
+    {
+      "id": "com.geck.piano.cattiles.edm",
+      "name": "Piano Beat: Rush Tiles",
+      "developer": "Geckolor Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.geck.piano.cattiles.edm&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/hL4KteyfX56_XCH12a7_bSrxSY1b_s9Vs43b6VnwinkCsrKfusj_kZRzDmPnS-VE1g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T10:51:34.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "IQ"
     },
@@ -1126,16 +1112,30 @@
       "country": "IQ"
     },
     {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/IHBNszxS4-19qbvbXMs2J_G6JccF-wQWBM-6e9C1P46fwXPUL8WDccXML3gPawaiIw",
+      "id": "happy.pixel.coloring.art.color.games",
+      "name": "Pixel Art Coloring: Art Games",
+      "developer": "HDuo Fun Games",
+      "url": "https://play.google.com/store/apps/details?id=happy.pixel.coloring.art.color.games&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/54DpSUbNF2WKuGT5RaRnBcQ8TmHPJazlXs1-NtGuNT4TZqnDGwd3uaIkmpY3Tv24cg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-02T13:54:14.000Z",
+      "releaseDate": "2025-12-25T07:52:48.000Z",
       "genres": [
-        "Board"
+        "Puzzle"
+      ],
+      "country": "IQ"
+    },
+    {
+      "id": "com.sh.tricky.relax.ticktock.mini.challenges.puzzle.games",
+      "name": "Tricky Relax Challenge Games",
+      "developer": "stick hunter",
+      "url": "https://play.google.com/store/apps/details?id=com.sh.tricky.relax.ticktock.mini.challenges.puzzle.games&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/qNKv4eZyuLsbhByTASevFJNpHqtSjkFkFuv-ytiakm2JmhVO2q6dH6b4uSSz5CM7XA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-19T10:37:24.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "IQ"
     },
@@ -1168,16 +1168,16 @@
       "country": "IQ"
     },
     {
-      "id": "happy.pixel.coloring.art.color.games",
-      "name": "Pixel Art Coloring: Art Games",
-      "developer": "HDuo Fun Games",
-      "url": "https://play.google.com/store/apps/details?id=happy.pixel.coloring.art.color.games&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/54DpSUbNF2WKuGT5RaRnBcQ8TmHPJazlXs1-NtGuNT4TZqnDGwd3uaIkmpY3Tv24cg",
+      "id": "com.wildspike.wormszone",
+      "name": "Worms Zone .io - Hungry Snake",
+      "developer": "CASUAL AZUR GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/fKFRuBxpp1UJfkvy6XBBCzX9lMjLDNnWaHLVwLlg8f0QZc6_fUL_GUzjfVukA37QmA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-25T07:52:48.000Z",
+      "releaseDate": "2026-01-12T15:03:35.000Z",
       "genres": [
-        "Puzzle"
+        "Action"
       ],
       "country": "IQ"
     },
@@ -1196,28 +1196,84 @@
       "country": "IQ"
     },
     {
-      "id": "com.wildspike.wormszone",
-      "name": "Worms Zone .io - Hungry Snake",
-      "developer": "CASUAL AZUR GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/fKFRuBxpp1UJfkvy6XBBCzX9lMjLDNnWaHLVwLlg8f0QZc6_fUL_GUzjfVukA37QmA",
+      "id": "com.DefaultCompany.DrawOnePartGame",
+      "name": "DOP Fun : Draw One Part Games",
+      "developer": "Variety Vista",
+      "url": "https://play.google.com/store/apps/details?id=com.DefaultCompany.DrawOnePartGame&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/ua1bcagIHkijwDxeQNVO_6rjN0bo2MuuMFxMebdynWhg1taToBcz_WwI3s-rULSUgWCz5Cuc7VE0Pyv6tqqGWw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-12T15:03:35.000Z",
+      "releaseDate": "2026-01-30T13:58:04.000Z",
       "genres": [
-        "Action"
+        "Casual"
       ],
       "country": "IQ"
     },
     {
-      "id": "com.uc.gym.clicker",
-      "name": "Gym Idle Clicker: Fitness Hero",
-      "developer": "Unicorn Studio Official",
-      "url": "https://play.google.com/store/apps/details?id=com.uc.gym.clicker&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/9uzA6qLx2gFUnbq-gxvn2ZZeTweHsZFGvO1kurRydMEWIpwf9q5ATOPzsg2aGgYuvWM",
+      "id": "com.crazy.mastercraft.block.game",
+      "name": "Master minecraft mcpe mod",
+      "developer": "Ali Abbas",
+      "url": "https://play.google.com/store/apps/details?id=com.crazy.mastercraft.block.game&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/zt8yQXW0u-UHZUARE_GlIZjEmpIlNM8Nzc74D1gQPqDDfT3Hq2GRFERDRuXYsnumfwc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T03:20:44.000Z",
+      "releaseDate": "2026-01-12T12:32:45.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "IQ"
+    },
+    {
+      "id": "jp.garud.ssimulator",
+      "name": "SAKURA School Simulator",
+      "developer": "GARUSOFT K.K.",
+      "url": "https://play.google.com/store/apps/details?id=jp.garud.ssimulator&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/kE2hDKCtPcpI8nR0UAGZ7x0tHJQXooY-54bMyar5H2G_Y8-1-VxpB111tAqVCxNn8g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-05T07:11:30.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "IQ"
+    },
+    {
+      "id": "com.sinyee.babybus.taxi",
+      "name": "Baby Panda's School Bus",
+      "developer": "BabyBus",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.taxi&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/qvP3i1m9N8pQWjSDnrAINRQ4ew4tBaAssP5Z84-Nxte0vHZ10kxKi28iovdaG06BvKc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T09:42:16.000Z",
+      "genres": [
+        "Educational"
+      ],
+      "country": "IQ"
+    },
+    {
+      "id": "com.gt.moto.bike.wheelie.stunt.race.game",
+      "name": "Moto Bike Stunt Wheelie Game",
+      "developer": "Game town",
+      "url": "https://play.google.com/store/apps/details?id=com.gt.moto.bike.wheelie.stunt.race.game&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/joPwuRJCICDqmz3xqbNWd61tbuUih4UXFukU8_uVb1o6rpzIMV4PnUmpkbXd7izozgn68FCAGZWcRGcbjGSI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-15T07:59:08.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "IQ"
+    },
+    {
+      "id": "com.funspace.juicerun",
+      "name": "Juice Run",
+      "developer": "FunSpace",
+      "url": "https://play.google.com/store/apps/details?id=com.funspace.juicerun&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/HlVhPS0Grs5tRZw69B0q8ZpLp74SPtmFpsElC2z4_6jGmhQuUo-AvA1ac01H7DZK3JFU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T12:40:52.000Z",
       "genres": [
         "Casual"
       ],
@@ -1238,76 +1294,6 @@
       "country": "IQ"
     },
     {
-      "id": "com.gt.moto.bike.wheelie.stunt.race.game",
-      "name": "Moto Bike Stunt Wheelie Game",
-      "developer": "Game town",
-      "url": "https://play.google.com/store/apps/details?id=com.gt.moto.bike.wheelie.stunt.race.game&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/joPwuRJCICDqmz3xqbNWd61tbuUih4UXFukU8_uVb1o6rpzIMV4PnUmpkbXd7izozgn68FCAGZWcRGcbjGSI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-15T07:59:08.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "IQ"
-    },
-    {
-      "id": "com.crazy.mastercraft.block.game",
-      "name": "Master minecraft mcpe mod",
-      "developer": "Ali Abbas",
-      "url": "https://play.google.com/store/apps/details?id=com.crazy.mastercraft.block.game&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/zt8yQXW0u-UHZUARE_GlIZjEmpIlNM8Nzc74D1gQPqDDfT3Hq2GRFERDRuXYsnumfwc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-12T12:32:45.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "IQ"
-    },
-    {
-      "id": "com.sinyee.babybus.taxi",
-      "name": "Baby Panda's School Bus",
-      "developer": "BabyBus",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.taxi&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/qvP3i1m9N8pQWjSDnrAINRQ4ew4tBaAssP5Z84-Nxte0vHZ10kxKi28iovdaG06BvKc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T09:42:16.000Z",
-      "genres": [
-        "Educational"
-      ],
-      "country": "IQ"
-    },
-    {
-      "id": "jp.garud.ssimulator",
-      "name": "SAKURA School Simulator",
-      "developer": "GARUSOFT K.K.",
-      "url": "https://play.google.com/store/apps/details?id=jp.garud.ssimulator&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/kE2hDKCtPcpI8nR0UAGZ7x0tHJQXooY-54bMyar5H2G_Y8-1-VxpB111tAqVCxNn8g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-05T07:11:30.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "IQ"
-    },
-    {
-      "id": "com.funspace.juicerun",
-      "name": "Juice Run",
-      "developer": "FunSpace",
-      "url": "https://play.google.com/store/apps/details?id=com.funspace.juicerun&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/HlVhPS0Grs5tRZw69B0q8ZpLp74SPtmFpsElC2z4_6jGmhQuUo-AvA1ac01H7DZK3JFU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T12:40:52.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "IQ"
-    },
-    {
       "id": "com.gf.busdriving.publictransport.citypassenger.drivinggames",
       "name": "Bus Simulator : 3D Bus Games",
       "developer": "GamePark",
@@ -1318,6 +1304,34 @@
       "releaseDate": "2026-01-20T12:05:35.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "IQ"
+    },
+    {
+      "id": "com.uc.gym.clicker",
+      "name": "Gym Idle Clicker: Fitness Hero",
+      "developer": "Unicorn Studio Official",
+      "url": "https://play.google.com/store/apps/details?id=com.uc.gym.clicker&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/9uzA6qLx2gFUnbq-gxvn2ZZeTweHsZFGvO1kurRydMEWIpwf9q5ATOPzsg2aGgYuvWM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T03:20:44.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "IQ"
+    },
+    {
+      "id": "com.ohbibi.fps",
+      "name": "FRAG Pro Shooter",
+      "developer": "Oh BiBi",
+      "url": "https://play.google.com/store/apps/details?id=com.ohbibi.fps&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/W5oPv_F0Z-wAwZdbxQEBjNduvGjq8rDgdZ58bC7QpKX2fhvdUrQaZSCRLPCO1PiYW7g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T11:14:10.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "IQ"
     },
@@ -1350,30 +1364,16 @@
       "country": "IQ"
     },
     {
-      "id": "com.gps.housemakeover.satisfying.clean",
-      "name": "House Makeover: ASMR Cleaning",
-      "developer": "Mad1 Games",
-      "url": "https://play.google.com/store/apps/details?id=com.gps.housemakeover.satisfying.clean&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/7y126KQrQEKp0Ba5tySSSyl9N30WrP0VQl0xQ4diTnqpoxohAAhoZvlTYeP0S8gOYQ",
+      "id": "com.netease.newspikeme",
+      "name": "Blood Strike Max",
+      "developer": "Stellar Gate Games",
+      "url": "https://play.google.com/store/apps/details?id=com.netease.newspikeme&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/Lv1XpRDOaNmxZPWkix0FVyfaLYeNnVwZEUGl9QGwY_tu36xgUbQXNtpYWrMBpib7e-JonRYUjl2GnjKr0rftgw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-24T06:50:16.000Z",
+      "releaseDate": "2026-01-29T15:46:30.000Z",
       "genres": [
-        "Casual"
-      ],
-      "country": "IQ"
-    },
-    {
-      "id": "com.tellurionmobile.realmcraft",
-      "name": "RealmCraft: Mine & Craft World",
-      "developer": "Tellurion Mobile",
-      "url": "https://play.google.com/store/apps/details?id=com.tellurionmobile.realmcraft&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/_hs3-OklYSjDKL8uVxbdkrI0jOafYSBzpJkBYE2qkIgjTzO4op0EhKhqrkMGhs3p8_RF",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-16T16:18:02.000Z",
-      "genres": [
-        "Adventure"
+        "Action"
       ],
       "country": "IQ"
     },
@@ -1392,16 +1392,16 @@
       "country": "IQ"
     },
     {
-      "id": "com.netease.newspikeme",
-      "name": "Blood Strike Max",
-      "developer": "Stellar Gate Games",
-      "url": "https://play.google.com/store/apps/details?id=com.netease.newspikeme&hl=en&gl=IQ",
-      "artwork": "https://play-lh.googleusercontent.com/Lv1XpRDOaNmxZPWkix0FVyfaLYeNnVwZEUGl9QGwY_tu36xgUbQXNtpYWrMBpib7e-JonRYUjl2GnjKr0rftgw",
+      "id": "com.tellurionmobile.realmcraft",
+      "name": "RealmCraft: Mine & Craft World",
+      "developer": "Tellurion Mobile",
+      "url": "https://play.google.com/store/apps/details?id=com.tellurionmobile.realmcraft&hl=en&gl=IQ",
+      "artwork": "https://play-lh.googleusercontent.com/_hs3-OklYSjDKL8uVxbdkrI0jOafYSBzpJkBYE2qkIgjTzO4op0EhKhqrkMGhs3p8_RF",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-29T15:46:30.000Z",
+      "releaseDate": "2025-10-16T16:18:02.000Z",
       "genres": [
-        "Action"
+        "Adventure"
       ],
       "country": "IQ"
     }
