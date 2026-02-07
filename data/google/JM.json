@@ -1,7 +1,7 @@
 {
   "country": "JM",
   "store": "google",
-  "updatedAt": "2026-02-07T10:14:47.715Z",
+  "updatedAt": "2026-02-07T16:48:44.446Z",
   "new": [
     {
       "id": "com.amelosinteractive.snake",
@@ -14,6 +14,20 @@
       "releaseDate": "2026-02-07T09:30:48.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "JM"
+    },
+    {
+      "id": "com.MadOut.BIG",
+      "name": "MadOut 2: Grand Auto Racing",
+      "developer": "MadOut Games LLC FZ",
+      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/XEIIdxxbpNWbF3smOhqsCg_YXYiVRxhAa8l0Z-p0UVVFpk8M55zEufhulT4dGKfQZbKkHSiLNp0GniYxDqRVIw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-07T06:39:12.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "JM"
     },
@@ -494,6 +508,20 @@
       "country": "JM"
     },
     {
+      "id": "com.run.tower.defense",
+      "name": "Kingshot",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T09:09:20.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "JM"
+    },
+    {
       "id": "com.ea.gp.fifamobile",
       "name": "EA SPORTS FC™ Mobile Soccer 26",
       "developer": "ELECTRONIC ARTS",
@@ -518,20 +546,6 @@
       "releaseDate": "2026-02-02T16:47:57.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "JM"
-    },
-    {
-      "id": "com.MadOut.BIG",
-      "name": "MadOut 2: Grand Auto Racing",
-      "developer": "MadOut Games LLC FZ",
-      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/XEIIdxxbpNWbF3smOhqsCg_YXYiVRxhAa8l0Z-p0UVVFpk8M55zEufhulT4dGKfQZbKkHSiLNp0GniYxDqRVIw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T14:21:42.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "JM"
     },
@@ -648,20 +662,6 @@
       "country": "JM"
     },
     {
-      "id": "com.media720.games2020",
-      "name": "Offline Games No WiFi internet",
-      "developer": "Fun Offline Games",
-      "url": "https://play.google.com/store/apps/details?id=com.media720.games2020&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/eET3qc7rMWqPZfkk2jsGedhWGoMrbi763h57Etf5fuL6SgcwrjjpA2M94mehfsGznQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T19:00:49.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "JM"
-    },
-    {
       "id": "com.playrix.township",
       "name": "Township",
       "developer": "Playrix",
@@ -734,20 +734,6 @@
       "country": "JM"
     },
     {
-      "id": "com.dts.freefireth",
-      "name": "Free Fire x JUJUTSU KAISEN",
-      "developer": "GARENA INTERNATIONAL I",
-      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/-6LwMoL2ZWR3pl3s1fvwiYil-vrLS8q2n6Lg8rJ_I_uSAXtFD7OEO-KziVFxIlfuhezB7jsMYnf5COn4S1iu",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-08T09:45:46.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "JM"
-    },
-    {
       "id": "com.cliffs.pro.cell.building.crazy.clever.craft",
       "name": "Block Crazy Robo World Craft",
       "developer": "Prokids Studio",
@@ -786,6 +772,20 @@
       "releaseDate": "2026-02-04T14:10:47.000Z",
       "genres": [
         "Educational"
+      ],
+      "country": "JM"
+    },
+    {
+      "id": "com.dts.freefireth",
+      "name": "Free Fire x JUJUTSU KAISEN",
+      "developer": "GARENA INTERNATIONAL I",
+      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/-6LwMoL2ZWR3pl3s1fvwiYil-vrLS8q2n6Lg8rJ_I_uSAXtFD7OEO-KziVFxIlfuhezB7jsMYnf5COn4S1iu",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-08T09:45:46.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "JM"
     },
@@ -846,6 +846,20 @@
       "country": "JM"
     },
     {
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T19:50:09.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "JM"
+    },
+    {
       "id": "com.king.candycrushsaga",
       "name": "Candy Crush Saga",
       "developer": "King",
@@ -860,6 +874,20 @@
       "country": "JM"
     },
     {
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-20T12:22:26.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "JM"
+    },
+    {
       "id": "in.playsimple.wordsearch",
       "name": "Word Search Explorer",
       "developer": "PlaySimple Games",
@@ -870,20 +898,6 @@
       "releaseDate": "2026-02-02T12:42:24.000Z",
       "genres": [
         "Word"
-      ],
-      "country": "JM"
-    },
-    {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T19:50:09.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "JM"
     },
@@ -972,20 +986,6 @@
       "country": "JM"
     },
     {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-20T12:22:26.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "JM"
-    },
-    {
       "id": "com.football.soccer.league",
       "name": "Football League 2026",
       "developer": "MOBILE SOCCER",
@@ -1052,20 +1052,6 @@
       "releaseDate": "2026-01-15T07:59:08.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "JM"
-    },
-    {
-      "id": "com.peoplefun.wordcross",
-      "name": "Wordscapes",
-      "developer": "PeopleFun",
-      "url": "https://play.google.com/store/apps/details?id=com.peoplefun.wordcross&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/2TOwtdo3fcRQVnMo3Y-lqpK514490ZfztM-9J5XkbZ9E1hmxrfahQQawgH38Ojf7U9g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T00:22:05.000Z",
-      "genres": [
-        "Word"
       ],
       "country": "JM"
     },
@@ -1168,6 +1154,20 @@
       "country": "JM"
     },
     {
+      "id": "com.LoopGames.Domino",
+      "name": "Dominoes",
+      "developer": "Loop Games",
+      "url": "https://play.google.com/store/apps/details?id=com.LoopGames.Domino&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/_4cDxEVqvQhTurZ9NkqUO3ueFLn781tabGceTA8Nkf-ggBCEWE5BN0cTO9nkbC1MwzEy",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-19T10:41:28.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "JM"
+    },
+    {
       "id": "com.advant.streamer",
       "name": "Lamar - Idle Vlogger",
       "developer": "CrazyLabs LTD",
@@ -1196,16 +1196,16 @@
       "country": "JM"
     },
     {
-      "id": "com.gf.busdriving.publictransport.citypassenger.drivinggames",
-      "name": "Bus Simulator : 3D Bus Games",
-      "developer": "GamePark",
-      "url": "https://play.google.com/store/apps/details?id=com.gf.busdriving.publictransport.citypassenger.drivinggames&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/rp9LqQcNwWly8QgjZnDdiK8gSHQyUAHTVzC5DQBFDC-Fm3eHZobtoFTUAlsdRBcatpI",
+      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
+      "name": "Agent Shooter - Shooting Game",
+      "developer": "Rebel Actions",
+      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-20T12:05:35.000Z",
+      "releaseDate": "2026-01-16T06:00:02.000Z",
       "genres": [
-        "Simulation"
+        "Action"
       ],
       "country": "JM"
     },
@@ -1234,6 +1234,20 @@
       "releaseDate": "2026-01-29T16:33:15.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "JM"
+    },
+    {
+      "id": "com.peoplefun.wordcross",
+      "name": "Wordscapes",
+      "developer": "PeopleFun",
+      "url": "https://play.google.com/store/apps/details?id=com.peoplefun.wordcross&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/2TOwtdo3fcRQVnMo3Y-lqpK514490ZfztM-9J5XkbZ9E1hmxrfahQQawgH38Ojf7U9g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T00:22:05.000Z",
+      "genres": [
+        "Word"
       ],
       "country": "JM"
     },
@@ -1290,20 +1304,6 @@
       "releaseDate": "2025-12-10T22:11:03.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "JM"
-    },
-    {
-      "id": "com.LoopGames.Domino",
-      "name": "Dominoes",
-      "developer": "Loop Games",
-      "url": "https://play.google.com/store/apps/details?id=com.LoopGames.Domino&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/_4cDxEVqvQhTurZ9NkqUO3ueFLn781tabGceTA8Nkf-ggBCEWE5BN0cTO9nkbC1MwzEy",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-19T10:41:28.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "JM"
     },
