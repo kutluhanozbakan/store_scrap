@@ -1,8 +1,22 @@
 {
   "country": "IR",
   "store": "google",
-  "updatedAt": "2026-02-06T22:57:26.735Z",
+  "updatedAt": "2026-02-07T09:51:00.592Z",
   "new": [
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:35:27.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "IR"
+    },
     {
       "id": "com.football.soccer.league",
       "name": "Football League 2026",
@@ -88,6 +102,20 @@
       "country": "IR"
     },
     {
+      "id": "water.sort.color.puzzle.offline.games",
+      "name": "Water Sort! Color Sort Puzzle",
+      "developer": "Bobodoo Game",
+      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/Ua9HL2jL6escu3RIMriqdI70cCXpCsL64ZO7Qp8VXdjHv9BrAHjIIFX5v61JHBFZJQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T19:06:20.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "IR"
+    },
+    {
       "id": "com.creations.runnergame",
       "name": "Kooply Run™: Play and Create!",
       "developer": "KOOPLY",
@@ -112,20 +140,6 @@
       "releaseDate": "2026-02-05T17:30:32.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "IR"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T16:09:23.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "IR"
     },
@@ -210,6 +224,20 @@
       "releaseDate": "2026-02-04T13:07:30.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "IR"
+    },
+    {
+      "id": "com.stv.quarantine.last.survival.games",
+      "name": "Quarantine Last Survival",
+      "developer": "SURVIVAL TECH VALLEY PRIVATE LIMITED",
+      "url": "https://play.google.com/store/apps/details?id=com.stv.quarantine.last.survival.games&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/G9HfDWntT2m3Fk9BLdTS4zcP626dYV07TwX-KONoZz5HFxwiOpLON-Mi6qo3yMu6WUQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T12:11:43.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "IR"
     },
@@ -674,34 +702,6 @@
         "Board"
       ],
       "country": "IR"
-    },
-    {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-20T12:22:26.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "IR"
-    },
-    {
-      "id": "com.fp.helpmeplease.trickystories",
-      "name": "Tricky Puzzle: Fun Brain Story",
-      "developer": "Brames",
-      "url": "https://play.google.com/store/apps/details?id=com.fp.helpmeplease.trickystories&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/DF1BkesUHnm2vP4qDBX8mGKC0sLzBHvV0vhheGKxkzeUshiOGU6KaAQRtMyxFJhlLA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-20T12:20:57.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "IR"
     }
   ],
   "updated": [
@@ -776,16 +776,16 @@
       "country": "IR"
     },
     {
-      "id": "com.NewFolderGames.IAmSecurirty",
-      "name": "I Am Security",
-      "developer": "Estoty",
-      "url": "https://play.google.com/store/apps/details?id=com.NewFolderGames.IAmSecurirty&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/4mqQs6DG9oa1yImua9GN9H1V--EfNj1LhR0AtdrbPKYE0J9oOPMbYTJCXWw1WxHXgw",
+      "id": "com.unept.leveldevil",
+      "name": "Level Devil - NOT A Troll Game",
+      "developer": "Poki",
+      "url": "https://play.google.com/store/apps/details?id=com.unept.leveldevil&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/VqY_7ZNxG91KHaZguRP3khXdlTR1yQr45RCoiNu6MO41UhN-jlN31YWTQImWFRTw5r0",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-14T16:01:12.000Z",
+      "releaseDate": "2026-02-03T14:49:51.000Z",
       "genres": [
-        "Role Playing"
+        "Action"
       ],
       "country": "IR"
     },
@@ -804,30 +804,16 @@
       "country": "IR"
     },
     {
-      "id": "com.unept.leveldevil",
-      "name": "Level Devil - NOT A Troll Game",
-      "developer": "Poki",
-      "url": "https://play.google.com/store/apps/details?id=com.unept.leveldevil&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/VqY_7ZNxG91KHaZguRP3khXdlTR1yQr45RCoiNu6MO41UhN-jlN31YWTQImWFRTw5r0",
+      "id": "com.NewFolderGames.IAmSecurirty",
+      "name": "I Am Security",
+      "developer": "Estoty",
+      "url": "https://play.google.com/store/apps/details?id=com.NewFolderGames.IAmSecurirty&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/4mqQs6DG9oa1yImua9GN9H1V--EfNj1LhR0AtdrbPKYE0J9oOPMbYTJCXWw1WxHXgw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T14:49:51.000Z",
+      "releaseDate": "2026-01-14T16:01:12.000Z",
       "genres": [
-        "Action"
-      ],
-      "country": "IR"
-    },
-    {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/upYircnh6-mH07OxwtX7L0EPFd4_FNV71xd8w4gHiyLKopipJxwPzoupoQgpzgf8_Fk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T15:34:55.000Z",
-      "genres": [
-        "Arcade"
+        "Role Playing"
       ],
       "country": "IR"
     },
@@ -860,6 +846,34 @@
       "country": "IR"
     },
     {
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/upYircnh6-mH07OxwtX7L0EPFd4_FNV71xd8w4gHiyLKopipJxwPzoupoQgpzgf8_Fk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T15:34:55.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "IR"
+    },
+    {
+      "id": "com.NewFolderGames.IAmBird",
+      "name": "I Am Bird",
+      "developer": "Estoty",
+      "url": "https://play.google.com/store/apps/details?id=com.NewFolderGames.IAmBird&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/JyFy5rBf2Ppk1Zytacfe2BX9OsScHRPGe6d3jD4zpMc69I___BYwbFHECQ6CJriJeko",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-14T19:22:57.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "IR"
+    },
+    {
       "id": "com.gtsy.annoying.punch.game",
       "name": "Annoying Uncle Punch Game",
       "developer": "Game District LLC",
@@ -888,30 +902,16 @@
       "country": "IR"
     },
     {
-      "id": "com.NewFolderGames.IAmBird",
-      "name": "I Am Bird",
-      "developer": "Estoty",
-      "url": "https://play.google.com/store/apps/details?id=com.NewFolderGames.IAmBird&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/JyFy5rBf2Ppk1Zytacfe2BX9OsScHRPGe6d3jD4zpMc69I___BYwbFHECQ6CJriJeko",
+      "id": "com.paleango.matchgarden",
+      "name": "باغ نگار: بازی معما و جایزه",
+      "developer": "Paeezan",
+      "url": "https://play.google.com/store/apps/details?id=com.paleango.matchgarden&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/j4a8fMWPeRSfZyn1QV36sKLVPbRI47hM8DsfwyXFiPAdkqTMAOMpH3pNODu6Wh6gGlA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-14T19:22:57.000Z",
+      "releaseDate": "2025-12-23T11:35:10.000Z",
       "genres": [
-        "Role Playing"
-      ],
-      "country": "IR"
-    },
-    {
-      "id": "com.MadOut.BIG",
-      "name": "MadOut 2: Grand Auto Racing",
-      "developer": "MadOut Games LLC FZ",
-      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/XEIIdxxbpNWbF3smOhqsCg_YXYiVRxhAa8l0Z-p0UVVFpk8M55zEufhulT4dGKfQZbKkHSiLNp0GniYxDqRVIw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T14:21:42.000Z",
-      "genres": [
-        "Racing"
+        "Puzzle"
       ],
       "country": "IR"
     },
@@ -930,44 +930,16 @@
       "country": "IR"
     },
     {
-      "id": "com.football.soccer.league",
-      "name": "Football League 2026",
-      "developer": "MOBILE SOCCER",
-      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
+      "id": "com.MadOut.BIG",
+      "name": "MadOut 2: Grand Auto Racing",
+      "developer": "MadOut Games LLC FZ",
+      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/XEIIdxxbpNWbF3smOhqsCg_YXYiVRxhAa8l0Z-p0UVVFpk8M55zEufhulT4dGKfQZbKkHSiLNp0GniYxDqRVIw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T16:06:59.000Z",
+      "releaseDate": "2026-02-02T14:21:42.000Z",
       "genres": [
-        "Sports"
-      ],
-      "country": "IR"
-    },
-    {
-      "id": "com.paleango.matchgarden",
-      "name": "باغ نگار: بازی معما و جایزه",
-      "developer": "Paeezan",
-      "url": "https://play.google.com/store/apps/details?id=com.paleango.matchgarden&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/j4a8fMWPeRSfZyn1QV36sKLVPbRI47hM8DsfwyXFiPAdkqTMAOMpH3pNODu6Wh6gGlA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-23T11:35:10.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "IR"
-    },
-    {
-      "id": "com.outfit7.mytalkingtomfriends2",
-      "name": "My Talking Tom Friends 2",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends2&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/A7P5WxCz-S5Qi-81l7FbKsl5gomFRBWhh0TY_eIseZOVPT3mliinEFHww5mPFvJvkgI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T08:59:27.000Z",
-      "genres": [
-        "Casual"
+        "Racing"
       ],
       "country": "IR"
     },
@@ -986,16 +958,16 @@
       "country": "IR"
     },
     {
-      "id": "com.citybuilding.newcity",
-      "name": "NewCity: Town Building Farming",
-      "developer": "M-Gold Games",
-      "url": "https://play.google.com/store/apps/details?id=com.citybuilding.newcity&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/-H1aWo4m78UuKHErQ7L3GPJyZAx9KKFjKb60B7LfujGg2e9VmN1StOdY-IMlLSMwUO8G07h9EdH88v77fougog",
+      "id": "com.football.soccer.league",
+      "name": "Football League 2026",
+      "developer": "MOBILE SOCCER",
+      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-26T15:04:02.000Z",
+      "releaseDate": "2026-02-06T16:06:59.000Z",
       "genres": [
-        "Simulation"
+        "Sports"
       ],
       "country": "IR"
     },
@@ -1010,6 +982,34 @@
       "releaseDate": "2026-02-03T05:33:55.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "IR"
+    },
+    {
+      "id": "com.citybuilding.newcity",
+      "name": "NewCity: Town Building Farming",
+      "developer": "M-Gold Games",
+      "url": "https://play.google.com/store/apps/details?id=com.citybuilding.newcity&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/-H1aWo4m78UuKHErQ7L3GPJyZAx9KKFjKb60B7LfujGg2e9VmN1StOdY-IMlLSMwUO8G07h9EdH88v77fougog",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-26T15:04:02.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "IR"
+    },
+    {
+      "id": "com.outfit7.mytalkingtomfriends2",
+      "name": "My Talking Tom Friends 2",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends2&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/A7P5WxCz-S5Qi-81l7FbKsl5gomFRBWhh0TY_eIseZOVPT3mliinEFHww5mPFvJvkgI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T08:59:27.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "IR"
     },
@@ -1056,28 +1056,14 @@
       "country": "IR"
     },
     {
-      "id": "com.miniclip.eightballpool",
-      "name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
+      "id": "com.JindoBlu.FourPlayers",
+      "name": "1 2 3 4 Player Games - Offline",
+      "developer": "JindoBlu",
+      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.FourPlayers&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/T1ekib6mm06SnURnCaL0UOJGlzyLgwsda7CxM977oGdmzw1DjoJbcfJhQLGh2TQ1x18C",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T16:34:15.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "IR"
-    },
-    {
-      "id": "com.creations.runnergame",
-      "name": "Kooply Run™: Play and Create!",
-      "developer": "KOOPLY",
-      "url": "https://play.google.com/store/apps/details?id=com.creations.runnergame&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/hLEUT0aM-VNy24Bnh3jEQwLOVqEJc-Oq0SPM9VT-NvWMcGCG0of6K26cs9KlUKMt9tI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T17:33:04.000Z",
+      "releaseDate": "2025-12-12T09:09:35.000Z",
       "genres": [
         "Arcade"
       ],
@@ -1098,86 +1084,16 @@
       "country": "IR"
     },
     {
-      "id": "com.JindoBlu.FourPlayers",
-      "name": "1 2 3 4 Player Games - Offline",
-      "developer": "JindoBlu",
-      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.FourPlayers&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/T1ekib6mm06SnURnCaL0UOJGlzyLgwsda7CxM977oGdmzw1DjoJbcfJhQLGh2TQ1x18C",
+      "id": "com.miniclip.eightballpool",
+      "name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-12T09:09:35.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "IR"
-    },
-    {
-      "id": "com.games.ms.wonder.goal",
-      "name": "Wonder Goal: Fun Football Kick",
-      "developer": "Mini Sports",
-      "url": "https://play.google.com/store/apps/details?id=com.games.ms.wonder.goal&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/dthsMY_CZ6Ba9sfCBQbg9e4JFXwt8_3FbY-UaB0TeEy0tK6jrTVQ-V1kWQxtxfTWf8A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T13:30:24.000Z",
+      "releaseDate": "2026-02-04T16:34:15.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "IR"
-    },
-    {
-      "id": "love.journey.episode.luv",
-      "name": "LUV: Interactive Adult Game XX",
-      "developer": "Afivad Limited",
-      "url": "https://play.google.com/store/apps/details?id=love.journey.episode.luv&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/S7ZUMG50B0pD3PEp3uemBIDNNrFakWVU2Z0kVcREXLMwXk_7BoOqdTjua8mDesYhvGk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T05:16:58.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "IR"
-    },
-    {
-      "id": "com.survival456.squid.run",
-      "name": "Survival Rush: Mini Challenges",
-      "developer": "Simulation Arena",
-      "url": "https://play.google.com/store/apps/details?id=com.survival456.squid.run&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/buLSzNeZnL9l6R0Wia2E_Otf4_-yqvaFERG0sSSBHLamFQ595T08jkLejfJ9JQ6Tvw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T13:07:41.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "IR"
-    },
-    {
-      "id": "com.outfit7.mytalkingtomfriends",
-      "name": "My Talking Tom Friends",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/Z4MTPicT_94fzdH4aLwARpQjHpuEjid6zNue4APAS_KQWhMV0RDYnKjLVwytjy_M9tk2",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-12T12:36:50.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "IR"
-    },
-    {
-      "id": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
-      "name": "Ramp Car Games: GT Car Stunts",
-      "developer": "Fun Drive Games",
-      "url": "https://play.google.com/store/apps/details?id=com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/AkcgFr9M2qfIcp1fkrQS8Ny6Ludis4_fBO0_VvfdWLJtrRpu0O-2T1v4mn0b1t59yA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-17T10:26:09.000Z",
-      "genres": [
-        "Strategy"
       ],
       "country": "IR"
     },
@@ -1196,70 +1112,84 @@
       "country": "IR"
     },
     {
-      "id": "com.moon.craft.buildingcraft",
-      "name": "Town Building Life Simulator",
-      "developer": "XGame Global",
-      "url": "https://play.google.com/store/apps/details?id=com.moon.craft.buildingcraft&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/G5R2W3S_SD2347tHCtfue5hJma4VY1-e6V7Vf7kmAxsIZ9jy0x9NDXeQwp7fJm0EWA",
+      "id": "com.creations.runnergame",
+      "name": "Kooply Run™: Play and Create!",
+      "developer": "KOOPLY",
+      "url": "https://play.google.com/store/apps/details?id=com.creations.runnergame&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/hLEUT0aM-VNy24Bnh3jEQwLOVqEJc-Oq0SPM9VT-NvWMcGCG0of6K26cs9KlUKMt9tI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-19T12:40:25.000Z",
+      "releaseDate": "2026-02-05T17:33:04.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "IR"
+    },
+    {
+      "id": "com.survival456.squid.run",
+      "name": "Survival Rush: Mini Challenges",
+      "developer": "Simulation Arena",
+      "url": "https://play.google.com/store/apps/details?id=com.survival456.squid.run&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/buLSzNeZnL9l6R0Wia2E_Otf4_-yqvaFERG0sSSBHLamFQ595T08jkLejfJ9JQ6Tvw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T13:07:41.000Z",
       "genres": [
         "Simulation"
       ],
       "country": "IR"
     },
     {
-      "id": "com.tricky.story.brain.quest",
-      "name": "Tricky Story",
-      "developer": "XGame HK",
-      "url": "https://play.google.com/store/apps/details?id=com.tricky.story.brain.quest&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/6mVznOihgcFfAOONs_AmANaFwDHGCkxwxk9RwQ9tUy9aR27dYZK-p_VLPwgx0WWadyY",
+      "id": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
+      "name": "Ramp Car Games: GT Car Stunts",
+      "developer": "Fun Drive Games",
+      "url": "https://play.google.com/store/apps/details?id=com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/AkcgFr9M2qfIcp1fkrQS8Ny6Ludis4_fBO0_VvfdWLJtrRpu0O-2T1v4mn0b1t59yA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-29T03:14:29.000Z",
+      "releaseDate": "2025-11-17T10:26:09.000Z",
       "genres": [
-        "Puzzle"
+        "Strategy"
       ],
       "country": "IR"
     },
     {
-      "id": "com.outfit7.mytalkingtom2",
-      "name": "My Talking Tom 2: Pet Game",
+      "id": "com.outfit7.mytalkingtomfriends",
+      "name": "My Talking Tom Friends",
       "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/Z4MTPicT_94fzdH4aLwARpQjHpuEjid6zNue4APAS_KQWhMV0RDYnKjLVwytjy_M9tk2",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-14T12:55:59.000Z",
+      "releaseDate": "2026-01-12T12:36:50.000Z",
       "genres": [
         "Casual"
       ],
       "country": "IR"
     },
     {
-      "id": "com.paurau.SlowMoRun",
-      "name": "Slow Mo Run",
-      "developer": "Supersonic Studios LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.paurau.SlowMoRun&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/CK4R8deIZ-FfbdY30bp_Tz0qF_U_9AUDKCzAh1xFybUqDhr7Sg1vul0qdN5NxLJZ5SQ",
+      "id": "com.games.ms.wonder.goal",
+      "name": "Wonder Goal: Fun Football Kick",
+      "developer": "Mini Sports",
+      "url": "https://play.google.com/store/apps/details?id=com.games.ms.wonder.goal&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/dthsMY_CZ6Ba9sfCBQbg9e4JFXwt8_3FbY-UaB0TeEy0tK6jrTVQ-V1kWQxtxfTWf8A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-11-18T23:32:16.000Z",
+      "releaseDate": "2026-01-23T13:30:24.000Z",
       "genres": [
-        "Casual"
+        "Sports"
       ],
       "country": "IR"
     },
     {
-      "id": "state.countryballs.dictators.io",
-      "name": "Country Balls: World War",
-      "developer": "MAD PIXEL GAMES LTD",
-      "url": "https://play.google.com/store/apps/details?id=state.countryballs.dictators.io&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/nlXcABEtmUkzWql8yUPynSU-2YiLWAW6S1Q0uhvSs3AgAAOC3bHSnWBZmlbErAhWSegA",
+      "id": "war.master.game",
+      "name": "War Master : Strategy Battle",
+      "developer": "Nese DiJiTal",
+      "url": "https://play.google.com/store/apps/details?id=war.master.game&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/x_i8DvvTzgfABXG7lPjxz9qlC8jP2oS0XUBtUSyypHGwoDdsdt25u6J0lm_u03AvtLoH",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-28T13:57:47.000Z",
+      "releaseDate": "2026-02-01T18:38:08.000Z",
       "genres": [
         "Strategy"
       ],
@@ -1280,72 +1210,16 @@
       "country": "IR"
     },
     {
-      "id": "com.Polystation.BuildABabe",
-      "name": "Build A Queen",
+      "id": "com.paurau.SlowMoRun",
+      "name": "Slow Mo Run",
       "developer": "Supersonic Studios LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.Polystation.BuildABabe&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/4SYLl-Gr6B6-N9lvPkvGv_2yt6dktP14wMl1w4pLeEkLbwj15o7_vdxaVh-J3lktnac",
+      "url": "https://play.google.com/store/apps/details?id=com.paurau.SlowMoRun&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/CK4R8deIZ-FfbdY30bp_Tz0qF_U_9AUDKCzAh1xFybUqDhr7Sg1vul0qdN5NxLJZ5SQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-28T07:08:04.000Z",
+      "releaseDate": "2025-11-18T23:32:16.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "IR"
-    },
-    {
-      "id": "war.master.game",
-      "name": "War Master : Strategy Battle",
-      "developer": "Nese DiJiTal",
-      "url": "https://play.google.com/store/apps/details?id=war.master.game&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/x_i8DvvTzgfABXG7lPjxz9qlC8jP2oS0XUBtUSyypHGwoDdsdt25u6J0lm_u03AvtLoH",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-01T18:38:08.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "IR"
-    },
-    {
-      "id": "com.dino.race.master",
-      "name": "Car Race",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-09T02:55:19.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "IR"
-    },
-    {
-      "id": "com.mehdirabiee.XtremeMotorbikes",
-      "name": "Xtreme Motorbikes",
-      "developer": "Xtreme Games Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.mehdirabiee.XtremeMotorbikes&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/FLNE3bcHknVzF4_KujTK-F31SCTbZmCQU-N-jQ5NhwXEOW7-LgzA9qLsDiT2VC1uDas",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-20T11:35:17.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "IR"
-    },
-    {
-      "id": "com.pixel.art.coloring.color.number",
-      "name": "Happy Color®: Color by Number",
-      "developer": "X-FLOW",
-      "url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/paB5-2s6q3uXd3nRE0-2QzCLeLklmemDepD0_Erald5YQUazuiOhMvJ8giFluMAX0w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-20T07:32:35.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "IR"
     },
@@ -1358,6 +1232,48 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-01-30T20:48:21.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "IR"
+    },
+    {
+      "id": "state.countryballs.dictators.io",
+      "name": "Country Balls: World War",
+      "developer": "MAD PIXEL GAMES LTD",
+      "url": "https://play.google.com/store/apps/details?id=state.countryballs.dictators.io&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/nlXcABEtmUkzWql8yUPynSU-2YiLWAW6S1Q0uhvSs3AgAAOC3bHSnWBZmlbErAhWSegA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T13:57:47.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "IR"
+    },
+    {
+      "id": "love.journey.episode.luv",
+      "name": "LUV: Interactive Adult Game XX",
+      "developer": "Afivad Limited",
+      "url": "https://play.google.com/store/apps/details?id=love.journey.episode.luv&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/S7ZUMG50B0pD3PEp3uemBIDNNrFakWVU2Z0kVcREXLMwXk_7BoOqdTjua8mDesYhvGk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T05:16:58.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "IR"
+    },
+    {
+      "id": "com.Polystation.BuildABabe",
+      "name": "Build A Queen",
+      "developer": "Supersonic Studios LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.Polystation.BuildABabe&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/4SYLl-Gr6B6-N9lvPkvGv_2yt6dktP14wMl1w4pLeEkLbwj15o7_vdxaVh-J3lktnac",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T07:08:04.000Z",
       "genres": [
         "Casual"
       ],
@@ -1378,30 +1294,114 @@
       "country": "IR"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "id": "com.pixel.art.coloring.color.number",
+      "name": "Happy Color®: Color by Number",
+      "developer": "X-FLOW",
+      "url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/paB5-2s6q3uXd3nRE0-2QzCLeLklmemDepD0_Erald5YQUazuiOhMvJ8giFluMAX0w",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T16:09:23.000Z",
+      "releaseDate": "2026-01-20T07:32:35.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "IR"
+    },
+    {
+      "id": "com.outfit7.mytalkingtom2",
+      "name": "My Talking Tom 2: Pet Game",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-14T12:55:59.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "IR"
+    },
+    {
+      "id": "com.tricky.story.brain.quest",
+      "name": "Tricky Story",
+      "developer": "XGame HK",
+      "url": "https://play.google.com/store/apps/details?id=com.tricky.story.brain.quest&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/6mVznOihgcFfAOONs_AmANaFwDHGCkxwxk9RwQ9tUy9aR27dYZK-p_VLPwgx0WWadyY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T03:14:29.000Z",
       "genres": [
         "Puzzle"
       ],
       "country": "IR"
     },
     {
-      "id": "com.atesgamestudio.rollance",
-      "name": "Rollance : Adventure Balls",
-      "developer": "CASUAL AZUR GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.atesgamestudio.rollance&hl=en&gl=IR",
-      "artwork": "https://play-lh.googleusercontent.com/nvF8c1Xym9P4X8lva7irs84bdeHUYcvhgToaQM6RgYn372anFhNOD_ZlwdD5pOoF9Q",
+      "id": "com.moon.craft.buildingcraft",
+      "name": "Town Building Life Simulator",
+      "developer": "XGame Global",
+      "url": "https://play.google.com/store/apps/details?id=com.moon.craft.buildingcraft&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/G5R2W3S_SD2347tHCtfue5hJma4VY1-e6V7Vf7kmAxsIZ9jy0x9NDXeQwp7fJm0EWA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-22T20:21:00.000Z",
+      "releaseDate": "2026-01-19T12:40:25.000Z",
       "genres": [
-        "Action"
+        "Simulation"
+      ],
+      "country": "IR"
+    },
+    {
+      "id": "com.dongbasiki.snowrace3d.snowball",
+      "name": "Ice Runner Battle: Snow Race",
+      "developer": "Dongbasiki",
+      "url": "https://play.google.com/store/apps/details?id=com.dongbasiki.snowrace3d.snowball&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/py0ov31CCxo4RLj9qlBrzTFtUoMIXEZP3tyGZNZeJPDj2Jq-nlyBvyn4fVkwtPXapq6-LBEhvK5Kv98vJ5DdDA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-19T12:08:48.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "IR"
+    },
+    {
+      "id": "com.sh.tricky.relax.ticktock.mini.challenges.puzzle.games",
+      "name": "Tricky Relax Challenge Games",
+      "developer": "stick hunter",
+      "url": "https://play.google.com/store/apps/details?id=com.sh.tricky.relax.ticktock.mini.challenges.puzzle.games&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/qNKv4eZyuLsbhByTASevFJNpHqtSjkFkFuv-ytiakm2JmhVO2q6dH6b4uSSz5CM7XA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-19T10:37:24.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "IR"
+    },
+    {
+      "id": "com.amanotes.beathopper",
+      "name": "Tiles Hop Music & Ball Game",
+      "developer": "AMANOTES PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.amanotes.beathopper&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/uA2SPkUUN4feau4S-JtJrxjTfjQ7s5_9vTA2dj1ECSPQy_GrQXGzSp_PH0eTibmymsM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T10:17:56.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "IR"
+    },
+    {
+      "id": "com.mehdirabiee.XtremeMotorbikes",
+      "name": "Xtreme Motorbikes",
+      "developer": "Xtreme Games Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.mehdirabiee.XtremeMotorbikes&hl=en&gl=IR",
+      "artwork": "https://play-lh.googleusercontent.com/FLNE3bcHknVzF4_KujTK-F31SCTbZmCQU-N-jQ5NhwXEOW7-LgzA9qLsDiT2VC1uDas",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-20T11:35:17.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "IR"
     }

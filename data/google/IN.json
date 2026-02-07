@@ -1,8 +1,22 @@
 {
   "country": "IN",
   "store": "google",
-  "updatedAt": "2026-02-06T22:57:18.219Z",
+  "updatedAt": "2026-02-07T09:50:47.513Z",
   "new": [
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:35:27.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "IN"
+    },
     {
       "id": "com.rubygames.assassin",
       "name": "Hunter Assassin",
@@ -126,20 +140,6 @@
       "releaseDate": "2026-02-05T17:28:18.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T16:09:23.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "IN"
     },
@@ -480,20 +480,6 @@
       "country": "IN"
     },
     {
-      "id": "com.infinity.car.dealership.sales.simulator",
-      "name": "Car Dealership Business Game",
-      "developer": "InfinityGames Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.infinity.car.dealership.sales.simulator&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/qFxi2sFaenHCyS3yMOFb5QECb8egcjP8CkxvoR2dxLspaOcYes-iu9pbfYSdEaWxMV0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T16:30:06.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "IN"
-    },
-    {
       "id": "com.ssi.bus.games.bus.simulator",
       "name": "Real Bus Simulator : Bus Games",
       "developer": "Solo Studio Inc",
@@ -702,6 +688,20 @@
         "Simulation"
       ],
       "country": "IN"
+    },
+    {
+      "id": "com.aim.racing",
+      "name": "Extreme Car Driving Simulator",
+      "developer": "AxesInMotion Racing",
+      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/6NEtpPjWbslnt7WzHb4A1sYM6GiX_VdIhA6O9gAvJcf-GlmnEkfMQwPzAD7xTSLV_5M",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-22T16:09:11.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "IN"
     }
   ],
   "updated": [
@@ -748,6 +748,20 @@
       "country": "IN"
     },
     {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T12:05:32.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "IN"
+    },
+    {
       "id": "com.miniclip.cricketleague",
       "name": "Cricket League",
       "developer": "Miniclip.com",
@@ -772,20 +786,6 @@
       "releaseDate": "2025-12-19T11:20:33.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T12:05:32.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "IN"
     },
@@ -818,20 +818,6 @@
       "country": "IN"
     },
     {
-      "id": "com.gt.moto.bike.wheelie.stunt.race.game",
-      "name": "Bike Wheelie Stunt Master Game",
-      "developer": "Game town",
-      "url": "https://play.google.com/store/apps/details?id=com.gt.moto.bike.wheelie.stunt.race.game&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/1cjk2gtjYLWWup8QtvIyDhZ4Iz-2o2OABqE9CDPFcp6HXzrk99Z21_bqM_V3GIhGohFESqEnWyFb2pd8JdNNZh8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-15T07:59:08.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "IN"
-    },
-    {
       "id": "com.Rohit.IndianBikes",
       "name": "Indian Bikes Driving 3D",
       "developer": "Rohit Gaming Studio",
@@ -842,6 +828,20 @@
       "releaseDate": "2026-02-03T16:47:32.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.gt.moto.bike.wheelie.stunt.race.game",
+      "name": "Bike Wheelie Stunt Master Game",
+      "developer": "Game town",
+      "url": "https://play.google.com/store/apps/details?id=com.gt.moto.bike.wheelie.stunt.race.game&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/1cjk2gtjYLWWup8QtvIyDhZ4Iz-2o2OABqE9CDPFcp6HXzrk99Z21_bqM_V3GIhGohFESqEnWyFb2pd8JdNNZh8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-15T07:59:08.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "IN"
     },
@@ -902,34 +902,6 @@
       "country": "IN"
     },
     {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/upYircnh6-mH07OxwtX7L0EPFd4_FNV71xd8w4gHiyLKopipJxwPzoupoQgpzgf8_Fk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T15:34:55.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.wildspike.wormszone",
-      "name": "Worms Zone .io - Hungry Snake",
-      "developer": "CASUAL AZUR GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/L77OBPU96qMSlZ1fPXi0Um3kv4mPi-ebf4roFvQObnLdMnTNNmlCvEbGKGfdoaVO5fs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-12T15:03:35.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "IN"
-    },
-    {
       "id": "com.imangi.templerun2",
       "name": "Temple Run 2: Endless Escape",
       "developer": "Imangi Studios",
@@ -938,34 +910,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-01-19T12:00:17.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.samishceo.slfloary",
-      "name": "777 Slots Glory",
-      "developer": "Let's Find X Int'l",
-      "url": "https://play.google.com/store/apps/details?id=com.samishceo.slfloary&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/UNGxQLhAQGhZXxWJsIC9-oEvQqgpYXJk2UhrsWm-HUefAYMJSQCG1450V2rFioLFo-lmzeNKTQNBgaAUygP59A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-11T10:00:15.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.pubg.imobile",
-      "name": "BGMI: Online Multiplayer Game",
-      "developer": "KRAFTON, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.pubg.imobile&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/DZrq_o01QmYYZcqobhnngp3-Z8O4Bl4TqoBvzYERfOfaAhO6RP31ykIHhKQvwWAa-jQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-30T01:48:20.000Z",
       "genres": [
         "Action"
       ],
@@ -986,6 +930,48 @@
       "country": "IN"
     },
     {
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/upYircnh6-mH07OxwtX7L0EPFd4_FNV71xd8w4gHiyLKopipJxwPzoupoQgpzgf8_Fk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T15:34:55.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.pubg.imobile",
+      "name": "BGMI: Online Multiplayer Game",
+      "developer": "KRAFTON, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.pubg.imobile&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/DZrq_o01QmYYZcqobhnngp3-Z8O4Bl4TqoBvzYERfOfaAhO6RP31ykIHhKQvwWAa-jQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-30T01:48:20.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.wildspike.wormszone",
+      "name": "Worms Zone .io - Hungry Snake",
+      "developer": "CASUAL AZUR GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/L77OBPU96qMSlZ1fPXi0Um3kv4mPi-ebf4roFvQObnLdMnTNNmlCvEbGKGfdoaVO5fs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-12T15:03:35.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "IN"
+    },
+    {
       "id": "com.ansangha.drdriving",
       "name": "Dr. Driving",
       "developer": "SUD Inc.",
@@ -996,6 +982,20 @@
       "releaseDate": "2025-08-25T07:34:27.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.flightsimulator.airplane3d.airportsimulator.airplane.flying",
+      "name": "Flight Simulator Airplane Game",
+      "developer": "HiveMind Games Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.flightsimulator.airplane3d.airportsimulator.airplane.flying&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/KsCb2lIScI9Xmp4bi4FzsXmFal_a-sjOpCJRte2-UPx9uwe4-XFNFcF7IQ-in8dgFAo",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T16:30:55.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "IN"
     },
@@ -1014,6 +1014,20 @@
       "country": "IN"
     },
     {
+      "id": "com.samishceo.slfloary",
+      "name": "777 Slots Glory",
+      "developer": "Let's Find X Int'l",
+      "url": "https://play.google.com/store/apps/details?id=com.samishceo.slfloary&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/UNGxQLhAQGhZXxWJsIC9-oEvQqgpYXJk2UhrsWm-HUefAYMJSQCG1450V2rFioLFo-lmzeNKTQNBgaAUygP59A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-11T10:00:15.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "IN"
+    },
+    {
       "id": "com.roblox.client",
       "name": "Roblox",
       "developer": "Roblox Corporation",
@@ -1024,48 +1038,6 @@
       "releaseDate": "2026-02-05T17:28:18.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.depths.survive.al",
-      "name": "Depth Survival",
-      "developer": "RP Suriya",
-      "url": "https://play.google.com/store/apps/details?id=com.depths.survive.al&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/_-EeAx1m5PqZ_ghZDD2kyvr8DZSdQ9BLvz76s0wNb5e57fCfT_zP_j-g5GRPIKCLThXs8a0_y80hE32RtY3-Ig",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-20T08:44:54.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.vincentb.MobControl",
-      "name": "Mob Control",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T10:12:28.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.idle.chop",
-      "name": "Idle Chop: Lumber Empire",
-      "developer": "robuminer",
-      "url": "https://play.google.com/store/apps/details?id=com.idle.chop&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/xzImlo-0xl_5jXfFn0VtdELV4fSCRv6T8MGGnI2Ck61B0_wjhx8UoHbR_csmFQw9sA8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T12:05:45.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "IN"
     },
@@ -1084,16 +1056,30 @@
       "country": "IN"
     },
     {
-      "id": "com.bettergames.truck.drivingschool.simulator",
-      "name": "Truck Games - Driving School",
-      "developer": "Better Games Studio Pty Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.bettergames.truck.drivingschool.simulator&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/Yy8DpF1eHMhXIg87QVNNDlQSN4AvVzUCaUAXH33ATRIeaqBUgPOF9ykCRptNgvpJ-Mo",
+      "id": "com.vincentb.MobControl",
+      "name": "Mob Control",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-07T07:45:50.000Z",
+      "releaseDate": "2026-02-05T10:12:28.000Z",
       "genres": [
-        "Strategy"
+        "Arcade"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.pf.bmx.cycle.games.extreme.bicycle.games",
+      "name": "BMX Cycle Extreme Bicycle Game",
+      "developer": "PlayFlix",
+      "url": "https://play.google.com/store/apps/details?id=com.pf.bmx.cycle.games.extreme.bicycle.games&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/ucPn8msqXIKuf-3Yzlo2GlNgblqUdoB9W_6fPx91wTd3LsizowXIOVRnXROC7hHGjso",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-17T07:24:11.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "IN"
     },
@@ -1106,6 +1092,48 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-03T14:30:14.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.idle.chop",
+      "name": "Idle Chop: Lumber Empire",
+      "developer": "robuminer",
+      "url": "https://play.google.com/store/apps/details?id=com.idle.chop&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/xzImlo-0xl_5jXfFn0VtdELV4fSCRv6T8MGGnI2Ck61B0_wjhx8UoHbR_csmFQw9sA8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T12:05:45.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.depths.survive.al",
+      "name": "Depth Survival",
+      "developer": "RP Suriya",
+      "url": "https://play.google.com/store/apps/details?id=com.depths.survive.al&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/_-EeAx1m5PqZ_ghZDD2kyvr8DZSdQ9BLvz76s0wNb5e57fCfT_zP_j-g5GRPIKCLThXs8a0_y80hE32RtY3-Ig",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-20T08:44:54.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.bettergames.truck.drivingschool.simulator",
+      "name": "Truck Games - Driving School",
+      "developer": "Better Games Studio Pty Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.bettergames.truck.drivingschool.simulator&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/Yy8DpF1eHMhXIg87QVNNDlQSN4AvVzUCaUAXH33ATRIeaqBUgPOF9ykCRptNgvpJ-Mo",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-07T07:45:50.000Z",
       "genres": [
         "Strategy"
       ],
@@ -1154,90 +1182,6 @@
       "country": "IN"
     },
     {
-      "id": "com.ghive.jeep.parking.car.free.game.master.apps",
-      "name": "Car Parking Games - Car Games",
-      "developer": "Frolics Simulation & Action Games",
-      "url": "https://play.google.com/store/apps/details?id=com.ghive.jeep.parking.car.free.game.master.apps&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/LmnkklpEGUu1B1O_3_1zFhTuPQHwimgvyBqSvzSEVDLUaRlCkXmJJlvM4Lak9_v7dQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-24T13:20:53.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.cryptopiablog.circus",
-      "name": "Fortune Circus 777",
-      "developer": "Romero Macias Marcos",
-      "url": "https://play.google.com/store/apps/details?id=com.cryptopiablog.circus&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/A0OCM0c_DQKcYmmcs8-dJayBsIqDW_1G7qn02sj2o_Z_KcciIkI-Wk7xjFRrzldb7h1EDkkrOZMXU_51ZXwU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-17T15:19:17.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.pf.bmx.cycle.games.extreme.bicycle.games",
-      "name": "BMX Cycle Extreme Bicycle Game",
-      "developer": "PlayFlix",
-      "url": "https://play.google.com/store/apps/details?id=com.pf.bmx.cycle.games.extreme.bicycle.games&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/ucPn8msqXIKuf-3Yzlo2GlNgblqUdoB9W_6fPx91wTd3LsizowXIOVRnXROC7hHGjso",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-17T07:24:11.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.nautilus.realcricket",
-      "name": "Real Cricket™",
-      "developer": "KRAFTON, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.nautilus.realcricket&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/jSv6ZBqavvM1O6FXERCwh_bOkXKdYs1NCrr09yYMr7KpC1SJqRSoTvV5pXCbBkt1V-xvS4pwaneYMTBeOWaPxg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T12:07:50.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T16:09:23.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.ti.jeep.driving.games.jeep.simulator.offroad.jeep",
-      "name": "SUV Jeep Driving Games 2024",
-      "developer": "Twins Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.ti.jeep.driving.games.jeep.simulator.offroad.jeep&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/fw8k1J8puXgd3NtrrHuQ75YmGlbpQttgWYagdUJi5sc8I0Sp97tdPFUgGGz0oCitR9c",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-14T12:46:14.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "IN"
-    },
-    {
       "id": "com.lighthouse.freeplay.ind",
       "name": "Last light",
       "developer": "Dinosaur-Games",
@@ -1248,20 +1192,6 @@
       "releaseDate": "2026-02-06T03:41:35.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T19:50:09.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "IN"
     },
@@ -1280,70 +1210,56 @@
       "country": "IN"
     },
     {
-      "id": "com.MadOut.BIG",
-      "name": "MadOut 2: Grand Auto Racing",
-      "developer": "MadOut Games LLC FZ",
-      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/-1-0YGaw7GAI60pb0blhRYsVwbhXTJukKsYdvellWdizK6uB-J67OnpGtF1AD58HBko",
+      "id": "com.nautilus.realcricket",
+      "name": "Real Cricket™",
+      "developer": "KRAFTON, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.nautilus.realcricket&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/jSv6ZBqavvM1O6FXERCwh_bOkXKdYs1NCrr09yYMr7KpC1SJqRSoTvV5pXCbBkt1V-xvS4pwaneYMTBeOWaPxg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-02T14:21:42.000Z",
+      "releaseDate": "2026-02-04T12:07:50.000Z",
       "genres": [
-        "Racing"
+        "Sports"
       ],
       "country": "IN"
     },
     {
-      "id": "com.easybrain.arrow.puzzle.game",
-      "name": "Arrow Puzzle - Tap Away Game",
-      "developer": "Easybrain",
-      "url": "https://play.google.com/store/apps/details?id=com.easybrain.arrow.puzzle.game&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/b--9J_VPY-VBj6ZAYDkXBZIni5JSi44_tFOeJ_HW3uVnxw1XNIkUvHF8qT9V6aLzyK_W4U5EAlDoofjjOfqWXQ",
+      "id": "com.ti.jeep.driving.games.jeep.simulator.offroad.jeep",
+      "name": "SUV Jeep Driving Games 2024",
+      "developer": "Twins Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.ti.jeep.driving.games.jeep.simulator.offroad.jeep&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/fw8k1J8puXgd3NtrrHuQ75YmGlbpQttgWYagdUJi5sc8I0Sp97tdPFUgGGz0oCitR9c",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-27T14:34:18.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.ssi.bus.games.bus.simulator",
-      "name": "Real Bus Simulator : Bus Games",
-      "developer": "Solo Studio Inc",
-      "url": "https://play.google.com/store/apps/details?id=com.ssi.bus.games.bus.simulator&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/3jwfrNqNLgdtj3zS2-i0mMACBopCLRyNWdeyC2zUxFQbgKrOAbSjiILNGzfGzmIJaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T10:33:47.000Z",
+      "releaseDate": "2025-10-14T12:46:14.000Z",
       "genres": [
         "Strategy"
       ],
       "country": "IN"
     },
     {
-      "id": "com.skgames.trafficrider",
-      "name": "Traffic Rider",
-      "developer": "skgames",
-      "url": "https://play.google.com/store/apps/details?id=com.skgames.trafficrider&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/590AflDt-hW2t85Cit_ODJPJdRiMMRn2cSF0vYNfsBpjm895x1zDy0npbD7IlDCvmNvI",
+      "id": "com.cryptopiablog.circus",
+      "name": "Fortune Circus 777",
+      "developer": "Romero Macias Marcos",
+      "url": "https://play.google.com/store/apps/details?id=com.cryptopiablog.circus&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/A0OCM0c_DQKcYmmcs8-dJayBsIqDW_1G7qn02sj2o_Z_KcciIkI-Wk7xjFRrzldb7h1EDkkrOZMXU_51ZXwU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-08T14:58:29.000Z",
+      "releaseDate": "2025-12-17T15:19:17.000Z",
       "genres": [
-        "Racing"
+        "Casual"
       ],
       "country": "IN"
     },
     {
-      "id": "water.sort.color.puzzle.offline.games",
-      "name": "Water Sort! Color Sort Puzzle",
-      "developer": "Bobodoo Game",
-      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/Ua9HL2jL6escu3RIMriqdI70cCXpCsL64ZO7Qp8VXdjHv9BrAHjIIFX5v61JHBFZJQ",
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T19:06:20.000Z",
+      "releaseDate": "2026-02-06T16:35:27.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1364,30 +1280,30 @@
       "country": "IN"
     },
     {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/IHBNszxS4-19qbvbXMs2J_G6JccF-wQWBM-6e9C1P46fwXPUL8WDccXML3gPawaiIw",
+      "id": "com.ssi.bus.games.bus.simulator",
+      "name": "Real Bus Simulator : Bus Games",
+      "developer": "Solo Studio Inc",
+      "url": "https://play.google.com/store/apps/details?id=com.ssi.bus.games.bus.simulator&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/3jwfrNqNLgdtj3zS2-i0mMACBopCLRyNWdeyC2zUxFQbgKrOAbSjiILNGzfGzmIJaQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-02T13:54:14.000Z",
+      "releaseDate": "2026-01-30T10:33:47.000Z",
       "genres": [
-        "Board"
+        "Strategy"
       ],
       "country": "IN"
     },
     {
-      "id": "com.gamincat.jigsolitaire",
-      "name": "Jigsolitaire",
-      "developer": "Gamincat",
-      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
+      "id": "com.ghive.jeep.parking.car.free.game.master.apps",
+      "name": "Car Parking Games - Car Games",
+      "developer": "Frolics Simulation & Action Games",
+      "url": "https://play.google.com/store/apps/details?id=com.ghive.jeep.parking.car.free.game.master.apps&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/LmnkklpEGUu1B1O_3_1zFhTuPQHwimgvyBqSvzSEVDLUaRlCkXmJJlvM4Lak9_v7dQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T04:25:54.000Z",
+      "releaseDate": "2025-12-24T13:20:53.000Z",
       "genres": [
-        "Puzzle"
+        "Adventure"
       ],
       "country": "IN"
     },
@@ -1400,6 +1316,90 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2025-11-04T07:54:04.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.skgames.trafficrider",
+      "name": "Traffic Rider",
+      "developer": "skgames",
+      "url": "https://play.google.com/store/apps/details?id=com.skgames.trafficrider&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/590AflDt-hW2t85Cit_ODJPJdRiMMRn2cSF0vYNfsBpjm895x1zDy0npbD7IlDCvmNvI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-08T14:58:29.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T19:50:09.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "water.sort.color.puzzle.offline.games",
+      "name": "Water Sort! Color Sort Puzzle",
+      "developer": "Bobodoo Game",
+      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/Ua9HL2jL6escu3RIMriqdI70cCXpCsL64ZO7Qp8VXdjHv9BrAHjIIFX5v61JHBFZJQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T19:06:20.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.MadOut.BIG",
+      "name": "MadOut 2: Grand Auto Racing",
+      "developer": "MadOut Games LLC FZ",
+      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/-1-0YGaw7GAI60pb0blhRYsVwbhXTJukKsYdvellWdizK6uB-J67OnpGtF1AD58HBko",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T14:21:42.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.gf.busdriving.publictransport.citypassenger.drivinggames",
+      "name": "Bus Simulator : 3D Bus Games",
+      "developer": "GamePark",
+      "url": "https://play.google.com/store/apps/details?id=com.gf.busdriving.publictransport.citypassenger.drivinggames&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/rp9LqQcNwWly8QgjZnDdiK8gSHQyUAHTVzC5DQBFDC-Fm3eHZobtoFTUAlsdRBcatpI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-20T12:05:35.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.easybrain.arrow.puzzle.game",
+      "name": "Arrow Puzzle - Tap Away Game",
+      "developer": "Easybrain",
+      "url": "https://play.google.com/store/apps/details?id=com.easybrain.arrow.puzzle.game&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/b--9J_VPY-VBj6ZAYDkXBZIni5JSi44_tFOeJ_HW3uVnxw1XNIkUvHF8qT9V6aLzyK_W4U5EAlDoofjjOfqWXQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T14:34:18.000Z",
       "genres": [
         "Puzzle"
       ],
