@@ -1,8 +1,50 @@
 {
   "country": "CZ",
   "store": "google",
-  "updatedAt": "2026-02-06T21:36:29.263Z",
+  "updatedAt": "2026-02-07T08:49:17.895Z",
   "new": [
+    {
+      "id": "com.unicostudio.braintest",
+      "name": "Brain Test: Tricky Puzzles",
+      "developer": "Unico Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.unicostudio.braintest&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/L4-Oa6O8GV4I23JTmo-xKSjfyjowc0d2uGGfdScYkCTMk6ftxTwGowdAjgh2nOrJlEmI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T18:17:22.000Z",
+      "genres": [
+        "Trivia"
+      ],
+      "country": "CZ"
+    },
+    {
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast: Wonders",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:43:25.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "CZ"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:35:27.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CZ"
+    },
     {
       "id": "com.yolo.hiddenobjects",
       "name": "Find Hidden Objects - Spot It!",
@@ -200,14 +242,14 @@
       "country": "CZ"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "id": "com.higame.brain.twist.tricky.puzzle",
+      "name": "Prison Puzzle: Brain Twist",
+      "developer": "HIGAME LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.higame.brain.twist.tricky.puzzle&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/D98i4j50j9-2uH6S0ogm6KKUfq4qyZHo5XLzumjxIpe_Y-CJHSO1Bf4JIY_BDy-HBQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T16:09:23.000Z",
+      "releaseDate": "2026-02-05T16:29:26.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -312,6 +354,20 @@
       "country": "CZ"
     },
     {
+      "id": "easy.sudoku.puzzle.solver.free",
+      "name": "Sudoku - Classic Sudoku Puzzle",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=easy.sudoku.puzzle.solver.free&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/hYLElG0RAgn60XE6cfgsPPW_JB63PEVWvDtvhipAGvTpxBX5YgLGt3UXvnJ_kRwKhnE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T10:50:00.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CZ"
+    },
+    {
       "id": "com.vincentb.MobControl",
       "name": "Mob Control",
       "developer": "VOODOO",
@@ -396,20 +452,6 @@
       "country": "CZ"
     },
     {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast: Wonders",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T15:04:59.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "CZ"
-    },
-    {
       "id": "com.oakever.tiletrip",
       "name": "Tile Explorer - Triple Match",
       "developer": "Oakever Games",
@@ -446,48 +488,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-04T10:45:25.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CZ"
-    },
-    {
-      "id": "com.asmr.mukbang.livestream.party",
-      "name": "Mukbang ASMR Livestream Party",
-      "developer": "CAT Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.asmr.mukbang.livestream.party&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/RpbvS9LYO_8gddpqwVpxBhAO4zY602siXOv6mIvh7xoNUwm0UtygOUI2VolGeQFkR7-2zB6S1EGy7CVJyfAksA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T10:10:24.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "CZ"
-    },
-    {
-      "id": "com.color.pixel.shooter",
-      "name": "Color Blaze Shooter",
-      "developer": "FUNFINITY HK",
-      "url": "https://play.google.com/store/apps/details?id=com.color.pixel.shooter&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/-z--bIE_zD0e1EIG1mjY6boELYRzx7srjCsWmKAWvmSdRRyE_s_zZTwI2nLJ5NOhVPXho0wqjdAnzLEh4pjiRg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T08:31:28.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CZ"
-    },
-    {
-      "id": "com.gamincat.jigsolitaire",
-      "name": "Jigsolitaire",
-      "developer": "Gamincat",
-      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T04:25:54.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -662,6 +662,20 @@
       "country": "CZ"
     },
     {
+      "id": "com.kiwigames.happycitizen.gp",
+      "name": "Happy Citizens - Mayor Sim",
+      "developer": "LifeSim",
+      "url": "https://play.google.com/store/apps/details?id=com.kiwigames.happycitizen.gp&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/Gb6PM7ytQrhsb8wWPcExHlSf0N--AxGyoJ29Xl3cRtaiIDDDWKRDlCbYebL2i1gNjck",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T03:44:29.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "CZ"
+    },
+    {
       "id": "com.fatmerge.global",
       "name": "Tasty Travels: Merge Game",
       "developer": "Century Games PTE. LTD.",
@@ -684,20 +698,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-01T14:43:41.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CZ"
-    },
-    {
-      "id": "ig.com.hot.pot.qdc",
-      "name": "Hotpot Flow: Food Games",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=ig.com.hot.pot.qdc&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/wy4-8vLbPov2utuXORrZKLhkYlDjhy4JRs8EgBa5zsEPsprLSVdeKKTO3haVBdJ0Q9kkeKMkPxmByOLCw_kh2Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-31T07:30:56.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -734,6 +734,20 @@
       "country": "CZ"
     },
     {
+      "id": "com.dreamgames.royalkingdom",
+      "name": "Royal Kingdom",
+      "developer": "Dream Games, Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T11:27:21.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CZ"
+    },
+    {
       "id": "com.roblox.client",
       "name": "Roblox",
       "developer": "Roblox Corporation",
@@ -755,35 +769,7 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T16:09:23.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CZ"
-    },
-    {
-      "id": "com.mergegames.gossipharbor",
-      "name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/2maEg00OhWU90wKbYuqJ_5k4G00dXS1v_v1DfzaqBvlJZA3hynzzNgXcy6JYkf_C0ZBo7n-BGjKsiU9Z6NmZ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T12:24:15.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CZ"
-    },
-    {
-      "id": "com.dreamgames.royalkingdom",
-      "name": "Royal Kingdom",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T11:27:21.000Z",
+      "releaseDate": "2026-02-06T16:35:27.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -804,6 +790,20 @@
       "country": "CZ"
     },
     {
+      "id": "com.mergegames.gossipharbor",
+      "name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/2maEg00OhWU90wKbYuqJ_5k4G00dXS1v_v1DfzaqBvlJZA3hynzzNgXcy6JYkf_C0ZBo7n-BGjKsiU9Z6NmZ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T12:24:15.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CZ"
+    },
+    {
       "id": "com.playrix.township",
       "name": "Township",
       "developer": "Playrix",
@@ -814,20 +814,6 @@
       "releaseDate": "2026-01-29T16:33:15.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "CZ"
-    },
-    {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast: Wonders",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T15:04:59.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "CZ"
     },
@@ -846,20 +832,6 @@
       "country": "CZ"
     },
     {
-      "id": "com.sled.surfers.game",
-      "name": "Sled Surfers",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/7m1Ircp5Ptk4lgfevHB_Ij253sZLtkeUdHpx5CNJ4OiFgUPYz96e0tc0bzT8nEKhl-J5",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T17:36:54.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "CZ"
-    },
-    {
       "id": "com.monopoly.dream.idle.king",
       "name": "Top Tycoon: Coin Theme Empire",
       "developer": "BeheFun Games Limited",
@@ -870,6 +842,20 @@
       "releaseDate": "2026-01-15T14:29:01.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "CZ"
+    },
+    {
+      "id": "com.sled.surfers.game",
+      "name": "Sled Surfers",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/7m1Ircp5Ptk4lgfevHB_Ij253sZLtkeUdHpx5CNJ4OiFgUPYz96e0tc0bzT8nEKhl-J5",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T17:36:54.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "CZ"
     },
@@ -888,16 +874,16 @@
       "country": "CZ"
     },
     {
-      "id": "com.robtopx.geometryjumplite",
-      "name": "Geometry Dash Lite",
-      "developer": "RobTop Games",
-      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast: Wonders",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-30T14:03:50.000Z",
+      "releaseDate": "2026-02-06T16:43:25.000Z",
       "genres": [
-        "Arcade"
+        "Board"
       ],
       "country": "CZ"
     },
@@ -930,6 +916,20 @@
       "country": "CZ"
     },
     {
+      "id": "com.fatmerge.global",
+      "name": "Tasty Travels: Merge Game",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/eBK_Zz3fVbQFReaVyFJbj7VsJcUilWtdY6iEezlI5uULMPG_uLc6bTGgDR3uxrqKOlTI2HIefLl4R7khU13n6g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T02:12:04.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "CZ"
+    },
+    {
       "id": "com.oakever.tiletrip",
       "name": "Tile Explorer - Triple Match",
       "developer": "Oakever Games",
@@ -938,6 +938,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-04T14:18:09.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CZ"
+    },
+    {
+      "id": "com.ecffri.arrows",
+      "name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore UG",
+      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/uD7EXtrZgAt275U1Zb7Ej11VpLdJ1fgjVSdy6g5Ref_XaNkX4OK2Ev16wRpgHOqYkg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T13:57:41.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -958,20 +972,6 @@
       "country": "CZ"
     },
     {
-      "id": "com.fatmerge.global",
-      "name": "Tasty Travels: Merge Game",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/eBK_Zz3fVbQFReaVyFJbj7VsJcUilWtdY6iEezlI5uULMPG_uLc6bTGgDR3uxrqKOlTI2HIefLl4R7khU13n6g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T02:12:04.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "CZ"
-    },
-    {
       "id": "com.minigames.antistress.relaxinggames.toys",
       "name": "Antistress Relaxing Mini Games",
       "developer": "CAT Studio",
@@ -986,44 +986,16 @@
       "country": "CZ"
     },
     {
-      "id": "com.ecffri.arrows",
-      "name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore UG",
-      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/uD7EXtrZgAt275U1Zb7Ej11VpLdJ1fgjVSdy6g5Ref_XaNkX4OK2Ev16wRpgHOqYkg",
+      "id": "com.robtopx.geometryjumplite",
+      "name": "Geometry Dash Lite",
+      "developer": "RobTop Games",
+      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T13:57:41.000Z",
+      "releaseDate": "2026-01-30T14:03:50.000Z",
       "genres": [
-        "Puzzle"
-      ],
-      "country": "CZ"
-    },
-    {
-      "id": "com.supercell.brawlstars",
-      "name": "Brawl Stars",
-      "developer": "Supercell",
-      "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/tYB_jWhdJuauLSPJ7LVj_5dUq6g_eQwj2wPNG9jFN78zKbDqMNfnEU2fUGiDQtYAy0yHn4SMnaF0lhanJpm0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T07:32:47.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "CZ"
-    },
-    {
-      "id": "com.xman.eu.gp",
-      "name": "X-Clash",
-      "developer": "Glaciers Game",
-      "url": "https://play.google.com/store/apps/details?id=com.xman.eu.gp&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/L0O9c6skuElD9nlNoITmBbVYwVzY_5AW7L3lonW3fPcczes9Cj2FiJMOHXYHpQ9y16J19lLxo5bpJ5GPdCycDic",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T02:20:45.000Z",
-      "genres": [
-        "Casual"
+        "Arcade"
       ],
       "country": "CZ"
     },
@@ -1042,6 +1014,34 @@
       "country": "CZ"
     },
     {
+      "id": "com.xman.eu.gp",
+      "name": "X-Clash",
+      "developer": "Glaciers Game",
+      "url": "https://play.google.com/store/apps/details?id=com.xman.eu.gp&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/L0O9c6skuElD9nlNoITmBbVYwVzY_5AW7L3lonW3fPcczes9Cj2FiJMOHXYHpQ9y16J19lLxo5bpJ5GPdCycDic",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T02:20:45.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "CZ"
+    },
+    {
+      "id": "com.supercell.brawlstars",
+      "name": "Brawl Stars",
+      "developer": "Supercell",
+      "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/tYB_jWhdJuauLSPJ7LVj_5dUq6g_eQwj2wPNG9jFN78zKbDqMNfnEU2fUGiDQtYAy0yHn4SMnaF0lhanJpm0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T07:32:47.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "CZ"
+    },
+    {
       "id": "in.playsimple.wordsearch",
       "name": "Word Search Explorer",
       "developer": "PlaySimple Games",
@@ -1056,20 +1056,6 @@
       "country": "CZ"
     },
     {
-      "id": "com.bunbunstudio.magicblocktiles",
-      "name": "Music Piano 7: Rush Song Games",
-      "developer": "Melodya Muses",
-      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T03:06:33.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "CZ"
-    },
-    {
       "id": "solitaire.patience.card.games.klondike.free",
       "name": "Solitaire - Classic Card Games",
       "developer": "Guru Puzzle Game",
@@ -1080,6 +1066,20 @@
       "releaseDate": "2026-02-06T11:52:01.000Z",
       "genres": [
         "Card"
+      ],
+      "country": "CZ"
+    },
+    {
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T03:06:33.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "CZ"
     },
@@ -1122,34 +1122,6 @@
       "releaseDate": "2026-02-06T09:31:13.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "CZ"
-    },
-    {
-      "id": "com.dreamgames.royalmatch",
-      "name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T15:41:31.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CZ"
-    },
-    {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-20T12:22:26.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "CZ"
     },
@@ -1224,20 +1196,6 @@
       "country": "CZ"
     },
     {
-      "id": "com.fugo.wow",
-      "name": "Words of Wonders: Crossword",
-      "developer": "Fugo Games",
-      "url": "https://play.google.com/store/apps/details?id=com.fugo.wow&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/8Zc2SWYy3t70pvIdX9PeuaHpZZIP8sJybKiBUH2vkdxx9R2rypcIE-rN9_fbt-G7rWQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T20:15:06.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "CZ"
-    },
-    {
       "id": "com.fashionlink.northstone",
       "name": "Jigmerge™ Puzzles",
       "developer": "RedInfinity Studio",
@@ -1248,20 +1206,6 @@
       "releaseDate": "2026-01-23T16:44:19.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "CZ"
-    },
-    {
-      "id": "com.loomgames.pixelflow",
-      "name": "Pixel Flow!",
-      "developer": "Loom Games A.Ş.",
-      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-01T14:43:41.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "CZ"
     },
@@ -1294,16 +1238,16 @@
       "country": "CZ"
     },
     {
-      "id": "com.kayac.breakragdoll",
-      "name": "Ragdoll Break: Let's destroy!",
-      "developer": "KAYAC Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.kayac.breakragdoll&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/PZVCOncNOW-vQ0oHmQEu3k9qJEPAoDpYZYRIpTPrhnMmuPPxrmPwzTrHupu6IYckjtY",
+      "id": "com.dreamgames.royalmatch",
+      "name": "Royal Match",
+      "developer": "Dream Games, Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-21T07:59:14.000Z",
+      "releaseDate": "2026-01-30T15:41:31.000Z",
       "genres": [
-        "Action"
+        "Puzzle"
       ],
       "country": "CZ"
     },
@@ -1322,20 +1266,6 @@
       "country": "CZ"
     },
     {
-      "id": "com.greyfun.puzzle.jigsaw",
-      "name": "Classic Jigsaw",
-      "developer": "Greyfun Games",
-      "url": "https://play.google.com/store/apps/details?id=com.greyfun.puzzle.jigsaw&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/GcrIXhTqmxA6JQs1lJxzzFDNwU8UEXMdxxlzEfm7Ku39WxVxoJ0GApV5bJJcWgWYhPQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T13:41:40.000Z",
-      "genres": [
-        "Trivia"
-      ],
-      "country": "CZ"
-    },
-    {
       "id": "com.xmonetize.quizzland",
       "name": "QuizzLand. Quiz & Trivia game",
       "developer": "Quiz & Trivia Games by Mno Go Apps",
@@ -1346,6 +1276,20 @@
       "releaseDate": "2026-02-06T13:48:27.000Z",
       "genres": [
         "Trivia"
+      ],
+      "country": "CZ"
+    },
+    {
+      "id": "com.vincentb.MobControl",
+      "name": "Mob Control",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T10:12:28.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "CZ"
     },
@@ -1364,14 +1308,28 @@
       "country": "CZ"
     },
     {
-      "id": "com.vincentb.MobControl",
-      "name": "Mob Control",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=CZ",
-      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
+      "id": "com.fugo.wow",
+      "name": "Words of Wonders: Crossword",
+      "developer": "Fugo Games",
+      "url": "https://play.google.com/store/apps/details?id=com.fugo.wow&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/8Zc2SWYy3t70pvIdX9PeuaHpZZIP8sJybKiBUH2vkdxx9R2rypcIE-rN9_fbt-G7rWQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T10:12:28.000Z",
+      "releaseDate": "2026-02-05T20:15:06.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "CZ"
+    },
+    {
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-20T12:22:26.000Z",
       "genres": [
         "Arcade"
       ],
@@ -1402,6 +1360,48 @@
       "releaseDate": "2026-02-03T19:50:09.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "CZ"
+    },
+    {
+      "id": "math.puzzle.games.crossmath.number.puzzles.free",
+      "name": "Crossmath® - Math Puzzle Games",
+      "developer": "Guru Puzzle Game",
+      "url": "https://play.google.com/store/apps/details?id=math.puzzle.games.crossmath.number.puzzles.free&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/gZMoYCpjSwN_BJtwVM7f2UQASnQ0EUch1Ylpg3NaFvF-lq82gHdc1FoL1KucPtVXkQ5V",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T02:59:54.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CZ"
+    },
+    {
+      "id": "com.gof.global",
+      "name": "Whiteout Survival",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.gof.global&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/gtcDOls1xCaV_qtRKx3dsk75bNBqel81gWkhK2xvgq5KKHj_71lnZjXYO6He97w0j-U",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-18T15:56:12.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "CZ"
+    },
+    {
+      "id": "ubd.urban.bus.driving",
+      "name": "Urban Bus Driving 3D",
+      "developer": "WalkNote",
+      "url": "https://play.google.com/store/apps/details?id=ubd.urban.bus.driving&hl=en&gl=CZ",
+      "artwork": "https://play-lh.googleusercontent.com/vAtpCyUWeA4rLoiJutvwPJcKuLPu9R7x5X7LRKaAQtAq7bbCl7z4elBAF3BCWzwLa4DuHJ6h15lgiC6B4Vjb",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-04T07:53:00.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "CZ"
     }
