@@ -1,7 +1,7 @@
 {
   "country": "HK",
   "store": "google",
-  "updatedAt": "2026-02-07T09:50:10.996Z",
+  "updatedAt": "2026-02-07T16:02:53.751Z",
   "new": [
     {
       "id": "com.aniplex.resu",
@@ -9,6 +9,18 @@
       "developer": "Aniplex Inc.",
       "url": "https://play.google.com/store/apps/details?id=com.aniplex.resu",
       "artwork": "https://play-lh.googleusercontent.com/rodyX-mO32H9AwUsKcJC0GDVr4gUbQuN43-StYKfoLTMR2RoGO8hmfDiM0OShDcsv0Nki4SgjRhBFqDCOMfTqQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
+      "id": "com.cayenne.plm",
+      "name": "霹靂蘑菇",
+      "developer": "CayenneTech",
+      "url": "https://play.google.com/store/apps/details?id=com.cayenne.plm",
+      "artwork": "https://play-lh.googleusercontent.com/KLrdWYq5eJ7gTa63pf82LSXR7LgO0kYs5SxGcBOVY85bbcL2W_ec5ZE81TDIG53jjDnLtX9W2nRZ201vYOIQ9g",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -33,18 +45,6 @@
       "developer": "Roblox Corporation",
       "url": "https://play.google.com/store/apps/details?id=com.roblox.client",
       "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
-      "id": "com.cayenne.plm",
-      "name": "霹靂蘑菇",
-      "developer": "CayenneTech",
-      "url": "https://play.google.com/store/apps/details?id=com.cayenne.plm",
-      "artwork": "https://play-lh.googleusercontent.com/KLrdWYq5eJ7gTa63pf82LSXR7LgO0kYs5SxGcBOVY85bbcL2W_ec5ZE81TDIG53jjDnLtX9W2nRZ201vYOIQ9g",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -100,18 +100,6 @@
       "country": "HK"
     },
     {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong",
-      "artwork": "https://play-lh.googleusercontent.com/IHBNszxS4-19qbvbXMs2J_G6JccF-wQWBM-6e9C1P46fwXPUL8WDccXML3gPawaiIw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
       "id": "com.xd.xdtglobal.gp",
       "name": "Heartopia",
       "developer": "XD Entertainment Co., Ltd.",
@@ -124,11 +112,11 @@
       "country": "HK"
     },
     {
-      "id": "com.ventogames.findthecat",
-      "name": "Find The Cat - Spot It!",
-      "developer": "Agave Games",
-      "url": "https://play.google.com/store/apps/details?id=com.ventogames.findthecat",
-      "artwork": "https://play-lh.googleusercontent.com/Z1KD8ccfmbj25tAv8Pou408HLw6eg3nqkyj-rHexvMHmOMNIYNLVvCDofN9yBcptlFqOw06VMQ3CknGxS9e6pug",
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong",
+      "artwork": "https://play-lh.googleusercontent.com/IHBNszxS4-19qbvbXMs2J_G6JccF-wQWBM-6e9C1P46fwXPUL8WDccXML3gPawaiIw",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -189,6 +177,18 @@
       "developer": "Youyoutang Technology",
       "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android",
       "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
+      "id": "com.ventogames.findthecat",
+      "name": "Find The Cat - Spot It!",
+      "developer": "Agave Games",
+      "url": "https://play.google.com/store/apps/details?id=com.ventogames.findthecat",
+      "artwork": "https://play-lh.googleusercontent.com/Z1KD8ccfmbj25tAv8Pou408HLw6eg3nqkyj-rHexvMHmOMNIYNLVvCDofN9yBcptlFqOw06VMQ3CknGxS9e6pug",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -436,18 +436,6 @@
       "country": "HK"
     },
     {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle",
-      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
       "id": "com.youmusic.magictiles",
       "name": "Magic Tiles 3™ - Piano Game",
       "developer": "AMANOTES PTE. LTD.",
@@ -513,6 +501,18 @@
       "developer": "Supercell",
       "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
       "artwork": "https://play-lh.googleusercontent.com/tYB_jWhdJuauLSPJ7LVj_5dUq6g_eQwj2wPNG9jFN78zKbDqMNfnEU2fUGiDQtYAy0yHn4SMnaF0lhanJpm0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle",
+      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -618,6 +618,18 @@
       "country": "HK"
     },
     {
+      "id": "com.cayenne.plm",
+      "name": "霹靂蘑菇",
+      "developer": "CayenneTech",
+      "url": "https://play.google.com/store/apps/details?id=com.cayenne.plm",
+      "artwork": "https://play-lh.googleusercontent.com/KLrdWYq5eJ7gTa63pf82LSXR7LgO0kYs5SxGcBOVY85bbcL2W_ec5ZE81TDIG53jjDnLtX9W2nRZ201vYOIQ9g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
       "id": "com.igg.android.doomsdaylastsurvivors",
       "name": "Doomsday × Attack on Titan",
       "developer": "IGG.COM",
@@ -635,18 +647,6 @@
       "developer": "Roblox Corporation",
       "url": "https://play.google.com/store/apps/details?id=com.roblox.client",
       "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
-      "id": "com.cayenne.plm",
-      "name": "霹靂蘑菇",
-      "developer": "CayenneTech",
-      "url": "https://play.google.com/store/apps/details?id=com.cayenne.plm",
-      "artwork": "https://play-lh.googleusercontent.com/KLrdWYq5eJ7gTa63pf82LSXR7LgO0kYs5SxGcBOVY85bbcL2W_ec5ZE81TDIG53jjDnLtX9W2nRZ201vYOIQ9g",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -702,18 +702,6 @@
       "country": "HK"
     },
     {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong",
-      "artwork": "https://play-lh.googleusercontent.com/IHBNszxS4-19qbvbXMs2J_G6JccF-wQWBM-6e9C1P46fwXPUL8WDccXML3gPawaiIw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
       "id": "com.xd.xdtglobal.gp",
       "name": "Heartopia",
       "developer": "XD Entertainment Co., Ltd.",
@@ -726,11 +714,11 @@
       "country": "HK"
     },
     {
-      "id": "com.ventogames.findthecat",
-      "name": "Find The Cat - Spot It!",
-      "developer": "Agave Games",
-      "url": "https://play.google.com/store/apps/details?id=com.ventogames.findthecat",
-      "artwork": "https://play-lh.googleusercontent.com/Z1KD8ccfmbj25tAv8Pou408HLw6eg3nqkyj-rHexvMHmOMNIYNLVvCDofN9yBcptlFqOw06VMQ3CknGxS9e6pug",
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong",
+      "artwork": "https://play-lh.googleusercontent.com/IHBNszxS4-19qbvbXMs2J_G6JccF-wQWBM-6e9C1P46fwXPUL8WDccXML3gPawaiIw",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -791,6 +779,18 @@
       "developer": "Youyoutang Technology",
       "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android",
       "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
+      "id": "com.ventogames.findthecat",
+      "name": "Find The Cat - Spot It!",
+      "developer": "Agave Games",
+      "url": "https://play.google.com/store/apps/details?id=com.ventogames.findthecat",
+      "artwork": "https://play-lh.googleusercontent.com/Z1KD8ccfmbj25tAv8Pou408HLw6eg3nqkyj-rHexvMHmOMNIYNLVvCDofN9yBcptlFqOw06VMQ3CknGxS9e6pug",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1014,35 +1014,23 @@
       "country": "HK"
     },
     {
+      "id": "com.fun.funclicker.spoopy",
+      "name": "Fun Clicker",
+      "developer": "Amobear Game Publishing",
+      "url": "https://play.google.com/store/apps/details?id=com.fun.funclicker.spoopy",
+      "artwork": "https://play-lh.googleusercontent.com/QEO7l6-8Vv7uc8PTp1E9qbX0LrroCljxc9HYXREaRlMpKCIdxV_UGHJvSgO9c7TVD7-FucNU8v6sz8zXUK3LDA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
       "id": "com.king.candycrushsaga",
       "name": "Candy Crush Saga",
       "developer": "King",
       "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga",
       "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
-      "id": "com.sniper3d.sfgame",
-      "name": "Sniper 3D: Alien War",
-      "developer": "KampfireGames",
-      "url": "https://play.google.com/store/apps/details?id=com.sniper3d.sfgame",
-      "artwork": "https://play-lh.googleusercontent.com/rAZ7BknRWQKYyBUL3A93G9Jbl-MewLJiq-Ni6YUP9B3Jv9HiFTCROyXVeFyy8Qm2XcNK2OvZHYJFIjmRmKL7eHE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle",
-      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1115,6 +1103,18 @@
       "developer": "Supercell",
       "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
       "artwork": "https://play-lh.googleusercontent.com/tYB_jWhdJuauLSPJ7LVj_5dUq6g_eQwj2wPNG9jFN78zKbDqMNfnEU2fUGiDQtYAy0yHn4SMnaF0lhanJpm0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle",
+      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
