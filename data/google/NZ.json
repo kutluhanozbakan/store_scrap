@@ -1,8 +1,22 @@
 {
   "country": "NZ",
   "store": "google",
-  "updatedAt": "2026-02-07T11:40:14.770Z",
+  "updatedAt": "2026-02-07T18:02:30.513Z",
   "new": [
+    {
+      "id": "spell.word.screw.sort.puzzle",
+      "name": "Word Screw: 3D Word Puzzle",
+      "developer": "Astrasen Play",
+      "url": "https://play.google.com/store/apps/details?id=spell.word.screw.sort.puzzle&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/Eg7OKrLPjTk18iSTPhjRLp70vqfNBQ0wRCAeCOTr8KSvRG_siDM7WPO2ZQPYVtUV_Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-07T11:38:23.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "NZ"
+    },
     {
       "id": "com.amelosinteractive.snake",
       "name": "Snake.io - Fun Snake .io Games",
@@ -56,6 +70,20 @@
       "releaseDate": "2026-02-06T16:43:25.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "NZ"
+    },
+    {
+      "id": "com.loomgames.pixelflow",
+      "name": "Pixel Flow!",
+      "developer": "Loom Games A.Ş.",
+      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:36:12.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "NZ"
     },
@@ -270,20 +298,6 @@
       "country": "NZ"
     },
     {
-      "id": "com.pazugames.avatarworld",
-      "name": "Avatar World ®",
-      "developer": "Pazu Games",
-      "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/jJFyM3fX6KGvTJUim-_mcYVcVD4g2vPL-7X7KZl1v0ieWIxjgfJlKzKoDmV5MNyo91QiN2p7smNld27XzUiKmA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T15:32:26.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "NZ"
-    },
-    {
       "id": "wool.match.color.sort.jam.puzzle",
       "name": "Wool Crush™ - Yarn Car Jam",
       "developer": "Astrasen Play",
@@ -334,20 +348,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-05T13:16:14.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "NZ"
-    },
-    {
-      "id": "com.zm.blockaway",
-      "name": "Block Away - Tap Out Puzzle",
-      "developer": "Tripledot Studios Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.zm.blockaway&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/Zq-wLWkJZ7OonrQhny7D_Y3dOBcFBbhRwrtQoAbOiaycK85HNNHW94tjkmQ7QkHSkyE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T13:13:39.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -748,20 +748,6 @@
       "country": "NZ"
     },
     {
-      "id": "com.ecffri.arrows",
-      "name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore UG",
-      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/uD7EXtrZgAt275U1Zb7Ej11VpLdJ1fgjVSdy6g5Ref_XaNkX4OK2Ev16wRpgHOqYkg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T13:57:41.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "NZ"
-    },
-    {
       "id": "com.nebula.mahjongtile",
       "name": "Mahjong Blast: Wonders",
       "developer": "Nebula  Studio",
@@ -786,6 +772,20 @@
       "releaseDate": "2026-02-03T09:09:20.000Z",
       "genres": [
         "Strategy"
+      ],
+      "country": "NZ"
+    },
+    {
+      "id": "com.ecffri.arrows",
+      "name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore UG",
+      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/uD7EXtrZgAt275U1Zb7Ej11VpLdJ1fgjVSdy6g5Ref_XaNkX4OK2Ev16wRpgHOqYkg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T13:57:41.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "NZ"
     },
@@ -846,6 +846,48 @@
       "country": "NZ"
     },
     {
+      "id": "com.innersloth.spacemafia",
+      "name": "Among Us",
+      "developer": "Innersloth LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-10T22:11:03.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "NZ"
+    },
+    {
+      "id": "com.robtopx.geometryjumplite",
+      "name": "Geometry Dash Lite",
+      "developer": "RobTop Games",
+      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T14:03:50.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "NZ"
+    },
+    {
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-20T12:22:26.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "NZ"
+    },
+    {
       "id": "com.fun.funclicker.spoopy",
       "name": "Fun Clicker",
       "developer": "Amobear Game Publishing",
@@ -888,28 +930,14 @@
       "country": "NZ"
     },
     {
-      "id": "com.innersloth.spacemafia",
-      "name": "Among Us",
-      "developer": "Innersloth LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-10T22:11:03.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "NZ"
-    },
-    {
-      "id": "com.robtopx.geometryjumplite",
-      "name": "Geometry Dash Lite",
-      "developer": "RobTop Games",
-      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T14:03:50.000Z",
+      "releaseDate": "2026-02-03T19:50:09.000Z",
       "genres": [
         "Arcade"
       ],
@@ -958,16 +986,16 @@
       "country": "NZ"
     },
     {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "id": "com.iogame.gearworld",
+      "name": "Gear Defenders",
+      "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.iogame.gearworld&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/mAGrZRPJJBWvOJziROVGpETXnjBu_4dS0o2VBgDcwwKyY4akUxRxwoVP5Q1soalxX5bIVDBkDB1KXZPBfqKZ0Q",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-20T12:22:26.000Z",
+      "releaseDate": "2026-02-02T06:04:09.000Z",
       "genres": [
-        "Arcade"
+        "Casual"
       ],
       "country": "NZ"
     },
@@ -996,6 +1024,20 @@
       "releaseDate": "2026-02-04T23:31:51.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "NZ"
+    },
+    {
+      "id": "com.mergegames.gossipharbor",
+      "name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/2maEg00OhWU90wKbYuqJ_5k4G00dXS1v_v1DfzaqBvlJZA3hynzzNgXcy6JYkf_C0ZBo7n-BGjKsiU9Z6NmZ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T12:24:15.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "NZ"
     },
@@ -1084,34 +1126,6 @@
       "country": "NZ"
     },
     {
-      "id": "com.iogame.gearworld",
-      "name": "Gear Defenders",
-      "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.iogame.gearworld&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/mAGrZRPJJBWvOJziROVGpETXnjBu_4dS0o2VBgDcwwKyY4akUxRxwoVP5Q1soalxX5bIVDBkDB1KXZPBfqKZ0Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T06:04:09.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "NZ"
-    },
-    {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T19:50:09.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "NZ"
-    },
-    {
       "id": "com.playrix.township",
       "name": "Township",
       "developer": "Playrix",
@@ -1122,6 +1136,20 @@
       "releaseDate": "2026-01-29T16:33:15.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "NZ"
+    },
+    {
+      "id": "com.puzzlegames.puzzlebrickslegend",
+      "name": "Color Block: Combo Blast",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.puzzlebrickslegend&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T09:36:13.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "NZ"
     },
@@ -1140,6 +1168,20 @@
       "country": "NZ"
     },
     {
+      "id": "in.playsimple.wordbingo",
+      "name": "Word Roll",
+      "developer": "PlaySimple Games",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordbingo&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/SrvzXIOrNFCs_uYACI0Fr-Y_tt-4gtAYNd6YDCrYchkXERWJY7MAZpuXiwViwc3kASk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T12:24:16.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "NZ"
+    },
+    {
       "id": "com.infinitygames.golfinctycoon",
       "name": "Golf Inc. Tycoon",
       "developer": "Infinity Games, Lda",
@@ -1150,6 +1192,20 @@
       "releaseDate": "2026-02-03T10:33:31.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "NZ"
+    },
+    {
+      "id": "com.loomgames.pixelflow",
+      "name": "Pixel Flow!",
+      "developer": "Loom Games A.Ş.",
+      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:36:12.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "NZ"
     },
@@ -1168,14 +1224,14 @@
       "country": "NZ"
     },
     {
-      "id": "com.mergegames.gossipharbor",
-      "name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/2maEg00OhWU90wKbYuqJ_5k4G00dXS1v_v1DfzaqBvlJZA3hynzzNgXcy6JYkf_C0ZBo7n-BGjKsiU9Z6NmZ",
+      "id": "com.higame.brain.twist.tricky.puzzle",
+      "name": "Prison Puzzle: Brain Twist",
+      "developer": "HIGAME LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.higame.brain.twist.tricky.puzzle&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/D98i4j50j9-2uH6S0ogm6KKUfq4qyZHo5XLzumjxIpe_Y-CJHSO1Bf4JIY_BDy-HBQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-27T12:24:15.000Z",
+      "releaseDate": "2026-02-05T16:29:26.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1204,6 +1260,34 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-02T02:12:04.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "NZ"
+    },
+    {
+      "id": "com.openmygame.games.android.jigsaw.solitaire.puzzle",
+      "name": "Cardscapes: Jigsaw Puzzle",
+      "developer": "Malpa Games",
+      "url": "https://play.google.com/store/apps/details?id=com.openmygame.games.android.jigsaw.solitaire.puzzle&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/vf8KzfHG1J7oCp9O-FoSNKMc-Gzjnhw4_7su1RsB4pdF6JARn3vy-xqhwqyj3nowJmdrN-HI0dHfg5vnMJc_ro8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T15:59:15.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "NZ"
+    },
+    {
+      "id": "com.JindoBlu.OfflineGames",
+      "name": "Offline Games - No Wifi Games",
+      "developer": "JindoBlu",
+      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.OfflineGames&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/UoBeMWwIeHSxGAx1EhmvWrG1lkzlG78UByGwEkEhRlp40udqC0hHJeRTl266g9aG-A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T13:18:19.000Z",
       "genres": [
         "Casual"
       ],
@@ -1266,56 +1350,14 @@
       "country": "NZ"
     },
     {
-      "id": "com.loomgames.pixelflow",
-      "name": "Pixel Flow!",
-      "developer": "Loom Games A.Ş.",
-      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
+      "id": "com.plinkk0.bubble.neon",
+      "name": "Plinkk0 Bubble",
+      "developer": "Gozerdian",
+      "url": "https://play.google.com/store/apps/details?id=com.plinkk0.bubble.neon&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/ZDjDRyx72SZ2ACIW2sz3kMWUG6kzee2Jbo1A2ZyVmr6WHt1R8jioLu9M5B-AelVMluCGyHV8TxlvQ_OmTsIH",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-01T14:43:41.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "NZ"
-    },
-    {
-      "id": "in.playsimple.wordbingo",
-      "name": "Word Roll",
-      "developer": "PlaySimple Games",
-      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordbingo&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/SrvzXIOrNFCs_uYACI0Fr-Y_tt-4gtAYNd6YDCrYchkXERWJY7MAZpuXiwViwc3kASk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T12:24:16.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "NZ"
-    },
-    {
-      "id": "com.puzzlegames.puzzlebrickslegend",
-      "name": "Color Block: Combo Blast",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.puzzlebrickslegend&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T09:36:13.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "NZ"
-    },
-    {
-      "id": "com.openmygame.games.android.jigsaw.solitaire.puzzle",
-      "name": "Cardscapes: Jigsaw Puzzle",
-      "developer": "Malpa Games",
-      "url": "https://play.google.com/store/apps/details?id=com.openmygame.games.android.jigsaw.solitaire.puzzle&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/vf8KzfHG1J7oCp9O-FoSNKMc-Gzjnhw4_7su1RsB4pdF6JARn3vy-xqhwqyj3nowJmdrN-HI0dHfg5vnMJc_ro8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T15:59:15.000Z",
+      "releaseDate": "2025-10-20T13:35:08.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1350,20 +1392,6 @@
       "country": "NZ"
     },
     {
-      "id": "com.plinkk0.bubble.neon",
-      "name": "Plinkk0 Bubble",
-      "developer": "Gozerdian",
-      "url": "https://play.google.com/store/apps/details?id=com.plinkk0.bubble.neon&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/ZDjDRyx72SZ2ACIW2sz3kMWUG6kzee2Jbo1A2ZyVmr6WHt1R8jioLu9M5B-AelVMluCGyHV8TxlvQ_OmTsIH",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-20T13:35:08.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "NZ"
-    },
-    {
       "id": "com.craft.city.blockbuilder.pro",
       "name": "Craft Explore: Block Builder",
       "developer": "Appsgrooves",
@@ -1374,34 +1402,6 @@
       "releaseDate": "2026-02-06T11:12:35.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "NZ"
-    },
-    {
-      "id": "com.yolo.hiddenobjects",
-      "name": "Find Hidden Objects - Spot It!",
-      "developer": "Yolo Game Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.yolo.hiddenobjects&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/qwrFeZSR8gnwR9x9_Ee4GOJRK6m9qfY6-QcBJb9SwQQ2ozJPx6YMlzxwSd9gSWG30cU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T15:21:38.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "NZ"
-    },
-    {
-      "id": "com.JindoBlu.OfflineGames",
-      "name": "Offline Games - No Wifi Games",
-      "developer": "JindoBlu",
-      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.OfflineGames&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/UoBeMWwIeHSxGAx1EhmvWrG1lkzlG78UByGwEkEhRlp40udqC0hHJeRTl266g9aG-A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T13:18:19.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "NZ"
     }
