@@ -1,7 +1,7 @@
 {
   "country": "MM",
   "store": "google",
-  "updatedAt": "2026-02-07T10:49:18.375Z",
+  "updatedAt": "2026-02-07T17:47:05.357Z",
   "new": [
     {
       "id": "com.MadOut.BIG",
@@ -28,6 +28,20 @@
       "releaseDate": "2026-02-06T17:04:22.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.finik.ClimbJump",
+      "name": "Climb Jump Obby Tower Offline",
+      "developer": "Kids Games LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.finik.ClimbJump&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/sDIfVUwCOxNlDrWHJrHyZXVJC-gI-rOTwIK9rDHpw_DzxPVZtXNaw_1PjiRryHFPmJw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:23:06.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "MM"
     },
@@ -350,20 +364,6 @@
       "releaseDate": "2026-02-03T01:41:34.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "MM"
-    },
-    {
-      "id": "com.finik.ClimbJump",
-      "name": "Climb Jump Obby Tower Offline",
-      "developer": "Kids Games LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.finik.ClimbJump&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/sDIfVUwCOxNlDrWHJrHyZXVJC-gI-rOTwIK9rDHpw_DzxPVZtXNaw_1PjiRryHFPmJw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T14:25:27.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "MM"
     },
@@ -874,34 +874,6 @@
       "country": "MM"
     },
     {
-      "id": "com.mobilechess.gp",
-      "name": "Magic Chess: Go Go",
-      "developer": "Vizta Games",
-      "url": "https://play.google.com/store/apps/details?id=com.mobilechess.gp&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/zpL0shWZobgKXGOYAE1yueyA7RLzY7opF64Jq33sAnB7J5AYtGeQJFs62yTQBNedMJRzZCVe20SqVZvZNe9wxg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-31T04:25:51.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "MM"
-    },
-    {
-      "id": "com.blockgamesstudio.blockworld3d",
-      "name": "Block World 3D: Craft & Build",
-      "developer": "Funburstgame LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T16:36:16.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "MM"
-    },
-    {
       "id": "com.good.boy.education.craft.best.building.sun",
       "name": "Craft World Block Building 3D",
       "developer": "Patane Global",
@@ -926,6 +898,34 @@
       "releaseDate": "2026-01-08T09:45:46.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.mobilechess.gp",
+      "name": "Magic Chess: Go Go",
+      "developer": "Vizta Games",
+      "url": "https://play.google.com/store/apps/details?id=com.mobilechess.gp&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/zpL0shWZobgKXGOYAE1yueyA7RLzY7opF64Jq33sAnB7J5AYtGeQJFs62yTQBNedMJRzZCVe20SqVZvZNe9wxg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-31T04:25:51.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.blockgamesstudio.blockworld3d",
+      "name": "Block World 3D: Craft & Build",
+      "developer": "Funburstgame LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T16:36:16.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "MM"
     },
@@ -1028,6 +1028,20 @@
       "country": "MM"
     },
     {
+      "id": "com.wilds.craft.mysticland.explore",
+      "name": "Block Craft 3D: Realm Builder",
+      "developer": "Metagame.Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.wilds.craft.mysticland.explore&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/atgEBnDex2iZ3zknB3N5c4tBxJwT8NMrWTp0NXY7rYxk6DkDksRNddCm4E_832TI0w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T07:44:10.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MM"
+    },
+    {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -1070,20 +1084,6 @@
       "country": "MM"
     },
     {
-      "id": "com.wilds.craft.mysticland.explore",
-      "name": "Block Craft 3D: Realm Builder",
-      "developer": "Metagame.Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.wilds.craft.mysticland.explore&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/atgEBnDex2iZ3zknB3N5c4tBxJwT8NMrWTp0NXY7rYxk6DkDksRNddCm4E_832TI0w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T07:44:10.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MM"
-    },
-    {
       "id": "com.outfit7.mytalkingtom2",
       "name": "My Talking Tom 2: Pet Game",
       "developer": "Outfit7 Limited",
@@ -1094,6 +1094,34 @@
       "releaseDate": "2026-01-14T12:55:59.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.xd.xdtglobal.gp",
+      "name": "Heartopia",
+      "developer": "XD Entertainment Co., Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.xd.xdtglobal.gp&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/FtZNAkKn4faEpRU4UjtRRUk-aQP5zwiN1Kg4FzAcQBN7S8-PfDo7ODxmjaPlMu3HOFJ6-1WhzXxwKA6q1bOw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-26T09:52:39.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.run.squid.challenges.survival.clash",
+      "name": "456 Run Challenge: Clash 3D",
+      "developer": "Amobear Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.run.squid.challenges.survival.clash&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/195EbiiLN4D9di67p8Iq0ja_oczw3_sjjzx-2nUpIs8eRsPDL04QHSv-vM6zXTTGQg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-05T11:22:43.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "MM"
     },
@@ -1126,20 +1154,6 @@
       "country": "MM"
     },
     {
-      "id": "com.run.squid.challenges.survival.clash",
-      "name": "456 Run Challenge: Clash 3D",
-      "developer": "Amobear Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.run.squid.challenges.survival.clash&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/195EbiiLN4D9di67p8Iq0ja_oczw3_sjjzx-2nUpIs8eRsPDL04QHSv-vM6zXTTGQg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-05T11:22:43.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MM"
-    },
-    {
       "id": "com.dino.race.master",
       "name": "Car Race",
       "developer": "iKame Games - Zego Studio",
@@ -1150,20 +1164,6 @@
       "releaseDate": "2026-01-09T02:55:19.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "MM"
-    },
-    {
-      "id": "com.xd.xdtglobal.gp",
-      "name": "Heartopia",
-      "developer": "XD Entertainment Co., Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.xd.xdtglobal.gp&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/FtZNAkKn4faEpRU4UjtRRUk-aQP5zwiN1Kg4FzAcQBN7S8-PfDo7ODxmjaPlMu3HOFJ6-1WhzXxwKA6q1bOw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-26T09:52:39.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "MM"
     },
@@ -1196,48 +1196,6 @@
       "country": "MM"
     },
     {
-      "id": "jp.garud.ssimulator",
-      "name": "SAKURA School Simulator",
-      "developer": "GARUSOFT K.K.",
-      "url": "https://play.google.com/store/apps/details?id=jp.garud.ssimulator&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/kE2hDKCtPcpI8nR0UAGZ7x0tHJQXooY-54bMyar5H2G_Y8-1-VxpB111tAqVCxNn8g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-05T07:11:30.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MM"
-    },
-    {
-      "id": "com.snake.io.slither.worms",
-      "name": "Snake Lite® - Worm Snake Game",
-      "developer": "Hippo Lab",
-      "url": "https://play.google.com/store/apps/details?id=com.snake.io.slither.worms&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/unaCabpPBNL2HiMCyjCIO81ab1XGJU2ZnNYOdobeg60bEfc8zoIcudRA10SjJlSHkQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-08T09:51:08.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "MM"
-    },
-    {
-      "id": "com.rioo.runnersubway",
-      "name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T01:29:03.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "MM"
-    },
-    {
       "id": "com.sgs.real.gangster.mafia.vegas.theft.crime.simulator.game",
       "name": "Gangster Games Crime Simulator",
       "developer": "Stag Creations",
@@ -1252,16 +1210,16 @@
       "country": "MM"
     },
     {
-      "id": "com.whitedot.fg2",
-      "name": "Fish Go.io 2",
-      "developer": "Whitedot",
-      "url": "https://play.google.com/store/apps/details?id=com.whitedot.fg2&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/oysHjCErt8tR3VvZ-O1Ea3pchmkcEtVevujL8vzg2y18JT2hv2fB3NVaPtcG-jq644kOn3TZlopQ8NEdNt2eSZc",
+      "id": "jp.garud.ssimulator",
+      "name": "SAKURA School Simulator",
+      "developer": "GARUSOFT K.K.",
+      "url": "https://play.google.com/store/apps/details?id=jp.garud.ssimulator&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/kE2hDKCtPcpI8nR0UAGZ7x0tHJQXooY-54bMyar5H2G_Y8-1-VxpB111tAqVCxNn8g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T09:20:26.000Z",
+      "releaseDate": "2026-01-05T07:11:30.000Z",
       "genres": [
-        "Casual"
+        "Simulation"
       ],
       "country": "MM"
     },
@@ -1274,6 +1232,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2025-10-23T13:25:32.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.snake.io.slither.worms",
+      "name": "Snake Lite® - Worm Snake Game",
+      "developer": "Hippo Lab",
+      "url": "https://play.google.com/store/apps/details?id=com.snake.io.slither.worms&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/unaCabpPBNL2HiMCyjCIO81ab1XGJU2ZnNYOdobeg60bEfc8zoIcudRA10SjJlSHkQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-08T09:51:08.000Z",
       "genres": [
         "Action"
       ],
@@ -1294,20 +1266,6 @@
       "country": "MM"
     },
     {
-      "id": "com.moon.craft.buildingcraft",
-      "name": "Town Building Life Simulator",
-      "developer": "XGame Global",
-      "url": "https://play.google.com/store/apps/details?id=com.moon.craft.buildingcraft&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/G5R2W3S_SD2347tHCtfue5hJma4VY1-e6V7Vf7kmAxsIZ9jy0x9NDXeQwp7fJm0EWA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-19T12:40:25.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MM"
-    },
-    {
       "id": "com.tricky.story.brain.quest",
       "name": "Tricky Story",
       "developer": "XGame HK",
@@ -1322,6 +1280,48 @@
       "country": "MM"
     },
     {
+      "id": "com.rioo.runnersubway",
+      "name": "Subway Princess Runner",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T01:29:03.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.whitedot.fg2",
+      "name": "Fish Go.io 2",
+      "developer": "Whitedot",
+      "url": "https://play.google.com/store/apps/details?id=com.whitedot.fg2&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/oysHjCErt8tR3VvZ-O1Ea3pchmkcEtVevujL8vzg2y18JT2hv2fB3NVaPtcG-jq644kOn3TZlopQ8NEdNt2eSZc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T09:20:26.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.moon.craft.buildingcraft",
+      "name": "Town Building Life Simulator",
+      "developer": "XGame Global",
+      "url": "https://play.google.com/store/apps/details?id=com.moon.craft.buildingcraft&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/G5R2W3S_SD2347tHCtfue5hJma4VY1-e6V7Vf7kmAxsIZ9jy0x9NDXeQwp7fJm0EWA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-19T12:40:25.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MM"
+    },
+    {
       "id": "com.ssi.bus.games.bus.simulator",
       "name": "Real Bus Simulator : Bus Games",
       "developer": "Solo Studio Inc",
@@ -1332,6 +1332,20 @@
       "releaseDate": "2026-01-30T10:33:47.000Z",
       "genres": [
         "Strategy"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.yourfun.shankoemee",
+      "name": "Shan Koe Mee -ရွှေရှမ်း 13ချပ်",
+      "developer": "CosyTime",
+      "url": "https://play.google.com/store/apps/details?id=com.yourfun.shankoemee&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/oGVF-ISlL7geF-RR4WZlcFOxgI6fi11UEhtuyeG2EPRyRdlG00HaaFXYv8CqaWFU4qrp",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-30T10:50:30.000Z",
+      "genres": [
+        "Card"
       ],
       "country": "MM"
     },
@@ -1378,30 +1392,16 @@
       "country": "MM"
     },
     {
-      "id": "com.bandainamcoent.opbrww",
-      "name": "ONE PIECE Bounty Rush",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.opbrww&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/0e3y4xVKIWyALuV2Gz0lh2rW0Xz-9lX23amQ_voPTi9xtdTKUnOhLDBR4d8_pcyHBLWr3n1pjsOvFo3DsNJ-OQ",
+      "id": "com.imangi.templerun2",
+      "name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T01:39:02.000Z",
+      "releaseDate": "2026-01-19T12:00:17.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "MM"
-    },
-    {
-      "id": "com.outfit7.mytalkingtomfriends",
-      "name": "My Talking Tom Friends",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/Z4MTPicT_94fzdH4aLwARpQjHpuEjid6zNue4APAS_KQWhMV0RDYnKjLVwytjy_M9tk2",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-12T12:36:50.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "MM"
     }
