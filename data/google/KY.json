@@ -1,7 +1,7 @@
 {
   "country": "KY",
   "store": "google",
-  "updatedAt": "2026-02-07T17:15:14.364Z",
+  "updatedAt": "2026-02-07T23:01:54.804Z",
   "new": [
     {
       "id": "com.amelosinteractive.snake",
@@ -98,6 +98,20 @@
       "releaseDate": "2026-02-06T11:33:52.000Z",
       "genres": [
         "Music"
+      ],
+      "country": "KY"
+    },
+    {
+      "id": "com.ohbibi.fps",
+      "name": "FRAG Pro Shooter",
+      "developer": "Oh BiBi",
+      "url": "https://play.google.com/store/apps/details?id=com.ohbibi.fps&hl=en&gl=KY",
+      "artwork": "https://play-lh.googleusercontent.com/W5oPv_F0Z-wAwZdbxQEBjNduvGjq8rDgdZ58bC7QpKX2fhvdUrQaZSCRLPCO1PiYW7g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T11:14:10.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "KY"
     },
@@ -340,6 +354,20 @@
       "country": "KY"
     },
     {
+      "id": "com.fun.lastwar.gp",
+      "name": "Last War:Survival Game",
+      "developer": "FUNFLY PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp&hl=en&gl=KY",
+      "artwork": "https://play-lh.googleusercontent.com/2sOxb_s3uan-AmiF_XRh_K2yqRrmVeuzHAqtYCrwrFP-s1u_FMKo1NtlPz0kdn0qQUH8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T13:28:23.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "KY"
+    },
+    {
       "id": "com.outfit7.mytalkingangela2",
       "name": "My Talking Angela 2",
       "developer": "Outfit7 Limited",
@@ -364,6 +392,20 @@
       "releaseDate": "2026-02-04T13:07:30.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "KY"
+    },
+    {
+      "id": "com.easygames.race",
+      "name": "Race Master 3D: Car Racing",
+      "developer": "Beresnev Games",
+      "url": "https://play.google.com/store/apps/details?id=com.easygames.race&hl=en&gl=KY",
+      "artwork": "https://play-lh.googleusercontent.com/cdDg4Ma6nqObR6CLP6FxhI-HXP011MrE0lnwEU6yZ7mpJpQpl6ijI9e2IU-sZWoUzs8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T11:45:40.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "KY"
     },
@@ -660,48 +702,6 @@
         "Casual"
       ],
       "country": "KY"
-    },
-    {
-      "id": "com.soccer.score.star",
-      "name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=KY",
-      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:32:33.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "KY"
-    },
-    {
-      "id": "com.starplay.spider.fighter.openworld",
-      "name": "Spider Fighter 3: Action Game",
-      "developer": "Starplay FZCO",
-      "url": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter.openworld&hl=en&gl=KY",
-      "artwork": "https://play-lh.googleusercontent.com/lhpZGOr31ROOfma27WbGkKgutQfQTArd3CVkrsAE4CXtr71mrasDUMDZE2CqMrz1D71R",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:25:23.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "KY"
-    },
-    {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=KY",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "KY"
     }
   ],
   "updated": [
@@ -860,16 +860,16 @@
       "country": "KY"
     },
     {
-      "id": "com.dts.freefiremax",
-      "name": "Free Fire MAX x JUJUTSU KAISEN",
-      "developer": "GARENA INTERNATIONAL I",
-      "url": "https://play.google.com/store/apps/details?id=com.dts.freefiremax&hl=en&gl=KY",
-      "artwork": "https://play-lh.googleusercontent.com/ipL9El76Ug50yGguLeoy-BSwKtYz5fI5n9WHCkP6Im8CkUfXQTyzsSjgf5hlmEn5RuRP8yQPC-LOlTKlJLKEv8g",
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=KY",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-09T06:52:43.000Z",
+      "releaseDate": "2026-02-03T01:41:34.000Z",
       "genres": [
-        "Action"
+        "Sports"
       ],
       "country": "KY"
     },
@@ -888,16 +888,16 @@
       "country": "KY"
     },
     {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=KY",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "id": "com.dts.freefiremax",
+      "name": "Free Fire MAX x JUJUTSU KAISEN",
+      "developer": "GARENA INTERNATIONAL I",
+      "url": "https://play.google.com/store/apps/details?id=com.dts.freefiremax&hl=en&gl=KY",
+      "artwork": "https://play-lh.googleusercontent.com/ipL9El76Ug50yGguLeoy-BSwKtYz5fI5n9WHCkP6Im8CkUfXQTyzsSjgf5hlmEn5RuRP8yQPC-LOlTKlJLKEv8g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "releaseDate": "2026-01-09T06:52:43.000Z",
       "genres": [
-        "Sports"
+        "Action"
       ],
       "country": "KY"
     },
@@ -944,20 +944,6 @@
       "country": "KY"
     },
     {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=KY",
-      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T19:50:09.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "KY"
-    },
-    {
       "id": "com.dino.race.master",
       "name": "Car Race",
       "developer": "iKame Games - Zego Studio",
@@ -982,34 +968,6 @@
       "releaseDate": "2026-02-04T16:34:15.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "KY"
-    },
-    {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=KY",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "KY"
-    },
-    {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=KY",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-20T12:22:26.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "KY"
     },
@@ -1042,6 +1000,62 @@
       "country": "KY"
     },
     {
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=KY",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "KY"
+    },
+    {
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=KY",
+      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T19:50:09.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "KY"
+    },
+    {
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=KY",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T15:38:31.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "KY"
+    },
+    {
+      "id": "com.Earthkwak.Platformer",
+      "name": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=en&gl=KY",
+      "artwork": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-26T09:16:49.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "KY"
+    },
+    {
       "id": "com.rubygames.assassin",
       "name": "Hunter Assassin",
       "developer": "Ruby Games AS",
@@ -1070,20 +1084,6 @@
       "country": "KY"
     },
     {
-      "id": "com.wildspike.wormszone",
-      "name": "Worms Zone .io - Hungry Snake",
-      "developer": "CASUAL AZUR GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=KY",
-      "artwork": "https://play-lh.googleusercontent.com/_3HpCRk6_njK_LIknzcmgILuo6PGD-sH-fGs6UZFM3MrBzYULVr3M0cpfWahEH34Zmw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-12T15:03:35.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "KY"
-    },
-    {
       "id": "com.mobile.legends",
       "name": "Mobile Legends: Bang Bang",
       "developer": "MOONTON",
@@ -1098,30 +1098,16 @@
       "country": "KY"
     },
     {
-      "id": "com.Earthkwak.Platformer",
-      "name": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=en&gl=KY",
-      "artwork": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
+      "id": "com.wildspike.wormszone",
+      "name": "Worms Zone .io - Hungry Snake",
+      "developer": "CASUAL AZUR GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=KY",
+      "artwork": "https://play-lh.googleusercontent.com/_3HpCRk6_njK_LIknzcmgILuo6PGD-sH-fGs6UZFM3MrBzYULVr3M0cpfWahEH34Zmw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-11-26T09:16:49.000Z",
+      "releaseDate": "2026-01-12T15:03:35.000Z",
       "genres": [
-        "Adventure"
-      ],
-      "country": "KY"
-    },
-    {
-      "id": "com.gtsy.annoying.punch.game",
-      "name": "Annoying Uncle Punch Game",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=KY",
-      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T15:38:31.000Z",
-      "genres": [
-        "Simulation"
+        "Action"
       ],
       "country": "KY"
     },
@@ -1150,6 +1136,34 @@
       "releaseDate": "2026-02-05T15:47:04.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "KY"
+    },
+    {
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=KY",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-20T12:22:26.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "KY"
+    },
+    {
+      "id": "com.firsttouchgames.dls7",
+      "name": "Dream League Soccer 2026",
+      "developer": "First Touch Games Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=KY",
+      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T17:30:32.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "KY"
     },
@@ -1196,20 +1210,6 @@
       "country": "KY"
     },
     {
-      "id": "com.firsttouchgames.dls7",
-      "name": "Dream League Soccer 2026",
-      "developer": "First Touch Games Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=KY",
-      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T17:30:32.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "KY"
-    },
-    {
       "id": "com.youmusic.magictiles",
       "name": "Magic Tiles 3™ - Piano Game",
       "developer": "AMANOTES PTE. LTD.",
@@ -1220,48 +1220,6 @@
       "releaseDate": "2026-02-06T11:33:52.000Z",
       "genres": [
         "Music"
-      ],
-      "country": "KY"
-    },
-    {
-      "id": "com.run.tower.defense",
-      "name": "Kingshot",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=KY",
-      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T09:09:20.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "KY"
-    },
-    {
-      "id": "com.uc.gym.clicker",
-      "name": "Gym Idle Clicker: Fitness Hero",
-      "developer": "Unicorn Studio Official",
-      "url": "https://play.google.com/store/apps/details?id=com.uc.gym.clicker&hl=en&gl=KY",
-      "artwork": "https://play-lh.googleusercontent.com/9uzA6qLx2gFUnbq-gxvn2ZZeTweHsZFGvO1kurRydMEWIpwf9q5ATOPzsg2aGgYuvWM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T03:20:44.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "KY"
-    },
-    {
-      "id": "com.miniclip.carrom",
-      "name": "Carrom Pool: Disc Game",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.carrom&hl=en&gl=KY",
-      "artwork": "https://play-lh.googleusercontent.com/J01HmnDl9u2G-qHEdYsKmoPtuxbxEZQU4TZIczlGneGArCcn4tqFcsji3P2aK7hQEej_",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T17:49:46.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "KY"
     },
@@ -1294,16 +1252,16 @@
       "country": "KY"
     },
     {
-      "id": "com.vincentb.MobControl",
-      "name": "Mob Control",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=KY",
-      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
+      "id": "com.outfit7.mytalkingtomfriends",
+      "name": "My Talking Tom Friends",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=en&gl=KY",
+      "artwork": "https://play-lh.googleusercontent.com/Z4MTPicT_94fzdH4aLwARpQjHpuEjid6zNue4APAS_KQWhMV0RDYnKjLVwytjy_M9tk2",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T10:12:28.000Z",
+      "releaseDate": "2026-01-12T12:36:50.000Z",
       "genres": [
-        "Arcade"
+        "Casual"
       ],
       "country": "KY"
     },
@@ -1322,16 +1280,16 @@
       "country": "KY"
     },
     {
-      "id": "com.outfit7.mytalkingtomfriends",
-      "name": "My Talking Tom Friends",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=en&gl=KY",
-      "artwork": "https://play-lh.googleusercontent.com/Z4MTPicT_94fzdH4aLwARpQjHpuEjid6zNue4APAS_KQWhMV0RDYnKjLVwytjy_M9tk2",
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=KY",
+      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-12T12:36:50.000Z",
+      "releaseDate": "2026-02-06T03:06:33.000Z",
       "genres": [
-        "Casual"
+        "Music"
       ],
       "country": "KY"
     },
@@ -1350,16 +1308,44 @@
       "country": "KY"
     },
     {
-      "id": "com.gamincat.jigsolitaire",
-      "name": "Jigsolitaire",
-      "developer": "Gamincat",
-      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=KY",
-      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
+      "id": "com.vincentb.MobControl",
+      "name": "Mob Control",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=KY",
+      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T04:25:54.000Z",
+      "releaseDate": "2026-02-05T10:12:28.000Z",
       "genres": [
-        "Puzzle"
+        "Arcade"
+      ],
+      "country": "KY"
+    },
+    {
+      "id": "com.blockgamesstudio.blockworld3d",
+      "name": "Block World 3D: Craft & Build",
+      "developer": "Funburstgame LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d&hl=en&gl=KY",
+      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T16:36:16.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "KY"
+    },
+    {
+      "id": "com.miniclip.carrom",
+      "name": "Carrom Pool: Disc Game",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.carrom&hl=en&gl=KY",
+      "artwork": "https://play-lh.googleusercontent.com/J01HmnDl9u2G-qHEdYsKmoPtuxbxEZQU4TZIczlGneGArCcn4tqFcsji3P2aK7hQEej_",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T17:49:46.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "KY"
     },
@@ -1378,20 +1364,6 @@
       "country": "KY"
     },
     {
-      "id": "com.bunbunstudio.magicblocktiles",
-      "name": "Music Piano 7: Rush Song Games",
-      "developer": "Melodya Muses",
-      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=KY",
-      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T03:06:33.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "KY"
-    },
-    {
       "id": "com.puzzlegames.puzzlebrickslegend",
       "name": "Color Block: Combo Blast",
       "developer": "Ivy",
@@ -1402,6 +1374,34 @@
       "releaseDate": "2026-02-06T09:36:13.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "KY"
+    },
+    {
+      "id": "com.tocaboca.tocalifeworld",
+      "name": "Toca Boca World",
+      "developer": "Toca Boca",
+      "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=en&gl=KY",
+      "artwork": "https://play-lh.googleusercontent.com/UHryL-7W2yoA92NAfKpwoPIaW9N1u1hhTCtGkppyafgRfpKSYMS3bnoPmouHk1F0X5sHeoStf3cbD7_yCYBU4w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T13:05:04.000Z",
+      "genres": [
+        "Educational"
+      ],
+      "country": "KY"
+    },
+    {
+      "id": "com.skgames.trafficrider",
+      "name": "Traffic Rider",
+      "developer": "skgames",
+      "url": "https://play.google.com/store/apps/details?id=com.skgames.trafficrider&hl=en&gl=KY",
+      "artwork": "https://play-lh.googleusercontent.com/590AflDt-hW2t85Cit_ODJPJdRiMMRn2cSF0vYNfsBpjm895x1zDy0npbD7IlDCvmNvI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-08T14:58:29.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "KY"
     }
