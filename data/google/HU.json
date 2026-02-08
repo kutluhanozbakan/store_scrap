@@ -1,8 +1,22 @@
 {
   "country": "HU",
   "store": "google",
-  "updatedAt": "2026-02-08T10:14:26.277Z",
+  "updatedAt": "2026-02-08T17:47:55.293Z",
   "new": [
+    {
+      "id": "com.loomgames.pixelflow",
+      "name": "Pixel Flow!",
+      "developer": "Loom Games A.Ş.",
+      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=HU",
+      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-08T14:58:16.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "HU"
+    },
     {
       "id": "com.unicostudio.braintest",
       "name": "Brain Test: Tricky Puzzles",
@@ -32,20 +46,6 @@
       "country": "HU"
     },
     {
-      "id": "com.loomgames.pixelflow",
-      "name": "Pixel Flow!",
-      "developer": "Loom Games A.Ş.",
-      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=HU",
-      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T16:36:12.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "HU"
-    },
-    {
       "id": "com.block.juggle",
       "name": "Block Blast!",
       "developer": "HungryStudio",
@@ -56,20 +56,6 @@
       "releaseDate": "2026-02-06T16:35:27.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "HU"
-    },
-    {
-      "id": "solitaire.patience.card.games.klondike.free",
-      "name": "Solitaire - Classic Card Games",
-      "developer": "Guru Puzzle Game",
-      "url": "https://play.google.com/store/apps/details?id=solitaire.patience.card.games.klondike.free&hl=en&gl=HU",
-      "artwork": "https://play-lh.googleusercontent.com/4lBjHhLwPQxEEPIc6Mad3fwxzaN-dGZW9DTeVi4WW1LH5iu3QdmAsuK-FeLLVggZz6o",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T11:52:01.000Z",
-      "genres": [
-        "Card"
       ],
       "country": "HU"
     },
@@ -126,6 +112,20 @@
       "releaseDate": "2026-02-06T09:31:13.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "HU"
+    },
+    {
+      "id": "com.wilds.craft.mysticland.explore",
+      "name": "Block Craft 3D: Realm Builder",
+      "developer": "Metagame.Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.wilds.craft.mysticland.explore&hl=en&gl=HU",
+      "artwork": "https://play-lh.googleusercontent.com/atgEBnDex2iZ3zknB3N5c4tBxJwT8NMrWTp0NXY7rYxk6DkDksRNddCm4E_832TI0w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T07:44:10.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "HU"
     },
@@ -592,6 +592,20 @@
       "country": "HU"
     },
     {
+      "id": "com.lhd.drawmonowheel3d",
+      "name": "Draw Monowheel 3D",
+      "developer": "Deli ventures",
+      "url": "https://play.google.com/store/apps/details?id=com.lhd.drawmonowheel3d&hl=en&gl=HU",
+      "artwork": "https://play-lh.googleusercontent.com/pdTHaQE19cMKnt79HNA85fxLRnb3uT2H4N4hXNOJX2Cu_gk_KWS3AN2sC2jWddG2cLxT4YEvsmLyy5lHv9iljw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T06:43:52.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "HU"
+    },
+    {
       "id": "com.ea.gp.fifamobile",
       "name": "EA SPORTS FC™ Mobile Soccer 26",
       "developer": "ELECTRONIC ARTS",
@@ -688,20 +702,6 @@
         "Casual"
       ],
       "country": "HU"
-    },
-    {
-      "id": "ig.com.hot.pot.qdc",
-      "name": "Hotpot Flow: Food Games",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=ig.com.hot.pot.qdc&hl=en&gl=HU",
-      "artwork": "https://play-lh.googleusercontent.com/wy4-8vLbPov2utuXORrZKLhkYlDjhy4JRs8EgBa5zsEPsprLSVdeKKTO3haVBdJ0Q9kkeKMkPxmByOLCw_kh2Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-31T07:30:56.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "HU"
     }
   ],
   "updated": [
@@ -748,34 +748,6 @@
       "country": "HU"
     },
     {
-      "id": "com.dreamgames.royalkingdom",
-      "name": "Royal Kingdom",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=HU",
-      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T11:27:21.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "HU"
-    },
-    {
-      "id": "com.cliffs.pro.cell.building.crazy.clever.craft",
-      "name": "Block Crazy Robo World Craft",
-      "developer": "Prokids Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.cliffs.pro.cell.building.crazy.clever.craft&hl=en&gl=HU",
-      "artwork": "https://play-lh.googleusercontent.com/K3ncdCrbnHb-Po_gNuiJldSG7lfczGR0ZdFs3zoV28yTqPnzWQh07l2xI3rgMiIPsA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-28T05:45:26.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "HU"
-    },
-    {
       "id": "com.mergegames.gossipharbor",
       "name": "Gossip Harbor®: Merge & Story",
       "developer": "Microfun Limited",
@@ -804,6 +776,20 @@
       "country": "HU"
     },
     {
+      "id": "com.dreamgames.royalkingdom",
+      "name": "Royal Kingdom",
+      "developer": "Dream Games, Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=HU",
+      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T11:27:21.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "HU"
+    },
+    {
       "id": "com.craft.city.blockbuilder.pro",
       "name": "Craft Explore: Block Builder",
       "developer": "Appsgrooves",
@@ -812,6 +798,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-06T11:12:35.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "HU"
+    },
+    {
+      "id": "com.cliffs.pro.cell.building.crazy.clever.craft",
+      "name": "Block Crazy Robo World Craft",
+      "developer": "Prokids Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.cliffs.pro.cell.building.crazy.clever.craft&hl=en&gl=HU",
+      "artwork": "https://play-lh.googleusercontent.com/K3ncdCrbnHb-Po_gNuiJldSG7lfczGR0ZdFs3zoV28yTqPnzWQh07l2xI3rgMiIPsA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-28T05:45:26.000Z",
       "genres": [
         "Simulation"
       ],
@@ -828,6 +828,20 @@
       "releaseDate": "2026-02-05T15:47:04.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "HU"
+    },
+    {
+      "id": "com.red.sortingstore.android",
+      "name": "Water Match™- ASMR Water Sort",
+      "developer": "Youyoutang Technology",
+      "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android&hl=en&gl=HU",
+      "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T08:56:38.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "HU"
     },
@@ -854,20 +868,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-05T13:57:41.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "HU"
-    },
-    {
-      "id": "ig.com.hot.pot.qdc",
-      "name": "Hotpot Flow: Food Games",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=ig.com.hot.pot.qdc&hl=en&gl=HU",
-      "artwork": "https://play-lh.googleusercontent.com/wy4-8vLbPov2utuXORrZKLhkYlDjhy4JRs8EgBa5zsEPsprLSVdeKKTO3haVBdJ0Q9kkeKMkPxmByOLCw_kh2Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-31T07:30:56.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -930,16 +930,30 @@
       "country": "HU"
     },
     {
-      "id": "com.red.sortingstore.android",
-      "name": "Water Match™- ASMR Water Sort",
-      "developer": "Youyoutang Technology",
-      "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android&hl=en&gl=HU",
-      "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
+      "id": "ig.com.hot.pot.qdc",
+      "name": "Hotpot Flow: Food Games",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=ig.com.hot.pot.qdc&hl=en&gl=HU",
+      "artwork": "https://play-lh.googleusercontent.com/wy4-8vLbPov2utuXORrZKLhkYlDjhy4JRs8EgBa5zsEPsprLSVdeKKTO3haVBdJ0Q9kkeKMkPxmByOLCw_kh2Q",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T08:56:38.000Z",
+      "releaseDate": "2026-01-31T07:30:56.000Z",
       "genres": [
-        "Casual"
+        "Puzzle"
+      ],
+      "country": "HU"
+    },
+    {
+      "id": "com.fugo.wow",
+      "name": "Words of Wonders: Crossword",
+      "developer": "Fugo Games",
+      "url": "https://play.google.com/store/apps/details?id=com.fugo.wow&hl=en&gl=HU",
+      "artwork": "https://play-lh.googleusercontent.com/8Zc2SWYy3t70pvIdX9PeuaHpZZIP8sJybKiBUH2vkdxx9R2rypcIE-rN9_fbt-G7rWQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T20:15:06.000Z",
+      "genres": [
+        "Word"
       ],
       "country": "HU"
     },
@@ -972,16 +986,30 @@
       "country": "HU"
     },
     {
-      "id": "com.fugo.wow",
-      "name": "Words of Wonders: Crossword",
-      "developer": "Fugo Games",
-      "url": "https://play.google.com/store/apps/details?id=com.fugo.wow&hl=en&gl=HU",
-      "artwork": "https://play-lh.googleusercontent.com/8Zc2SWYy3t70pvIdX9PeuaHpZZIP8sJybKiBUH2vkdxx9R2rypcIE-rN9_fbt-G7rWQ",
+      "id": "com.cakemaker.cookinggame.diycake",
+      "name": "Cake Maker: DIY Cake Games",
+      "developer": "CAT Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.cakemaker.cookinggame.diycake&hl=en&gl=HU",
+      "artwork": "https://play-lh.googleusercontent.com/BtvIYQI_IeQ-UnORgDrfvHv-vRadaDyG3iplVzT-TFJyxuJ-YahO3PA-6ro8h2xWeg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T20:15:06.000Z",
+      "releaseDate": "2025-10-30T09:48:24.000Z",
       "genres": [
-        "Word"
+        "Role Playing"
+      ],
+      "country": "HU"
+    },
+    {
+      "id": "com.run.tower.defense",
+      "name": "Kingshot",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=HU",
+      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T09:09:20.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "HU"
     },
@@ -994,6 +1022,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-01-30T04:09:55.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "HU"
+    },
+    {
+      "id": "com.dreamgames.royalmatch",
+      "name": "Royal Match",
+      "developer": "Dream Games, Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=HU",
+      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T15:41:31.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1056,20 +1098,6 @@
       "country": "HU"
     },
     {
-      "id": "com.run.tower.defense",
-      "name": "Kingshot",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=HU",
-      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T09:09:20.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "HU"
-    },
-    {
       "id": "com.triple.food.sort.puzzle.game",
       "name": "Food Sort: Puzzle Game",
       "developer": "Playdayy",
@@ -1098,6 +1126,20 @@
       "country": "HU"
     },
     {
+      "id": "com.lof.global.gp",
+      "name": "Last Fiefdom",
+      "developer": "Bravo Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.lof.global.gp&hl=en&gl=HU",
+      "artwork": "https://play-lh.googleusercontent.com/zrXC2IY0MyNjqcfT8wYpNwXiG8LJk4JsPBKQrn5j1t8XC5EtcdwWc5Of21-qYnE-8VnRaUBThKtObpNqufRb",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T07:23:16.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "HU"
+    },
+    {
       "id": "com.charmquest.dec",
       "name": "Crystal Flow Sort",
       "developer": "Gisler Giudu",
@@ -1112,30 +1154,16 @@
       "country": "HU"
     },
     {
-      "id": "com.cakemaker.cookinggame.diycake",
-      "name": "Cake Maker: DIY Cake Games",
-      "developer": "CAT Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.cakemaker.cookinggame.diycake&hl=en&gl=HU",
-      "artwork": "https://play-lh.googleusercontent.com/BtvIYQI_IeQ-UnORgDrfvHv-vRadaDyG3iplVzT-TFJyxuJ-YahO3PA-6ro8h2xWeg",
+      "id": "com.fashionlink.northstone",
+      "name": "Jigmerge™ Puzzles",
+      "developer": "RedInfinity Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.fashionlink.northstone&hl=en&gl=HU",
+      "artwork": "https://play-lh.googleusercontent.com/EZP7wDL_-gFczA3LUvcPwX7Z5CpmePZ1m5rYM5hjyLGFB2qNxGggE4VaNQ8wqtC3Hs7ilQrvH3g2KVYGm2a4hdY",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-30T09:48:24.000Z",
+      "releaseDate": "2026-01-23T16:44:19.000Z",
       "genres": [
-        "Role Playing"
-      ],
-      "country": "HU"
-    },
-    {
-      "id": "com.dreamgames.royalmatch",
-      "name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=HU",
-      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T15:41:31.000Z",
-      "genres": [
-        "Puzzle"
+        "Casual"
       ],
       "country": "HU"
     },
@@ -1168,34 +1196,6 @@
       "country": "HU"
     },
     {
-      "id": "com.lof.global.gp",
-      "name": "Last Fiefdom",
-      "developer": "Bravo Games Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.lof.global.gp&hl=en&gl=HU",
-      "artwork": "https://play-lh.googleusercontent.com/zrXC2IY0MyNjqcfT8wYpNwXiG8LJk4JsPBKQrn5j1t8XC5EtcdwWc5Of21-qYnE-8VnRaUBThKtObpNqufRb",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T07:23:16.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "HU"
-    },
-    {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=HU",
-      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T12:05:32.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "HU"
-    },
-    {
       "id": "com.red.arrows.android",
       "name": "Arrowscapes™ - Arrows Puzzle",
       "developer": "Beijing Youyoutang Technology Co.,ltd.",
@@ -1220,6 +1220,20 @@
       "releaseDate": "2026-02-06T18:17:22.000Z",
       "genres": [
         "Trivia"
+      ],
+      "country": "HU"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=HU",
+      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T12:05:32.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "HU"
     },
@@ -1252,6 +1266,34 @@
       "country": "HU"
     },
     {
+      "id": "com.upjers.zoo2animalpark",
+      "name": "Zoo 2: Animal Park",
+      "developer": "upjers GmbH",
+      "url": "https://play.google.com/store/apps/details?id=com.upjers.zoo2animalpark&hl=en&gl=HU",
+      "artwork": "https://play-lh.googleusercontent.com/ZJgD9TUGqv4vu8h7NsGx6aQ_1a0YFI8JM2hEPc66J3FbR3rbBn2vz0IMz07c76t6cWZf4xSUIut88P9NY6lHuqA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T13:17:19.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "HU"
+    },
+    {
+      "id": "com.sprunki.mod.horror.incredibox.monster.beats.music.game",
+      "name": "Sprunki Beat: Full Mod Music",
+      "developer": "Gotstar Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.sprunki.mod.horror.incredibox.monster.beats.music.game&hl=en&gl=HU",
+      "artwork": "https://play-lh.googleusercontent.com/O7_TKLHLE3Q0XnE--e5tTXLbJYdfbo7J521cseiShnn4L_a2HnJduwxhKqVjWj4jLg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T14:50:40.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "HU"
+    },
+    {
       "id": "com.miniclip.eightballpool",
       "name": "8 Ball Pool",
       "developer": "Miniclip.com",
@@ -1280,16 +1322,30 @@
       "country": "HU"
     },
     {
-      "id": "com.fashionlink.northstone",
-      "name": "Jigmerge™ Puzzles",
-      "developer": "RedInfinity Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.fashionlink.northstone&hl=en&gl=HU",
-      "artwork": "https://play-lh.googleusercontent.com/EZP7wDL_-gFczA3LUvcPwX7Z5CpmePZ1m5rYM5hjyLGFB2qNxGggE4VaNQ8wqtC3Hs7ilQrvH3g2KVYGm2a4hdY",
+      "id": "com.playstrom.my.sticker.room",
+      "name": "My Sticker Room - Decor Game",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=HU",
+      "artwork": "https://play-lh.googleusercontent.com/1h7m141FxhTxNeVWLjyn2yiv9B7Tcjbx28j_7pMa7z2SrBT22scVcrSujQYdo7_lfFg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T16:44:19.000Z",
+      "releaseDate": "2026-01-23T14:24:56.000Z",
       "genres": [
-        "Casual"
+        "Simulation"
+      ],
+      "country": "HU"
+    },
+    {
+      "id": "com.gamincat.jigsolitaire",
+      "name": "Jigsolitaire",
+      "developer": "Gamincat",
+      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=HU",
+      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T04:25:54.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "HU"
     },
@@ -1336,72 +1392,16 @@
       "country": "HU"
     },
     {
-      "id": "com.magic.cyber.piano.tiles.edm.musicgames",
-      "name": "Pop Piano: Music Games",
-      "developer": "Cobby Labs",
-      "url": "https://play.google.com/store/apps/details?id=com.magic.cyber.piano.tiles.edm.musicgames&hl=en&gl=HU",
-      "artwork": "https://play-lh.googleusercontent.com/11xNmRHrdqkAEJCotsiisr47VaK4Q4CMeJHkungv4S18mijkBXFDOiESYel8hvLl9Q",
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=HU",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-02T10:30:03.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "HU"
-    },
-    {
-      "id": "com.playrix.gardenscapes",
-      "name": "Gardenscapes",
-      "developer": "Playrix",
-      "url": "https://play.google.com/store/apps/details?id=com.playrix.gardenscapes&hl=en&gl=HU",
-      "artwork": "https://play-lh.googleusercontent.com/SffnlIy-_lnakKGEko_-Y8qdOpPen3on0kAI_cs_HOLpB8jKz5lh0rUR7MAt1mv6ow",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T13:39:15.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "HU"
-    },
-    {
-      "id": "com.blockgamesstudio.blockworld3d",
-      "name": "Block World 3D: Craft & Build",
-      "developer": "Funburstgame LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d&hl=en&gl=HU",
-      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T16:36:16.000Z",
+      "releaseDate": "2026-01-20T12:22:26.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "HU"
-    },
-    {
-      "id": "com.fc.goods.sort.matching.puzzle.triplemaster",
-      "name": "Goods Puzzle: Sort Challenge™",
-      "developer": "FALCON GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.fc.goods.sort.matching.puzzle.triplemaster&hl=en&gl=HU",
-      "artwork": "https://play-lh.googleusercontent.com/F4r_imTe0hKKnVfrOUxbS8oumI6LpU-UgFbOW0VHoYQ_FnrcXq0p3QRR96u5wNANm2A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T11:47:54.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "HU"
-    },
-    {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=HU",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "HU"
     }
