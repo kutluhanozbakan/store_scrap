@@ -1,7 +1,7 @@
 {
   "country": "MT",
   "store": "google",
-  "updatedAt": "2026-02-08T01:10:56.084Z",
+  "updatedAt": "2026-02-08T11:41:28.398Z",
   "new": [
     {
       "id": "com.amelosinteractive.snake",
@@ -60,6 +60,20 @@
       "country": "MT"
     },
     {
+      "id": "com.loomgames.pixelflow",
+      "name": "Pixel Flow!",
+      "developer": "Loom Games A.Ş.",
+      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:36:12.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MT"
+    },
+    {
       "id": "com.block.juggle",
       "name": "Block Blast!",
       "developer": "HungryStudio",
@@ -74,30 +88,16 @@
       "country": "MT"
     },
     {
-      "id": "com.playvalve.watersort",
-      "name": "Water Sort Puz - Color Game",
-      "developer": "Playvalve",
-      "url": "https://play.google.com/store/apps/details?id=com.playvalve.watersort&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/7gZ6hWr0BUmUKWsG4wLr5Xo-dqDKFDVpOTJpyTUQPYQFF4bdS7wj3fNhUmPv1MUEsE-B",
+      "id": "com.JindoBlu.OfflineGames",
+      "name": "Offline Games - No Wifi Games",
+      "developer": "JindoBlu",
+      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.OfflineGames&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/UoBeMWwIeHSxGAx1EhmvWrG1lkzlG78UByGwEkEhRlp40udqC0hHJeRTl266g9aG-A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T15:39:27.000Z",
+      "releaseDate": "2026-02-06T13:18:19.000Z",
       "genres": [
-        "Puzzle"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.WalkTalk.FlightMaster",
-      "name": "Epic Plane Evolution",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.WalkTalk.FlightMaster&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/xC6Ky_Utjy9ULs1N8cKED99IXdp0o0gFy6k8aXuPat6rmxxQrNkHqe9HKFfsogK3kQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T13:16:27.000Z",
-      "genres": [
-        "Action"
+        "Casual"
       ],
       "country": "MT"
     },
@@ -154,34 +154,6 @@
       "releaseDate": "2026-02-06T10:04:05.000Z",
       "genres": [
         "Word"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.red.arrows.android",
-      "name": "Arrowscapes™ - Arrows Puzzle",
-      "developer": "Beijing Youyoutang Technology Co.,ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.red.arrows.android&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/sLclRCwg48GnYDGbqUFSDXXUDtx1VwFhKy0eNadH3EUn5DccgwDn1GFSwJXV0RrIQNQq",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T09:31:13.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.flatgames.football.referee.simulator",
-      "name": "Referee Simulator 3D",
-      "developer": "JLabs Games",
-      "url": "https://play.google.com/store/apps/details?id=com.flatgames.football.referee.simulator&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/yQ0-gAGGf0oGvNFVhbQndobu4t37ATLYTSTDuL9nM5LIbjS0lF-Y3EAmJ1ioCpAbeg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T08:45:13.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "MT"
     },
@@ -410,6 +382,20 @@
       "country": "MT"
     },
     {
+      "id": "com.studio27.MelonPlayground",
+      "name": "Melon Sandbox",
+      "developer": "playducky.com",
+      "url": "https://play.google.com/store/apps/details?id=com.studio27.MelonPlayground&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/9KgS1cF6vWMF9Fl25S36bKr8zDh0ddkTOeN7WpBcQAE-pKfahG2DjUxbQ8sespNoe3KW3qbcaVD8H6DfNys6",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T08:46:10.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MT"
+    },
+    {
       "id": "math.puzzle.games.crossmath.number.puzzles.free",
       "name": "Crossmath® - Math Puzzle Games",
       "developer": "Guru Puzzle Game",
@@ -420,34 +406,6 @@
       "releaseDate": "2026-02-05T02:59:54.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.scopely.monopolygo",
-      "name": "MONOPOLY GO!",
-      "developer": "Scopely",
-      "url": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T23:31:51.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.crypt.gram.puzz",
-      "name": "Cryptogram: Word Logic Puzzles",
-      "developer": "Gismart",
-      "url": "https://play.google.com/store/apps/details?id=com.crypt.gram.puzz&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/l8bbDAllrsTmKIxnT3NClL710FhbfSp4MuBtB7wtYGtu49ZCpEDWjU9uneNy86-9sQPY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T19:09:36.000Z",
-      "genres": [
-        "Word"
       ],
       "country": "MT"
     },
@@ -480,16 +438,16 @@
       "country": "MT"
     },
     {
-      "id": "funvent.tilepark",
-      "name": "Tile Park",
-      "developer": "Funvent Studios DMCC",
-      "url": "https://play.google.com/store/apps/details?id=funvent.tilepark&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/xIcIeb1IJWDSJbAzuE6O9n1-g6U-lxkTKCHUijzZpCgv6wX8qPz82OIW7MZSyVnSFQ",
+      "id": "com.geck.piano.cattiles.edm",
+      "name": "Piano Beat: Rush Tiles",
+      "developer": "Geckolor Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.geck.piano.cattiles.edm&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/hL4KteyfX56_XCH12a7_bSrxSY1b_s9Vs43b6VnwinkCsrKfusj_kZRzDmPnS-VE1g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T11:30:57.000Z",
+      "releaseDate": "2026-02-04T10:51:34.000Z",
       "genres": [
-        "Puzzle"
+        "Casual"
       ],
       "country": "MT"
     },
@@ -550,20 +508,6 @@
       "country": "MT"
     },
     {
-      "id": "gg.sunday.dog.escape.puzzle",
-      "name": "Dog Escape: Cute Pet Care Life",
-      "developer": "Sunday.gg",
-      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T16:46:42.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MT"
-    },
-    {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -592,14 +536,14 @@
       "country": "MT"
     },
     {
-      "id": "com.visionstudio.tilevacation",
-      "name": "Tile Vacation - Triple Match",
-      "developer": "VisionStudio(HK)",
-      "url": "https://play.google.com/store/apps/details?id=com.visionstudio.tilevacation&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/s8kKJIUT7IqtbPDqjaVIGhpzEEg7uPMBeq2SFZsG07uH25_9Th3B7EhKwNz7uv5-nA",
+      "id": "com.sh.fidget.toys.mini.relaxing.antistress.games",
+      "name": "Mini Relaxing Game- pop it",
+      "developer": "stick hunter",
+      "url": "https://play.google.com/store/apps/details?id=com.sh.fidget.toys.mini.relaxing.antistress.games&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/uaUYUU88p8XAufLdsdXT6ZJGmJonR77icn9zREk9axgRPHIWhxkNhLDo7-EmUl2VY5E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T12:52:05.000Z",
+      "releaseDate": "2026-02-03T13:03:03.000Z",
       "genres": [
         "Casual"
       ],
@@ -702,9 +646,21 @@
         "Puzzle"
       ],
       "country": "MT"
-    }
-  ],
-  "updated": [
+    },
+    {
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T16:47:57.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "MT"
+    },
     {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
@@ -714,76 +670,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-02T13:54:14.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.dreamgames.royalkingdom",
-      "name": "Royal Kingdom",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T11:27:21.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T16:35:27.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T14:18:09.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.wood.block.sudoku.puzzle.bm",
-      "name": "Block Crush!",
-      "developer": "Wonderful  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T15:47:04.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast: Wonders",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T16:43:25.000Z",
       "genres": [
         "Board"
       ],
@@ -804,6 +690,106 @@
       "country": "MT"
     },
     {
+      "id": "com.playvalve.connect.dots",
+      "name": "Dot Link - Connect the Dots",
+      "developer": "Playvalve",
+      "url": "https://play.google.com/store/apps/details?id=com.playvalve.connect.dots&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/mxpiVfNqpKGLkgl6uVvLw15gCDQIqMRHdh_iLgLxPObkMJMOy4ra5O8i6RfRPFuxURx1",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T09:39:26.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MT"
+    }
+  ],
+  "updated": [
+    {
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/IHBNszxS4-19qbvbXMs2J_G6JccF-wQWBM-6e9C1P46fwXPUL8WDccXML3gPawaiIw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T13:54:14.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:35:27.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.dreamgames.royalkingdom",
+      "name": "Royal Kingdom",
+      "developer": "Dream Games, Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T11:27:21.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.wood.block.sudoku.puzzle.bm",
+      "name": "Block Crush!",
+      "developer": "Wonderful  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T15:47:04.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T14:18:09.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast: Wonders",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:43:25.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "MT"
+    },
+    {
       "id": "com.game.people.connector",
       "name": "Connect Master - Match Puzzle",
       "developer": "Rooftop Game",
@@ -814,6 +800,34 @@
       "releaseDate": "2026-02-06T21:03:23.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "in.playsimple.wordsearch",
+      "name": "Word Search Explorer",
+      "developer": "PlaySimple Games",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T12:42:24.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T17:28:18.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "MT"
     },
@@ -832,6 +846,20 @@
       "country": "MT"
     },
     {
+      "id": "com.triple.food.sort.puzzle.game",
+      "name": "Food Sort: Puzzle Game",
+      "developer": "Playdayy",
+      "url": "https://play.google.com/store/apps/details?id=com.triple.food.sort.puzzle.game&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/F6MOGh9K3P5bXsoieA_2n2cCgywNDbPoBhfx979GqmcbZwuDlV14H97oZ1AqCSyHcztGOkvl6qpL5K3F95pq",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T08:24:45.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MT"
+    },
+    {
       "id": "com.ecffri.arrows",
       "name": "Arrows – Puzzle Escape",
       "developer": "Lessmore UG",
@@ -842,20 +870,6 @@
       "releaseDate": "2026-02-05T13:57:41.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.xman.eu.gp",
-      "name": "X-Clash",
-      "developer": "Glaciers Game",
-      "url": "https://play.google.com/store/apps/details?id=com.xman.eu.gp&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/L0O9c6skuElD9nlNoITmBbVYwVzY_5AW7L3lonW3fPcczes9Cj2FiJMOHXYHpQ9y16J19lLxo5bpJ5GPdCycDic",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T02:20:45.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "MT"
     },
@@ -888,128 +902,16 @@
       "country": "MT"
     },
     {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "id": "com.xman.eu.gp",
+      "name": "X-Clash",
+      "developer": "Glaciers Game",
+      "url": "https://play.google.com/store/apps/details?id=com.xman.eu.gp&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/L0O9c6skuElD9nlNoITmBbVYwVzY_5AW7L3lonW3fPcczes9Cj2FiJMOHXYHpQ9y16J19lLxo5bpJ5GPdCycDic",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T17:28:18.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.fatmerge.global",
-      "name": "Tasty Travels: Merge Game",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/eBK_Zz3fVbQFReaVyFJbj7VsJcUilWtdY6iEezlI5uULMPG_uLc6bTGgDR3uxrqKOlTI2HIefLl4R7khU13n6g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T02:12:04.000Z",
+      "releaseDate": "2026-01-29T02:20:45.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.triple.food.sort.puzzle.game",
-      "name": "Food Sort: Puzzle Game",
-      "developer": "Playdayy",
-      "url": "https://play.google.com/store/apps/details?id=com.triple.food.sort.puzzle.game&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/F6MOGh9K3P5bXsoieA_2n2cCgywNDbPoBhfx979GqmcbZwuDlV14H97oZ1AqCSyHcztGOkvl6qpL5K3F95pq",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T08:24:45.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-20T12:22:26.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.run.tower.defense",
-      "name": "Kingshot",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T09:09:20.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.red.sortingstore.android",
-      "name": "Water Match™- ASMR Water Sort",
-      "developer": "Youyoutang Technology",
-      "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T08:56:38.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.proximabeta.aoemobile",
-      "name": "Age of Empires Mobile",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.proximabeta.aoemobile&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/zp1t6IbS08x3V-NwrV2Wy4JjMDiqnxgOFoYRVtfLDJzGmy_JH1G1csjmg69geUAXnA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T02:53:56.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "kidultlovin.word.zen",
-      "name": "Zen Word® - Relax Puzzle Game",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=kidultlovin.word.zen&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/N8mUXzTWlnNuh3gXUuLH1ncQkcygBAuSGGmwv713e6I3Wit70WqEMIgPzbFSC_jn5LI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T10:04:05.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T19:50:09.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "MT"
     },
@@ -1028,6 +930,62 @@
       "country": "MT"
     },
     {
+      "id": "com.fatmerge.global",
+      "name": "Tasty Travels: Merge Game",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/eBK_Zz3fVbQFReaVyFJbj7VsJcUilWtdY6iEezlI5uULMPG_uLc6bTGgDR3uxrqKOlTI2HIefLl4R7khU13n6g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T02:12:04.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.efun.euklqb",
+      "name": "Skull Up",
+      "developer": "Efun Game Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.efun.euklqb&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/Hs3ksIWdDxq9McQYMBUnfVQMdD1_1tP4R8PUsXDa0BECSf7rcc8xkh8A5J4fqhmLx--DHdQNJ6LEbLkHLersAQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T06:12:27.000Z",
+      "genres": [
+        "Card"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.run.tower.defense",
+      "name": "Kingshot",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T09:09:20.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T19:50:09.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "MT"
+    },
+    {
       "id": "com.asmr.mukbang.livestream.party",
       "name": "Mukbang ASMR Livestream Party",
       "developer": "CAT Studio",
@@ -1042,44 +1000,44 @@
       "country": "MT"
     },
     {
-      "id": "com.playrix.township",
-      "name": "Township",
-      "developer": "Playrix",
-      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-29T16:33:15.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "io.voodoo.holeio",
-      "name": "Hole.io",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T16:47:57.000Z",
+      "releaseDate": "2026-01-20T12:22:26.000Z",
       "genres": [
         "Arcade"
       ],
       "country": "MT"
     },
     {
-      "id": "com.oakever.jigsawcard",
-      "name": "Jigsawcard Solitaire Puzzle",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.jigsawcard&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/PZTHuvocowzHTJJ-DSWITmX2gB00UVdXdQM6UKmtzTFTZHq4QLHvhht19UMfaRYa9gfzp1gHB_JFXMY7HtEz6Q",
+      "id": "com.craft.city.blockbuilder.pro",
+      "name": "Craft Explore: Block Builder",
+      "developer": "Appsgrooves",
+      "url": "https://play.google.com/store/apps/details?id=com.craft.city.blockbuilder.pro&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/YFHDvFUFlCreDkvR1NRPr1KkeF3OdKCZPVmSLzPXs96jHbAxUf4LjFOaWA0WkmTdIK4A2K2G8ZnnKeLimAFM2Q",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-30T04:09:55.000Z",
+      "releaseDate": "2026-02-06T11:12:35.000Z",
       "genres": [
-        "Puzzle"
+        "Simulation"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "kidultlovin.word.zen",
+      "name": "Zen Word® - Relax Puzzle Game",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=kidultlovin.word.zen&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/N8mUXzTWlnNuh3gXUuLH1ncQkcygBAuSGGmwv713e6I3Wit70WqEMIgPzbFSC_jn5LI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T10:04:05.000Z",
+      "genres": [
+        "Word"
       ],
       "country": "MT"
     },
@@ -1098,6 +1056,90 @@
       "country": "MT"
     },
     {
+      "id": "com.proximabeta.aoemobile",
+      "name": "Age of Empires Mobile",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.proximabeta.aoemobile&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/zp1t6IbS08x3V-NwrV2Wy4JjMDiqnxgOFoYRVtfLDJzGmy_JH1G1csjmg69geUAXnA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T02:53:56.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.playrix.township",
+      "name": "Township",
+      "developer": "Playrix",
+      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T16:33:15.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T15:38:31.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.oakever.jigsawcard",
+      "name": "Jigsawcard Solitaire Puzzle",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.jigsawcard&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/PZTHuvocowzHTJJ-DSWITmX2gB00UVdXdQM6UKmtzTFTZHq4QLHvhht19UMfaRYa9gfzp1gHB_JFXMY7HtEz6Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T04:09:55.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T16:47:57.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.red.sortingstore.android",
+      "name": "Water Match™- ASMR Water Sort",
+      "developer": "Youyoutang Technology",
+      "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T08:56:38.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MT"
+    },
+    {
       "id": "com.monopoly.dream.idle.king",
       "name": "Top Tycoon: Coin Theme Empire",
       "developer": "BeheFun Games Limited",
@@ -1108,6 +1150,90 @@
       "releaseDate": "2026-01-15T14:29:01.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.pixel.art.coloring.color.number",
+      "name": "Happy Color®: Color by Number",
+      "developer": "X-FLOW",
+      "url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/paB5-2s6q3uXd3nRE0-2QzCLeLklmemDepD0_Erald5YQUazuiOhMvJ8giFluMAX0w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-20T07:32:35.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.tarboosh.collectemall",
+      "name": "Collect Em All! Clear the Dots",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.tarboosh.collectemall&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/1Zgbqux8C1W0by560urxm1cowz3l0QaCogMRjXXNkGRUennrde8hfSkk40k5uDWZkvc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-14T18:34:19.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.rolling.hop.dancing.cats.tiles.musicgames",
+      "name": "Dancing Cats 2: Music Games",
+      "developer": "Cobby Labs",
+      "url": "https://play.google.com/store/apps/details?id=com.rolling.hop.dancing.cats.tiles.musicgames&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/gT89HMPUb-VdmIe-7BQk78PHD859D28TGTdP8Nzm505cBFbVhegvEyfLWDz4jPe2yA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-13T08:44:54.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.gamincat.jigsolitaire",
+      "name": "Jigsolitaire",
+      "developer": "Gamincat",
+      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T04:25:54.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/upYircnh6-mH07OxwtX7L0EPFd4_FNV71xd8w4gHiyLKopipJxwPzoupoQgpzgf8_Fk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T15:34:55.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T03:06:33.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "MT"
     },
@@ -1140,48 +1266,6 @@
       "country": "MT"
     },
     {
-      "id": "com.tarboosh.collectemall",
-      "name": "Collect Em All! Clear the Dots",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.tarboosh.collectemall&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/1Zgbqux8C1W0by560urxm1cowz3l0QaCogMRjXXNkGRUennrde8hfSkk40k5uDWZkvc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-14T18:34:19.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.bunbunstudio.magicblocktiles",
-      "name": "Music Piano 7: Rush Song Games",
-      "developer": "Melodya Muses",
-      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T03:06:33.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.pixel.art.coloring.color.number",
-      "name": "Happy Color®: Color by Number",
-      "developer": "X-FLOW",
-      "url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/paB5-2s6q3uXd3nRE0-2QzCLeLklmemDepD0_Erald5YQUazuiOhMvJ8giFluMAX0w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-20T07:32:35.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "MT"
-    },
-    {
       "id": "com.miniclip.eightballpool",
       "name": "8 Ball Pool",
       "developer": "Miniclip.com",
@@ -1196,114 +1280,16 @@
       "country": "MT"
     },
     {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/upYircnh6-mH07OxwtX7L0EPFd4_FNV71xd8w4gHiyLKopipJxwPzoupoQgpzgf8_Fk",
+      "id": "com.gof.global",
+      "name": "Whiteout Survival",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.gof.global&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/gtcDOls1xCaV_qtRKx3dsk75bNBqel81gWkhK2xvgq5KKHj_71lnZjXYO6He97w0j-U",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T15:34:55.000Z",
+      "releaseDate": "2025-12-18T15:56:12.000Z",
       "genres": [
-        "Arcade"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.craft.city.blockbuilder.pro",
-      "name": "Craft Explore: Block Builder",
-      "developer": "Appsgrooves",
-      "url": "https://play.google.com/store/apps/details?id=com.craft.city.blockbuilder.pro&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/YFHDvFUFlCreDkvR1NRPr1KkeF3OdKCZPVmSLzPXs96jHbAxUf4LjFOaWA0WkmTdIK4A2K2G8ZnnKeLimAFM2Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T11:12:35.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.gamincat.jigsolitaire",
-      "name": "Jigsolitaire",
-      "developer": "Gamincat",
-      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T04:25:54.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.efun.euklqb",
-      "name": "Skull Up",
-      "developer": "Efun Game Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.efun.euklqb&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/Hs3ksIWdDxq9McQYMBUnfVQMdD1_1tP4R8PUsXDa0BECSf7rcc8xkh8A5J4fqhmLx--DHdQNJ6LEbLkHLersAQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T06:12:27.000Z",
-      "genres": [
-        "Card"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.easybrain.crossword.puzzles",
-      "name": "Crossword Master - Word Puzzle",
-      "developer": "Easybrain",
-      "url": "https://play.google.com/store/apps/details?id=com.easybrain.crossword.puzzles&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/vKsVQD3lG4AoABeGFJe8mboN2ATrrwwz1bJFQSd3cuEsvh_AyFIqxZB9gkbt37fFQBk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-18T11:41:50.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.gamovation.tileclub",
-      "name": "Tile Club - Match Puzzle Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-07T10:41:36.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "in.playsimple.triple.tile.matchgame.pair.three.puzzle.object.royale",
-      "name": "Tile Match puzzle - Tiletopia",
-      "developer": "PlaySimple Games",
-      "url": "https://play.google.com/store/apps/details?id=in.playsimple.triple.tile.matchgame.pair.three.puzzle.object.royale&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/MSVMd4JpJNqTf5Oa8Ja1edMrzCbmcO6Kmfb4_g48Wuym5c3QPFZF_S4r8RYjqmKAFCqIikSGt2P-7QYmpvTCOQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T14:43:02.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.rolling.hop.dancing.cats.tiles.musicgames",
-      "name": "Dancing Cats 2: Music Games",
-      "developer": "Cobby Labs",
-      "url": "https://play.google.com/store/apps/details?id=com.rolling.hop.dancing.cats.tiles.musicgames&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/gT89HMPUb-VdmIe-7BQk78PHD859D28TGTdP8Nzm505cBFbVhegvEyfLWDz4jPe2yA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-13T08:44:54.000Z",
-      "genres": [
-        "Music"
+        "Strategy"
       ],
       "country": "MT"
     },
@@ -1322,6 +1308,20 @@
       "country": "MT"
     },
     {
+      "id": "water.sort.color.puzzle.offline.games",
+      "name": "Water Sort! Color Sort Puzzle",
+      "developer": "Bobodoo Game",
+      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/Ua9HL2jL6escu3RIMriqdI70cCXpCsL64ZO7Qp8VXdjHv9BrAHjIIFX5v61JHBFZJQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T19:06:20.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MT"
+    },
+    {
       "id": "com.kayac.breakragdoll",
       "name": "Ragdoll Break: Let's destroy!",
       "developer": "KAYAC Inc.",
@@ -1332,48 +1332,6 @@
       "releaseDate": "2025-10-21T07:59:14.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.gtsy.annoying.punch.game",
-      "name": "Annoying Uncle Punch Game",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T15:38:31.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "com.totalbattle",
-      "name": "Total Battle: Strategy Games",
-      "developer": "Scorewarrior",
-      "url": "https://play.google.com/store/apps/details?id=com.totalbattle&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/tVu9zOuRBk4aUjro3Rgt0XUug_DxzjkyHxaslu9Q1dRd3XTOAw5Pn7UPT_xG4Se4rKS-",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T14:52:21.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "MT"
-    },
-    {
-      "id": "ai.projectx.clickx.gp",
-      "name": "Click X",
-      "developer": "HeartsNet",
-      "url": "https://play.google.com/store/apps/details?id=ai.projectx.clickx.gp&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/fpnQgiiJKAarMIuwNMfPmFk6C5J4-b3aZjFJ-nNS8eeVS4IC2H7u1pHLhm2FQYJ44mB5HcpfeioZAFyrqg2LiQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T10:32:11.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "MT"
     },
@@ -1392,16 +1350,58 @@
       "country": "MT"
     },
     {
-      "id": "water.sort.color.puzzle.offline.games",
-      "name": "Water Sort! Color Sort Puzzle",
-      "developer": "Bobodoo Game",
-      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/Ua9HL2jL6escu3RIMriqdI70cCXpCsL64ZO7Qp8VXdjHv9BrAHjIIFX5v61JHBFZJQ",
+      "id": "com.gamovation.tileclub",
+      "name": "Tile Club - Match Puzzle Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T19:06:20.000Z",
+      "releaseDate": "2026-01-07T10:41:36.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.easybrain.crossword.puzzles",
+      "name": "Crossword Master - Word Puzzle",
+      "developer": "Easybrain",
+      "url": "https://play.google.com/store/apps/details?id=com.easybrain.crossword.puzzles&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/vKsVQD3lG4AoABeGFJe8mboN2ATrrwwz1bJFQSd3cuEsvh_AyFIqxZB9gkbt37fFQBk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-18T11:41:50.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.playvalve.wsjourney",
+      "name": "Word Search - Word Puzzle Game",
+      "developer": "Playvalve",
+      "url": "https://play.google.com/store/apps/details?id=com.playvalve.wsjourney&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/buGx7Qx6e_M9DUqiwABScUWx-xgiUSJBURBhivVel8OdVVzqOB2F5V3Nt60Ov8Qudw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-21T16:35:43.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.lof.global.gp",
+      "name": "Last Fiefdom",
+      "developer": "Bravo Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.lof.global.gp&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/zrXC2IY0MyNjqcfT8wYpNwXiG8LJk4JsPBKQrn5j1t8XC5EtcdwWc5Of21-qYnE-8VnRaUBThKtObpNqufRb",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T07:23:16.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "MT"
     }
