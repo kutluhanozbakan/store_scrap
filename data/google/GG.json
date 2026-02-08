@@ -1,8 +1,36 @@
 {
   "country": "GG",
   "store": "google",
-  "updatedAt": "2026-02-08T09:50:38.926Z",
+  "updatedAt": "2026-02-08T17:14:00.904Z",
   "new": [
+    {
+      "id": "com.rubygames.assassin",
+      "name": "Hunter Assassin",
+      "developer": "Ruby Games AS",
+      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=GG",
+      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-08T14:09:08.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "GG"
+    },
+    {
+      "id": "com.gps.housemakeover.satisfying.clean",
+      "name": "House Makeover: ASMR Cleaning",
+      "developer": "Mad1 Games",
+      "url": "https://play.google.com/store/apps/details?id=com.gps.housemakeover.satisfying.clean&hl=en&gl=GG",
+      "artwork": "https://play-lh.googleusercontent.com/7y126KQrQEKp0Ba5tySSSyl9N30WrP0VQl0xQ4diTnqpoxohAAhoZvlTYeP0S8gOYQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-08T10:20:30.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "GG"
+    },
     {
       "id": "com.amelosinteractive.snake",
       "name": "Snake.io - Fun Snake .io Games",
@@ -84,34 +112,6 @@
       "releaseDate": "2026-02-06T16:06:59.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "GG"
-    },
-    {
-      "id": "com.rubygames.assassin",
-      "name": "Hunter Assassin",
-      "developer": "Ruby Games AS",
-      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=GG",
-      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T14:35:39.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "GG"
-    },
-    {
-      "id": "com.JindoBlu.OfflineGames",
-      "name": "Offline Games - No Wifi Games",
-      "developer": "JindoBlu",
-      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.OfflineGames&hl=en&gl=GG",
-      "artwork": "https://play-lh.googleusercontent.com/UoBeMWwIeHSxGAx1EhmvWrG1lkzlG78UByGwEkEhRlp40udqC0hHJeRTl266g9aG-A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T13:18:19.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "GG"
     },
@@ -804,20 +804,6 @@
       "country": "GG"
     },
     {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=GG",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "GG"
-    },
-    {
       "id": "com.outfit7.mytalkingtom2",
       "name": "My Talking Tom 2: Pet Game",
       "developer": "Outfit7 Limited",
@@ -828,6 +814,20 @@
       "releaseDate": "2026-01-14T12:55:59.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "GG"
+    },
+    {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=GG",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "GG"
     },
@@ -916,6 +916,20 @@
       "country": "GG"
     },
     {
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=GG",
+      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T19:50:09.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "GG"
+    },
+    {
       "id": "io.voodoo.holeio",
       "name": "Hole.io",
       "developer": "VOODOO",
@@ -938,6 +952,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2025-10-22T00:32:35.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "GG"
+    },
+    {
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=GG",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-20T12:22:26.000Z",
       "genres": [
         "Arcade"
       ],
@@ -972,6 +1000,20 @@
       "country": "GG"
     },
     {
+      "id": "com.rubygames.assassin",
+      "name": "Hunter Assassin",
+      "developer": "Ruby Games AS",
+      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=GG",
+      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-08T14:09:08.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "GG"
+    },
+    {
       "id": "com.tencent.ig",
       "name": "PUBG MOBILE",
       "developer": "Level Infinite",
@@ -1000,20 +1042,6 @@
       "country": "GG"
     },
     {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=GG",
-      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T19:50:09.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "GG"
-    },
-    {
       "id": "com.miniclip.eightballpool",
       "name": "8 Ball Pool",
       "developer": "Miniclip.com",
@@ -1036,34 +1064,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-01-27T01:29:03.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "GG"
-    },
-    {
-      "id": "com.rubygames.assassin",
-      "name": "Hunter Assassin",
-      "developer": "Ruby Games AS",
-      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=GG",
-      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T14:35:39.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "GG"
-    },
-    {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=GG",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-20T12:22:26.000Z",
       "genres": [
         "Arcade"
       ],
@@ -1108,20 +1108,6 @@
       "releaseDate": "2025-12-01T14:35:20.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "GG"
-    },
-    {
-      "id": "com.craft.city.blockbuilder.pro",
-      "name": "Craft Explore: Block Builder",
-      "developer": "Appsgrooves",
-      "url": "https://play.google.com/store/apps/details?id=com.craft.city.blockbuilder.pro&hl=en&gl=GG",
-      "artwork": "https://play-lh.googleusercontent.com/YFHDvFUFlCreDkvR1NRPr1KkeF3OdKCZPVmSLzPXs96jHbAxUf4LjFOaWA0WkmTdIK4A2K2G8ZnnKeLimAFM2Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T11:12:35.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "GG"
     },
@@ -1238,14 +1224,14 @@
       "country": "GG"
     },
     {
-      "id": "com.gf.busdriving.publictransport.citypassenger.drivinggames",
-      "name": "Bus Simulator : 3D Bus Games",
-      "developer": "GamePark",
-      "url": "https://play.google.com/store/apps/details?id=com.gf.busdriving.publictransport.citypassenger.drivinggames&hl=en&gl=GG",
-      "artwork": "https://play-lh.googleusercontent.com/rp9LqQcNwWly8QgjZnDdiK8gSHQyUAHTVzC5DQBFDC-Fm3eHZobtoFTUAlsdRBcatpI",
+      "id": "com.craft.city.blockbuilder.pro",
+      "name": "Craft Explore: Block Builder",
+      "developer": "Appsgrooves",
+      "url": "https://play.google.com/store/apps/details?id=com.craft.city.blockbuilder.pro&hl=en&gl=GG",
+      "artwork": "https://play-lh.googleusercontent.com/YFHDvFUFlCreDkvR1NRPr1KkeF3OdKCZPVmSLzPXs96jHbAxUf4LjFOaWA0WkmTdIK4A2K2G8ZnnKeLimAFM2Q",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-20T12:05:35.000Z",
+      "releaseDate": "2026-02-06T11:12:35.000Z",
       "genres": [
         "Simulation"
       ],
@@ -1308,20 +1294,6 @@
       "country": "GG"
     },
     {
-      "id": "com.unept.leveldevil",
-      "name": "Level Devil - NOT A Troll Game",
-      "developer": "Poki",
-      "url": "https://play.google.com/store/apps/details?id=com.unept.leveldevil&hl=en&gl=GG",
-      "artwork": "https://play-lh.googleusercontent.com/VqY_7ZNxG91KHaZguRP3khXdlTR1yQr45RCoiNu6MO41UhN-jlN31YWTQImWFRTw5r0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T14:49:51.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "GG"
-    },
-    {
       "id": "com.miniclip.carrom",
       "name": "Carrom Pool: Disc Game",
       "developer": "Miniclip.com",
@@ -1346,20 +1318,6 @@
       "releaseDate": "2026-02-03T13:05:04.000Z",
       "genres": [
         "Educational"
-      ],
-      "country": "GG"
-    },
-    {
-      "id": "com.sh.fidget.toys.mini.relaxing.antistress.games",
-      "name": "Mini Relaxing Game- pop it",
-      "developer": "stick hunter",
-      "url": "https://play.google.com/store/apps/details?id=com.sh.fidget.toys.mini.relaxing.antistress.games&hl=en&gl=GG",
-      "artwork": "https://play-lh.googleusercontent.com/uaUYUU88p8XAufLdsdXT6ZJGmJonR77icn9zREk9axgRPHIWhxkNhLDo7-EmUl2VY5E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T13:03:03.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "GG"
     },
@@ -1392,6 +1350,20 @@
       "country": "GG"
     },
     {
+      "id": "com.run.tower.defense",
+      "name": "Kingshot",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=GG",
+      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T09:09:20.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "GG"
+    },
+    {
       "id": "com.Rohit.IndianBikes",
       "name": "Indian Bikes Driving 3D",
       "developer": "Rohit Gaming Studio",
@@ -1402,6 +1374,34 @@
       "releaseDate": "2026-02-03T16:47:32.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "GG"
+    },
+    {
+      "id": "com.skgames.trafficrider",
+      "name": "Traffic Rider",
+      "developer": "skgames",
+      "url": "https://play.google.com/store/apps/details?id=com.skgames.trafficrider&hl=en&gl=GG",
+      "artwork": "https://play-lh.googleusercontent.com/590AflDt-hW2t85Cit_ODJPJdRiMMRn2cSF0vYNfsBpjm895x1zDy0npbD7IlDCvmNvI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-08T14:58:29.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "GG"
+    },
+    {
+      "id": "com.outfit7.mytalkingangela2",
+      "name": "My Talking Angela 2",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=GG",
+      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T13:25:06.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "GG"
     }
