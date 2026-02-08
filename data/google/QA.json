@@ -1,8 +1,22 @@
 {
   "country": "QA",
   "store": "google",
-  "updatedAt": "2026-02-08T13:10:30.782Z",
+  "updatedAt": "2026-02-08T19:53:24.436Z",
   "new": [
+    {
+      "id": "com.rubygames.assassin",
+      "name": "Hunter Assassin",
+      "developer": "Ruby Games AS",
+      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-08T14:09:08.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "QA"
+    },
     {
       "id": "com.MadOut.BIG",
       "name": "MadOut 2: Grand Auto Racing",
@@ -70,20 +84,6 @@
       "releaseDate": "2026-02-06T15:32:17.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "QA"
-    },
-    {
-      "id": "com.rubygames.assassin",
-      "name": "Hunter Assassin",
-      "developer": "Ruby Games AS",
-      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T14:35:39.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "QA"
     },
@@ -720,20 +720,6 @@
       "country": "QA"
     },
     {
-      "id": "com.dts.freefireth",
-      "name": "Free Fire x JUJUTSU KAISEN",
-      "developer": "GARENA INTERNATIONAL I",
-      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/-6LwMoL2ZWR3pl3s1fvwiYil-vrLS8q2n6Lg8rJ_I_uSAXtFD7OEO-KziVFxIlfuhezB7jsMYnf5COn4S1iu",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-08T09:45:46.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "QA"
-    },
-    {
       "id": "com.block.juggle",
       "name": "Block Blast!",
       "developer": "HungryStudio",
@@ -744,6 +730,20 @@
       "releaseDate": "2026-02-06T16:35:27.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "QA"
+    },
+    {
+      "id": "com.dts.freefireth",
+      "name": "Free Fire x JUJUTSU KAISEN",
+      "developer": "GARENA INTERNATIONAL I",
+      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/-6LwMoL2ZWR3pl3s1fvwiYil-vrLS8q2n6Lg8rJ_I_uSAXtFD7OEO-KziVFxIlfuhezB7jsMYnf5COn4S1iu",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-08T09:45:46.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "QA"
     },
@@ -804,20 +804,6 @@
       "country": "QA"
     },
     {
-      "id": "com.cliffs.pro.cell.building.crazy.clever.craft",
-      "name": "Block Crazy Robo World Craft",
-      "developer": "Prokids Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.cliffs.pro.cell.building.crazy.clever.craft&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/K3ncdCrbnHb-Po_gNuiJldSG7lfczGR0ZdFs3zoV28yTqPnzWQh07l2xI3rgMiIPsA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-28T05:45:26.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "QA"
-    },
-    {
       "id": "com.tencent.ig",
       "name": "PUBG MOBILE",
       "developer": "Level Infinite",
@@ -828,6 +814,20 @@
       "releaseDate": "2025-12-29T01:31:07.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "QA"
+    },
+    {
+      "id": "com.cliffs.pro.cell.building.crazy.clever.craft",
+      "name": "Block Crazy Robo World Craft",
+      "developer": "Prokids Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.cliffs.pro.cell.building.crazy.clever.craft&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/K3ncdCrbnHb-Po_gNuiJldSG7lfczGR0ZdFs3zoV28yTqPnzWQh07l2xI3rgMiIPsA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-28T05:45:26.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "QA"
     },
@@ -860,6 +860,34 @@
       "country": "QA"
     },
     {
+      "id": "com.red.sortingstore.android",
+      "name": "Water Match™- ASMR Water Sort",
+      "developer": "Youyoutang Technology",
+      "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T08:56:38.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "QA"
+    },
+    {
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T16:47:57.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "QA"
+    },
+    {
       "id": "com.football.soccer.league",
       "name": "Football League 2026",
       "developer": "MOBILE SOCCER",
@@ -888,34 +916,6 @@
       "country": "QA"
     },
     {
-      "id": "io.voodoo.holeio",
-      "name": "Hole.io",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T16:47:57.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "QA"
-    },
-    {
-      "id": "com.red.sortingstore.android",
-      "name": "Water Match™- ASMR Water Sort",
-      "developer": "Youyoutang Technology",
-      "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T08:56:38.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "QA"
-    },
-    {
       "id": "com.youmusic.magictiles",
       "name": "Magic Tiles 3™ - Piano Game",
       "developer": "AMANOTES PTE. LTD.",
@@ -926,6 +926,20 @@
       "releaseDate": "2026-02-06T11:33:52.000Z",
       "genres": [
         "Music"
+      ],
+      "country": "QA"
+    },
+    {
+      "id": "com.miniclip.eightballpool",
+      "name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T16:34:15.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "QA"
     },
@@ -944,20 +958,6 @@
       "country": "QA"
     },
     {
-      "id": "com.outfit7.mytalkingtom2",
-      "name": "My Talking Tom 2: Pet Game",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-14T12:55:59.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "QA"
-    },
-    {
       "id": "com.oakever.tiletrip",
       "name": "Tile Explorer - Triple Match",
       "developer": "Oakever Games",
@@ -972,16 +972,16 @@
       "country": "QA"
     },
     {
-      "id": "com.miniclip.eightballpool",
-      "name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
+      "id": "com.outfit7.mytalkingtom2",
+      "name": "My Talking Tom 2: Pet Game",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T16:34:15.000Z",
+      "releaseDate": "2026-01-14T12:55:59.000Z",
       "genres": [
-        "Sports"
+        "Casual"
       ],
       "country": "QA"
     },
@@ -1028,6 +1028,20 @@
       "country": "QA"
     },
     {
+      "id": "com.netease.newspikeme",
+      "name": "Blood Strike Max",
+      "developer": "Stellar Gate Games",
+      "url": "https://play.google.com/store/apps/details?id=com.netease.newspikeme&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/Lv1XpRDOaNmxZPWkix0FVyfaLYeNnVwZEUGl9QGwY_tu36xgUbQXNtpYWrMBpib7e-JonRYUjl2GnjKr0rftgw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T15:46:30.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "QA"
+    },
+    {
       "id": "jp.konami.pesam",
       "name": "eFootball™",
       "developer": "KONAMI",
@@ -1056,16 +1070,16 @@
       "country": "QA"
     },
     {
-      "id": "com.netease.newspikeme",
-      "name": "Blood Strike Max",
-      "developer": "Stellar Gate Games",
-      "url": "https://play.google.com/store/apps/details?id=com.netease.newspikeme&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/Lv1XpRDOaNmxZPWkix0FVyfaLYeNnVwZEUGl9QGwY_tu36xgUbQXNtpYWrMBpib7e-JonRYUjl2GnjKr0rftgw",
+      "id": "com.ecffri.arrows",
+      "name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore UG",
+      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/uD7EXtrZgAt275U1Zb7Ej11VpLdJ1fgjVSdy6g5Ref_XaNkX4OK2Ev16wRpgHOqYkg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-29T15:46:30.000Z",
+      "releaseDate": "2026-02-05T13:57:41.000Z",
       "genres": [
-        "Action"
+        "Puzzle"
       ],
       "country": "QA"
     },
@@ -1098,20 +1112,6 @@
       "country": "QA"
     },
     {
-      "id": "com.ecffri.arrows",
-      "name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore UG",
-      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/uD7EXtrZgAt275U1Zb7Ej11VpLdJ1fgjVSdy6g5Ref_XaNkX4OK2Ev16wRpgHOqYkg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T13:57:41.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "QA"
-    },
-    {
       "id": "com.ta.strike.ops",
       "name": "FPS Strike Ops : Modern Arena",
       "developer": "FPS Shooter & Action Game",
@@ -1122,6 +1122,20 @@
       "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "QA"
+    },
+    {
+      "id": "com.superking.ludo.star",
+      "name": "Ludo STAR",
+      "developer": "Gameberry Labs",
+      "url": "https://play.google.com/store/apps/details?id=com.superking.ludo.star&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/9Ukxobm7BooQaiNzKdaTAFKpD11idBCzbq6XpoevFBiNob7w4KG834BfmPX9HYcT1SA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T15:32:17.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "QA"
     },
@@ -1168,72 +1182,16 @@
       "country": "QA"
     },
     {
-      "id": "com.superking.ludo.star",
-      "name": "Ludo STAR",
-      "developer": "Gameberry Labs",
-      "url": "https://play.google.com/store/apps/details?id=com.superking.ludo.star&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/9Ukxobm7BooQaiNzKdaTAFKpD11idBCzbq6XpoevFBiNob7w4KG834BfmPX9HYcT1SA",
+      "id": "com.imangi.templerun2",
+      "name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T15:32:17.000Z",
+      "releaseDate": "2026-01-19T12:00:17.000Z",
       "genres": [
-        "Board"
-      ],
-      "country": "QA"
-    },
-    {
-      "id": "com.creations.runnergame",
-      "name": "Kooply Run™: Play and Create!",
-      "developer": "KOOPLY",
-      "url": "https://play.google.com/store/apps/details?id=com.creations.runnergame&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/hLEUT0aM-VNy24Bnh3jEQwLOVqEJc-Oq0SPM9VT-NvWMcGCG0of6K26cs9KlUKMt9tI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T17:33:04.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "QA"
-    },
-    {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-20T12:22:26.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "QA"
-    },
-    {
-      "id": "onetap.game.tictactoe",
-      "name": "Tic Tac Toe 2 Player: XO Game",
-      "developer": "Onetap Global",
-      "url": "https://play.google.com/store/apps/details?id=onetap.game.tictactoe&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/KZTO1L6r8CzWlg2InJoU_ndRAuvYiaS-35MyYdDPeeVCPNVfM9SBY2qRGjvvADmDIR8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-04T07:54:04.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "QA"
-    },
-    {
-      "id": "com.flyingwhalegames.carout",
-      "name": "Car Out! Traffic Parking Games",
-      "developer": "Tripledot Studios Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.flyingwhalegames.carout&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/Z6KJAQTDqQzJaeisYfVVBvAGMznEFBNb0U229BpFgmm8nolXrvqZ7HQmoiUTjsY4esI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T13:16:14.000Z",
-      "genres": [
-        "Puzzle"
+        "Action"
       ],
       "country": "QA"
     },
@@ -1252,44 +1210,16 @@
       "country": "QA"
     },
     {
-      "id": "com.aim.racing",
-      "name": "Extreme Car Driving Simulator",
-      "developer": "AxesInMotion Racing",
-      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/6NEtpPjWbslnt7WzHb4A1sYM6GiX_VdIhA6O9gAvJcf-GlmnEkfMQwPzAD7xTSLV_5M",
+      "id": "com.dreamgames.royalkingdom",
+      "name": "Royal Kingdom",
+      "developer": "Dream Games, Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-22T16:09:11.000Z",
+      "releaseDate": "2026-01-28T11:27:21.000Z",
       "genres": [
-        "Racing"
-      ],
-      "country": "QA"
-    },
-    {
-      "id": "com.imangi.templerun2",
-      "name": "Temple Run 2: Endless Escape",
-      "developer": "Imangi Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-19T12:00:17.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "QA"
-    },
-    {
-      "id": "com.ohbibi.fps",
-      "name": "FRAG Pro Shooter",
-      "developer": "Oh BiBi",
-      "url": "https://play.google.com/store/apps/details?id=com.ohbibi.fps&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/W5oPv_F0Z-wAwZdbxQEBjNduvGjq8rDgdZ58bC7QpKX2fhvdUrQaZSCRLPCO1PiYW7g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T11:14:10.000Z",
-      "genres": [
-        "Action"
+        "Puzzle"
       ],
       "country": "QA"
     },
@@ -1308,16 +1238,86 @@
       "country": "QA"
     },
     {
-      "id": "com.tfv.draw.one.missing.partdop.puzzle.games",
-      "name": "Complete Puzzle: Draw One Part",
-      "developer": "The Fashion Valley",
-      "url": "https://play.google.com/store/apps/details?id=com.tfv.draw.one.missing.partdop.puzzle.games&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/B1TwtSx8VxzDGzFdqmOKPW9vboW1-2Pq9k5LdG4lrtALJ29PjBdg36_SwbqAjvyaqw",
+      "id": "com.flyingwhalegames.carout",
+      "name": "Car Out! Traffic Parking Games",
+      "developer": "Tripledot Studios Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.flyingwhalegames.carout&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/Z6KJAQTDqQzJaeisYfVVBvAGMznEFBNb0U229BpFgmm8nolXrvqZ7HQmoiUTjsY4esI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-26T13:27:05.000Z",
+      "releaseDate": "2026-02-05T13:16:14.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "QA"
+    },
+    {
+      "id": "com.creations.runnergame",
+      "name": "Kooply Run™: Play and Create!",
+      "developer": "KOOPLY",
+      "url": "https://play.google.com/store/apps/details?id=com.creations.runnergame&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/hLEUT0aM-VNy24Bnh3jEQwLOVqEJc-Oq0SPM9VT-NvWMcGCG0of6K26cs9KlUKMt9tI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T17:33:04.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "QA"
+    },
+    {
+      "id": "com.ohbibi.fps",
+      "name": "FRAG Pro Shooter",
+      "developer": "Oh BiBi",
+      "url": "https://play.google.com/store/apps/details?id=com.ohbibi.fps&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/W5oPv_F0Z-wAwZdbxQEBjNduvGjq8rDgdZ58bC7QpKX2fhvdUrQaZSCRLPCO1PiYW7g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T11:14:10.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "QA"
+    },
+    {
+      "id": "onetap.game.tictactoe",
+      "name": "Tic Tac Toe 2 Player: XO Game",
+      "developer": "Onetap Global",
+      "url": "https://play.google.com/store/apps/details?id=onetap.game.tictactoe&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/KZTO1L6r8CzWlg2InJoU_ndRAuvYiaS-35MyYdDPeeVCPNVfM9SBY2qRGjvvADmDIR8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-04T07:54:04.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "QA"
+    },
+    {
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-20T12:22:26.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "QA"
+    },
+    {
+      "id": "com.aim.racing",
+      "name": "Extreme Car Driving Simulator",
+      "developer": "AxesInMotion Racing",
+      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/6NEtpPjWbslnt7WzHb4A1sYM6GiX_VdIhA6O9gAvJcf-GlmnEkfMQwPzAD7xTSLV_5M",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-22T16:09:11.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "QA"
     },
@@ -1336,16 +1336,16 @@
       "country": "QA"
     },
     {
-      "id": "com.dreamgames.royalkingdom",
-      "name": "Royal Kingdom",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
+      "id": "com.soccer.score.star",
+      "name": "Soccer Superstar",
+      "developer": "Real Freestyle Soccer",
+      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-28T11:27:21.000Z",
+      "releaseDate": "2026-01-29T15:32:33.000Z",
       "genres": [
-        "Puzzle"
+        "Sports"
       ],
       "country": "QA"
     },
@@ -1364,20 +1364,6 @@
       "country": "QA"
     },
     {
-      "id": "com.soccer.score.star",
-      "name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=QA",
-      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:32:33.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "QA"
-    },
-    {
       "id": "com.red.arrows.android",
       "name": "Arrowscapes™ - Arrows Puzzle",
       "developer": "Beijing Youyoutang Technology Co.,ltd.",
@@ -1388,6 +1374,20 @@
       "releaseDate": "2026-02-06T09:31:13.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "QA"
+    },
+    {
+      "id": "com.tfv.draw.one.missing.partdop.puzzle.games",
+      "name": "Complete Puzzle: Draw One Part",
+      "developer": "The Fashion Valley",
+      "url": "https://play.google.com/store/apps/details?id=com.tfv.draw.one.missing.partdop.puzzle.games&hl=en&gl=QA",
+      "artwork": "https://play-lh.googleusercontent.com/B1TwtSx8VxzDGzFdqmOKPW9vboW1-2Pq9k5LdG4lrtALJ29PjBdg36_SwbqAjvyaqw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-26T13:27:05.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "QA"
     },
