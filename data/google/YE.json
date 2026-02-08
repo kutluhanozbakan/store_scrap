@@ -1,8 +1,22 @@
 {
   "country": "YE",
   "store": "google",
-  "updatedAt": "2026-02-07T19:59:12.479Z",
+  "updatedAt": "2026-02-08T07:27:19.996Z",
   "new": [
+    {
+      "id": "com.maxgames.stickwarlegacy",
+      "name": "Stick War: Legacy",
+      "developer": "Max Games Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.maxgames.stickwarlegacy&hl=en&gl=YE",
+      "artwork": "https://play-lh.googleusercontent.com/sITxnGaUxYVzTDkVAjRSKM8JKehWTuseE4hF8937sWVattKHEAirl7uZw93gqad_fQg6",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-08T03:32:01.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "YE"
+    },
     {
       "id": "car.parking.jam.solver.puzzle.games",
       "name": "Car Jam Solver: Traffic Jam",
@@ -354,20 +368,6 @@
       "country": "YE"
     },
     {
-      "id": "com.games.hexagon.odyssey.puzzle",
-      "name": "Hexa Merge: Tile Sort Puzzle",
-      "developer": "Adaric Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.games.hexagon.odyssey.puzzle&hl=en&gl=YE",
-      "artwork": "https://play-lh.googleusercontent.com/e530XJgrI0wXmQ7RlVhGGe5MXwSOg5tLk0ukWZwM6R6iOJorKgnnkORUI7C23zbGISv9",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T06:36:42.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "YE"
-    },
-    {
       "id": "com.gamebasics.osm",
       "name": "OSM 25/26 Soccer Manager Game",
       "developer": "Gamebasics BV",
@@ -448,20 +448,6 @@
       "releaseDate": "2026-02-02T12:35:26.000Z",
       "genres": [
         "Educational"
-      ],
-      "country": "YE"
-    },
-    {
-      "id": "com.maxgames.stickwarlegacy",
-      "name": "Stick War: Legacy",
-      "developer": "Max Games Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.maxgames.stickwarlegacy&hl=en&gl=YE",
-      "artwork": "https://play-lh.googleusercontent.com/sITxnGaUxYVzTDkVAjRSKM8JKehWTuseE4hF8937sWVattKHEAirl7uZw93gqad_fQg6",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-31T18:32:31.000Z",
-      "genres": [
-        "Strategy"
       ],
       "country": "YE"
     },
@@ -702,6 +688,20 @@
         "Racing"
       ],
       "country": "YE"
+    },
+    {
+      "id": "com.ludo.king",
+      "name": "Ludo King®",
+      "developer": "Gametion",
+      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=YE",
+      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-22T14:46:31.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "YE"
     }
   ],
   "updated": [
@@ -846,6 +846,20 @@
       "country": "YE"
     },
     {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=YE",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "YE"
+    },
+    {
       "id": "com.tencent.ig",
       "name": "PUBG MOBILE",
       "developer": "Level Infinite",
@@ -860,16 +874,16 @@
       "country": "YE"
     },
     {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=YE",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=YE",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "releaseDate": "2025-10-22T00:32:35.000Z",
       "genres": [
-        "Adventure"
+        "Arcade"
       ],
       "country": "YE"
     },
@@ -902,20 +916,6 @@
       "country": "YE"
     },
     {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=YE",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "YE"
-    },
-    {
       "id": "com.chillingo.robberybob2.android.gplay",
       "name": "Robbery Bob 2: Double Trouble",
       "developer": "Deca_Games",
@@ -930,20 +930,6 @@
       "country": "YE"
     },
     {
-      "id": "jp.konami.pesam",
-      "name": "eFootball™",
-      "developer": "KONAMI",
-      "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=en&gl=YE",
-      "artwork": "https://play-lh.googleusercontent.com/o-iscF0u9uAm9jaems25nNUw3cIgxrzIELVTy-DPKb3CxN0_HLBcaWoeetZca_BBOp_u_NXeyQKz0nJkXiFMkA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T01:25:55.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "YE"
-    },
-    {
       "id": "crypto.cosmic.simulator.app",
       "name": "CryptoCosmic Trading Simulator",
       "developer": "Cosmic Champions",
@@ -954,6 +940,20 @@
       "releaseDate": "2026-02-02T12:35:26.000Z",
       "genres": [
         "Educational"
+      ],
+      "country": "YE"
+    },
+    {
+      "id": "jp.konami.pesam",
+      "name": "eFootball™",
+      "developer": "KONAMI",
+      "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=en&gl=YE",
+      "artwork": "https://play-lh.googleusercontent.com/o-iscF0u9uAm9jaems25nNUw3cIgxrzIELVTy-DPKb3CxN0_HLBcaWoeetZca_BBOp_u_NXeyQKz0nJkXiFMkA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T01:25:55.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "YE"
     },
@@ -1028,6 +1028,20 @@
       "country": "YE"
     },
     {
+      "id": "com.mobirix.swipebrick2",
+      "name": "Bricks Breaker Quest",
+      "developer": "mobirix",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.swipebrick2&hl=en&gl=YE",
+      "artwork": "https://play-lh.googleusercontent.com/drq4pMkv4m0UbxtXgY6GQabeK2ybwh2wlZwsSV8p1SIPLbHN9KI1ts_ixyIKyB7O4g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T03:52:49.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "YE"
+    },
+    {
       "id": "europe.truck.simulator2",
       "name": "Truckers of Europe 2",
       "developer": "Wanda Software",
@@ -1038,6 +1052,34 @@
       "releaseDate": "2024-01-11T13:20:11.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "YE"
+    },
+    {
+      "id": "com.atesgamestudio.rollance",
+      "name": "Rollance : Adventure Balls",
+      "developer": "CASUAL AZUR GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.atesgamestudio.rollance&hl=en&gl=YE",
+      "artwork": "https://play-lh.googleusercontent.com/nvF8c1Xym9P4X8lva7irs84bdeHUYcvhgToaQM6RgYn372anFhNOD_ZlwdD5pOoF9Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-22T20:21:00.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "YE"
+    },
+    {
+      "id": "com.outfit7.mytalkingtomfree",
+      "name": "My Talking Tom",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=YE",
+      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T13:07:30.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "YE"
     },
@@ -1098,16 +1140,16 @@
       "country": "YE"
     },
     {
-      "id": "com.atesgamestudio.rollance",
-      "name": "Rollance : Adventure Balls",
-      "developer": "CASUAL AZUR GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.atesgamestudio.rollance&hl=en&gl=YE",
-      "artwork": "https://play-lh.googleusercontent.com/nvF8c1Xym9P4X8lva7irs84bdeHUYcvhgToaQM6RgYn372anFhNOD_ZlwdD5pOoF9Q",
+      "id": "com.aim.racing",
+      "name": "Extreme Car Driving Simulator",
+      "developer": "AxesInMotion Racing",
+      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=YE",
+      "artwork": "https://play-lh.googleusercontent.com/6NEtpPjWbslnt7WzHb4A1sYM6GiX_VdIhA6O9gAvJcf-GlmnEkfMQwPzAD7xTSLV_5M",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-22T20:21:00.000Z",
+      "releaseDate": "2026-01-22T16:09:11.000Z",
       "genres": [
-        "Action"
+        "Racing"
       ],
       "country": "YE"
     },
@@ -1140,6 +1182,20 @@
       "country": "YE"
     },
     {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=YE",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T17:28:18.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "YE"
+    },
+    {
       "id": "com.outfit7.mytalkingtomfriends",
       "name": "My Talking Tom Friends",
       "developer": "Outfit7 Limited",
@@ -1154,30 +1210,16 @@
       "country": "YE"
     },
     {
-      "id": "com.mobirix.swipebrick2",
-      "name": "Bricks Breaker Quest",
-      "developer": "mobirix",
-      "url": "https://play.google.com/store/apps/details?id=com.mobirix.swipebrick2&hl=en&gl=YE",
-      "artwork": "https://play-lh.googleusercontent.com/drq4pMkv4m0UbxtXgY6GQabeK2ybwh2wlZwsSV8p1SIPLbHN9KI1ts_ixyIKyB7O4g",
+      "id": "com.game.friends.android",
+      "name": "TopTop: Games&Chat",
+      "developer": "Social Game Lab",
+      "url": "https://play.google.com/store/apps/details?id=com.game.friends.android&hl=en&gl=YE",
+      "artwork": "https://play-lh.googleusercontent.com/7Wf96gNwbTxrSB4crk7QIW-mYzZL7mkwMYquLBJzdpN2Q8ECdHo0OI9FzLA11-C4h71s",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T03:52:49.000Z",
+      "releaseDate": "2026-01-30T11:56:24.000Z",
       "genres": [
-        "Arcade"
-      ],
-      "country": "YE"
-    },
-    {
-      "id": "com.outfit7.mytalkingtomfree",
-      "name": "My Talking Tom",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=YE",
-      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T13:07:30.000Z",
-      "genres": [
-        "Casual"
+        "Board"
       ],
       "country": "YE"
     },
@@ -1280,20 +1322,6 @@
       "country": "YE"
     },
     {
-      "id": "com.aim.racing",
-      "name": "Extreme Car Driving Simulator",
-      "developer": "AxesInMotion Racing",
-      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=YE",
-      "artwork": "https://play-lh.googleusercontent.com/6NEtpPjWbslnt7WzHb4A1sYM6GiX_VdIhA6O9gAvJcf-GlmnEkfMQwPzAD7xTSLV_5M",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-22T16:09:11.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "YE"
-    },
-    {
       "id": "com.courage.ludo",
       "name": "Lama Ludo-Ludo&Chatroom",
       "developer": "Courage. Limited",
@@ -1318,20 +1346,6 @@
       "releaseDate": "2026-02-06T11:14:10.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "YE"
-    },
-    {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=YE",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T17:28:18.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "YE"
     },
@@ -1388,20 +1402,6 @@
       "releaseDate": "2026-02-03T14:49:51.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "YE"
-    },
-    {
-      "id": "com.game.friends.android",
-      "name": "TopTop: Games&Chat",
-      "developer": "Social Game Lab",
-      "url": "https://play.google.com/store/apps/details?id=com.game.friends.android&hl=en&gl=YE",
-      "artwork": "https://play-lh.googleusercontent.com/7Wf96gNwbTxrSB4crk7QIW-mYzZL7mkwMYquLBJzdpN2Q8ECdHo0OI9FzLA11-C4h71s",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T11:56:24.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "YE"
     }

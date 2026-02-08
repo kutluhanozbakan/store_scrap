@@ -1,8 +1,22 @@
 {
   "country": "VC",
   "store": "google",
-  "updatedAt": "2026-02-07T19:48:36.683Z",
+  "updatedAt": "2026-02-08T07:26:45.897Z",
   "new": [
+    {
+      "id": "com.amelosinteractive.snake",
+      "name": "Snake.io - Fun Snake .io Games",
+      "developer": "Kooapps Games | Fun Arcade and Casual Action Games",
+      "url": "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake&hl=en&gl=VC",
+      "artwork": "https://play-lh.googleusercontent.com/NG4sZTG49qpKGd3tUxdoxbW2EXSp1-nAxcYr3XCO0SO1WO5P2sWkk0sBtUGZPYzPOU0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-07T09:30:48.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "VC"
+    },
     {
       "id": "com.MadOut.BIG",
       "name": "MadOut 2: Grand Auto Racing",
@@ -74,6 +88,20 @@
       "country": "VC"
     },
     {
+      "id": "com.tile.home.match.puzzle.game",
+      "name": "Tile Home-Match Puzzle Game",
+      "developer": "Mindful Daily Puzzles",
+      "url": "https://play.google.com/store/apps/details?id=com.tile.home.match.puzzle.game&hl=en&gl=VC",
+      "artwork": "https://play-lh.googleusercontent.com/gNYvOPQPkwGCMYBC2X_CVhaLDL2EOBSx8u60gKJRbvqtVoeApk1KGhKKi76cqWK9posbD3Ai1DZzj1Bdj0DIKA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T12:54:50.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "VC"
+    },
+    {
       "id": "com.moonfrog.ludo.club",
       "name": "Ludo Club - Fun Dice Game",
       "developer": "Moonfrog",
@@ -84,6 +112,20 @@
       "releaseDate": "2026-02-06T12:10:30.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "VC"
+    },
+    {
+      "id": "solitaire.patience.card.games.klondike.free",
+      "name": "Solitaire - Classic Card Games",
+      "developer": "Guru Puzzle Game",
+      "url": "https://play.google.com/store/apps/details?id=solitaire.patience.card.games.klondike.free&hl=en&gl=VC",
+      "artwork": "https://play-lh.googleusercontent.com/4lBjHhLwPQxEEPIc6Mad3fwxzaN-dGZW9DTeVi4WW1LH5iu3QdmAsuK-FeLLVggZz6o",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T11:52:01.000Z",
+      "genres": [
+        "Card"
       ],
       "country": "VC"
     },
@@ -660,48 +702,6 @@
         "Arcade"
       ],
       "country": "VC"
-    },
-    {
-      "id": "com.ssi.bus.games.bus.simulator",
-      "name": "Real Bus Simulator : Bus Games",
-      "developer": "Solo Studio Inc",
-      "url": "https://play.google.com/store/apps/details?id=com.ssi.bus.games.bus.simulator&hl=en&gl=VC",
-      "artwork": "https://play-lh.googleusercontent.com/3jwfrNqNLgdtj3zS2-i0mMACBopCLRyNWdeyC2zUxFQbgKrOAbSjiILNGzfGzmIJaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T10:33:47.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "VC"
-    },
-    {
-      "id": "princess.protect.dragon.wars.girl.rescue",
-      "name": "Princess Rescue: Color Puzzle",
-      "developer": "Solitaire Card Studio",
-      "url": "https://play.google.com/store/apps/details?id=princess.protect.dragon.wars.girl.rescue&hl=en&gl=VC",
-      "artwork": "https://play-lh.googleusercontent.com/Z_ZwUzDDzE8i6_jRHCOzlaG3y9hGzz4VcEivGza900sL6F2WOvm20McDk1EahrivANxN",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T18:46:04.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "VC"
-    },
-    {
-      "id": "com.soccer.score.star",
-      "name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=VC",
-      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:32:33.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "VC"
     }
   ],
   "updated": [
@@ -762,20 +762,6 @@
       "country": "VC"
     },
     {
-      "id": "com.maleo.bussimulatorid",
-      "name": "Bus Simulator Indonesia",
-      "developer": "Maleo",
-      "url": "https://play.google.com/store/apps/details?id=com.maleo.bussimulatorid&hl=en&gl=VC",
-      "artwork": "https://play-lh.googleusercontent.com/urq7M2QD9-AVt3AMQn1dHl0wSfWItoPExLsnu7BAqlfvXlikR3kVrHr7LarPFGhscLM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-08-13T02:16:23.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "VC"
-    },
-    {
       "id": "com.ea.gp.fifamobile",
       "name": "EA SPORTS FC™ Mobile Soccer 26",
       "developer": "ELECTRONIC ARTS",
@@ -790,6 +776,20 @@
       "country": "VC"
     },
     {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=VC",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "VC"
+    },
+    {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -800,6 +800,20 @@
       "releaseDate": "2026-02-03T15:34:55.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "VC"
+    },
+    {
+      "id": "com.maleo.bussimulatorid",
+      "name": "Bus Simulator Indonesia",
+      "developer": "Maleo",
+      "url": "https://play.google.com/store/apps/details?id=com.maleo.bussimulatorid&hl=en&gl=VC",
+      "artwork": "https://play-lh.googleusercontent.com/urq7M2QD9-AVt3AMQn1dHl0wSfWItoPExLsnu7BAqlfvXlikR3kVrHr7LarPFGhscLM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-13T02:16:23.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "VC"
     },
@@ -874,16 +888,16 @@
       "country": "VC"
     },
     {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=VC",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "id": "com.olzhas.carparking.multyplayer",
+      "name": "Car Parking Multiplayer",
+      "developer": "olzhass",
+      "url": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer&hl=en&gl=VC",
+      "artwork": "https://play-lh.googleusercontent.com/86cQqI_vflAIckhMPWltYthLFh4YnemCi5hXm0VCQe4Lbj346-jH3r6uy3lsQtpO9A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "releaseDate": "2026-01-17T11:37:40.000Z",
       "genres": [
-        "Adventure"
+        "Simulation"
       ],
       "country": "VC"
     },
@@ -916,16 +930,16 @@
       "country": "VC"
     },
     {
-      "id": "com.olzhas.carparking.multyplayer",
-      "name": "Car Parking Multiplayer",
-      "developer": "olzhass",
-      "url": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer&hl=en&gl=VC",
-      "artwork": "https://play-lh.googleusercontent.com/86cQqI_vflAIckhMPWltYthLFh4YnemCi5hXm0VCQe4Lbj346-jH3r6uy3lsQtpO9A",
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=VC",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-17T11:37:40.000Z",
+      "releaseDate": "2025-10-22T00:32:35.000Z",
       "genres": [
-        "Simulation"
+        "Arcade"
       ],
       "country": "VC"
     },
@@ -1098,6 +1112,34 @@
       "country": "VC"
     },
     {
+      "id": "com.pazugames.avatarworld",
+      "name": "Avatar World ®",
+      "developer": "Pazu Games",
+      "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld&hl=en&gl=VC",
+      "artwork": "https://play-lh.googleusercontent.com/jJFyM3fX6KGvTJUim-_mcYVcVD4g2vPL-7X7KZl1v0ieWIxjgfJlKzKoDmV5MNyo91QiN2p7smNld27XzUiKmA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T15:32:26.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "VC"
+    },
+    {
+      "id": "com.kiwigames.happycitizen.gp",
+      "name": "Happy Citizens - Mayor Sim",
+      "developer": "LifeSim",
+      "url": "https://play.google.com/store/apps/details?id=com.kiwigames.happycitizen.gp&hl=en&gl=VC",
+      "artwork": "https://play-lh.googleusercontent.com/Gb6PM7ytQrhsb8wWPcExHlSf0N--AxGyoJ29Xl3cRtaiIDDDWKRDlCbYebL2i1gNjck",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T03:44:29.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "VC"
+    },
+    {
       "id": "com.hitappsgames.wordsolitaire",
       "name": "Solitaire Associations Journey",
       "developer": "Hitapps Games",
@@ -1210,16 +1252,16 @@
       "country": "VC"
     },
     {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=VC",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
+      "id": "com.aim.racing",
+      "name": "Extreme Car Driving Simulator",
+      "developer": "AxesInMotion Racing",
+      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=VC",
+      "artwork": "https://play-lh.googleusercontent.com/6NEtpPjWbslnt7WzHb4A1sYM6GiX_VdIhA6O9gAvJcf-GlmnEkfMQwPzAD7xTSLV_5M",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "releaseDate": "2026-01-22T16:09:11.000Z",
       "genres": [
-        "Arcade"
+        "Racing"
       ],
       "country": "VC"
     },
@@ -1252,14 +1294,14 @@
       "country": "VC"
     },
     {
-      "id": "com.kiwigames.happycitizen.gp",
-      "name": "Happy Citizens - Mayor Sim",
-      "developer": "LifeSim",
-      "url": "https://play.google.com/store/apps/details?id=com.kiwigames.happycitizen.gp&hl=en&gl=VC",
-      "artwork": "https://play-lh.googleusercontent.com/Gb6PM7ytQrhsb8wWPcExHlSf0N--AxGyoJ29Xl3cRtaiIDDDWKRDlCbYebL2i1gNjck",
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=VC",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-02T03:44:29.000Z",
+      "releaseDate": "2026-01-23T15:38:31.000Z",
       "genres": [
         "Simulation"
       ],
@@ -1304,20 +1346,6 @@
       "releaseDate": "2026-02-06T10:31:33.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "VC"
-    },
-    {
-      "id": "com.vicenter.stickman.ragdoll.dismounting",
-      "name": "Ragdoll Turbo Dismount",
-      "developer": "Prime1 Lab LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.vicenter.stickman.ragdoll.dismounting&hl=en&gl=VC",
-      "artwork": "https://play-lh.googleusercontent.com/-m3LeDwTsdEWtSsc9cni1kIrJ2pneSoq6sNPw_23aJgmpIDGeLP1vqcVDp5Y9nfT6Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-17T09:05:42.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "VC"
     },
@@ -1374,34 +1402,6 @@
       "releaseDate": "2026-02-06T10:02:20.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "VC"
-    },
-    {
-      "id": "com.good.boy.education.craft.best.building.sun",
-      "name": "Craft World Block Building 3D",
-      "developer": "Patane Global",
-      "url": "https://play.google.com/store/apps/details?id=com.good.boy.education.craft.best.building.sun&hl=en&gl=VC",
-      "artwork": "https://play-lh.googleusercontent.com/NJCoEeYrHp90AKzIlZcWlShflXdHYEkX5f2T0qu7bBwHiqYZR7QDJWRpG8xMDJps8i3FSRZ3fbbDt7Tjw-vMQH4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-03T07:31:55.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "VC"
-    },
-    {
-      "id": "com.tilegames.mahjongtrip",
-      "name": "Mahjong Trip:Relax Tile Games",
-      "developer": "Hi software 1984",
-      "url": "https://play.google.com/store/apps/details?id=com.tilegames.mahjongtrip&hl=en&gl=VC",
-      "artwork": "https://play-lh.googleusercontent.com/dCz7ixFzgHm0fHTwJE1Glbb9Nkabk33BuxiQ8kd2LGPS2CChLm7k7bNCwydiVdRNLQhpwd0Wj6r7QH8B-CO_sQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T03:16:39.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "VC"
     }

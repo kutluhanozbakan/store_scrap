@@ -1,7 +1,7 @@
 {
   "country": "US",
   "store": "google",
-  "updatedAt": "2026-02-07T19:48:20.591Z",
+  "updatedAt": "2026-02-08T07:26:35.524Z",
   "new": [
     {
       "id": "com.block.juggle",
@@ -33,6 +33,18 @@
       "developer": "SuperPlay.",
       "url": "https://play.google.com/store/apps/details?id=com.superplaystudios.disneysolitairedreams",
       "artwork": "https://play-lh.googleusercontent.com/BpyKPyeCiAoCtYP23WtOoHW1G_4IAGUyk4G6V_5YNmXomuBwNC5ZnSq5OfxejW-Ufuukma8-UYZirB2wz3m8UnM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "US"
+    },
+    {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -88,18 +100,6 @@
       "country": "US"
     },
     {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "US"
-    },
-    {
       "id": "com.hitappsgames.wordsolitaire",
       "name": "Solitaire Associations Journey",
       "developer": "Hitapps Games",
@@ -112,11 +112,11 @@
       "country": "US"
     },
     {
-      "id": "com.scopely.monopolygo",
-      "name": "MONOPOLY GO!",
-      "developer": "Scopely",
-      "url": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo",
-      "artwork": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g",
+      "id": "com.playstudios.tetrisblockparty",
+      "name": "Tetris® Block Party",
+      "developer": "PLAYSTUDIOS US, LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.playstudios.tetrisblockparty",
+      "artwork": "https://play-lh.googleusercontent.com/E36OaZoeHSjfAmB7osJSw9CNsOAxLXQYzTA7UfcX6kJxe19tKwW1LMOI3ummgxQcPR2Y",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -141,6 +141,18 @@
       "developer": "Nebula  Studio",
       "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile",
       "artwork": "https://play-lh.googleusercontent.com/mBXtGM51CRU3wE7YtOLLAPsldeEAxBEWTeHvSdTKL2F-vQKO9FI6lhHeZUlI4dF8rw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "US"
+    },
+    {
+      "id": "com.scopely.monopolygo",
+      "name": "MONOPOLY GO!",
+      "developer": "Scopely",
+      "url": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo",
+      "artwork": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -220,18 +232,6 @@
       "country": "US"
     },
     {
-      "id": "com.arrow.out",
-      "name": "Arrow Out",
-      "developer": "Lion Studios Plus",
-      "url": "https://play.google.com/store/apps/details?id=com.arrow.out",
-      "artwork": "https://play-lh.googleusercontent.com/lnSOorCGwrGJf6JyfQUri2wGIzC49EDzX86o2L66wwyGFhOVCl82Tb3qNzewaFXNcBg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "US"
-    },
-    {
       "id": "com.mergegames.gossipharbor",
       "name": "Gossip Harbor: Merge & Story",
       "developer": "Microfun Limited",
@@ -268,11 +268,23 @@
       "country": "US"
     },
     {
-      "id": "com.playstudios.tetrisblockparty",
-      "name": "Tetris® Block Party",
-      "developer": "PLAYSTUDIOS US, LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.playstudios.tetrisblockparty",
-      "artwork": "https://play-lh.googleusercontent.com/E36OaZoeHSjfAmB7osJSw9CNsOAxLXQYzTA7UfcX6kJxe19tKwW1LMOI3ummgxQcPR2Y",
+      "id": "com.arrow.out",
+      "name": "Arrow Out",
+      "developer": "Lion Studios Plus",
+      "url": "https://play.google.com/store/apps/details?id=com.arrow.out",
+      "artwork": "https://play-lh.googleusercontent.com/lnSOorCGwrGJf6JyfQUri2wGIzC49EDzX86o2L66wwyGFhOVCl82Tb3qNzewaFXNcBg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "US"
+    },
+    {
+      "id": "solitaire.patience.card.games.klondike.free",
+      "name": "Solitaire - Classic Card Games",
+      "developer": "Guru Puzzle Game",
+      "url": "https://play.google.com/store/apps/details?id=solitaire.patience.card.games.klondike.free",
+      "artwork": "https://play-lh.googleusercontent.com/4lBjHhLwPQxEEPIc6Mad3fwxzaN-dGZW9DTeVi4WW1LH5iu3QdmAsuK-FeLLVggZz6o",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -340,11 +352,11 @@
       "country": "US"
     },
     {
-      "id": "com.bunbunstudio.magicblocktiles",
-      "name": "Music Piano 7: Rush Song Games",
-      "developer": "Melodya Muses",
-      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles",
-      "artwork": "https://play-lh.googleusercontent.com/TS7t_TvNJ5DbcpmHdafGG24MnnpBPTpAht8byApzmv0WkKruFQiD78gkL2QxnsS4vRM",
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -388,11 +400,35 @@
       "country": "US"
     },
     {
+      "id": "com.bugbomb.dumptruckjam",
+      "name": "Bubble Bus: Parking Jam Puzzle",
+      "developer": "MOONEE PUBLISHING LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.bugbomb.dumptruckjam",
+      "artwork": "https://play-lh.googleusercontent.com/vPnQsOCt8Cekq3vcgsBi_4KLUM0o-Jr8x9Jhp_-hA6uZDBU9LwC-S11M5U-IQv5oTso",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "US"
+    },
+    {
       "id": "com.classic.solitaire.mitlp",
       "name": "Classic Solitaire Pro",
       "developer": "RUI CARD LIMITED",
       "url": "https://play.google.com/store/apps/details?id=com.classic.solitaire.mitlp",
       "artwork": "https://play-lh.googleusercontent.com/lW2aUsqe92vCBRCP7wCnwvPptTLFvCSOozTsxJ5acRv5JfCFLxTy7GxczbettK49yiyE8LSF1BRsjBMQi53ISw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "US"
+    },
+    {
+      "id": "com.sled.surfers.game",
+      "name": "Sled Surfers",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game",
+      "artwork": "https://play-lh.googleusercontent.com/7m1Ircp5Ptk4lgfevHB_Ij253sZLtkeUdHpx5CNJ4OiFgUPYz96e0tc0bzT8nEKhl-J5",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -424,11 +460,11 @@
       "country": "US"
     },
     {
-      "id": "solitaire.patience.card.games.klondike.free",
-      "name": "Solitaire - Classic Card Games",
-      "developer": "Guru Puzzle Game",
-      "url": "https://play.google.com/store/apps/details?id=solitaire.patience.card.games.klondike.free",
-      "artwork": "https://play-lh.googleusercontent.com/4lBjHhLwPQxEEPIc6Mad3fwxzaN-dGZW9DTeVi4WW1LH5iu3QdmAsuK-FeLLVggZz6o",
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles",
+      "artwork": "https://play-lh.googleusercontent.com/TS7t_TvNJ5DbcpmHdafGG24MnnpBPTpAht8byApzmv0WkKruFQiD78gkL2QxnsS4vRM",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -508,18 +544,6 @@
       "country": "US"
     },
     {
-      "id": "com.bugbomb.dumptruckjam",
-      "name": "Bubble Bus: Parking Jam Puzzle",
-      "developer": "MOONEE PUBLISHING LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.bugbomb.dumptruckjam",
-      "artwork": "https://play-lh.googleusercontent.com/vPnQsOCt8Cekq3vcgsBi_4KLUM0o-Jr8x9Jhp_-hA6uZDBU9LwC-S11M5U-IQv5oTso",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "US"
-    },
-    {
       "id": "com.oakever.jigsawcard",
       "name": "Jigsawcard Solitaire Puzzle",
       "developer": "Oakever Games",
@@ -544,23 +568,11 @@
       "country": "US"
     },
     {
-      "id": "com.sled.surfers.game",
-      "name": "Sled Surfers",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game",
-      "artwork": "https://play-lh.googleusercontent.com/7m1Ircp5Ptk4lgfevHB_Ij253sZLtkeUdHpx5CNJ4OiFgUPYz96e0tc0bzT8nEKhl-J5",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "US"
-    },
-    {
-      "id": "com.gtsy.annoying.punch.game",
-      "name": "Annoying Uncle Punch Game",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game",
-      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
+      "id": "com.jxhy.official",
+      "name": "My Garden Tale",
+      "developer": "Modo Global",
+      "url": "https://play.google.com/store/apps/details?id=com.jxhy.official",
+      "artwork": "https://play-lh.googleusercontent.com/Fz8YR9qU73DiSuuoDSPDXIvA-0JFoQ-7ibjoydMdgiblUqIeohY-gSR688ELeziBekKFphcGBw8lze8jRVablA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -585,18 +597,6 @@
       "developer": "Toca Boca",
       "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld",
       "artwork": "https://play-lh.googleusercontent.com/UHryL-7W2yoA92NAfKpwoPIaW9N1u1hhTCtGkppyafgRfpKSYMS3bnoPmouHk1F0X5sHeoStf3cbD7_yCYBU4w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "US"
-    },
-    {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2",
-      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -642,6 +642,18 @@
       "country": "US"
     },
     {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "US"
+    },
+    {
       "id": "com.dreamgames.royalkingdom",
       "name": "Royal Kingdom",
       "developer": "Dream Games, Ltd.",
@@ -690,18 +702,6 @@
       "country": "US"
     },
     {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "US"
-    },
-    {
       "id": "com.hitappsgames.wordsolitaire",
       "name": "Solitaire Associations Journey",
       "developer": "Hitapps Games",
@@ -714,11 +714,11 @@
       "country": "US"
     },
     {
-      "id": "com.scopely.monopolygo",
-      "name": "MONOPOLY GO!",
-      "developer": "Scopely",
-      "url": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo",
-      "artwork": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g",
+      "id": "com.playstudios.tetrisblockparty",
+      "name": "Tetris® Block Party",
+      "developer": "PLAYSTUDIOS US, LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.playstudios.tetrisblockparty",
+      "artwork": "https://play-lh.googleusercontent.com/E36OaZoeHSjfAmB7osJSw9CNsOAxLXQYzTA7UfcX6kJxe19tKwW1LMOI3ummgxQcPR2Y",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -743,6 +743,18 @@
       "developer": "Nebula  Studio",
       "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile",
       "artwork": "https://play-lh.googleusercontent.com/mBXtGM51CRU3wE7YtOLLAPsldeEAxBEWTeHvSdTKL2F-vQKO9FI6lhHeZUlI4dF8rw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "US"
+    },
+    {
+      "id": "com.scopely.monopolygo",
+      "name": "MONOPOLY GO!",
+      "developer": "Scopely",
+      "url": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo",
+      "artwork": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -822,18 +834,6 @@
       "country": "US"
     },
     {
-      "id": "com.arrow.out",
-      "name": "Arrow Out",
-      "developer": "Lion Studios Plus",
-      "url": "https://play.google.com/store/apps/details?id=com.arrow.out",
-      "artwork": "https://play-lh.googleusercontent.com/lnSOorCGwrGJf6JyfQUri2wGIzC49EDzX86o2L66wwyGFhOVCl82Tb3qNzewaFXNcBg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "US"
-    },
-    {
       "id": "com.mergegames.gossipharbor",
       "name": "Gossip Harbor: Merge & Story",
       "developer": "Microfun Limited",
@@ -870,11 +870,23 @@
       "country": "US"
     },
     {
-      "id": "com.playstudios.tetrisblockparty",
-      "name": "Tetris® Block Party",
-      "developer": "PLAYSTUDIOS US, LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.playstudios.tetrisblockparty",
-      "artwork": "https://play-lh.googleusercontent.com/E36OaZoeHSjfAmB7osJSw9CNsOAxLXQYzTA7UfcX6kJxe19tKwW1LMOI3ummgxQcPR2Y",
+      "id": "com.arrow.out",
+      "name": "Arrow Out",
+      "developer": "Lion Studios Plus",
+      "url": "https://play.google.com/store/apps/details?id=com.arrow.out",
+      "artwork": "https://play-lh.googleusercontent.com/lnSOorCGwrGJf6JyfQUri2wGIzC49EDzX86o2L66wwyGFhOVCl82Tb3qNzewaFXNcBg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "US"
+    },
+    {
+      "id": "solitaire.patience.card.games.klondike.free",
+      "name": "Solitaire - Classic Card Games",
+      "developer": "Guru Puzzle Game",
+      "url": "https://play.google.com/store/apps/details?id=solitaire.patience.card.games.klondike.free",
+      "artwork": "https://play-lh.googleusercontent.com/4lBjHhLwPQxEEPIc6Mad3fwxzaN-dGZW9DTeVi4WW1LH5iu3QdmAsuK-FeLLVggZz6o",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -942,11 +954,11 @@
       "country": "US"
     },
     {
-      "id": "com.bunbunstudio.magicblocktiles",
-      "name": "Music Piano 7: Rush Song Games",
-      "developer": "Melodya Muses",
-      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles",
-      "artwork": "https://play-lh.googleusercontent.com/TS7t_TvNJ5DbcpmHdafGG24MnnpBPTpAht8byApzmv0WkKruFQiD78gkL2QxnsS4vRM",
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -990,11 +1002,35 @@
       "country": "US"
     },
     {
+      "id": "com.bugbomb.dumptruckjam",
+      "name": "Bubble Bus: Parking Jam Puzzle",
+      "developer": "MOONEE PUBLISHING LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.bugbomb.dumptruckjam",
+      "artwork": "https://play-lh.googleusercontent.com/vPnQsOCt8Cekq3vcgsBi_4KLUM0o-Jr8x9Jhp_-hA6uZDBU9LwC-S11M5U-IQv5oTso",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "US"
+    },
+    {
       "id": "com.classic.solitaire.mitlp",
       "name": "Classic Solitaire Pro",
       "developer": "RUI CARD LIMITED",
       "url": "https://play.google.com/store/apps/details?id=com.classic.solitaire.mitlp",
       "artwork": "https://play-lh.googleusercontent.com/lW2aUsqe92vCBRCP7wCnwvPptTLFvCSOozTsxJ5acRv5JfCFLxTy7GxczbettK49yiyE8LSF1BRsjBMQi53ISw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "US"
+    },
+    {
+      "id": "com.sled.surfers.game",
+      "name": "Sled Surfers",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game",
+      "artwork": "https://play-lh.googleusercontent.com/7m1Ircp5Ptk4lgfevHB_Ij253sZLtkeUdHpx5CNJ4OiFgUPYz96e0tc0bzT8nEKhl-J5",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1026,11 +1062,11 @@
       "country": "US"
     },
     {
-      "id": "solitaire.patience.card.games.klondike.free",
-      "name": "Solitaire - Classic Card Games",
-      "developer": "Guru Puzzle Game",
-      "url": "https://play.google.com/store/apps/details?id=solitaire.patience.card.games.klondike.free",
-      "artwork": "https://play-lh.googleusercontent.com/4lBjHhLwPQxEEPIc6Mad3fwxzaN-dGZW9DTeVi4WW1LH5iu3QdmAsuK-FeLLVggZz6o",
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles",
+      "artwork": "https://play-lh.googleusercontent.com/TS7t_TvNJ5DbcpmHdafGG24MnnpBPTpAht8byApzmv0WkKruFQiD78gkL2QxnsS4vRM",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1110,18 +1146,6 @@
       "country": "US"
     },
     {
-      "id": "com.bugbomb.dumptruckjam",
-      "name": "Bubble Bus: Parking Jam Puzzle",
-      "developer": "MOONEE PUBLISHING LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.bugbomb.dumptruckjam",
-      "artwork": "https://play-lh.googleusercontent.com/vPnQsOCt8Cekq3vcgsBi_4KLUM0o-Jr8x9Jhp_-hA6uZDBU9LwC-S11M5U-IQv5oTso",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "US"
-    },
-    {
       "id": "com.oakever.jigsawcard",
       "name": "Jigsawcard Solitaire Puzzle",
       "developer": "Oakever Games",
@@ -1146,23 +1170,11 @@
       "country": "US"
     },
     {
-      "id": "com.sled.surfers.game",
-      "name": "Sled Surfers",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game",
-      "artwork": "https://play-lh.googleusercontent.com/7m1Ircp5Ptk4lgfevHB_Ij253sZLtkeUdHpx5CNJ4OiFgUPYz96e0tc0bzT8nEKhl-J5",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "US"
-    },
-    {
-      "id": "com.gtsy.annoying.punch.game",
-      "name": "Annoying Uncle Punch Game",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game",
-      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
+      "id": "com.jxhy.official",
+      "name": "My Garden Tale",
+      "developer": "Modo Global",
+      "url": "https://play.google.com/store/apps/details?id=com.jxhy.official",
+      "artwork": "https://play-lh.googleusercontent.com/Fz8YR9qU73DiSuuoDSPDXIvA-0JFoQ-7ibjoydMdgiblUqIeohY-gSR688ELeziBekKFphcGBw8lze8jRVablA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1187,18 +1199,6 @@
       "developer": "Toca Boca",
       "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld",
       "artwork": "https://play-lh.googleusercontent.com/UHryL-7W2yoA92NAfKpwoPIaW9N1u1hhTCtGkppyafgRfpKSYMS3bnoPmouHk1F0X5sHeoStf3cbD7_yCYBU4w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "US"
-    },
-    {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2",
-      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
