@@ -1,7 +1,7 @@
 {
   "country": "SI",
   "store": "google",
-  "updatedAt": "2026-02-07T18:54:15.971Z",
+  "updatedAt": "2026-02-08T05:43:12.243Z",
   "new": [
     {
       "id": "com.game.people.connector",
@@ -88,6 +88,20 @@
       "country": "SI"
     },
     {
+      "id": "com.WalkTalk.FlightMaster",
+      "name": "Epic Plane Evolution",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.WalkTalk.FlightMaster&hl=en&gl=SI",
+      "artwork": "https://play-lh.googleusercontent.com/xC6Ky_Utjy9ULs1N8cKED99IXdp0o0gFy6k8aXuPat6rmxxQrNkHqe9HKFfsogK3kQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T13:16:27.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "SI"
+    },
+    {
       "id": "com.youmusic.magictiles",
       "name": "Magic Tiles 3™ - Piano Game",
       "developer": "AMANOTES PTE. LTD.",
@@ -154,20 +168,6 @@
       "releaseDate": "2026-02-06T09:31:13.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "SI"
-    },
-    {
-      "id": "com.wilds.craft.mysticland.explore",
-      "name": "Block Craft 3D: Realm Builder",
-      "developer": "Metagame.Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.wilds.craft.mysticland.explore&hl=en&gl=SI",
-      "artwork": "https://play-lh.googleusercontent.com/atgEBnDex2iZ3zknB3N5c4tBxJwT8NMrWTp0NXY7rYxk6DkDksRNddCm4E_832TI0w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T07:44:10.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "SI"
     },
@@ -550,20 +550,6 @@
       "country": "SI"
     },
     {
-      "id": "com.arrow.out",
-      "name": "Arrow Out",
-      "developer": "Lion Studios Plus",
-      "url": "https://play.google.com/store/apps/details?id=com.arrow.out&hl=en&gl=SI",
-      "artwork": "https://play-lh.googleusercontent.com/lnSOorCGwrGJf6JyfQUri2wGIzC49EDzX86o2L66wwyGFhOVCl82Tb3qNzewaFXNcBg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T06:12:02.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "SI"
-    },
-    {
       "id": "com.gamincat.jigsolitaire",
       "name": "Jigsolitaire",
       "developer": "Gamincat",
@@ -648,20 +634,6 @@
       "country": "SI"
     },
     {
-      "id": "com.gps.draw.flag.coloring.games",
-      "name": "Satisfying Coloring",
-      "developer": "Mad1 Games",
-      "url": "https://play.google.com/store/apps/details?id=com.gps.draw.flag.coloring.games&hl=en&gl=SI",
-      "artwork": "https://play-lh.googleusercontent.com/VLjDQF7_vbOFGFTiPqKw6YXfpuz-LPpPeYQYpnxRIWkTgZ2YGKQ9vKK6S5UsV3SysXU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T11:09:22.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "SI"
-    },
-    {
       "id": "com.run.tower.defense",
       "name": "Kingshot",
       "developer": "Century Games PTE. LTD.",
@@ -702,6 +674,34 @@
         "Strategy"
       ],
       "country": "SI"
+    },
+    {
+      "id": "com.efun.euklqb",
+      "name": "Skull Up",
+      "developer": "Efun Game Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.efun.euklqb&hl=en&gl=SI",
+      "artwork": "https://play-lh.googleusercontent.com/Hs3ksIWdDxq9McQYMBUnfVQMdD1_1tP4R8PUsXDa0BECSf7rcc8xkh8A5J4fqhmLx--DHdQNJ6LEbLkHLersAQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T06:12:27.000Z",
+      "genres": [
+        "Card"
+      ],
+      "country": "SI"
+    },
+    {
+      "id": "com.grandgames.magicsort",
+      "name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort&hl=en&gl=SI",
+      "artwork": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T19:23:59.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "SI"
     }
   ],
   "updated": [
@@ -734,6 +734,20 @@
       "country": "SI"
     },
     {
+      "id": "com.sled.surfers.game",
+      "name": "Sled Surfers",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game&hl=en&gl=SI",
+      "artwork": "https://play-lh.googleusercontent.com/7m1Ircp5Ptk4lgfevHB_Ij253sZLtkeUdHpx5CNJ4OiFgUPYz96e0tc0bzT8nEKhl-J5",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T17:36:54.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "SI"
+    },
+    {
       "id": "com.wood.block.sudoku.puzzle.bm",
       "name": "Block Crush!",
       "developer": "Wonderful  Studio",
@@ -762,20 +776,6 @@
       "country": "SI"
     },
     {
-      "id": "com.sled.surfers.game",
-      "name": "Sled Surfers",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game&hl=en&gl=SI",
-      "artwork": "https://play-lh.googleusercontent.com/7m1Ircp5Ptk4lgfevHB_Ij253sZLtkeUdHpx5CNJ4OiFgUPYz96e0tc0bzT8nEKhl-J5",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T17:36:54.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "SI"
-    },
-    {
       "id": "com.oakever.tiletrip",
       "name": "Tile Explorer - Triple Match",
       "developer": "Oakever Games",
@@ -786,20 +786,6 @@
       "releaseDate": "2026-02-04T14:18:09.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "SI"
-    },
-    {
-      "id": "com.robtopx.geometryjumplite",
-      "name": "Geometry Dash Lite",
-      "developer": "RobTop Games",
-      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=SI",
-      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T14:03:50.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "SI"
     },
@@ -832,30 +818,16 @@
       "country": "SI"
     },
     {
-      "id": "com.cliffs.pro.cell.building.crazy.clever.craft",
-      "name": "Block Crazy Robo World Craft",
-      "developer": "Prokids Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.cliffs.pro.cell.building.crazy.clever.craft&hl=en&gl=SI",
-      "artwork": "https://play-lh.googleusercontent.com/K3ncdCrbnHb-Po_gNuiJldSG7lfczGR0ZdFs3zoV28yTqPnzWQh07l2xI3rgMiIPsA",
+      "id": "com.robtopx.geometryjumplite",
+      "name": "Geometry Dash Lite",
+      "developer": "RobTop Games",
+      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=SI",
+      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-11-28T05:45:26.000Z",
+      "releaseDate": "2026-01-30T14:03:50.000Z",
       "genres": [
-        "Simulation"
-      ],
-      "country": "SI"
-    },
-    {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast: Wonders",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=SI",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T16:43:25.000Z",
-      "genres": [
-        "Board"
+        "Arcade"
       ],
       "country": "SI"
     },
@@ -874,16 +846,16 @@
       "country": "SI"
     },
     {
-      "id": "com.mergegames.gossipharbor",
-      "name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=SI",
-      "artwork": "https://play-lh.googleusercontent.com/2maEg00OhWU90wKbYuqJ_5k4G00dXS1v_v1DfzaqBvlJZA3hynzzNgXcy6JYkf_C0ZBo7n-BGjKsiU9Z6NmZ",
+      "id": "com.cliffs.pro.cell.building.crazy.clever.craft",
+      "name": "Block Crazy Robo World Craft",
+      "developer": "Prokids Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.cliffs.pro.cell.building.crazy.clever.craft&hl=en&gl=SI",
+      "artwork": "https://play-lh.googleusercontent.com/K3ncdCrbnHb-Po_gNuiJldSG7lfczGR0ZdFs3zoV28yTqPnzWQh07l2xI3rgMiIPsA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-27T12:24:15.000Z",
+      "releaseDate": "2025-11-28T05:45:26.000Z",
       "genres": [
-        "Puzzle"
+        "Simulation"
       ],
       "country": "SI"
     },
@@ -896,6 +868,34 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-05T13:57:41.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "SI"
+    },
+    {
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast: Wonders",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=SI",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:43:25.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "SI"
+    },
+    {
+      "id": "com.mergegames.gossipharbor",
+      "name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=SI",
+      "artwork": "https://play-lh.googleusercontent.com/2maEg00OhWU90wKbYuqJ_5k4G00dXS1v_v1DfzaqBvlJZA3hynzzNgXcy6JYkf_C0ZBo7n-BGjKsiU9Z6NmZ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T12:24:15.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -926,6 +926,20 @@
       "releaseDate": "2026-01-21T18:47:34.000Z",
       "genres": [
         "Word"
+      ],
+      "country": "SI"
+    },
+    {
+      "id": "ig.com.hot.pot.qdc",
+      "name": "Hotpot Flow: Food Games",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=ig.com.hot.pot.qdc&hl=en&gl=SI",
+      "artwork": "https://play-lh.googleusercontent.com/wy4-8vLbPov2utuXORrZKLhkYlDjhy4JRs8EgBa5zsEPsprLSVdeKKTO3haVBdJ0Q9kkeKMkPxmByOLCw_kh2Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-31T07:30:56.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "SI"
     },
@@ -986,6 +1000,20 @@
       "country": "SI"
     },
     {
+      "id": "com.game.people.connector",
+      "name": "Connect Master - Match Puzzle",
+      "developer": "Rooftop Game",
+      "url": "https://play.google.com/store/apps/details?id=com.game.people.connector&hl=en&gl=SI",
+      "artwork": "https://play-lh.googleusercontent.com/IvBZszlmTnJ_RWgA5C-CGYzySfDKaF02ZFFKxAAdIF9-eGTF2w26X2scjAVCLMF_AQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T21:03:23.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "SI"
+    },
+    {
       "id": "com.playrix.township",
       "name": "Township",
       "developer": "Playrix",
@@ -994,6 +1022,48 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-01-29T16:33:15.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "SI"
+    },
+    {
+      "id": "com.crystalbyte.glasscrash",
+      "name": "Glass Crash",
+      "developer": "Yasser saboor",
+      "url": "https://play.google.com/store/apps/details?id=com.crystalbyte.glasscrash&hl=en&gl=SI",
+      "artwork": "https://play-lh.googleusercontent.com/syfVJQpqj8hhR4veh9bO2u9xHCZWB5yWb1dgjgTDjF59RV0UGmKftmSTuA6ZjPreb55Bo-9iw-T02HxMfDq1",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-06T12:18:54.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "SI"
+    },
+    {
+      "id": "com.fugo.wow",
+      "name": "Words of Wonders: Crossword",
+      "developer": "Fugo Games",
+      "url": "https://play.google.com/store/apps/details?id=com.fugo.wow&hl=en&gl=SI",
+      "artwork": "https://play-lh.googleusercontent.com/8Zc2SWYy3t70pvIdX9PeuaHpZZIP8sJybKiBUH2vkdxx9R2rypcIE-rN9_fbt-G7rWQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T20:15:06.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "SI"
+    },
+    {
+      "id": "com.fancy.screw.story.makeover.puzzle.jam",
+      "name": "Fancy Screw: Story & Makeover",
+      "developer": "PHOYOO",
+      "url": "https://play.google.com/store/apps/details?id=com.fancy.screw.story.makeover.puzzle.jam&hl=en&gl=SI",
+      "artwork": "https://play-lh.googleusercontent.com/1vekFl15w4WS7BheCIJYDPkA2GcshxaUuioO_ophzOtdfLLzq2XGdmv60AQvhaDleA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T14:45:24.000Z",
       "genres": [
         "Casual"
       ],
@@ -1028,28 +1098,28 @@
       "country": "SI"
     },
     {
-      "id": "ig.com.hot.pot.qdc",
-      "name": "Hotpot Flow: Food Games",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=ig.com.hot.pot.qdc&hl=en&gl=SI",
-      "artwork": "https://play-lh.googleusercontent.com/wy4-8vLbPov2utuXORrZKLhkYlDjhy4JRs8EgBa5zsEPsprLSVdeKKTO3haVBdJ0Q9kkeKMkPxmByOLCw_kh2Q",
+      "id": "com.fashionlink.northstone",
+      "name": "Jigmerge™ Puzzles",
+      "developer": "RedInfinity Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.fashionlink.northstone&hl=en&gl=SI",
+      "artwork": "https://play-lh.googleusercontent.com/EZP7wDL_-gFczA3LUvcPwX7Z5CpmePZ1m5rYM5hjyLGFB2qNxGggE4VaNQ8wqtC3Hs7ilQrvH3g2KVYGm2a4hdY",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-31T07:30:56.000Z",
+      "releaseDate": "2026-01-23T16:44:19.000Z",
       "genres": [
-        "Puzzle"
+        "Casual"
       ],
       "country": "SI"
     },
     {
-      "id": "com.crystalbyte.glasscrash",
-      "name": "Glass Crash",
-      "developer": "Yasser saboor",
-      "url": "https://play.google.com/store/apps/details?id=com.crystalbyte.glasscrash&hl=en&gl=SI",
-      "artwork": "https://play-lh.googleusercontent.com/syfVJQpqj8hhR4veh9bO2u9xHCZWB5yWb1dgjgTDjF59RV0UGmKftmSTuA6ZjPreb55Bo-9iw-T02HxMfDq1",
+      "id": "easy.sudoku.puzzle.solver.free",
+      "name": "Sudoku - Classic Sudoku Puzzle",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=easy.sudoku.puzzle.solver.free&hl=en&gl=SI",
+      "artwork": "https://play-lh.googleusercontent.com/hYLElG0RAgn60XE6cfgsPPW_JB63PEVWvDtvhipAGvTpxBX5YgLGt3UXvnJ_kRwKhnE",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-11-06T12:18:54.000Z",
+      "releaseDate": "2026-02-05T10:50:00.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1070,16 +1140,16 @@
       "country": "SI"
     },
     {
-      "id": "com.game.people.connector",
-      "name": "Connect Master - Match Puzzle",
-      "developer": "Rooftop Game",
-      "url": "https://play.google.com/store/apps/details?id=com.game.people.connector&hl=en&gl=SI",
-      "artwork": "https://play-lh.googleusercontent.com/IvBZszlmTnJ_RWgA5C-CGYzySfDKaF02ZFFKxAAdIF9-eGTF2w26X2scjAVCLMF_AQ",
+      "id": "com.asmr.mukbang.livestream.party",
+      "name": "Mukbang ASMR Livestream Party",
+      "developer": "CAT Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.asmr.mukbang.livestream.party&hl=en&gl=SI",
+      "artwork": "https://play-lh.googleusercontent.com/RpbvS9LYO_8gddpqwVpxBhAO4zY602siXOv6mIvh7xoNUwm0UtygOUI2VolGeQFkR7-2zB6S1EGy7CVJyfAksA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T21:03:23.000Z",
+      "releaseDate": "2026-02-04T10:10:24.000Z",
       "genres": [
-        "Puzzle"
+        "Casual"
       ],
       "country": "SI"
     },
@@ -1094,20 +1164,6 @@
       "releaseDate": "2026-02-06T03:06:33.000Z",
       "genres": [
         "Music"
-      ],
-      "country": "SI"
-    },
-    {
-      "id": "com.fancy.screw.story.makeover.puzzle.jam",
-      "name": "Fancy Screw: Story & Makeover",
-      "developer": "PHOYOO",
-      "url": "https://play.google.com/store/apps/details?id=com.fancy.screw.story.makeover.puzzle.jam&hl=en&gl=SI",
-      "artwork": "https://play-lh.googleusercontent.com/1vekFl15w4WS7BheCIJYDPkA2GcshxaUuioO_ophzOtdfLLzq2XGdmv60AQvhaDleA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T14:45:24.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "SI"
     },
@@ -1182,6 +1238,20 @@
       "country": "SI"
     },
     {
+      "id": "com.blockgamesstudio.blockworld3d",
+      "name": "Block World 3D: Craft & Build",
+      "developer": "Funburstgame LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d&hl=en&gl=SI",
+      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T16:36:16.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "SI"
+    },
+    {
       "id": "com.proximabeta.aoemobile",
       "name": "Age of Empires Mobile",
       "developer": "Level Infinite",
@@ -1192,20 +1262,6 @@
       "releaseDate": "2026-01-23T02:53:56.000Z",
       "genres": [
         "Strategy"
-      ],
-      "country": "SI"
-    },
-    {
-      "id": "com.fugo.wow",
-      "name": "Words of Wonders: Crossword",
-      "developer": "Fugo Games",
-      "url": "https://play.google.com/store/apps/details?id=com.fugo.wow&hl=en&gl=SI",
-      "artwork": "https://play-lh.googleusercontent.com/8Zc2SWYy3t70pvIdX9PeuaHpZZIP8sJybKiBUH2vkdxx9R2rypcIE-rN9_fbt-G7rWQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T20:15:06.000Z",
-      "genres": [
-        "Word"
       ],
       "country": "SI"
     },
@@ -1252,16 +1308,16 @@
       "country": "SI"
     },
     {
-      "id": "com.fashionlink.northstone",
-      "name": "Jigmerge™ Puzzles",
-      "developer": "RedInfinity Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.fashionlink.northstone&hl=en&gl=SI",
-      "artwork": "https://play-lh.googleusercontent.com/EZP7wDL_-gFczA3LUvcPwX7Z5CpmePZ1m5rYM5hjyLGFB2qNxGggE4VaNQ8wqtC3Hs7ilQrvH3g2KVYGm2a4hdY",
+      "id": "com.sapp.hiremirage",
+      "name": "Sapphire Mirage",
+      "developer": "Timotech",
+      "url": "https://play.google.com/store/apps/details?id=com.sapp.hiremirage&hl=en&gl=SI",
+      "artwork": "https://play-lh.googleusercontent.com/9SL1cD0OyWfqGpTTxaeridq3w3o1JWWFqBeWeGp4vCE0D6-XZmYO2eDHlbR3YjYAtZ2HmQrSSY8WwjBedXk8Msw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T16:44:19.000Z",
+      "releaseDate": "2025-12-18T18:47:19.000Z",
       "genres": [
-        "Casual"
+        "Arcade"
       ],
       "country": "SI"
     },
@@ -1308,30 +1364,16 @@
       "country": "SI"
     },
     {
-      "id": "easy.sudoku.puzzle.solver.free",
-      "name": "Sudoku - Classic Sudoku Puzzle",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=easy.sudoku.puzzle.solver.free&hl=en&gl=SI",
-      "artwork": "https://play-lh.googleusercontent.com/hYLElG0RAgn60XE6cfgsPPW_JB63PEVWvDtvhipAGvTpxBX5YgLGt3UXvnJ_kRwKhnE",
+      "id": "com.sp.rope.escape.master",
+      "name": "Rope Escape Master",
+      "developer": "PoseidonJoy",
+      "url": "https://play.google.com/store/apps/details?id=com.sp.rope.escape.master&hl=en&gl=SI",
+      "artwork": "https://play-lh.googleusercontent.com/tgW1f51Jc_ALH05AZxox9Zo24lPeGqjSKLIP0SyrHT2NrEI9cJaqkSDyAYeSdnQQrJ6J",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T10:50:00.000Z",
+      "releaseDate": "2026-02-04T10:45:25.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "SI"
-    },
-    {
-      "id": "com.asmr.mukbang.livestream.party",
-      "name": "Mukbang ASMR Livestream Party",
-      "developer": "CAT Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.asmr.mukbang.livestream.party&hl=en&gl=SI",
-      "artwork": "https://play-lh.googleusercontent.com/RpbvS9LYO_8gddpqwVpxBhAO4zY602siXOv6mIvh7xoNUwm0UtygOUI2VolGeQFkR7-2zB6S1EGy7CVJyfAksA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T10:10:24.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "SI"
     },
@@ -1360,48 +1402,6 @@
       "releaseDate": "2026-01-13T08:44:54.000Z",
       "genres": [
         "Music"
-      ],
-      "country": "SI"
-    },
-    {
-      "id": "com.puzzle.water.sort.color.jam",
-      "name": "Water Puzzle: Sort Color Jam",
-      "developer": "Sweetener",
-      "url": "https://play.google.com/store/apps/details?id=com.puzzle.water.sort.color.jam&hl=en&gl=SI",
-      "artwork": "https://play-lh.googleusercontent.com/2yrTtn57vRe_0a5QvAK67ng_li2Lxu6gFuKBq8kV4pf8m146wXJ7SXy9djA_97OUi89iMCG-LXymP1VuQlTkRw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T03:10:37.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "SI"
-    },
-    {
-      "id": "com.aaaudi.wordmaker",
-      "name": "Word Maker: Words Games Puzzle",
-      "developer": "AAA Fun",
-      "url": "https://play.google.com/store/apps/details?id=com.aaaudi.wordmaker&hl=en&gl=SI",
-      "artwork": "https://play-lh.googleusercontent.com/FOMM05NUFkN3W-1VnQxdm-RjxJc5oxt45FiJfDhB8nBaJOSzqJXB3-6ipHgAKZwGnaeS",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T11:41:57.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "SI"
-    },
-    {
-      "id": "com.chess",
-      "name": "Chess - Play and Learn Online",
-      "developer": "Chess.com",
-      "url": "https://play.google.com/store/apps/details?id=com.chess&hl=en&gl=SI",
-      "artwork": "https://play-lh.googleusercontent.com/a7R5nyeaX8lIEWdBOxjlvbyq9LcFwh3XMvNtBPEKR3LPGgdvgGrec4sJwn8tUaaSkw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T17:37:51.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "SI"
     }
