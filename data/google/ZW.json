@@ -1,8 +1,22 @@
 {
   "country": "ZW",
   "store": "google",
-  "updatedAt": "2026-02-08T15:00:03.893Z",
+  "updatedAt": "2026-02-08T21:38:15.625Z",
   "new": [
+    {
+      "id": "com.andregal.android.poolbilliard",
+      "name": "Pool Billiards offline",
+      "developer": "Andregal",
+      "url": "https://play.google.com/store/apps/details?id=com.andregal.android.poolbilliard&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/prsJFxj_daaTKEn6F1sW2aSsMT-2dBe41HGx9J31jWd3xAPU2rTDBbm-tlLpWacmyyHF",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-07T13:53:44.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "ZW"
+    },
     {
       "id": "com.MadOut.BIG",
       "name": "MadOut 2: Grand Auto Racing",
@@ -42,20 +56,6 @@
       "releaseDate": "2026-02-06T16:06:59.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "ZW"
-    },
-    {
-      "id": "com.hungrystudio.mahjong",
-      "name": "Double Tile!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T14:58:07.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "ZW"
     },
@@ -438,20 +438,6 @@
       "country": "ZW"
     },
     {
-      "id": "com.geargames.aow",
-      "name": "Art of War 3:RTS strategy game",
-      "developer": "Gear Games Global",
-      "url": "https://play.google.com/store/apps/details?id=com.geargames.aow&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/-eyO8rEuzUwB8wP6dcMezbgTSIUro9_Ds5z96EK0i_qzxBP_sp7ZjwwnAFu_34-gwQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T13:21:06.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "ZW"
-    },
-    {
       "id": "in.playsimple.wordsearch",
       "name": "Word Search Explorer",
       "developer": "PlaySimple Games",
@@ -702,6 +688,20 @@
         "Adventure"
       ],
       "country": "ZW"
+    },
+    {
+      "id": "com.xgame.VehicleDriving3D",
+      "name": "Real Driving: Vehicle & Park",
+      "developer": "XGAME STUDIO",
+      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T06:55:58.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "ZW"
     }
   ],
   "updated": [
@@ -888,20 +888,6 @@
       "country": "ZW"
     },
     {
-      "id": "com.ea.game.nfs14_row",
-      "name": "Need for Speed™ No Limits",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.game.nfs14_row&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/rDAmDCGhyX7FcXYJcR0QrcO04uWgdiQaiWw6oA3T93oK4Xq8qOof0-J_qtw2XFYpKg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-21T02:39:50.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "ZW"
-    },
-    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
@@ -916,6 +902,20 @@
       "country": "ZW"
     },
     {
+      "id": "com.ea.game.nfs14_row",
+      "name": "Need for Speed™ No Limits",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.game.nfs14_row&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/rDAmDCGhyX7FcXYJcR0QrcO04uWgdiQaiWw6oA3T93oK4Xq8qOof0-J_qtw2XFYpKg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-21T02:39:50.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "ZW"
+    },
+    {
       "id": "org.ppsspp.ppsspp",
       "name": "PPSSPP - PSP emulator",
       "developer": "Henrik Rydgård",
@@ -926,6 +926,20 @@
       "releaseDate": "2025-07-14T10:46:02.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "ZW"
+    },
+    {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "ZW"
     },
@@ -958,20 +972,6 @@
       "country": "ZW"
     },
     {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "ZW"
-    },
-    {
       "id": "com.block.juggle",
       "name": "Block Blast!",
       "developer": "HungryStudio",
@@ -980,6 +980,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-06T16:35:27.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "ZW"
+    },
+    {
+      "id": "com.games.hexagon.odyssey.puzzle",
+      "name": "Hexa Merge: Tile Sort Puzzle",
+      "developer": "Adaric Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.games.hexagon.odyssey.puzzle&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/e530XJgrI0wXmQ7RlVhGGe5MXwSOg5tLk0ukWZwM6R6iOJorKgnnkORUI7C23zbGISv9",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T06:36:42.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1014,34 +1028,6 @@
       "country": "ZW"
     },
     {
-      "id": "com.fingerfun.mu3.gp.us",
-      "name": "MU ORIGIN 3:Necromancer",
-      "developer": "FingerFun Limited.",
-      "url": "https://play.google.com/store/apps/details?id=com.fingerfun.mu3.gp.us&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/4su56VrQxCqJPLJyBySUJ_4Rq3B6JQoLk5uQEMeki27nML4jljUYutuv4amULnOhW48",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-05T07:33:36.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "ZW"
-    },
-    {
-      "id": "com.games.hexagon.odyssey.puzzle",
-      "name": "Hexa Merge: Tile Sort Puzzle",
-      "developer": "Adaric Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.games.hexagon.odyssey.puzzle&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/e530XJgrI0wXmQ7RlVhGGe5MXwSOg5tLk0ukWZwM6R6iOJorKgnnkORUI7C23zbGISv9",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T06:36:42.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "ZW"
-    },
-    {
       "id": "com.imangi.templerun2",
       "name": "Temple Run 2: Endless Escape",
       "developer": "Imangi Studios",
@@ -1052,20 +1038,6 @@
       "releaseDate": "2026-01-19T12:00:17.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "ZW"
-    },
-    {
-      "id": "com.gamovation.tileclub",
-      "name": "Tile Club - Match Puzzle Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-07T10:41:36.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "ZW"
     },
@@ -1098,30 +1070,44 @@
       "country": "ZW"
     },
     {
-      "id": "com.ssi.bus.games.bus.simulator",
-      "name": "Real Bus Simulator : Bus Games",
-      "developer": "Solo Studio Inc",
-      "url": "https://play.google.com/store/apps/details?id=com.ssi.bus.games.bus.simulator&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/3jwfrNqNLgdtj3zS2-i0mMACBopCLRyNWdeyC2zUxFQbgKrOAbSjiILNGzfGzmIJaQ",
+      "id": "com.advant.streamer",
+      "name": "Lamar - Idle Vlogger",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-30T10:33:47.000Z",
+      "releaseDate": "2026-01-16T11:00:23.000Z",
       "genres": [
-        "Strategy"
+        "Simulation"
       ],
       "country": "ZW"
     },
     {
-      "id": "com.bubbleshooter.popbubbles.collectcards",
-      "name": "Bubble Shooter",
-      "developer": "IVYGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.collectcards&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/C0hM-Dn_TvuA0gmg9PnveFMyuDOunQO8hhIWJGatOhO9ZIlZxKfes0aqnfHniAcSUBZp",
+      "id": "com.fingerfun.mu3.gp.us",
+      "name": "MU ORIGIN 3:Necromancer",
+      "developer": "FingerFun Limited.",
+      "url": "https://play.google.com/store/apps/details?id=com.fingerfun.mu3.gp.us&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/4su56VrQxCqJPLJyBySUJ_4Rq3B6JQoLk5uQEMeki27nML4jljUYutuv4amULnOhW48",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T08:25:03.000Z",
+      "releaseDate": "2025-11-05T07:33:36.000Z",
       "genres": [
-        "Casual"
+        "Role Playing"
+      ],
+      "country": "ZW"
+    },
+    {
+      "id": "com.gamovation.tileclub",
+      "name": "Tile Club - Match Puzzle Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-07T10:41:36.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "ZW"
     },
@@ -1140,20 +1126,6 @@
       "country": "ZW"
     },
     {
-      "id": "com.dino.race.master",
-      "name": "Car Race",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-09T02:55:19.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "ZW"
-    },
-    {
       "id": "com.MadOut.BIG",
       "name": "MadOut 2: Grand Auto Racing",
       "developer": "MadOut Games LLC FZ",
@@ -1168,16 +1140,30 @@
       "country": "ZW"
     },
     {
-      "id": "com.advant.streamer",
-      "name": "Lamar - Idle Vlogger",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
+      "id": "com.dino.race.master",
+      "name": "Car Race",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-16T11:00:23.000Z",
+      "releaseDate": "2026-01-09T02:55:19.000Z",
       "genres": [
-        "Simulation"
+        "Racing"
+      ],
+      "country": "ZW"
+    },
+    {
+      "id": "com.ssi.bus.games.bus.simulator",
+      "name": "Real Bus Simulator : Bus Games",
+      "developer": "Solo Studio Inc",
+      "url": "https://play.google.com/store/apps/details?id=com.ssi.bus.games.bus.simulator&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/3jwfrNqNLgdtj3zS2-i0mMACBopCLRyNWdeyC2zUxFQbgKrOAbSjiILNGzfGzmIJaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T10:33:47.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "ZW"
     },
@@ -1210,16 +1196,16 @@
       "country": "ZW"
     },
     {
-      "id": "com.gamovation.chessclubpilot",
-      "name": "Chess - Offline Board Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.chessclubpilot&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/e3YeRDmaHxppJ8-StfxFjbeenX9qSiCmM1dfQ-fd5-IL8Q8DumcNHZXhGTzF6aWP2A",
+      "id": "com.fgol.HungrySharkEvolution",
+      "name": "Hungry Shark Evolution",
+      "developer": "Ubisoft Entertainment",
+      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-09T10:17:06.000Z",
+      "releaseDate": "2026-01-26T03:04:31.000Z",
       "genres": [
-        "Board"
+        "Arcade"
       ],
       "country": "ZW"
     },
@@ -1238,16 +1224,30 @@
       "country": "ZW"
     },
     {
-      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
-      "name": "Shoot Bubble - Pop Bubbles",
+      "id": "com.bubbleshooter.popbubbles.collectcards",
+      "name": "Bubble Shooter",
       "developer": "IVYGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.collectcards&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/C0hM-Dn_TvuA0gmg9PnveFMyuDOunQO8hhIWJGatOhO9ZIlZxKfes0aqnfHniAcSUBZp",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T02:18:35.000Z",
+      "releaseDate": "2026-02-03T08:25:03.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "ZW"
+    },
+    {
+      "id": "com.gamovation.chessclubpilot",
+      "name": "Chess - Offline Board Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.chessclubpilot&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/e3YeRDmaHxppJ8-StfxFjbeenX9qSiCmM1dfQ-fd5-IL8Q8DumcNHZXhGTzF6aWP2A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-09T10:17:06.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "ZW"
     },
@@ -1266,20 +1266,6 @@
       "country": "ZW"
     },
     {
-      "id": "com.aim.racing",
-      "name": "Extreme Car Driving Simulator",
-      "developer": "AxesInMotion Racing",
-      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/6NEtpPjWbslnt7WzHb4A1sYM6GiX_VdIhA6O9gAvJcf-GlmnEkfMQwPzAD7xTSLV_5M",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-22T16:09:11.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "ZW"
-    },
-    {
       "id": "com.zuuks.truck.simulator.ultimate",
       "name": "Truck Simulator : Ultimate",
       "developer": "Zuuks Games",
@@ -1290,6 +1276,20 @@
       "releaseDate": "2026-01-28T16:49:37.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "ZW"
+    },
+    {
+      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
+      "name": "Shoot Bubble - Pop Bubbles",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T02:18:35.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "ZW"
     },
@@ -1308,6 +1308,20 @@
       "country": "ZW"
     },
     {
+      "id": "com.aim.racing",
+      "name": "Extreme Car Driving Simulator",
+      "developer": "AxesInMotion Racing",
+      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/6NEtpPjWbslnt7WzHb4A1sYM6GiX_VdIhA6O9gAvJcf-GlmnEkfMQwPzAD7xTSLV_5M",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-22T16:09:11.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "ZW"
+    },
+    {
       "id": "com.bandainamcogames.dbzdokkanww",
       "name": "DRAGON BALL Z DOKKAN BATTLE",
       "developer": "Bandai Namco Entertainment Inc.",
@@ -1318,48 +1332,6 @@
       "releaseDate": "2026-01-26T02:08:39.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "ZW"
-    },
-    {
-      "id": "com.forthblue.pool",
-      "name": "Pool Billiards Pro",
-      "developer": "TerranDroid",
-      "url": "https://play.google.com/store/apps/details?id=com.forthblue.pool&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/Q0po_BQLRBvmgpr9PuJTXMV4c-dL4fldUuHpw-oruXQCqnW_M3MFmH0J42i2yGpUcSE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-05-30T09:32:03.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "ZW"
-    },
-    {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "ZW"
-    },
-    {
-      "id": "com.fgol.HungrySharkEvolution",
-      "name": "Hungry Shark Evolution",
-      "developer": "Ubisoft Entertainment",
-      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-26T03:04:31.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "ZW"
     },
@@ -1392,16 +1364,44 @@
       "country": "ZW"
     },
     {
-      "id": "com.tap4fun.reignofwar",
-      "name": "Invasion: Aerial Warfare",
-      "developer": "Tap4fun (Hong Kong) Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.tap4fun.reignofwar&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/7ae3WC3pqXqzZV4_M2jxNLOLrpvnWplWHlT5109NHkbHD3y-zlKDr7PdjR0-WWcF09s",
+      "id": "com.gamincat.jigsolitaire",
+      "name": "Jigsolitaire",
+      "developer": "Gamincat",
+      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-30T07:19:40.000Z",
+      "releaseDate": "2026-02-04T04:25:54.000Z",
       "genres": [
-        "Strategy"
+        "Puzzle"
+      ],
+      "country": "ZW"
+    },
+    {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "ZW"
+    },
+    {
+      "id": "com.forthblue.pool",
+      "name": "Pool Billiards Pro",
+      "developer": "TerranDroid",
+      "url": "https://play.google.com/store/apps/details?id=com.forthblue.pool&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/Q0po_BQLRBvmgpr9PuJTXMV4c-dL4fldUuHpw-oruXQCqnW_M3MFmH0J42i2yGpUcSE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-05-30T09:32:03.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "ZW"
     }
