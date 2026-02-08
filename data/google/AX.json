@@ -1,8 +1,22 @@
 {
   "country": "AX",
   "store": "google",
-  "updatedAt": "2026-02-07T20:39:16.803Z",
+  "updatedAt": "2026-02-08T07:59:12.081Z",
   "new": [
+    {
+      "id": "com.amelosinteractive.snake",
+      "name": "Snake.io - Fun Snake .io Games",
+      "developer": "Kooapps Games | Fun Arcade and Casual Action Games",
+      "url": "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake&hl=en&gl=AX",
+      "artwork": "https://play-lh.googleusercontent.com/NG4sZTG49qpKGd3tUxdoxbW2EXSp1-nAxcYr3XCO0SO1WO5P2sWkk0sBtUGZPYzPOU0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-07T09:30:48.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "AX"
+    },
     {
       "id": "com.MadOut.BIG",
       "name": "MadOut 2: Grand Auto Racing",
@@ -14,6 +28,20 @@
       "releaseDate": "2026-02-07T06:39:12.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "AX"
+    },
+    {
+      "id": "com.mobile.legends",
+      "name": "Mobile Legends: Bang Bang",
+      "developer": "MOONTON",
+      "url": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en&gl=AX",
+      "artwork": "https://play-lh.googleusercontent.com/Op7v9XdsyxjrKImMD5RLyiLRCAHs3DMQFANwfsuMTw1hq0lH4j8tOqD3Fd7zyr4ixmC0xoqqRkQDBjAd46NsFQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-07T03:26:33.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "AX"
     },
@@ -674,34 +702,6 @@
         "Strategy"
       ],
       "country": "AX"
-    },
-    {
-      "id": "com.playrix.township",
-      "name": "Township",
-      "developer": "Playrix",
-      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=AX",
-      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T16:33:15.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "AX"
-    },
-    {
-      "id": "com.fungames.blockcraft",
-      "name": "Block Craft 3D：Building Game",
-      "developer": "Wildlife Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=en&gl=AX",
-      "artwork": "https://play-lh.googleusercontent.com/n37lIFSnvlxFSzdIEhCCLdP5DTLPye2pykbhj490_LHKQaRHQ_Ae7PhaBaUFU3qdiyM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:36:06.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "AX"
     }
   ],
   "updated": [
@@ -846,6 +846,20 @@
       "country": "AX"
     },
     {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=AX",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "AX"
+    },
+    {
       "id": "com.ea.gp.fifamobile",
       "name": "EA SPORTS FC™ Mobile Soccer 26",
       "developer": "ELECTRONIC ARTS",
@@ -868,20 +882,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "AX"
-    },
-    {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=AX",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
       "genres": [
         "Adventure"
       ],
@@ -1000,20 +1000,6 @@
       "country": "AX"
     },
     {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=AX",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "AX"
-    },
-    {
       "id": "io.voodoo.paper2",
       "name": "Paper.io 2",
       "developer": "VOODOO",
@@ -1028,6 +1014,34 @@
       "country": "AX"
     },
     {
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=AX",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "AX"
+    },
+    {
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=AX",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T15:38:31.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "AX"
+    },
+    {
       "id": "com.Earthkwak.Platformer",
       "name": "Super Bear Adventure",
       "developer": "Earthkwak Games",
@@ -1038,20 +1052,6 @@
       "releaseDate": "2025-11-26T09:16:49.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "AX"
-    },
-    {
-      "id": "com.rubygames.assassin",
-      "name": "Hunter Assassin",
-      "developer": "Ruby Games AS",
-      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=AX",
-      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T14:35:39.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "AX"
     },
@@ -1077,7 +1077,21 @@
       "artwork": "https://play-lh.googleusercontent.com/Op7v9XdsyxjrKImMD5RLyiLRCAHs3DMQFANwfsuMTw1hq0lH4j8tOqD3Fd7zyr4ixmC0xoqqRkQDBjAd46NsFQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T12:06:11.000Z",
+      "releaseDate": "2026-02-07T03:26:33.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "AX"
+    },
+    {
+      "id": "com.wildspike.wormszone",
+      "name": "Worms Zone .io - Hungry Snake",
+      "developer": "CASUAL AZUR GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=AX",
+      "artwork": "https://play-lh.googleusercontent.com/q3HAdDTOxp6R7rx8b91ysDSjDLzfQ2Xbc-09e9JqXu5DlCp54CyfrjtUfqoaO1Jcww",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-12T15:03:35.000Z",
       "genres": [
         "Action"
       ],
@@ -1126,14 +1140,14 @@
       "country": "AX"
     },
     {
-      "id": "com.wildspike.wormszone",
-      "name": "Worms Zone .io - Hungry Snake",
-      "developer": "CASUAL AZUR GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=AX",
-      "artwork": "https://play-lh.googleusercontent.com/q3HAdDTOxp6R7rx8b91ysDSjDLzfQ2Xbc-09e9JqXu5DlCp54CyfrjtUfqoaO1Jcww",
+      "id": "com.rubygames.assassin",
+      "name": "Hunter Assassin",
+      "developer": "Ruby Games AS",
+      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=AX",
+      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-12T15:03:35.000Z",
+      "releaseDate": "2026-02-06T14:35:39.000Z",
       "genres": [
         "Action"
       ],
@@ -1192,20 +1206,6 @@
       "releaseDate": "2026-02-04T13:07:30.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "AX"
-    },
-    {
-      "id": "com.gtsy.annoying.punch.game",
-      "name": "Annoying Uncle Punch Game",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=AX",
-      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T15:38:31.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "AX"
     },
@@ -1280,20 +1280,6 @@
       "country": "AX"
     },
     {
-      "id": "com.bunbunstudio.magicblocktiles",
-      "name": "Music Piano 7: Rush Song Games",
-      "developer": "Melodya Muses",
-      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=AX",
-      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T03:06:33.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "AX"
-    },
-    {
       "id": "com.gamovation.tileclub",
       "name": "Tile Club - Match Puzzle Game",
       "developer": "GamoVation",
@@ -1322,20 +1308,6 @@
       "country": "AX"
     },
     {
-      "id": "com.blockgamesstudio.blockworld3d",
-      "name": "Block World 3D: Craft & Build",
-      "developer": "Funburstgame LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d&hl=en&gl=AX",
-      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T16:36:16.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "AX"
-    },
-    {
       "id": "com.miniclip.carrom",
       "name": "Carrom Pool: Disc Game",
       "developer": "Miniclip.com",
@@ -1350,6 +1322,20 @@
       "country": "AX"
     },
     {
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=AX",
+      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T03:06:33.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "AX"
+    },
+    {
       "id": "com.gf.busdriving.publictransport.citypassenger.drivinggames",
       "name": "Bus Simulator : 3D Bus Games",
       "developer": "GamePark",
@@ -1360,6 +1346,20 @@
       "releaseDate": "2026-01-20T12:05:35.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "AX"
+    },
+    {
+      "id": "com.blockgamesstudio.blockworld3d",
+      "name": "Block World 3D: Craft & Build",
+      "developer": "Funburstgame LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d&hl=en&gl=AX",
+      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T16:36:16.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "AX"
     },
@@ -1392,14 +1392,14 @@
       "country": "AX"
     },
     {
-      "id": "com.skgames.trafficrider",
-      "name": "Traffic Rider",
-      "developer": "skgames",
-      "url": "https://play.google.com/store/apps/details?id=com.skgames.trafficrider&hl=en&gl=AX",
-      "artwork": "https://play-lh.googleusercontent.com/590AflDt-hW2t85Cit_ODJPJdRiMMRn2cSF0vYNfsBpjm895x1zDy0npbD7IlDCvmNvI",
+      "id": "com.ansangha.drdriving",
+      "name": "Dr. Driving",
+      "developer": "SUD Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=AX",
+      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-08T14:58:29.000Z",
+      "releaseDate": "2025-08-25T07:34:27.000Z",
       "genres": [
         "Racing"
       ],
