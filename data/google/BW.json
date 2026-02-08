@@ -1,8 +1,22 @@
 {
   "country": "BW",
   "store": "google",
-  "updatedAt": "2026-02-07T21:00:47.300Z",
+  "updatedAt": "2026-02-08T08:46:20.004Z",
   "new": [
+    {
+      "id": "com.millgame.alignit",
+      "name": "Align It - Morabaraba, Online",
+      "developer": "AlignIt Games",
+      "url": "https://play.google.com/store/apps/details?id=com.millgame.alignit&hl=en&gl=BW",
+      "artwork": "https://play-lh.googleusercontent.com/bIyKZ0NMuoVioX7zboZ0K-3SgrR64_jWU0GiE2I3mwB4uJ6u-mIjPbvsrZZrcZQW9Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-08T03:36:31.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "BW"
+    },
     {
       "id": "com.andregal.android.poolbilliard",
       "name": "Pool Billiards offline",
@@ -14,20 +28,6 @@
       "releaseDate": "2026-02-07T13:53:44.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "BW"
-    },
-    {
-      "id": "car.parking.jam.solver.puzzle.games",
-      "name": "Car Jam Solver: Traffic Jam",
-      "developer": "Ladaneta Games",
-      "url": "https://play.google.com/store/apps/details?id=car.parking.jam.solver.puzzle.games&hl=en&gl=BW",
-      "artwork": "https://play-lh.googleusercontent.com/zQxxfiBXzDefzKkb6kfISliJstLOknKkmSl_tRrpB2MQxx6f1Zbj4eks9MgLm1j3h2U",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-07T09:30:57.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "BW"
     },
@@ -536,20 +536,6 @@
       "country": "BW"
     },
     {
-      "id": "com.millgame.alignit",
-      "name": "Align It - Morabaraba, Online",
-      "developer": "AlignIt Games",
-      "url": "https://play.google.com/store/apps/details?id=com.millgame.alignit&hl=en&gl=BW",
-      "artwork": "https://play-lh.googleusercontent.com/bIyKZ0NMuoVioX7zboZ0K-3SgrR64_jWU0GiE2I3mwB4uJ6u-mIjPbvsrZZrcZQW9Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T02:39:21.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "BW"
-    },
-    {
       "id": "io.randomco.travel",
       "name": "Travel Town - Merge Adventure",
       "developer": "Magmatic Games LTD",
@@ -702,6 +688,20 @@
         "Action"
       ],
       "country": "BW"
+    },
+    {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=BW",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "BW"
     }
   ],
   "updated": [
@@ -790,48 +790,6 @@
       "country": "BW"
     },
     {
-      "id": "com.dreamgames.royalmatch",
-      "name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=BW",
-      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T15:41:31.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "BW"
-    },
-    {
-      "id": "com.millgame.alignit",
-      "name": "Align It - Morabaraba, Online",
-      "developer": "AlignIt Games",
-      "url": "https://play.google.com/store/apps/details?id=com.millgame.alignit&hl=en&gl=BW",
-      "artwork": "https://play-lh.googleusercontent.com/bIyKZ0NMuoVioX7zboZ0K-3SgrR64_jWU0GiE2I3mwB4uJ6u-mIjPbvsrZZrcZQW9Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T02:39:21.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "BW"
-    },
-    {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=BW",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "BW"
-    },
-    {
       "id": "com.roblox.client",
       "name": "Roblox",
       "developer": "Roblox Corporation",
@@ -856,6 +814,62 @@
       "releaseDate": "2026-01-30T10:20:30.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "BW"
+    },
+    {
+      "id": "com.millgame.alignit",
+      "name": "Align It - Morabaraba, Online",
+      "developer": "AlignIt Games",
+      "url": "https://play.google.com/store/apps/details?id=com.millgame.alignit&hl=en&gl=BW",
+      "artwork": "https://play-lh.googleusercontent.com/bIyKZ0NMuoVioX7zboZ0K-3SgrR64_jWU0GiE2I3mwB4uJ6u-mIjPbvsrZZrcZQW9Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-08T03:36:31.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "BW"
+    },
+    {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=BW",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "BW"
+    },
+    {
+      "id": "com.dreamgames.royalmatch",
+      "name": "Royal Match",
+      "developer": "Dream Games, Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=BW",
+      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T15:41:31.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "BW"
+    },
+    {
+      "id": "com.blazingappstudio.faerie_forest_frenzy",
+      "name": "Forest Match - Earn rewards",
+      "developer": "Blazing App Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.blazingappstudio.faerie_forest_frenzy&hl=en&gl=BW",
+      "artwork": "https://play-lh.googleusercontent.com/QqEiDhTdFrOZ870TTuDeaU7-XkAW79fy2ps_RmQM8RRKgTp_iS-AygvQfSdAlAIOSQo",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-31T08:09:54.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "BW"
     },
@@ -930,20 +944,6 @@
       "country": "BW"
     },
     {
-      "id": "com.blazingappstudio.faerie_forest_frenzy",
-      "name": "Forest Match - Earn rewards",
-      "developer": "Blazing App Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.blazingappstudio.faerie_forest_frenzy&hl=en&gl=BW",
-      "artwork": "https://play-lh.googleusercontent.com/QqEiDhTdFrOZ870TTuDeaU7-XkAW79fy2ps_RmQM8RRKgTp_iS-AygvQfSdAlAIOSQo",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-31T08:09:54.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "BW"
-    },
-    {
       "id": "com.block.juggle",
       "name": "Block Blast!",
       "developer": "HungryStudio",
@@ -972,16 +972,30 @@
       "country": "BW"
     },
     {
-      "id": "com.gamovation.tileclub",
-      "name": "Tile Club - Match Puzzle Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=BW",
-      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
+      "id": "com.blazingappstudio.candy_clash",
+      "name": "Candy Sweep Puzzle",
+      "developer": "Blazing App Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.blazingappstudio.candy_clash&hl=en&gl=BW",
+      "artwork": "https://play-lh.googleusercontent.com/EP8ctqwalFs722rOqM7Sth6OnRu9TbB8Q6iO8vYNfbZskiH0CcVqpbLWdDu73VQu_jYPoisMRmJS-iyncRzLBCw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-07T10:41:36.000Z",
+      "releaseDate": "2026-02-06T17:14:54.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "BW"
+    },
+    {
+      "id": "piano.game.music.beat.tiles",
+      "name": "Piano Beat: Music Game",
+      "developer": "Dream Tiles Piano Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=piano.game.music.beat.tiles&hl=en&gl=BW",
+      "artwork": "https://play-lh.googleusercontent.com/0Of6bw3wkKRhftwupXVSF0r0FKn-BVFScRpwXPFKZ9jtdeEwU8hHRK8j8hN-mhkrxFCj",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-13T08:06:33.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "BW"
     },
@@ -1024,20 +1038,6 @@
       "releaseDate": "2026-01-26T10:38:29.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "BW"
-    },
-    {
-      "id": "piano.game.music.beat.tiles",
-      "name": "Piano Beat: Music Game",
-      "developer": "Dream Tiles Piano Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=piano.game.music.beat.tiles&hl=en&gl=BW",
-      "artwork": "https://play-lh.googleusercontent.com/0Of6bw3wkKRhftwupXVSF0r0FKn-BVFScRpwXPFKZ9jtdeEwU8hHRK8j8hN-mhkrxFCj",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-13T08:06:33.000Z",
-      "genres": [
-        "Music"
       ],
       "country": "BW"
     },
@@ -1126,20 +1126,6 @@
       "country": "BW"
     },
     {
-      "id": "com.blazingappstudio.candy_clash",
-      "name": "Candy Sweep Puzzle",
-      "developer": "Blazing App Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.blazingappstudio.candy_clash&hl=en&gl=BW",
-      "artwork": "https://play-lh.googleusercontent.com/EP8ctqwalFs722rOqM7Sth6OnRu9TbB8Q6iO8vYNfbZskiH0CcVqpbLWdDu73VQu_jYPoisMRmJS-iyncRzLBCw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T17:14:54.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "BW"
-    },
-    {
       "id": "com.grandegames.slots.dafu.casino",
       "name": "Jackpot World™ - Slots Casino",
       "developer": "SpinX Games Limited",
@@ -1154,16 +1140,16 @@
       "country": "BW"
     },
     {
-      "id": "com.playvalve.wsjourney",
-      "name": "Word Search - Word Puzzle Game",
-      "developer": "Playvalve",
-      "url": "https://play.google.com/store/apps/details?id=com.playvalve.wsjourney&hl=en&gl=BW",
-      "artwork": "https://play-lh.googleusercontent.com/buGx7Qx6e_M9DUqiwABScUWx-xgiUSJBURBhivVel8OdVVzqOB2F5V3Nt60Ov8Qudw",
+      "id": "com.gamovation.tileclub",
+      "name": "Tile Club - Match Puzzle Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=BW",
+      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-21T16:35:43.000Z",
+      "releaseDate": "2026-01-07T10:41:36.000Z",
       "genres": [
-        "Word"
+        "Puzzle"
       ],
       "country": "BW"
     },
@@ -1196,16 +1182,16 @@
       "country": "BW"
     },
     {
-      "id": "com.dino.race.master",
-      "name": "Car Race",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=BW",
-      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
+      "id": "com.andregal.android.poolbilliard",
+      "name": "Pool Billiards offline",
+      "developer": "Andregal",
+      "url": "https://play.google.com/store/apps/details?id=com.andregal.android.poolbilliard&hl=en&gl=BW",
+      "artwork": "https://play-lh.googleusercontent.com/prsJFxj_daaTKEn6F1sW2aSsMT-2dBe41HGx9J31jWd3xAPU2rTDBbm-tlLpWacmyyHF",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-09T02:55:19.000Z",
+      "releaseDate": "2026-02-07T13:53:44.000Z",
       "genres": [
-        "Racing"
+        "Casual"
       ],
       "country": "BW"
     },
@@ -1224,20 +1210,6 @@
       "country": "BW"
     },
     {
-      "id": "com.gamincat.jigsolitaire",
-      "name": "Jigsolitaire",
-      "developer": "Gamincat",
-      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=BW",
-      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T04:25:54.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "BW"
-    },
-    {
       "id": "com.MadOut.BIG",
       "name": "MadOut 2: Grand Auto Racing",
       "developer": "MadOut Games LLC FZ",
@@ -1252,16 +1224,30 @@
       "country": "BW"
     },
     {
-      "id": "com.WandaSoftware.TruckersofEurope3",
-      "name": "Truckers of Europe 3",
-      "developer": "Wanda Software",
-      "url": "https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3&hl=en&gl=BW",
-      "artwork": "https://play-lh.googleusercontent.com/FwKtLtLulWDsEawc5dOelxZyvzTQK6gEZUmqLkpEIlVJjiyPtikvwpWEkSrsgREt9yCg",
+      "id": "com.playvalve.wsjourney",
+      "name": "Word Search - Word Puzzle Game",
+      "developer": "Playvalve",
+      "url": "https://play.google.com/store/apps/details?id=com.playvalve.wsjourney&hl=en&gl=BW",
+      "artwork": "https://play-lh.googleusercontent.com/buGx7Qx6e_M9DUqiwABScUWx-xgiUSJBURBhivVel8OdVVzqOB2F5V3Nt60Ov8Qudw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-11-26T09:09:22.000Z",
+      "releaseDate": "2026-01-21T16:35:43.000Z",
       "genres": [
-        "Simulation"
+        "Word"
+      ],
+      "country": "BW"
+    },
+    {
+      "id": "com.dts.freefireth",
+      "name": "Free Fire x JUJUTSU KAISEN",
+      "developer": "GARENA INTERNATIONAL I",
+      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=BW",
+      "artwork": "https://play-lh.googleusercontent.com/-6LwMoL2ZWR3pl3s1fvwiYil-vrLS8q2n6Lg8rJ_I_uSAXtFD7OEO-KziVFxIlfuhezB7jsMYnf5COn4S1iu",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-08T09:45:46.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "BW"
     },
@@ -1280,16 +1266,16 @@
       "country": "BW"
     },
     {
-      "id": "com.andregal.android.poolbilliard",
-      "name": "Pool Billiards offline",
-      "developer": "Andregal",
-      "url": "https://play.google.com/store/apps/details?id=com.andregal.android.poolbilliard&hl=en&gl=BW",
-      "artwork": "https://play-lh.googleusercontent.com/prsJFxj_daaTKEn6F1sW2aSsMT-2dBe41HGx9J31jWd3xAPU2rTDBbm-tlLpWacmyyHF",
+      "id": "com.WandaSoftware.TruckersofEurope3",
+      "name": "Truckers of Europe 3",
+      "developer": "Wanda Software",
+      "url": "https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3&hl=en&gl=BW",
+      "artwork": "https://play-lh.googleusercontent.com/FwKtLtLulWDsEawc5dOelxZyvzTQK6gEZUmqLkpEIlVJjiyPtikvwpWEkSrsgREt9yCg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-07T13:53:44.000Z",
+      "releaseDate": "2025-11-26T09:09:22.000Z",
       "genres": [
-        "Casual"
+        "Simulation"
       ],
       "country": "BW"
     },
@@ -1308,44 +1294,16 @@
       "country": "BW"
     },
     {
-      "id": "com.tile.home.match.puzzle.game",
-      "name": "Tile Home-Match Puzzle Game",
-      "developer": "Mindful Daily Puzzles",
-      "url": "https://play.google.com/store/apps/details?id=com.tile.home.match.puzzle.game&hl=en&gl=BW",
-      "artwork": "https://play-lh.googleusercontent.com/gNYvOPQPkwGCMYBC2X_CVhaLDL2EOBSx8u60gKJRbvqtVoeApk1KGhKKi76cqWK9posbD3Ai1DZzj1Bdj0DIKA",
+      "id": "com.gamincat.jigsolitaire",
+      "name": "Jigsolitaire",
+      "developer": "Gamincat",
+      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=BW",
+      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T12:54:50.000Z",
+      "releaseDate": "2026-02-04T04:25:54.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "BW"
-    },
-    {
-      "id": "com.ffgames.racingincar2",
-      "name": "Racing in Car 2",
-      "developer": "ckgames",
-      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=BW",
-      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-19T14:55:06.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "BW"
-    },
-    {
-      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
-      "name": "Agent Shooter - Shooting Game",
-      "developer": "Rebel Actions",
-      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=BW",
-      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-16T06:00:02.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "BW"
     },
@@ -1364,16 +1322,30 @@
       "country": "BW"
     },
     {
-      "id": "com.activision.callofduty.shooter",
-      "name": "Call of Duty®: Mobile",
-      "developer": "Activision Publishing, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter&hl=en&gl=BW",
-      "artwork": "https://play-lh.googleusercontent.com/cfGSXkDwxa1jW3TlhhkDJBN16-1_KEtEDhnILPcs9rXcC25g14XY6MRGCtlXHFHs0g",
+      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
+      "name": "Agent Shooter - Shooting Game",
+      "developer": "Rebel Actions",
+      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=BW",
+      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-03T22:38:38.000Z",
+      "releaseDate": "2026-01-16T06:00:02.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "BW"
+    },
+    {
+      "id": "com.dino.race.master",
+      "name": "Car Race",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=BW",
+      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-09T02:55:19.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "BW"
     },
@@ -1402,6 +1374,34 @@
       "releaseDate": "2025-12-09T10:17:06.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "BW"
+    },
+    {
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=BW",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-19T14:55:06.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "BW"
+    },
+    {
+      "id": "io.randomco.travel",
+      "name": "Travel Town - Merge Adventure",
+      "developer": "Magmatic Games LTD",
+      "url": "https://play.google.com/store/apps/details?id=io.randomco.travel&hl=en&gl=BW",
+      "artwork": "https://play-lh.googleusercontent.com/JUd09-Jkgctks6QibZBPeqnpPA-6A6nMXZqAW9Fa0MKOsolbvGKSXEnuq9nxiKNCFVOT",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-01T08:36:57.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "BW"
     }
