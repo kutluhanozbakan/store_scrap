@@ -1,8 +1,22 @@
 {
   "country": "MW",
   "store": "google",
-  "updatedAt": "2026-02-08T11:41:40.645Z",
+  "updatedAt": "2026-02-08T19:33:49.123Z",
   "new": [
+    {
+      "id": "com.rubygames.assassin",
+      "name": "Hunter Assassin",
+      "developer": "Ruby Games AS",
+      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-08T14:09:08.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "MW"
+    },
     {
       "id": "com.kachere.charades",
       "name": "265 Charades",
@@ -84,20 +98,6 @@
       "releaseDate": "2026-02-06T14:58:07.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "MW"
-    },
-    {
-      "id": "com.rubygames.assassin",
-      "name": "Hunter Assassin",
-      "developer": "Ruby Games AS",
-      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T14:35:39.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "MW"
     },
@@ -508,20 +508,6 @@
       "country": "MW"
     },
     {
-      "id": "games.joker.crash.rocket",
-      "name": "Crash Rocket - Win & Crash",
-      "developer": "Joker Game",
-      "url": "https://play.google.com/store/apps/details?id=games.joker.crash.rocket&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/qfqM9n_mU8GsqguKceI_PJFe6JQOrCeK6m_vNCrzJQvFdKngzSlWNEzZzuNuiz-bpIX_0A6rxdt9EjGmf3OJqw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T10:25:35.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MW"
-    },
-    {
       "id": "games.joker.drop.poly",
       "name": "Drop Balls - Plink Balls",
       "developer": "Joker Game",
@@ -702,6 +688,20 @@
         "Racing"
       ],
       "country": "MW"
+    },
+    {
+      "id": "ball.sort.puzzle.color.bubble.games.magic",
+      "name": "Ball Sort Magic - Puzzle Game",
+      "developer": "Passion Fruit Joy",
+      "url": "https://play.google.com/store/apps/details?id=ball.sort.puzzle.color.bubble.games.magic&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/2LFoNpVRsnkG8xrDMUN5y-ZZymdRwjIfeYXHdBirrVW_kkqtAO1FPYVWpf42mZ_XIg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-22T11:16:52.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MW"
     }
   ],
   "updated": [
@@ -874,20 +874,6 @@
       "country": "MW"
     },
     {
-      "id": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
-      "name": "Ramp Car Games: GT Car Stunts",
-      "developer": "Fun Drive Games",
-      "url": "https://play.google.com/store/apps/details?id=com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/AkcgFr9M2qfIcp1fkrQS8Ny6Ludis4_fBO0_VvfdWLJtrRpu0O-2T1v4mn0b1t59yA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-17T10:26:09.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "MW"
-    },
-    {
       "id": "com.ea.gp.fifamobile",
       "name": "EA SPORTS FC™ Mobile Soccer 26",
       "developer": "ELECTRONIC ARTS",
@@ -902,44 +888,16 @@
       "country": "MW"
     },
     {
-      "id": "com.xgame.VehicleDriving3D",
-      "name": "Real Driving: Vehicle & Park",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
+      "id": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
+      "name": "Ramp Car Games: GT Car Stunts",
+      "developer": "Fun Drive Games",
+      "url": "https://play.google.com/store/apps/details?id=com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/AkcgFr9M2qfIcp1fkrQS8Ny6Ludis4_fBO0_VvfdWLJtrRpu0O-2T1v4mn0b1t59yA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T06:55:58.000Z",
+      "releaseDate": "2025-11-17T10:26:09.000Z",
       "genres": [
-        "Simulation"
-      ],
-      "country": "MW"
-    },
-    {
-      "id": "com.fxroyale.app",
-      "name": "Trading Arena-Crypto Simulator",
-      "developer": "Edusystems OU",
-      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T15:20:24.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MW"
-    },
-    {
-      "id": "com.hyperkani.trialbike",
-      "name": "Stunt Bike Extreme",
-      "developer": "Hyperkani",
-      "url": "https://play.google.com/store/apps/details?id=com.hyperkani.trialbike&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/NRovxU1rnnI2BzDw989gmkSb8DOnEmgybKJysHKE4-5WSWonNXFwGJGDXMppfxHBkI4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-26T11:02:39.000Z",
-      "genres": [
-        "Racing"
+        "Strategy"
       ],
       "country": "MW"
     },
@@ -958,30 +916,30 @@
       "country": "MW"
     },
     {
-      "id": "com.hungrystudio.mahjong",
-      "name": "Double Tile!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
+      "id": "com.hyperkani.trialbike",
+      "name": "Stunt Bike Extreme",
+      "developer": "Hyperkani",
+      "url": "https://play.google.com/store/apps/details?id=com.hyperkani.trialbike&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/NRovxU1rnnI2BzDw989gmkSb8DOnEmgybKJysHKE4-5WSWonNXFwGJGDXMppfxHBkI4",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T14:58:07.000Z",
+      "releaseDate": "2026-01-26T11:02:39.000Z",
       "genres": [
-        "Puzzle"
+        "Racing"
       ],
       "country": "MW"
     },
     {
-      "id": "com.icegame.fruitlink",
-      "name": "Fruit Splash",
-      "developer": "Tap Run",
-      "url": "https://play.google.com/store/apps/details?id=com.icegame.fruitlink&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/yUqn4AXVBQGgtbpwymj0nGV3kOL8A3EdfKm6AkcVHXJeqEHlKKhN8VS_D4_yM17wZB8",
+      "id": "com.xgame.VehicleDriving3D",
+      "name": "Real Driving: Vehicle & Park",
+      "developer": "XGAME STUDIO",
+      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-19T10:32:37.000Z",
+      "releaseDate": "2026-01-23T06:55:58.000Z",
       "genres": [
-        "Casual"
+        "Simulation"
       ],
       "country": "MW"
     },
@@ -1000,6 +958,48 @@
       "country": "MW"
     },
     {
+      "id": "com.hungrystudio.mahjong",
+      "name": "Double Tile!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T14:58:07.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MW"
+    },
+    {
+      "id": "com.fxroyale.app",
+      "name": "Trading Arena-Crypto Simulator",
+      "developer": "Edusystems OU",
+      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T15:20:24.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MW"
+    },
+    {
+      "id": "com.icegame.fruitlink",
+      "name": "Fruit Splash",
+      "developer": "Tap Run",
+      "url": "https://play.google.com/store/apps/details?id=com.icegame.fruitlink&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/yUqn4AXVBQGgtbpwymj0nGV3kOL8A3EdfKm6AkcVHXJeqEHlKKhN8VS_D4_yM17wZB8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-19T10:32:37.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MW"
+    },
+    {
       "id": "com.billiards.shooting.ball.pool",
       "name": "Shooting Ball",
       "developer": "7788`s",
@@ -1014,20 +1014,6 @@
       "country": "MW"
     },
     {
-      "id": "com.babybit.app",
-      "name": "Crypto Legends–Trade & Collect",
-      "developer": "2GoodApps",
-      "url": "https://play.google.com/store/apps/details?id=com.babybit.app&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/i_58JjJdkOwr9TKD8VV2_BiqIEKNaO5V0QS-jHMjSffnsracX78k7AOrApGTD_wXmszBzWEHQwhJy8RyrID8vA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-12T11:42:28.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MW"
-    },
-    {
       "id": "com.dreamgames.royalmatch",
       "name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -1038,6 +1024,20 @@
       "releaseDate": "2026-01-30T15:41:31.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "MW"
+    },
+    {
+      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
+      "name": "Shoot Bubble - Pop Bubbles",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T02:18:35.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "MW"
     },
@@ -1070,30 +1070,16 @@
       "country": "MW"
     },
     {
-      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
-      "name": "Shoot Bubble - Pop Bubbles",
-      "developer": "IVYGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
+      "id": "com.babybit.app",
+      "name": "Crypto Legends–Trade & Collect",
+      "developer": "2GoodApps",
+      "url": "https://play.google.com/store/apps/details?id=com.babybit.app&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/i_58JjJdkOwr9TKD8VV2_BiqIEKNaO5V0QS-jHMjSffnsracX78k7AOrApGTD_wXmszBzWEHQwhJy8RyrID8vA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T02:18:35.000Z",
+      "releaseDate": "2025-12-12T11:42:28.000Z",
       "genres": [
-        "Casual"
-      ],
-      "country": "MW"
-    },
-    {
-      "id": "com.bettergames.truck.drivingschool.simulator",
-      "name": "Truck Games - Driving School",
-      "developer": "Better Games Studio Pty Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.bettergames.truck.drivingschool.simulator&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/WiHAkl3Qhw2GrZf-angvlDNRPhSG_nkLmwZ_xT8QuN5TC69eGT-kHDjy3xZWyqTPuQc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-07T07:45:50.000Z",
-      "genres": [
-        "Strategy"
+        "Simulation"
       ],
       "country": "MW"
     },
@@ -1126,6 +1112,20 @@
       "country": "MW"
     },
     {
+      "id": "com.refuelgames.rally",
+      "name": "Rally Fury - Extreme Racing",
+      "developer": "Refuel Games Pty Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.refuelgames.rally&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/UVjsYY6tnVq2qqtuz0BexvhIA080C-pfWalPy3Py4GD4nE-dt_mAZxuAOVgEod3teLU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-18T01:24:07.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "MW"
+    },
+    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -1140,16 +1140,16 @@
       "country": "MW"
     },
     {
-      "id": "com.refuelgames.rally",
-      "name": "Rally Fury - Extreme Racing",
-      "developer": "Refuel Games Pty Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.refuelgames.rally&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/UVjsYY6tnVq2qqtuz0BexvhIA080C-pfWalPy3Py4GD4nE-dt_mAZxuAOVgEod3teLU",
+      "id": "com.bettergames.truck.drivingschool.simulator",
+      "name": "Truck Games - Driving School",
+      "developer": "Better Games Studio Pty Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.bettergames.truck.drivingschool.simulator&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/WiHAkl3Qhw2GrZf-angvlDNRPhSG_nkLmwZ_xT8QuN5TC69eGT-kHDjy3xZWyqTPuQc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-18T01:24:07.000Z",
+      "releaseDate": "2026-01-07T07:45:50.000Z",
       "genres": [
-        "Racing"
+        "Strategy"
       ],
       "country": "MW"
     },
@@ -1210,30 +1210,16 @@
       "country": "MW"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "id": "com.ansangha.drdriving",
+      "name": "Dr. Driving",
+      "developer": "SUD Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T16:35:27.000Z",
+      "releaseDate": "2025-08-25T07:34:27.000Z",
       "genres": [
-        "Puzzle"
-      ],
-      "country": "MW"
-    },
-    {
-      "id": "com.fruitcut3d.studiogame",
-      "name": "Fruit Cut 3D",
-      "developer": "STUDIO GAMES MOBILE",
-      "url": "https://play.google.com/store/apps/details?id=com.fruitcut3d.studiogame&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/2ws-Rk-X_fFhGZVlOGvzYKlaIrx3A5ZLQ-xP4MduwWzRawQSN8ou8Y2pZ0KfGfN4MU_h",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-02-23T13:31:27.000Z",
-      "genres": [
-        "Casual"
+        "Racing"
       ],
       "country": "MW"
     },
@@ -1252,30 +1238,16 @@
       "country": "MW"
     },
     {
-      "id": "com.ansangha.drdriving",
-      "name": "Dr. Driving",
-      "developer": "SUD Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-08-25T07:34:27.000Z",
+      "releaseDate": "2026-02-06T16:35:27.000Z",
       "genres": [
-        "Racing"
-      ],
-      "country": "MW"
-    },
-    {
-      "id": "com.gp.pilot.simulator.airplanegames",
-      "name": "Pilot Simulator: Airplane Game",
-      "developer": "GamePark",
-      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-27T12:54:07.000Z",
-      "genres": [
-        "Simulation"
+        "Puzzle"
       ],
       "country": "MW"
     },
@@ -1294,6 +1266,34 @@
       "country": "MW"
     },
     {
+      "id": "com.fruitcut3d.studiogame",
+      "name": "Fruit Cut 3D",
+      "developer": "STUDIO GAMES MOBILE",
+      "url": "https://play.google.com/store/apps/details?id=com.fruitcut3d.studiogame&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/2ws-Rk-X_fFhGZVlOGvzYKlaIrx3A5ZLQ-xP4MduwWzRawQSN8ou8Y2pZ0KfGfN4MU_h",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-02-23T13:31:27.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MW"
+    },
+    {
+      "id": "com.gp.pilot.simulator.airplanegames",
+      "name": "Pilot Simulator: Airplane Game",
+      "developer": "GamePark",
+      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-27T12:54:07.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MW"
+    },
+    {
       "id": "net.apex_designs.payback2",
       "name": "Payback 2 - The Battle Sandbox",
       "developer": "Apex Designs Games LLP",
@@ -1304,34 +1304,6 @@
       "releaseDate": "2025-08-27T16:01:25.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "MW"
-    },
-    {
-      "id": "com.gamma.checkers",
-      "name": "Checkers",
-      "developer": "Gamma Play",
-      "url": "https://play.google.com/store/apps/details?id=com.gamma.checkers&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/eugQQnZMSGTkdUTV3wuhn6dM4zBXNbmG8uD_Lv99Z66zUDsxTyY_VpdqmHVk9s9oBw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-15T12:26:55.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "MW"
-    },
-    {
-      "id": "com.tohsoft.arashi.ninja.shadow",
-      "name": "Ninja warrior: legend of adven",
-      "developer": "TOH Games",
-      "url": "https://play.google.com/store/apps/details?id=com.tohsoft.arashi.ninja.shadow&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/Z2XnSlqHWZ6rgOdWJoOJJbIQIqQHcbDsCrF23Oo1ciu878Vnzqn0chW9-Fe04FPI9tGp",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-07-17T03:10:56.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "MW"
     },
@@ -1350,16 +1322,16 @@
       "country": "MW"
     },
     {
-      "id": "com.ghive.jeep.parking.car.free.game.master.apps",
-      "name": "Car Parking Games - Car Games",
-      "developer": "Frolics Simulation & Action Games",
-      "url": "https://play.google.com/store/apps/details?id=com.ghive.jeep.parking.car.free.game.master.apps&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/zDP8r3c09761UBRIPHjAvlkolz3bbMn0wLM4cZ4rY1WyMsdP1rg0S6QZV6jnFgyqksqt",
+      "id": "com.gamma.checkers",
+      "name": "Checkers",
+      "developer": "Gamma Play",
+      "url": "https://play.google.com/store/apps/details?id=com.gamma.checkers&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/eugQQnZMSGTkdUTV3wuhn6dM4zBXNbmG8uD_Lv99Z66zUDsxTyY_VpdqmHVk9s9oBw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-24T13:20:53.000Z",
+      "releaseDate": "2025-10-15T12:26:55.000Z",
       "genres": [
-        "Adventure"
+        "Board"
       ],
       "country": "MW"
     },
@@ -1378,6 +1350,48 @@
       "country": "MW"
     },
     {
+      "id": "com.nekki.vector",
+      "name": "Vector",
+      "developer": "NEKKI",
+      "url": "https://play.google.com/store/apps/details?id=com.nekki.vector&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/0zfVO-hhmplypvYTjqwsnk4qrY_9SEuIxLV-AlNXlN3UwF9wj65G6VDhvjNt4n0nrXE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-21T12:10:28.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "MW"
+    },
+    {
+      "id": "com.tohsoft.arashi.ninja.shadow",
+      "name": "Ninja warrior: legend of adven",
+      "developer": "TOH Games",
+      "url": "https://play.google.com/store/apps/details?id=com.tohsoft.arashi.ninja.shadow&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/Z2XnSlqHWZ6rgOdWJoOJJbIQIqQHcbDsCrF23Oo1ciu878Vnzqn0chW9-Fe04FPI9tGp",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-07-17T03:10:56.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "MW"
+    },
+    {
+      "id": "com.ghive.jeep.parking.car.free.game.master.apps",
+      "name": "Car Parking Games - Car Games",
+      "developer": "Frolics Simulation & Action Games",
+      "url": "https://play.google.com/store/apps/details?id=com.ghive.jeep.parking.car.free.game.master.apps&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/zDP8r3c09761UBRIPHjAvlkolz3bbMn0wLM4cZ4rY1WyMsdP1rg0S6QZV6jnFgyqksqt",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-24T13:20:53.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "MW"
+    },
+    {
       "id": "jpark.AOS5",
       "name": "Anger of stick 5 : zombie",
       "developer": "Button E&M",
@@ -1388,20 +1402,6 @@
       "releaseDate": "2024-12-16T04:24:00.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "MW"
-    },
-    {
-      "id": "com.niceteen.games.milliondeal",
-      "name": "Million Deal: Win Million",
-      "developer": "Niceteen Games",
-      "url": "https://play.google.com/store/apps/details?id=com.niceteen.games.milliondeal&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/IFSoZwwPhrpEHdkeUkEJ-xG00q0aLZe-TZOTnaWwZFVQfsjv2slcmTuA4q8QROP2Dis",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T11:42:55.000Z",
-      "genres": [
-        "Trivia"
       ],
       "country": "MW"
     }

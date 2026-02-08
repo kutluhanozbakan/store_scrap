@@ -1,8 +1,22 @@
 {
   "country": "NP",
   "store": "google",
-  "updatedAt": "2026-02-08T11:59:54.078Z",
+  "updatedAt": "2026-02-08T19:34:45.531Z",
   "new": [
+    {
+      "id": "com.rubygames.assassin",
+      "name": "Hunter Assassin",
+      "developer": "Ruby Games AS",
+      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-08T14:09:08.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "NP"
+    },
     {
       "id": "com.MadOut.BIG",
       "name": "MadOut 2: Grand Auto Racing",
@@ -84,20 +98,6 @@
       "releaseDate": "2026-02-06T16:06:59.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "NP"
-    },
-    {
-      "id": "com.rubygames.assassin",
-      "name": "Hunter Assassin",
-      "developer": "Ruby Games AS",
-      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T14:35:39.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "NP"
     },
@@ -832,20 +832,6 @@
       "country": "NP"
     },
     {
-      "id": "com.rioo.runnersubway",
-      "name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T01:29:03.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "NP"
-    },
-    {
       "id": "com.dts.freefiremax",
       "name": "Free Fire MAX x JUJUTSU KAISEN",
       "developer": "GARENA INTERNATIONAL I",
@@ -856,6 +842,20 @@
       "releaseDate": "2026-01-09T06:52:43.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.rioo.runnersubway",
+      "name": "Subway Princess Runner",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T01:29:03.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "NP"
     },
@@ -888,20 +888,6 @@
       "country": "NP"
     },
     {
-      "id": "com.youmusic.magictiles",
-      "name": "Magic Tiles 3™ - Piano Game",
-      "developer": "AMANOTES PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T11:33:52.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "NP"
-    },
-    {
       "id": "com.gt.moto.bike.wheelie.stunt.race.game",
       "name": "Moto Bike Stunt Wheelie Game",
       "developer": "Game town",
@@ -923,9 +909,23 @@
       "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T14:35:39.000Z",
+      "releaseDate": "2026-02-08T14:09:08.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.youmusic.magictiles",
+      "name": "Magic Tiles 3™ - Piano Game",
+      "developer": "AMANOTES PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T11:33:52.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "NP"
     },
@@ -944,20 +944,6 @@
       "country": "NP"
     },
     {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "NP"
-    },
-    {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -972,20 +958,6 @@
       "country": "NP"
     },
     {
-      "id": "com.outfit7.mytalkingtom2",
-      "name": "My Talking Tom 2: Pet Game",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-14T12:55:59.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "NP"
-    },
-    {
       "id": "com.imangi.templerun2",
       "name": "Temple Run 2: Endless Escape",
       "developer": "Imangi Studios",
@@ -996,6 +968,34 @@
       "releaseDate": "2026-01-19T12:00:17.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.outfit7.mytalkingtom2",
+      "name": "My Talking Tom 2: Pet Game",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-14T12:55:59.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "NP"
     },
@@ -1042,20 +1042,6 @@
       "country": "NP"
     },
     {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "NP"
-    },
-    {
       "id": "com.miniclip.cricketleague",
       "name": "Cricket League",
       "developer": "Miniclip.com",
@@ -1066,6 +1052,20 @@
       "releaseDate": "2025-11-26T14:49:52.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "NP"
     },
@@ -1098,20 +1098,6 @@
       "country": "NP"
     },
     {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "NP"
-    },
-    {
       "id": "com.wildspike.wormszone",
       "name": "Worms Zone .io - Hungry Snake",
       "developer": "CASUAL AZUR GAMES",
@@ -1122,6 +1108,20 @@
       "releaseDate": "2026-01-12T15:03:35.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "NP"
     },
@@ -1182,20 +1182,6 @@
       "country": "NP"
     },
     {
-      "id": "com.geck.piano.cattiles.edm",
-      "name": "Piano Beat: Rush Tiles",
-      "developer": "Geckolor Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.geck.piano.cattiles.edm&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/hL4KteyfX56_XCH12a7_bSrxSY1b_s9Vs43b6VnwinkCsrKfusj_kZRzDmPnS-VE1g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T10:51:34.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "NP"
-    },
-    {
       "id": "com.maxtoolskin.fffskintool.mynewskins",
       "name": "SkinLab FF Skin & Diamond Tips",
       "developer": "BitRaft Studio",
@@ -1210,16 +1196,16 @@
       "country": "NP"
     },
     {
-      "id": "com.creations.runnergame",
-      "name": "Kooply Run™: Play and Create!",
-      "developer": "KOOPLY",
-      "url": "https://play.google.com/store/apps/details?id=com.creations.runnergame&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/hLEUT0aM-VNy24Bnh3jEQwLOVqEJc-Oq0SPM9VT-NvWMcGCG0of6K26cs9KlUKMt9tI",
+      "id": "com.geck.piano.cattiles.edm",
+      "name": "Piano Beat: Rush Tiles",
+      "developer": "Geckolor Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.geck.piano.cattiles.edm&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/hL4KteyfX56_XCH12a7_bSrxSY1b_s9Vs43b6VnwinkCsrKfusj_kZRzDmPnS-VE1g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T17:33:04.000Z",
+      "releaseDate": "2026-02-04T10:51:34.000Z",
       "genres": [
-        "Arcade"
+        "Casual"
       ],
       "country": "NP"
     },
@@ -1252,14 +1238,14 @@
       "country": "NP"
     },
     {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "id": "com.creations.runnergame",
+      "name": "Kooply Run™: Play and Create!",
+      "developer": "KOOPLY",
+      "url": "https://play.google.com/store/apps/details?id=com.creations.runnergame&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/hLEUT0aM-VNy24Bnh3jEQwLOVqEJc-Oq0SPM9VT-NvWMcGCG0of6K26cs9KlUKMt9tI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-20T12:22:26.000Z",
+      "releaseDate": "2026-02-05T17:33:04.000Z",
       "genres": [
         "Arcade"
       ],
@@ -1280,16 +1266,16 @@
       "country": "NP"
     },
     {
-      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
-      "name": "Agent Shooter - Shooting Game",
-      "developer": "Rebel Actions",
-      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-16T06:00:02.000Z",
+      "releaseDate": "2026-01-20T12:22:26.000Z",
       "genres": [
-        "Action"
+        "Arcade"
       ],
       "country": "NP"
     },
@@ -1304,6 +1290,20 @@
       "releaseDate": "2026-02-04T12:07:50.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
+      "name": "Agent Shooter - Shooting Game",
+      "developer": "Rebel Actions",
+      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-16T06:00:02.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "NP"
     },
@@ -1378,20 +1378,6 @@
       "country": "NP"
     },
     {
-      "id": "com.xgame.VehicleDriving3D",
-      "name": "Real Driving: Vehicle & Park",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T06:55:58.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "NP"
-    },
-    {
       "id": "com.skgames.trafficrider",
       "name": "Traffic Rider",
       "developer": "skgames",
@@ -1402,6 +1388,20 @@
       "releaseDate": "2025-12-08T14:58:29.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:35:27.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "NP"
     }
