@@ -1,8 +1,22 @@
 {
   "country": "CG",
   "store": "google",
-  "updatedAt": "2026-02-08T15:57:19.331Z",
+  "updatedAt": "2026-02-08T22:39:21.997Z",
   "new": [
+    {
+      "id": "com.rubygames.assassin",
+      "name": "Hunter Assassin",
+      "developer": "Ruby Games AS",
+      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-08T14:09:08.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "CG"
+    },
     {
       "id": "com.MadOut.BIG",
       "name": "MadOut 2: Grand Auto Racing",
@@ -98,20 +112,6 @@
       "releaseDate": "2026-02-06T14:58:07.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "CG"
-    },
-    {
-      "id": "com.rubygames.assassin",
-      "name": "Hunter Assassin",
-      "developer": "Ruby Games AS",
-      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T14:35:39.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "CG"
     },
@@ -242,6 +242,20 @@
       "country": "CG"
     },
     {
+      "id": "com.impp.cityair.plane.driver",
+      "name": "Pilot Flight Simulator Games",
+      "developer": "Imperial Arts Pty Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.impp.cityair.plane.driver&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/9nAxEgu2VNUg6xCsHmVeb0ItrUMTGLuNqwddc1Acbw4GYHD66TI_DTSerYvR-Ch98w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T10:33:34.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "CG"
+    },
+    {
       "id": "com.cooking.world.chef.craze.restaurant.fever.free",
       "name": "Cooking World® Restaurant Game",
       "developer": "MAGIC SEVEN CO., LIMITED",
@@ -264,20 +278,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-04T13:25:06.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "CG"
-    },
-    {
-      "id": "com.outfit7.mytalkingtomfree",
-      "name": "My Talking Tom",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T13:07:30.000Z",
       "genres": [
         "Casual"
       ],
@@ -494,6 +494,20 @@
       "country": "CG"
     },
     {
+      "id": "com.freeplaysultanov.shootit",
+      "name": "Shoot Out: Gun Shooting Games",
+      "developer": "Freeplay Inc",
+      "url": "https://play.google.com/store/apps/details?id=com.freeplaysultanov.shootit&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/CTsQOaxdnNOeomvRHm9e_-_JWIOoEIzHti1l53cBHNUcgzL07xQMtr6c_NyhYwoapw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T23:00:16.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "CG"
+    },
+    {
       "id": "com.candyroom.clubcraft",
       "name": "School Party Craft",
       "developer": "Candy Room Games & RabbitCo",
@@ -504,20 +518,6 @@
       "releaseDate": "2026-01-28T21:11:32.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "CG"
-    },
-    {
-      "id": "com.igg.android.doomsdaylastsurvivors",
-      "name": "Doomsday × Attack on Titan",
-      "developer": "IGG.COM",
-      "url": "https://play.google.com/store/apps/details?id=com.igg.android.doomsdaylastsurvivors&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/wngGl0_berJUjFqtIfJmRRrMUWjx66_BfvT2IvWAGBRQQ0pKglMekxJ5n7CXYjmiWnMSHbWYZNOqvvMQUJxs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T17:05:09.000Z",
-      "genres": [
-        "Strategy"
       ],
       "country": "CG"
     },
@@ -804,34 +804,6 @@
       "country": "CG"
     },
     {
-      "id": "com.dreamgames.royalmatch",
-      "name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T15:41:31.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CG"
-    },
-    {
-      "id": "com.bandainamcogames.dbzdokkanww",
-      "name": "DRAGON BALL Z DOKKAN BATTLE",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.bandainamcogames.dbzdokkanww&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/Q17xFhLGPTxvlnX9vAk7aKF79AxvYNs-Ug9t-WLuISdfHkdFDEUdM5q22ShQAvvUXOYlpgkbPC0MaQXbiNtT",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-26T02:08:39.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "CG"
-    },
-    {
       "id": "com.roblox.client",
       "name": "Roblox",
       "developer": "Roblox Corporation",
@@ -842,6 +814,20 @@
       "releaseDate": "2026-02-05T17:28:18.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "CG"
+    },
+    {
+      "id": "com.dreamgames.royalmatch",
+      "name": "Royal Match",
+      "developer": "Dream Games, Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T15:41:31.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "CG"
     },
@@ -860,16 +846,16 @@
       "country": "CG"
     },
     {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/IHBNszxS4-19qbvbXMs2J_G6JccF-wQWBM-6e9C1P46fwXPUL8WDccXML3gPawaiIw",
+      "id": "com.bandainamcogames.dbzdokkanww",
+      "name": "DRAGON BALL Z DOKKAN BATTLE",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.bandainamcogames.dbzdokkanww&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/Q17xFhLGPTxvlnX9vAk7aKF79AxvYNs-Ug9t-WLuISdfHkdFDEUdM5q22ShQAvvUXOYlpgkbPC0MaQXbiNtT",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-02T13:54:14.000Z",
+      "releaseDate": "2026-01-26T02:08:39.000Z",
       "genres": [
-        "Board"
+        "Action"
       ],
       "country": "CG"
     },
@@ -888,6 +874,20 @@
       "country": "CG"
     },
     {
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/IHBNszxS4-19qbvbXMs2J_G6JccF-wQWBM-6e9C1P46fwXPUL8WDccXML3gPawaiIw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T13:54:14.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "CG"
+    },
+    {
       "id": "com.firsttouchgames.story",
       "name": "Score! Hero",
       "developer": "First Touch Games Ltd.",
@@ -898,34 +898,6 @@
       "releaseDate": "2026-01-27T17:01:42.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "CG"
-    },
-    {
-      "id": "com.playvalve.wsjourney",
-      "name": "Word Search - Word Puzzle Game",
-      "developer": "Playvalve",
-      "url": "https://play.google.com/store/apps/details?id=com.playvalve.wsjourney&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/buGx7Qx6e_M9DUqiwABScUWx-xgiUSJBURBhivVel8OdVVzqOB2F5V3Nt60Ov8Qudw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-21T16:35:43.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "CG"
-    },
-    {
-      "id": "com.cooking.world.chef.craze.restaurant.fever.free",
-      "name": "Cooking World® Restaurant Game",
-      "developer": "MAGIC SEVEN CO., LIMITED",
-      "url": "https://play.google.com/store/apps/details?id=com.cooking.world.chef.craze.restaurant.fever.free&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/-hEQMZ9byFWQbUmcnH32fc9mUMKW1NLp4AJ4MveIyOAgg37VmCjH1u30KqI3wnO49LJs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T06:15:28.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "CG"
     },
@@ -944,6 +916,20 @@
       "country": "CG"
     },
     {
+      "id": "com.playvalve.wsjourney",
+      "name": "Word Search - Word Puzzle Game",
+      "developer": "Playvalve",
+      "url": "https://play.google.com/store/apps/details?id=com.playvalve.wsjourney&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/buGx7Qx6e_M9DUqiwABScUWx-xgiUSJBURBhivVel8OdVVzqOB2F5V3Nt60Ov8Qudw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-21T16:35:43.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "CG"
+    },
+    {
       "id": "com.ansangha.drdriving",
       "name": "Dr. Driving",
       "developer": "SUD Inc.",
@@ -954,6 +940,34 @@
       "releaseDate": "2025-08-25T07:34:27.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "CG"
+    },
+    {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "CG"
+    },
+    {
+      "id": "com.cooking.world.chef.craze.restaurant.fever.free",
+      "name": "Cooking World® Restaurant Game",
+      "developer": "MAGIC SEVEN CO., LIMITED",
+      "url": "https://play.google.com/store/apps/details?id=com.cooking.world.chef.craze.restaurant.fever.free&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/-hEQMZ9byFWQbUmcnH32fc9mUMKW1NLp4AJ4MveIyOAgg37VmCjH1u30KqI3wnO49LJs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T06:15:28.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "CG"
     },
@@ -972,16 +986,16 @@
       "country": "CG"
     },
     {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "id": "com.outfit7.mytalkingangelafree",
+      "name": "My Talking Angela",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/vgzfolO-qtPkPy8HT5qjDQUonx68GTxv_aqyGXreD91p8s6vwm9tc5H_e8IY7tS_pw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "releaseDate": "2025-12-10T11:12:26.000Z",
       "genres": [
-        "Adventure"
+        "Casual"
       ],
       "country": "CG"
     },
@@ -1014,20 +1028,6 @@
       "country": "CG"
     },
     {
-      "id": "com.outfit7.mytalkingangelafree",
-      "name": "My Talking Angela",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/vgzfolO-qtPkPy8HT5qjDQUonx68GTxv_aqyGXreD91p8s6vwm9tc5H_e8IY7tS_pw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-10T11:12:26.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "CG"
-    },
-    {
       "id": "com.outfit7.mytalkingtom2",
       "name": "My Talking Tom 2: Pet Game",
       "developer": "Outfit7 Limited",
@@ -1038,20 +1038,6 @@
       "releaseDate": "2026-01-14T12:55:59.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "CG"
-    },
-    {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "CG"
     },
@@ -1070,16 +1056,16 @@
       "country": "CG"
     },
     {
-      "id": "com.starplay.spider.fighter3d",
-      "name": "Spider Fighter 2",
-      "developer": "Starplay FZCO",
-      "url": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter3d&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/yk5HYSWuCv3QlFfBnP95deDVVGD8gcfPis86TgBbK-pRUgOIzB5kbScuvEdU-HQXRP81",
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T15:22:23.000Z",
+      "releaseDate": "2025-10-22T00:32:35.000Z",
       "genres": [
-        "Action"
+        "Arcade"
       ],
       "country": "CG"
     },
@@ -1098,6 +1084,34 @@
       "country": "CG"
     },
     {
+      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
+      "name": "Fashion Glow: Model & Style",
+      "developer": "Dress Up Games for Girls",
+      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-14T08:31:08.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "CG"
+    },
+    {
+      "id": "com.starplay.spider.fighter3d",
+      "name": "Spider Fighter 2",
+      "developer": "Starplay FZCO",
+      "url": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter3d&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/yk5HYSWuCv3QlFfBnP95deDVVGD8gcfPis86TgBbK-pRUgOIzB5kbScuvEdU-HQXRP81",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T15:22:23.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "CG"
+    },
+    {
       "id": "com.nekki.vector",
       "name": "Vector",
       "developer": "NEKKI",
@@ -1108,6 +1122,20 @@
       "releaseDate": "2025-12-21T12:10:28.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "CG"
+    },
+    {
+      "id": "com.gamovation.tileclub",
+      "name": "Tile Club - Match Puzzle Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-07T10:41:36.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "CG"
     },
@@ -1140,20 +1168,6 @@
       "country": "CG"
     },
     {
-      "id": "com.gamovation.tileclub",
-      "name": "Tile Club - Match Puzzle Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-07T10:41:36.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CG"
-    },
-    {
       "id": "com.soccer.score.star",
       "name": "Soccer Superstar",
       "developer": "Real Freestyle Soccer",
@@ -1164,48 +1178,6 @@
       "releaseDate": "2026-01-29T15:32:33.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "CG"
-    },
-    {
-      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
-      "name": "Fashion Glow: Model & Style",
-      "developer": "Dress Up Games for Girls",
-      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-14T08:31:08.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "CG"
-    },
-    {
-      "id": "net.apex_designs.payback2",
-      "name": "Payback 2 - The Battle Sandbox",
-      "developer": "Apex Designs Games LLP",
-      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-08-27T16:01:25.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "CG"
-    },
-    {
-      "id": "com.xgame.VehicleDriving3D",
-      "name": "Real Driving: Vehicle & Park",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T06:55:58.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "CG"
     },
@@ -1238,6 +1210,20 @@
       "country": "CG"
     },
     {
+      "id": "com.xgame.VehicleDriving3D",
+      "name": "Real Driving: Vehicle & Park",
+      "developer": "XGAME STUDIO",
+      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T06:55:58.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "CG"
+    },
+    {
       "id": "pl.lukok.draughts",
       "name": "Checkers Online",
       "developer": "CC  Games",
@@ -1252,16 +1238,16 @@
       "country": "CG"
     },
     {
-      "id": "com.ffgames.racingincar2",
-      "name": "Racing in Car 2",
-      "developer": "ckgames",
-      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "id": "net.apex_designs.payback2",
+      "name": "Payback 2 - The Battle Sandbox",
+      "developer": "Apex Designs Games LLP",
+      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-19T14:55:06.000Z",
+      "releaseDate": "2025-08-27T16:01:25.000Z",
       "genres": [
-        "Racing"
+        "Arcade"
       ],
       "country": "CG"
     },
@@ -1280,34 +1266,6 @@
       "country": "CG"
     },
     {
-      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
-      "name": "Agent Shooter - Shooting Game",
-      "developer": "Rebel Actions",
-      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-16T06:00:02.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "CG"
-    },
-    {
-      "id": "com.hungrystudio.mahjong",
-      "name": "Double Tile!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T14:58:07.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CG"
-    },
-    {
       "id": "com.rasugames.pls",
       "name": "Pro League Soccer",
       "developer": "Rasu Games",
@@ -1322,58 +1280,30 @@
       "country": "CG"
     },
     {
-      "id": "ball.sort.puzzle.color.bubble.games.magic",
-      "name": "Ball Sort Magic - Puzzle Game",
-      "developer": "Passion Fruit Joy",
-      "url": "https://play.google.com/store/apps/details?id=ball.sort.puzzle.color.bubble.games.magic&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/2LFoNpVRsnkG8xrDMUN5y-ZZymdRwjIfeYXHdBirrVW_kkqtAO1FPYVWpf42mZ_XIg",
+      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
+      "name": "Agent Shooter - Shooting Game",
+      "developer": "Rebel Actions",
+      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-22T11:16:52.000Z",
+      "releaseDate": "2026-01-16T06:00:02.000Z",
       "genres": [
-        "Casual"
+        "Action"
       ],
       "country": "CG"
     },
     {
-      "id": "com.cliffs.pro.cell.building.crazy.clever.craft",
-      "name": "Block Crazy Robo World Craft",
-      "developer": "Prokids Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.cliffs.pro.cell.building.crazy.clever.craft&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/K3ncdCrbnHb-Po_gNuiJldSG7lfczGR0ZdFs3zoV28yTqPnzWQh07l2xI3rgMiIPsA",
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-11-28T05:45:26.000Z",
+      "releaseDate": "2025-12-19T14:55:06.000Z",
       "genres": [
-        "Simulation"
-      ],
-      "country": "CG"
-    },
-    {
-      "id": "com.tohsoft.arashi.ninja.shadow",
-      "name": "Ninja warrior: legend of adven",
-      "developer": "TOH Games",
-      "url": "https://play.google.com/store/apps/details?id=com.tohsoft.arashi.ninja.shadow&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/Z2XnSlqHWZ6rgOdWJoOJJbIQIqQHcbDsCrF23Oo1ciu878Vnzqn0chW9-Fe04FPI9tGp",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-07-17T03:10:56.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "CG"
-    },
-    {
-      "id": "com.gamegou.football",
-      "name": "Top Football Manager 2026",
-      "developer": "Gamegou Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.gamegou.football&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/7BzUTJbnJdW-q2wCWixTVFPsfyxvfxpPfAy4g88_ogyPvLbP5-uvwAWmsJh7uFTZbzyxLPHbaU873bM7U2FlrQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-26T11:03:22.000Z",
-      "genres": [
-        "Sports"
+        "Racing"
       ],
       "country": "CG"
     },
@@ -1392,16 +1322,86 @@
       "country": "CG"
     },
     {
-      "id": "europe.truck.simulator2",
-      "name": "Truckers of Europe 2",
-      "developer": "Wanda Software",
-      "url": "https://play.google.com/store/apps/details?id=europe.truck.simulator2&hl=en&gl=CG",
-      "artwork": "https://play-lh.googleusercontent.com/tS6pdPz6GKrP87gOTTPcBDFMJFd2RsD4ngkl92pqEQp6nkHRIPU30BRM7wB6l5_VaOw",
+      "id": "com.cliffs.pro.cell.building.crazy.clever.craft",
+      "name": "Block Crazy Robo World Craft",
+      "developer": "Prokids Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.cliffs.pro.cell.building.crazy.clever.craft&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/K3ncdCrbnHb-Po_gNuiJldSG7lfczGR0ZdFs3zoV28yTqPnzWQh07l2xI3rgMiIPsA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2024-01-11T13:20:11.000Z",
+      "releaseDate": "2025-11-28T05:45:26.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "CG"
+    },
+    {
+      "id": "com.hungrystudio.mahjong",
+      "name": "Double Tile!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T14:58:07.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CG"
+    },
+    {
+      "id": "com.tohsoft.arashi.ninja.shadow",
+      "name": "Ninja warrior: legend of adven",
+      "developer": "TOH Games",
+      "url": "https://play.google.com/store/apps/details?id=com.tohsoft.arashi.ninja.shadow&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/Z2XnSlqHWZ6rgOdWJoOJJbIQIqQHcbDsCrF23Oo1ciu878Vnzqn0chW9-Fe04FPI9tGp",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-07-17T03:10:56.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "CG"
+    },
+    {
+      "id": "ball.sort.puzzle.color.bubble.games.magic",
+      "name": "Ball Sort Magic - Puzzle Game",
+      "developer": "Passion Fruit Joy",
+      "url": "https://play.google.com/store/apps/details?id=ball.sort.puzzle.color.bubble.games.magic&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/2LFoNpVRsnkG8xrDMUN5y-ZZymdRwjIfeYXHdBirrVW_kkqtAO1FPYVWpf42mZ_XIg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-22T11:16:52.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "CG"
+    },
+    {
+      "id": "com.gamegou.football",
+      "name": "Top Football Manager 2026",
+      "developer": "Gamegou Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.gamegou.football&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/7BzUTJbnJdW-q2wCWixTVFPsfyxvfxpPfAy4g88_ogyPvLbP5-uvwAWmsJh7uFTZbzyxLPHbaU873bM7U2FlrQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-26T11:03:22.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "CG"
+    },
+    {
+      "id": "com.core.biggame.marble.android",
+      "name": "Marble Match Origin",
+      "developer": "LeisureLab Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.core.biggame.marble.android&hl=en&gl=CG",
+      "artwork": "https://play-lh.googleusercontent.com/7n2SG17uCxeJbpjA5ELLCGjDrHpUGLUsc7iiH-fISlaSBvEwAbhGxbz3Wy-GLYPDVm4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-21T09:31:15.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "CG"
     }
