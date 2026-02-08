@@ -1,7 +1,7 @@
 {
   "country": "PH",
   "store": "google",
-  "updatedAt": "2026-02-07T18:02:49.248Z",
+  "updatedAt": "2026-02-08T04:10:57.973Z",
   "new": [
     {
       "id": "com.MadOut.BIG",
@@ -14,6 +14,20 @@
       "releaseDate": "2026-02-07T06:39:12.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "PH"
+    },
+    {
+      "id": "com.mobile.legends",
+      "name": "Mobile Legends: Bang Bang",
+      "developer": "MOONTON",
+      "url": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/Op7v9XdsyxjrKImMD5RLyiLRCAHs3DMQFANwfsuMTw1hq0lH4j8tOqD3Fd7zyr4ixmC0xoqqRkQDBjAd46NsFQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-07T03:26:33.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "PH"
     },
@@ -354,6 +368,20 @@
       "country": "PH"
     },
     {
+      "id": "grill.sort.food.games.match.puzzle",
+      "name": "Grill Sort - Food Sort Games",
+      "developer": "Gloryway Puzzle Hub",
+      "url": "https://play.google.com/store/apps/details?id=grill.sort.food.games.match.puzzle&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/LVaNUSJ7_-CqL0YXn6urYFXCk2GUFEKsBhmF0G0PlImSA-bd6qtQaExVJnXbIg34-Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T10:10:18.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "PH"
+    },
+    {
       "id": "com.levelinfinite.sgameGlobal",
       "name": "Honor of Kings",
       "developer": "Level Infinite",
@@ -674,34 +702,6 @@
         "Music"
       ],
       "country": "PH"
-    },
-    {
-      "id": "com.xman.sea.gp",
-      "name": "X-Clash",
-      "developer": "Glaciers Game",
-      "url": "https://play.google.com/store/apps/details?id=com.xman.sea.gp&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/2aBMjFus8vuWyFxAmxRMjDOt4TH5w7Zq6xmtMAxDRYa8bJNrnNsI8wdsSnrtPPkDKKts",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T02:21:45.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "PH"
-    },
-    {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "PH"
     }
   ],
   "updated": [
@@ -727,7 +727,7 @@
       "artwork": "https://play-lh.googleusercontent.com/Op7v9XdsyxjrKImMD5RLyiLRCAHs3DMQFANwfsuMTw1hq0lH4j8tOqD3Fd7zyr4ixmC0xoqqRkQDBjAd46NsFQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T12:06:11.000Z",
+      "releaseDate": "2026-02-07T03:26:33.000Z",
       "genres": [
         "Action"
       ],
@@ -818,20 +818,6 @@
       "country": "PH"
     },
     {
-      "id": "com.brain.logic.joygame",
-      "name": "Brain Puzzle 2: Logic Twist",
-      "developer": "JoyGame Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.brain.logic.joygame&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/q19v_2ZYEOdWOt6ABAVCl10zHrft5qkChjAwxtByGKxJxE3gNULQGf3BwsCYVJk4Jbhf",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T07:53:04.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "PH"
-    },
-    {
       "id": "com.xman.sea.gp",
       "name": "X-Clash",
       "developer": "Glaciers Game",
@@ -860,16 +846,16 @@
       "country": "PH"
     },
     {
-      "id": "com.levelinfinite.sgameGlobal",
-      "name": "Honor of Kings",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/hEm5NVeEv7UfFJaK8GZdfWe7p3DB_VvYx57qIEHbR0tMV_NToziH0Vbgd6CxLiWF-iURpAe-jsC_UGUDt0diPQ",
+      "id": "com.brain.logic.joygame",
+      "name": "Brain Puzzle 2: Logic Twist",
+      "developer": "JoyGame Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.brain.logic.joygame&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/q19v_2ZYEOdWOt6ABAVCl10zHrft5qkChjAwxtByGKxJxE3gNULQGf3BwsCYVJk4Jbhf",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T09:48:13.000Z",
+      "releaseDate": "2026-01-27T07:53:04.000Z",
       "genres": [
-        "Action"
+        "Puzzle"
       ],
       "country": "PH"
     },
@@ -884,6 +870,20 @@
       "releaseDate": "2026-01-28T21:11:32.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "PH"
+    },
+    {
+      "id": "com.levelinfinite.sgameGlobal",
+      "name": "Honor of Kings",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/hEm5NVeEv7UfFJaK8GZdfWe7p3DB_VvYx57qIEHbR0tMV_NToziH0Vbgd6CxLiWF-iURpAe-jsC_UGUDt0diPQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T09:48:13.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "PH"
     },
@@ -944,20 +944,6 @@
       "country": "PH"
     },
     {
-      "id": "com.gismart.guitar",
-      "name": "Real Guitar - Music Band Game",
-      "developer": "Gismart",
-      "url": "https://play.google.com/store/apps/details?id=com.gismart.guitar&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/S8tizQoHxOGRrmzNTuoD8lQhZfcnEj342g8do_lICHLrpjddW8MOhy8txsuWQ7uhSIQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-28T14:31:59.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "PH"
-    },
-    {
       "id": "com.wildspike.wormszone",
       "name": "Worms Zone .io - Hungry Snake",
       "developer": "CASUAL AZUR GAMES",
@@ -986,16 +972,16 @@
       "country": "PH"
     },
     {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/IHBNszxS4-19qbvbXMs2J_G6JccF-wQWBM-6e9C1P46fwXPUL8WDccXML3gPawaiIw",
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-02T13:54:14.000Z",
+      "releaseDate": "2026-02-06T03:06:33.000Z",
       "genres": [
-        "Board"
+        "Music"
       ],
       "country": "PH"
     },
@@ -1014,16 +1000,16 @@
       "country": "PH"
     },
     {
-      "id": "com.bunbunstudio.magicblocktiles",
-      "name": "Music Piano 7: Rush Song Games",
-      "developer": "Melodya Muses",
-      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/IHBNszxS4-19qbvbXMs2J_G6JccF-wQWBM-6e9C1P46fwXPUL8WDccXML3gPawaiIw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T03:06:33.000Z",
+      "releaseDate": "2026-02-02T13:54:14.000Z",
       "genres": [
-        "Music"
+        "Board"
       ],
       "country": "PH"
     },
@@ -1056,6 +1042,20 @@
       "country": "PH"
     },
     {
+      "id": "com.blockgamesstudio.blockworld3d",
+      "name": "Block World 3D: Craft & Build",
+      "developer": "Funburstgame LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T16:36:16.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "PH"
+    },
+    {
       "id": "com.ea.game.pvzfree_row",
       "name": "Plants vs. Zombies™",
       "developer": "ELECTRONIC ARTS",
@@ -1066,6 +1066,20 @@
       "releaseDate": "2025-12-15T07:00:21.000Z",
       "genres": [
         "Strategy"
+      ],
+      "country": "PH"
+    },
+    {
+      "id": "com.youmusic.magictiles",
+      "name": "Magic Tiles 3™ - Piano Game",
+      "developer": "AMANOTES PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T11:33:52.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "PH"
     },
@@ -1084,14 +1098,14 @@
       "country": "PH"
     },
     {
-      "id": "com.blockgamesstudio.blockworld3d",
-      "name": "Block World 3D: Craft & Build",
-      "developer": "Funburstgame LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/upYircnh6-mH07OxwtX7L0EPFd4_FNV71xd8w4gHiyLKopipJxwPzoupoQgpzgf8_Fk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-30T16:36:16.000Z",
+      "releaseDate": "2026-02-03T15:34:55.000Z",
       "genres": [
         "Arcade"
       ],
@@ -1112,30 +1126,30 @@
       "country": "PH"
     },
     {
-      "id": "com.youmusic.magictiles",
-      "name": "Magic Tiles 3™ - Piano Game",
-      "developer": "AMANOTES PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
+      "id": "com.fun.brain.game",
+      "name": "Brain Puzzle: Tricky Quest",
+      "developer": "JoyGame Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.fun.brain.game&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/OOpJ60wKFvTxOdGj2VTkU2D-dWn2z6ggJbev6q4-yJPIqFWPywJ1oJajnWWvh8zASV4EiZHlHWy4FmTDJvR_QWc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T11:33:52.000Z",
+      "releaseDate": "2026-02-06T09:14:19.000Z",
       "genres": [
-        "Music"
+        "Puzzle"
       ],
       "country": "PH"
     },
     {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/upYircnh6-mH07OxwtX7L0EPFd4_FNV71xd8w4gHiyLKopipJxwPzoupoQgpzgf8_Fk",
+      "id": "in.playsimple.wordsearch",
+      "name": "Word Search Explorer",
+      "developer": "PlaySimple Games",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T15:34:55.000Z",
+      "releaseDate": "2026-02-02T12:42:24.000Z",
       "genres": [
-        "Arcade"
+        "Word"
       ],
       "country": "PH"
     },
@@ -1150,6 +1164,20 @@
       "releaseDate": "2026-02-05T20:39:33.000Z",
       "genres": [
         "Music"
+      ],
+      "country": "PH"
+    },
+    {
+      "id": "com.haunteddorm.mihuan",
+      "name": "Haunted Dorm",
+      "developer": "Mihuan Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.haunteddorm.mihuan&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/2xuaeiD3Gzj5XwOmSFKKSc19s69fZc2hrmfdi_7D2wxA5dP-DOQtuCQ7unli0xRFmx8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-16T08:47:16.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "PH"
     },
@@ -1182,44 +1210,16 @@
       "country": "PH"
     },
     {
-      "id": "in.playsimple.wordsearch",
-      "name": "Word Search Explorer",
-      "developer": "PlaySimple Games",
-      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
+      "id": "com.funnyjoy.snysw.an",
+      "name": "Brain Puzzle King",
+      "developer": "Mangoing Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.funnyjoy.snysw.an&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/OqtUPFO-s6YBenfAZVso0kgY3etTM6c6-dr7FMJVCzi_c9_wTNGso07hT1O5NaqfiYQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-02T12:42:24.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "PH"
-    },
-    {
-      "id": "com.fun.brain.game",
-      "name": "Brain Puzzle: Tricky Quest",
-      "developer": "JoyGame Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.fun.brain.game&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/OOpJ60wKFvTxOdGj2VTkU2D-dWn2z6ggJbev6q4-yJPIqFWPywJ1oJajnWWvh8zASV4EiZHlHWy4FmTDJvR_QWc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T09:14:19.000Z",
+      "releaseDate": "2025-12-05T09:26:15.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "PH"
-    },
-    {
-      "id": "com.haunteddorm.mihuan",
-      "name": "Haunted Dorm",
-      "developer": "Mihuan Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.haunteddorm.mihuan&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/2xuaeiD3Gzj5XwOmSFKKSc19s69fZc2hrmfdi_7D2wxA5dP-DOQtuCQ7unli0xRFmx8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-16T08:47:16.000Z",
-      "genres": [
-        "Strategy"
       ],
       "country": "PH"
     },
@@ -1238,30 +1238,16 @@
       "country": "PH"
     },
     {
-      "id": "com.funnyjoy.snysw.an",
-      "name": "Brain Puzzle King",
-      "developer": "Mangoing Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.funnyjoy.snysw.an&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/OqtUPFO-s6YBenfAZVso0kgY3etTM6c6-dr7FMJVCzi_c9_wTNGso07hT1O5NaqfiYQ",
+      "id": "com.higame.annoying.tricky.story.puzzle.game",
+      "name": "Tricky Prank: Annoying Quest",
+      "developer": "HIGAME Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.higame.annoying.tricky.story.puzzle.game&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/YWk5cQ0ubmXdvfMTU126A3MQNojFvYJKu15xuqSx3X74TqJ5Aonp71Hv83RRZdvJ8A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-05T09:26:15.000Z",
+      "releaseDate": "2026-01-26T11:11:09.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "PH"
-    },
-    {
-      "id": "com.severex.cross.word.puzzle.logic",
-      "name": "Crostic Crossword－Word Puzzles",
-      "developer": "Severex",
-      "url": "https://play.google.com/store/apps/details?id=com.severex.cross.word.puzzle.logic&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/eIrfE0N1_m6sCYOmqCym9K20bZFOG8vmMctmND4PlRBwoS0mG6YU5qvqiAJ2_GbUC8U",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T17:06:59.000Z",
-      "genres": [
-        "Word"
       ],
       "country": "PH"
     },
@@ -1280,34 +1266,6 @@
       "country": "PH"
     },
     {
-      "id": "com.mobilechess.gp",
-      "name": "Magic Chess: Go Go",
-      "developer": "Vizta Games",
-      "url": "https://play.google.com/store/apps/details?id=com.mobilechess.gp&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/zpL0shWZobgKXGOYAE1yueyA7RLzY7opF64Jq33sAnB7J5AYtGeQJFs62yTQBNedMJRzZCVe20SqVZvZNe9wxg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-31T04:25:51.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "PH"
-    },
-    {
-      "id": "com.higame.annoying.tricky.story.puzzle.game",
-      "name": "Tricky Prank: Annoying Quest",
-      "developer": "HIGAME Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.higame.annoying.tricky.story.puzzle.game&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/YWk5cQ0ubmXdvfMTU126A3MQNojFvYJKu15xuqSx3X74TqJ5Aonp71Hv83RRZdvJ8A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-26T11:11:09.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "PH"
-    },
-    {
       "id": "com.outfit7.mytalkingtom2",
       "name": "My Talking Tom 2: Pet Game",
       "developer": "Outfit7 Limited",
@@ -1322,30 +1280,16 @@
       "country": "PH"
     },
     {
-      "id": "com.good.boy.education.craft.best.building.sun",
-      "name": "Craft World Block Building 3D",
-      "developer": "Patane Global",
-      "url": "https://play.google.com/store/apps/details?id=com.good.boy.education.craft.best.building.sun&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/NJCoEeYrHp90AKzIlZcWlShflXdHYEkX5f2T0qu7bBwHiqYZR7QDJWRpG8xMDJps8i3FSRZ3fbbDt7Tjw-vMQH4",
+      "id": "com.severex.cross.word.puzzle.logic",
+      "name": "Crostic Crossword－Word Puzzles",
+      "developer": "Severex",
+      "url": "https://play.google.com/store/apps/details?id=com.severex.cross.word.puzzle.logic&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/eIrfE0N1_m6sCYOmqCym9K20bZFOG8vmMctmND4PlRBwoS0mG6YU5qvqiAJ2_GbUC8U",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-03T07:31:55.000Z",
+      "releaseDate": "2026-02-06T17:06:59.000Z",
       "genres": [
-        "Simulation"
-      ],
-      "country": "PH"
-    },
-    {
-      "id": "com.murka.scatterslots",
-      "name": "Scatter Slots - Slot Machines",
-      "developer": "Murka Games Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.murka.scatterslots&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/kla2LNmOzjqMVoI2sr6VBXUh0-esqCNVz159YjssH9K3hdoV62h3sbe7dXkIfoExOHkO",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T10:16:40.000Z",
-      "genres": [
-        "Casino"
+        "Word"
       ],
       "country": "PH"
     },
@@ -1378,6 +1322,20 @@
       "country": "PH"
     },
     {
+      "id": "com.mobilechess.gp",
+      "name": "Magic Chess: Go Go",
+      "developer": "Vizta Games",
+      "url": "https://play.google.com/store/apps/details?id=com.mobilechess.gp&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/zpL0shWZobgKXGOYAE1yueyA7RLzY7opF64Jq33sAnB7J5AYtGeQJFs62yTQBNedMJRzZCVe20SqVZvZNe9wxg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-31T04:25:51.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "PH"
+    },
+    {
       "id": "com.ylnn.kGoYV.beELGh",
       "name": "777 Blitz Tin BCrenzy",
       "developer": "Deoper hzad",
@@ -1392,16 +1350,58 @@
       "country": "PH"
     },
     {
-      "id": "com.JindoBlu.OfflineGames",
-      "name": "Offline Games - No Wifi Games",
-      "developer": "JindoBlu",
-      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.OfflineGames&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/UoBeMWwIeHSxGAx1EhmvWrG1lkzlG78UByGwEkEhRlp40udqC0hHJeRTl266g9aG-A",
+      "id": "com.good.boy.education.craft.best.building.sun",
+      "name": "Craft World Block Building 3D",
+      "developer": "Patane Global",
+      "url": "https://play.google.com/store/apps/details?id=com.good.boy.education.craft.best.building.sun&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/NJCoEeYrHp90AKzIlZcWlShflXdHYEkX5f2T0qu7bBwHiqYZR7QDJWRpG8xMDJps8i3FSRZ3fbbDt7Tjw-vMQH4",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T13:18:19.000Z",
+      "releaseDate": "2025-12-03T07:31:55.000Z",
       "genres": [
-        "Casual"
+        "Simulation"
+      ],
+      "country": "PH"
+    },
+    {
+      "id": "com.murka.scatterslots",
+      "name": "Scatter Slots - Slot Machines",
+      "developer": "Murka Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.murka.scatterslots&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/kla2LNmOzjqMVoI2sr6VBXUh0-esqCNVz159YjssH9K3hdoV62h3sbe7dXkIfoExOHkO",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T10:16:40.000Z",
+      "genres": [
+        "Casino"
+      ],
+      "country": "PH"
+    },
+    {
+      "id": "com.ohbibi.fps",
+      "name": "FRAG Pro Shooter",
+      "developer": "Oh BiBi",
+      "url": "https://play.google.com/store/apps/details?id=com.ohbibi.fps&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/W5oPv_F0Z-wAwZdbxQEBjNduvGjq8rDgdZ58bC7QpKX2fhvdUrQaZSCRLPCO1PiYW7g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T11:14:10.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "PH"
+    },
+    {
+      "id": "com.dvloper.granny",
+      "name": "Granny",
+      "developer": "DVloper",
+      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-01T14:35:20.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "PH"
     }
