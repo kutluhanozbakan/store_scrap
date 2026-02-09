@@ -1,8 +1,22 @@
 {
   "country": "SK",
   "store": "google",
-  "updatedAt": "2026-02-08T20:33:32.401Z",
+  "updatedAt": "2026-02-09T08:35:16.325Z",
   "new": [
+    {
+      "id": "com.fgol.HungrySharkEvolution",
+      "name": "Hungry Shark Evolution",
+      "developer": "Ubisoft Entertainment",
+      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution&hl=en&gl=SK",
+      "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T02:24:08.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "SK"
+    },
     {
       "id": "com.MadOut.BIG",
       "name": "MadOut 2: Grand Auto Racing",
@@ -40,6 +54,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-06T16:35:27.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "SK"
+    },
+    {
+      "id": "com.dreamgames.royalkingdom",
+      "name": "Royal Kingdom",
+      "developer": "Dream Games, Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=SK",
+      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T13:58:49.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -466,6 +494,20 @@
       "country": "SK"
     },
     {
+      "id": "com.easybrain.art.puzzle",
+      "name": "Art Puzzle - Jigsaw Art Games",
+      "developer": "Easybrain",
+      "url": "https://play.google.com/store/apps/details?id=com.easybrain.art.puzzle&hl=en&gl=SK",
+      "artwork": "https://play-lh.googleusercontent.com/clrLTyY9aavoqE1drpoxikhvbL9BPhF_ZEW7T4flilKiy1RvzlcFd1vr1o69JrNQ6H8AmcTMvY9TLlDH_jflTtQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T17:04:40.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "SK"
+    },
+    {
       "id": "gg.sunday.dog.escape.puzzle",
       "name": "Dog Escape: Cute Pet Care Life",
       "developer": "Sunday.gg",
@@ -516,20 +558,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-03T13:03:03.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "SK"
-    },
-    {
-      "id": "com.visionstudio.tilevacation",
-      "name": "Tile Vacation - Triple Match",
-      "developer": "VisionStudio(HK)",
-      "url": "https://play.google.com/store/apps/details?id=com.visionstudio.tilevacation&hl=en&gl=SK",
-      "artwork": "https://play-lh.googleusercontent.com/s8kKJIUT7IqtbPDqjaVIGhpzEEg7uPMBeq2SFZsG07uH25_9Th3B7EhKwNz7uv5-nA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T12:52:05.000Z",
       "genres": [
         "Casual"
       ],
@@ -674,34 +702,6 @@
         "Music"
       ],
       "country": "SK"
-    },
-    {
-      "id": "com.htt.alpha.shooter.fps",
-      "name": "Monster Shooter: Survival FPS",
-      "developer": "Unicorn Studio Official",
-      "url": "https://play.google.com/store/apps/details?id=com.htt.alpha.shooter.fps&hl=en&gl=SK",
-      "artwork": "https://play-lh.googleusercontent.com/IoLPxjq4l2r99vWd8wF3dGcgcXRmxL6gkGR0jhMIVdh3B0YO1Ex6DDxQ1hl5YbrOzq4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T09:57:05.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "SK"
-    },
-    {
-      "id": "com.fc.p.gp.skincare.makeup.makeover.asmr.game",
-      "name": "Skincare Time: Makeover ASMR",
-      "developer": "FALCON GAME",
-      "url": "https://play.google.com/store/apps/details?id=com.fc.p.gp.skincare.makeup.makeover.asmr.game&hl=en&gl=SK",
-      "artwork": "https://play-lh.googleusercontent.com/_mkiIvECi3kK6XWgQHQRD_DGPAXRYZ_VBpmtZOm80f9N5B5wy8XVSXfwAtEKY5meLRQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T06:43:13.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "SK"
     }
   ],
   "updated": [
@@ -769,7 +769,7 @@
       "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-28T11:27:21.000Z",
+      "releaseDate": "2026-02-06T13:58:49.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -784,20 +784,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-04T14:18:09.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "SK"
-    },
-    {
-      "id": "com.mergegames.gossipharbor",
-      "name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=SK",
-      "artwork": "https://play-lh.googleusercontent.com/2maEg00OhWU90wKbYuqJ_5k4G00dXS1v_v1DfzaqBvlJZA3hynzzNgXcy6JYkf_C0ZBo7n-BGjKsiU9Z6NmZ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T12:24:15.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -826,6 +812,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-05T15:47:04.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "SK"
+    },
+    {
+      "id": "com.mergegames.gossipharbor",
+      "name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=SK",
+      "artwork": "https://play-lh.googleusercontent.com/2maEg00OhWU90wKbYuqJ_5k4G00dXS1v_v1DfzaqBvlJZA3hynzzNgXcy6JYkf_C0ZBo7n-BGjKsiU9Z6NmZ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T12:24:15.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -888,20 +888,6 @@
       "country": "SK"
     },
     {
-      "id": "com.ecffri.arrows",
-      "name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore UG",
-      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=SK",
-      "artwork": "https://play-lh.googleusercontent.com/uD7EXtrZgAt275U1Zb7Ej11VpLdJ1fgjVSdy6g5Ref_XaNkX4OK2Ev16wRpgHOqYkg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T13:57:41.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "SK"
-    },
-    {
       "id": "com.monopoly.dream.idle.king",
       "name": "Top Tycoon: Coin Theme Empire",
       "developer": "BeheFun Games Limited",
@@ -930,16 +916,16 @@
       "country": "SK"
     },
     {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast: Wonders",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=SK",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "id": "com.ecffri.arrows",
+      "name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore UG",
+      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=SK",
+      "artwork": "https://play-lh.googleusercontent.com/uD7EXtrZgAt275U1Zb7Ej11VpLdJ1fgjVSdy6g5Ref_XaNkX4OK2Ev16wRpgHOqYkg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T16:43:25.000Z",
+      "releaseDate": "2026-02-05T13:57:41.000Z",
       "genres": [
-        "Board"
+        "Puzzle"
       ],
       "country": "SK"
     },
@@ -954,6 +940,20 @@
       "releaseDate": "2026-01-29T02:20:45.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "SK"
+    },
+    {
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast: Wonders",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=SK",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:43:25.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "SK"
     },
@@ -1084,20 +1084,6 @@
       "country": "SK"
     },
     {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=SK",
-      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T12:05:32.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "SK"
-    },
-    {
       "id": "ig.com.hot.pot.qdc",
       "name": "Hotpot Flow: Food Games",
       "developer": "iKame Games - Zego Studio",
@@ -1122,6 +1108,20 @@
       "releaseDate": "2026-02-04T10:51:34.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "SK"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=SK",
+      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T12:05:32.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "SK"
     },
@@ -1168,20 +1168,6 @@
       "country": "SK"
     },
     {
-      "id": "com.playstrom.my.sticker.room",
-      "name": "My Sticker Room - Decor Game",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=SK",
-      "artwork": "https://play-lh.googleusercontent.com/1h7m141FxhTxNeVWLjyn2yiv9B7Tcjbx28j_7pMa7z2SrBT22scVcrSujQYdo7_lfFg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T14:24:56.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "SK"
-    },
-    {
       "id": "cats.tap.dacing.games.free",
       "name": "Cat Beats - Tiles Music Games",
       "developer": "Runyou",
@@ -1192,6 +1178,20 @@
       "releaseDate": "2026-01-30T06:05:11.000Z",
       "genres": [
         "Music"
+      ],
+      "country": "SK"
+    },
+    {
+      "id": "com.playstrom.my.sticker.room",
+      "name": "My Sticker Room - Decor Game",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=SK",
+      "artwork": "https://play-lh.googleusercontent.com/1h7m141FxhTxNeVWLjyn2yiv9B7Tcjbx28j_7pMa7z2SrBT22scVcrSujQYdo7_lfFg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T14:24:56.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "SK"
     },
@@ -1308,20 +1308,6 @@
       "country": "SK"
     },
     {
-      "id": "com.fatmerge.global",
-      "name": "Tasty Travels: Merge Game",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=en&gl=SK",
-      "artwork": "https://play-lh.googleusercontent.com/eBK_Zz3fVbQFReaVyFJbj7VsJcUilWtdY6iEezlI5uULMPG_uLc6bTGgDR3uxrqKOlTI2HIefLl4R7khU13n6g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T02:12:04.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "SK"
-    },
-    {
       "id": "com.fc.p.gp.skincare.makeup.makeover.asmr.game",
       "name": "Skincare Time: Makeover ASMR",
       "developer": "FALCON GAME",
@@ -1346,6 +1332,20 @@
       "releaseDate": "2026-01-28T12:59:54.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "SK"
+    },
+    {
+      "id": "com.fatmerge.global",
+      "name": "Tasty Travels: Merge Game",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=en&gl=SK",
+      "artwork": "https://play-lh.googleusercontent.com/eBK_Zz3fVbQFReaVyFJbj7VsJcUilWtdY6iEezlI5uULMPG_uLc6bTGgDR3uxrqKOlTI2HIefLl4R7khU13n6g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T02:12:04.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "SK"
     },

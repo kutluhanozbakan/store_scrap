@@ -1,7 +1,7 @@
 {
   "country": "SN",
   "store": "google",
-  "updatedAt": "2026-02-08T20:33:50.927Z",
+  "updatedAt": "2026-02-09T08:35:26.256Z",
   "new": [
     {
       "id": "jp.konami.pesam",
@@ -208,42 +208,6 @@
       "country": "SN"
     },
     {
-      "id": "org.ppsspp.ppsspp",
-      "name": "PPSSPP - PSP emulator",
-      "developer": "Henrik Rydgård",
-      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp",
-      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "SN"
-    },
-    {
-      "id": "com.ffgames.racingincar2",
-      "name": "Racing in Car 2",
-      "developer": "ckgames",
-      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2",
-      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "SN"
-    },
-    {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle",
-      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "SN"
-    },
-    {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -268,11 +232,11 @@
       "country": "SN"
     },
     {
-      "id": "com.outfit7.mytalkingangelafree",
-      "name": "My Talking Angela",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree",
-      "artwork": "https://play-lh.googleusercontent.com/vgzfolO-qtPkPy8HT5qjDQUonx68GTxv_aqyGXreD91p8s6vwm9tc5H_e8IY7tS_pw",
+      "id": "org.ppsspp.ppsspp",
+      "name": "PPSSPP - PSP emulator",
+      "developer": "Henrik Rydgård",
+      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp",
+      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -304,6 +268,18 @@
       "country": "SN"
     },
     {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle",
+      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "SN"
+    },
+    {
       "id": "com.soccer.score.star",
       "name": "Soccer Superstar",
       "developer": "Real Freestyle Soccer",
@@ -328,11 +304,23 @@
       "country": "SN"
     },
     {
-      "id": "com.mobirix.airhockey",
-      "name": "Air Hockey Challenge",
-      "developer": "mobirix",
-      "url": "https://play.google.com/store/apps/details?id=com.mobirix.airhockey",
-      "artwork": "https://play-lh.googleusercontent.com/mQVOywpoM-RklcYmwprO9uCbS8UTuoS2vCAzKnpdUlLsc1AfcqBK4v2lW2qoCnIyGg",
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "SN"
+    },
+    {
+      "id": "com.outfit7.mytalkingangelafree",
+      "name": "My Talking Angela",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree",
+      "artwork": "https://play-lh.googleusercontent.com/vgzfolO-qtPkPy8HT5qjDQUonx68GTxv_aqyGXreD91p8s6vwm9tc5H_e8IY7tS_pw",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -345,18 +333,6 @@
       "developer": "FPS Shooter & Action Game",
       "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops",
       "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "SN"
-    },
-    {
-      "id": "com.gamincat.jigsolitaire",
-      "name": "Jigsolitaire",
-      "developer": "Gamincat",
-      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire",
-      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -412,11 +388,11 @@
       "country": "SN"
     },
     {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "id": "com.mobirix.airhockey",
+      "name": "Air Hockey Challenge",
+      "developer": "mobirix",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.airhockey",
+      "artwork": "https://play-lh.googleusercontent.com/mQVOywpoM-RklcYmwprO9uCbS8UTuoS2vCAzKnpdUlLsc1AfcqBK4v2lW2qoCnIyGg",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -436,11 +412,11 @@
       "country": "SN"
     },
     {
-      "id": "com.gamebasics.ufm",
-      "name": "Ultimate Football Manager",
-      "developer": "Gamebasics BV",
-      "url": "https://play.google.com/store/apps/details?id=com.gamebasics.ufm",
-      "artwork": "https://play-lh.googleusercontent.com/jAwq8uTCsTK4POOhZjIUN1cVjzE670yBvAxoHAZalkihu50AUMCKwad7o6Zlu_M8yw",
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -453,6 +429,18 @@
       "developer": "Rasu Games",
       "url": "https://play.google.com/store/apps/details?id=com.rasugames.pls",
       "artwork": "https://play-lh.googleusercontent.com/H5-3R_RxnB6J8y-SPsR38sa0aS06pX48obGw6H2MVw5qxsbz62I4w9KIZxqanfp5_vT3",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "SN"
+    },
+    {
+      "id": "com.gamincat.jigsolitaire",
+      "name": "Jigsolitaire",
+      "developer": "Gamincat",
+      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire",
+      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -532,6 +520,18 @@
       "country": "SN"
     },
     {
+      "id": "com.fgol.HungrySharkEvolution",
+      "name": "Hungry Shark Evolution",
+      "developer": "Ubisoft Entertainment",
+      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution",
+      "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "SN"
+    },
+    {
       "id": "com.outfit7.mytalkingtomfriends",
       "name": "My Talking Tom Friends",
       "developer": "Outfit7 Limited",
@@ -568,6 +568,18 @@
       "country": "SN"
     },
     {
+      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
+      "name": "Fashion Glow: Model & Style",
+      "developer": "Dress Up Games for Girls",
+      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
+      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "SN"
+    },
+    {
       "id": "com.gamegou.football",
       "name": "Top Football Manager 2026",
       "developer": "Gamegou Limited",
@@ -585,18 +597,6 @@
       "developer": "Outfit7 Limited",
       "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2",
       "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "SN"
-    },
-    {
-      "id": "com.cooking.world.chef.craze.restaurant.fever.free",
-      "name": "Cooking World® Restaurant Game",
-      "developer": "MAGIC SEVEN CO., LIMITED",
-      "url": "https://play.google.com/store/apps/details?id=com.cooking.world.chef.craze.restaurant.fever.free",
-      "artwork": "https://play-lh.googleusercontent.com/-hEQMZ9byFWQbUmcnH32fc9mUMKW1NLp4AJ4MveIyOAgg37VmCjH1u30KqI3wnO49LJs",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -810,42 +810,6 @@
       "country": "SN"
     },
     {
-      "id": "org.ppsspp.ppsspp",
-      "name": "PPSSPP - PSP emulator",
-      "developer": "Henrik Rydgård",
-      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp",
-      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "SN"
-    },
-    {
-      "id": "com.ffgames.racingincar2",
-      "name": "Racing in Car 2",
-      "developer": "ckgames",
-      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2",
-      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "SN"
-    },
-    {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle",
-      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "SN"
-    },
-    {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -870,11 +834,11 @@
       "country": "SN"
     },
     {
-      "id": "com.outfit7.mytalkingangelafree",
-      "name": "My Talking Angela",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree",
-      "artwork": "https://play-lh.googleusercontent.com/vgzfolO-qtPkPy8HT5qjDQUonx68GTxv_aqyGXreD91p8s6vwm9tc5H_e8IY7tS_pw",
+      "id": "org.ppsspp.ppsspp",
+      "name": "PPSSPP - PSP emulator",
+      "developer": "Henrik Rydgård",
+      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp",
+      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -906,6 +870,18 @@
       "country": "SN"
     },
     {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle",
+      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "SN"
+    },
+    {
       "id": "com.soccer.score.star",
       "name": "Soccer Superstar",
       "developer": "Real Freestyle Soccer",
@@ -930,11 +906,23 @@
       "country": "SN"
     },
     {
-      "id": "com.mobirix.airhockey",
-      "name": "Air Hockey Challenge",
-      "developer": "mobirix",
-      "url": "https://play.google.com/store/apps/details?id=com.mobirix.airhockey",
-      "artwork": "https://play-lh.googleusercontent.com/mQVOywpoM-RklcYmwprO9uCbS8UTuoS2vCAzKnpdUlLsc1AfcqBK4v2lW2qoCnIyGg",
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "SN"
+    },
+    {
+      "id": "com.outfit7.mytalkingangelafree",
+      "name": "My Talking Angela",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree",
+      "artwork": "https://play-lh.googleusercontent.com/vgzfolO-qtPkPy8HT5qjDQUonx68GTxv_aqyGXreD91p8s6vwm9tc5H_e8IY7tS_pw",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -947,18 +935,6 @@
       "developer": "FPS Shooter & Action Game",
       "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops",
       "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "SN"
-    },
-    {
-      "id": "com.gamincat.jigsolitaire",
-      "name": "Jigsolitaire",
-      "developer": "Gamincat",
-      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire",
-      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1014,11 +990,11 @@
       "country": "SN"
     },
     {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "id": "com.mobirix.airhockey",
+      "name": "Air Hockey Challenge",
+      "developer": "mobirix",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.airhockey",
+      "artwork": "https://play-lh.googleusercontent.com/mQVOywpoM-RklcYmwprO9uCbS8UTuoS2vCAzKnpdUlLsc1AfcqBK4v2lW2qoCnIyGg",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1038,11 +1014,11 @@
       "country": "SN"
     },
     {
-      "id": "com.gamebasics.ufm",
-      "name": "Ultimate Football Manager",
-      "developer": "Gamebasics BV",
-      "url": "https://play.google.com/store/apps/details?id=com.gamebasics.ufm",
-      "artwork": "https://play-lh.googleusercontent.com/jAwq8uTCsTK4POOhZjIUN1cVjzE670yBvAxoHAZalkihu50AUMCKwad7o6Zlu_M8yw",
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1055,6 +1031,18 @@
       "developer": "Rasu Games",
       "url": "https://play.google.com/store/apps/details?id=com.rasugames.pls",
       "artwork": "https://play-lh.googleusercontent.com/H5-3R_RxnB6J8y-SPsR38sa0aS06pX48obGw6H2MVw5qxsbz62I4w9KIZxqanfp5_vT3",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "SN"
+    },
+    {
+      "id": "com.gamincat.jigsolitaire",
+      "name": "Jigsolitaire",
+      "developer": "Gamincat",
+      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire",
+      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1134,6 +1122,18 @@
       "country": "SN"
     },
     {
+      "id": "com.fgol.HungrySharkEvolution",
+      "name": "Hungry Shark Evolution",
+      "developer": "Ubisoft Entertainment",
+      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution",
+      "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "SN"
+    },
+    {
       "id": "com.outfit7.mytalkingtomfriends",
       "name": "My Talking Tom Friends",
       "developer": "Outfit7 Limited",
@@ -1170,6 +1170,18 @@
       "country": "SN"
     },
     {
+      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
+      "name": "Fashion Glow: Model & Style",
+      "developer": "Dress Up Games for Girls",
+      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
+      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "SN"
+    },
+    {
       "id": "com.gamegou.football",
       "name": "Top Football Manager 2026",
       "developer": "Gamegou Limited",
@@ -1187,18 +1199,6 @@
       "developer": "Outfit7 Limited",
       "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2",
       "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "SN"
-    },
-    {
-      "id": "com.cooking.world.chef.craze.restaurant.fever.free",
-      "name": "Cooking World® Restaurant Game",
-      "developer": "MAGIC SEVEN CO., LIMITED",
-      "url": "https://play.google.com/store/apps/details?id=com.cooking.world.chef.craze.restaurant.fever.free",
-      "artwork": "https://play-lh.googleusercontent.com/-hEQMZ9byFWQbUmcnH32fc9mUMKW1NLp4AJ4MveIyOAgg37VmCjH1u30KqI3wnO49LJs",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
