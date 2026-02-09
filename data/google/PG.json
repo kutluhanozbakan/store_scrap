@@ -1,8 +1,36 @@
 {
   "country": "PG",
   "store": "google",
-  "updatedAt": "2026-02-08T19:52:38.759Z",
+  "updatedAt": "2026-02-09T07:45:55.939Z",
   "new": [
+    {
+      "id": "com.hyperkani.trialbike",
+      "name": "Stunt Bike Extreme",
+      "developer": "Hyperkani",
+      "url": "https://play.google.com/store/apps/details?id=com.hyperkani.trialbike&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/NRovxU1rnnI2BzDw989gmkSb8DOnEmgybKJysHKE4-5WSWonNXFwGJGDXMppfxHBkI4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T05:25:41.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "PG"
+    },
+    {
+      "id": "com.fgol.HungrySharkEvolution",
+      "name": "Hungry Shark Evolution",
+      "developer": "Ubisoft Entertainment",
+      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T02:24:08.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "PG"
+    },
     {
       "id": "com.rubygames.assassin",
       "name": "Hunter Assassin",
@@ -674,34 +702,6 @@
         "Adventure"
       ],
       "country": "PG"
-    },
-    {
-      "id": "com.dreamgames.royalkingdom",
-      "name": "Royal Kingdom",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T11:27:21.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "PG"
-    },
-    {
-      "id": "com.ludo.master.hippo",
-      "name": "Ludo Master™ - Ludo Board Game",
-      "developer": "Hippo Lab",
-      "url": "https://play.google.com/store/apps/details?id=com.ludo.master.hippo&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/w4hT0PH6yHVUY3trO3ICmTOzGt9x3UPrwZsC9uAF3CmuCPtS2CD6lwjUIeEIqcjxHEw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T10:48:46.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "PG"
     }
   ],
   "updated": [
@@ -790,6 +790,20 @@
       "country": "PG"
     },
     {
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "PG"
+    },
+    {
       "id": "com.gamovation.tileclub",
       "name": "Tile Club - Match Puzzle Game",
       "developer": "GamoVation",
@@ -804,16 +818,16 @@
       "country": "PG"
     },
     {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
+      "id": "com.activision.callofduty.shooter",
+      "name": "Call of Duty®: Mobile",
+      "developer": "Activision Publishing, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/cfGSXkDwxa1jW3TlhhkDJBN16-1_KEtEDhnILPcs9rXcC25g14XY6MRGCtlXHFHs0g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "releaseDate": "2025-12-03T22:38:38.000Z",
       "genres": [
-        "Arcade"
+        "Action"
       ],
       "country": "PG"
     },
@@ -856,20 +870,6 @@
       "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "PG"
-    },
-    {
-      "id": "com.activision.callofduty.shooter",
-      "name": "Call of Duty®: Mobile",
-      "developer": "Activision Publishing, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/cfGSXkDwxa1jW3TlhhkDJBN16-1_KEtEDhnILPcs9rXcC25g14XY6MRGCtlXHFHs0g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-03T22:38:38.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "PG"
     },
@@ -924,6 +924,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-06T02:18:35.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "PG"
+    },
+    {
+      "id": "com.fruitcut3d.studiogame",
+      "name": "Fruit Cut 3D",
+      "developer": "STUDIO GAMES MOBILE",
+      "url": "https://play.google.com/store/apps/details?id=com.fruitcut3d.studiogame&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/2ws-Rk-X_fFhGZVlOGvzYKlaIrx3A5ZLQ-xP4MduwWzRawQSN8ou8Y2pZ0KfGfN4MU_h",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-02-23T13:31:27.000Z",
       "genres": [
         "Casual"
       ],
@@ -996,20 +1010,6 @@
       "releaseDate": "2025-08-27T16:01:25.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "PG"
-    },
-    {
-      "id": "com.fruitcut3d.studiogame",
-      "name": "Fruit Cut 3D",
-      "developer": "STUDIO GAMES MOBILE",
-      "url": "https://play.google.com/store/apps/details?id=com.fruitcut3d.studiogame&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/2ws-Rk-X_fFhGZVlOGvzYKlaIrx3A5ZLQ-xP4MduwWzRawQSN8ou8Y2pZ0KfGfN4MU_h",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-02-23T13:31:27.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "PG"
     },
@@ -1126,20 +1126,6 @@
       "country": "PG"
     },
     {
-      "id": "com.gamebrain.hexasort",
-      "name": "Hexa Sort",
-      "developer": "Lion Studios Plus",
-      "url": "https://play.google.com/store/apps/details?id=com.gamebrain.hexasort&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/Fb6LOiEok5OKRnkUqk_AO1fTi7oznCPeftYhZk7bnRwucG91oUWeZ5RoXGx7i5V1CA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T11:30:24.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "PG"
-    },
-    {
       "id": "com.dreamgames.royalkingdom",
       "name": "Royal Kingdom",
       "developer": "Dream Games, Ltd.",
@@ -1224,6 +1210,20 @@
       "country": "PG"
     },
     {
+      "id": "com.tohsoft.arashi.ninja.shadow",
+      "name": "Ninja warrior: legend of adven",
+      "developer": "TOH Games",
+      "url": "https://play.google.com/store/apps/details?id=com.tohsoft.arashi.ninja.shadow&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/Z2XnSlqHWZ6rgOdWJoOJJbIQIqQHcbDsCrF23Oo1ciu878Vnzqn0chW9-Fe04FPI9tGp",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-07-17T03:10:56.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "PG"
+    },
+    {
       "id": "com.ffgames.racingincar2",
       "name": "Racing in Car 2",
       "developer": "ckgames",
@@ -1252,16 +1252,16 @@
       "country": "PG"
     },
     {
-      "id": "com.tohsoft.arashi.ninja.shadow",
-      "name": "Ninja warrior: legend of adven",
-      "developer": "TOH Games",
-      "url": "https://play.google.com/store/apps/details?id=com.tohsoft.arashi.ninja.shadow&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/Z2XnSlqHWZ6rgOdWJoOJJbIQIqQHcbDsCrF23Oo1ciu878Vnzqn0chW9-Fe04FPI9tGp",
+      "id": "in.playsimple.tripcross",
+      "name": "Crossword Jam",
+      "developer": "PlaySimple Games",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.tripcross&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/LlpRtxwnlVktLtCGEu81G6ewU0td1CelkhhiCPHI7vtwiQlC1lI1RDV6e9ntqTRmGGw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-07-17T03:10:56.000Z",
+      "releaseDate": "2026-02-03T13:49:52.000Z",
       "genres": [
-        "Adventure"
+        "Word"
       ],
       "country": "PG"
     },
@@ -1273,7 +1273,7 @@
       "artwork": "https://play-lh.googleusercontent.com/NRovxU1rnnI2BzDw989gmkSb8DOnEmgybKJysHKE4-5WSWonNXFwGJGDXMppfxHBkI4",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-26T11:02:39.000Z",
+      "releaseDate": "2026-02-09T05:25:41.000Z",
       "genres": [
         "Racing"
       ],
@@ -1318,6 +1318,20 @@
       "releaseDate": "2025-10-24T07:33:40.000Z",
       "genres": [
         "Casino"
+      ],
+      "country": "PG"
+    },
+    {
+      "id": "com.gamebrain.hexasort",
+      "name": "Hexa Sort",
+      "developer": "Lion Studios Plus",
+      "url": "https://play.google.com/store/apps/details?id=com.gamebrain.hexasort&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/Fb6LOiEok5OKRnkUqk_AO1fTi7oznCPeftYhZk7bnRwucG91oUWeZ5RoXGx7i5V1CA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T11:30:24.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "PG"
     },
@@ -1374,20 +1388,6 @@
       "releaseDate": "2026-01-28T10:48:46.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "PG"
-    },
-    {
-      "id": "in.playsimple.tripcross",
-      "name": "Crossword Jam",
-      "developer": "PlaySimple Games",
-      "url": "https://play.google.com/store/apps/details?id=in.playsimple.tripcross&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/LlpRtxwnlVktLtCGEu81G6ewU0td1CelkhhiCPHI7vtwiQlC1lI1RDV6e9ntqTRmGGw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T13:49:52.000Z",
-      "genres": [
-        "Word"
       ],
       "country": "PG"
     },

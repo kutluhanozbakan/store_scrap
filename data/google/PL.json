@@ -1,8 +1,22 @@
 {
   "country": "PL",
   "store": "google",
-  "updatedAt": "2026-02-08T19:52:50.760Z",
+  "updatedAt": "2026-02-09T07:46:10.326Z",
   "new": [
+    {
+      "id": "com.kayac.level_up_number",
+      "name": "Number Master: Run and merge",
+      "developer": "KAYAC Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.kayac.level_up_number&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/KzEk8vKXTBztnDAU1XCwME43i70BTtwTH-xYhlFWOhvkBMXZh0cno_PR9XAU-P2xQgQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T02:41:22.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "PL"
+    },
     {
       "id": "com.loomgames.pixelflow",
       "name": "Pixel Flow!",
@@ -326,6 +340,20 @@
       "country": "PL"
     },
     {
+      "id": "com.pc.sand.loop",
+      "name": "Sand Loop",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.pc.sand.loop&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/s6cmSYppHKc91Ni_UGiS8UHRFm0FcpYGt9JHjeillkrqjOlt8hOEcK5fkR-Jo68dnIN0TtPJa3Pboxp5P9YWsA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T14:52:12.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "PL"
+    },
+    {
       "id": "com.ecffri.arrows",
       "name": "Arrows – Puzzle Escape",
       "developer": "Lessmore UG",
@@ -348,20 +376,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-05T13:39:15.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "PL"
-    },
-    {
-      "id": "com.moonactive.coinmaster",
-      "name": "Coin Master",
-      "developer": "Moon Active",
-      "url": "https://play.google.com/store/apps/details?id=com.moonactive.coinmaster&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/lja_bcS9SXsaK4x_q0rXuiqf3CIIwfy8QveRWfW5MEaAPOST_auDLuzWMyMUrBzi0sI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T12:12:56.000Z",
       "genres": [
         "Casual"
       ],
@@ -688,20 +702,6 @@
         "Educational"
       ],
       "country": "PL"
-    },
-    {
-      "id": "com.run.tower.defense",
-      "name": "Kingshot",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T09:09:20.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "PL"
     }
   ],
   "updated": [
@@ -846,6 +846,20 @@
       "country": "PL"
     },
     {
+      "id": "com.fun.funclicker.spoopy",
+      "name": "Fun Clicker",
+      "developer": "Amobear Game Publishing",
+      "url": "https://play.google.com/store/apps/details?id=com.fun.funclicker.spoopy&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/QEO7l6-8Vv7uc8PTp1E9qbX0LrroCljxc9HYXREaRlMpKCIdxV_UGHJvSgO9c7TVD7-FucNU8v6sz8zXUK3LDA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T12:22:55.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "PL"
+    },
+    {
       "id": "com.ecffri.arrows",
       "name": "Arrows – Puzzle Escape",
       "developer": "Lessmore UG",
@@ -898,20 +912,6 @@
       "releaseDate": "2026-01-23T14:24:56.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "PL"
-    },
-    {
-      "id": "com.fun.funclicker.spoopy",
-      "name": "Fun Clicker",
-      "developer": "Amobear Game Publishing",
-      "url": "https://play.google.com/store/apps/details?id=com.fun.funclicker.spoopy&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/QEO7l6-8Vv7uc8PTp1E9qbX0LrroCljxc9HYXREaRlMpKCIdxV_UGHJvSgO9c7TVD7-FucNU8v6sz8zXUK3LDA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T12:22:55.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "PL"
     },
@@ -1126,34 +1126,6 @@
       "country": "PL"
     },
     {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T19:50:09.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "PL"
-    },
-    {
-      "id": "com.fatmerge.global",
-      "name": "Tasty Travels: Merge Game",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/eBK_Zz3fVbQFReaVyFJbj7VsJcUilWtdY6iEezlI5uULMPG_uLc6bTGgDR3uxrqKOlTI2HIefLl4R7khU13n6g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T02:12:04.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "PL"
-    },
-    {
       "id": "com.studio27.MelonPlayground",
       "name": "Melon Sandbox",
       "developer": "playducky.com",
@@ -1164,6 +1136,20 @@
       "releaseDate": "2026-02-05T08:46:10.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "PL"
+    },
+    {
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T19:50:09.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "PL"
     },
@@ -1192,6 +1178,20 @@
       "releaseDate": "2026-02-04T17:36:54.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "PL"
+    },
+    {
+      "id": "com.fatmerge.global",
+      "name": "Tasty Travels: Merge Game",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/eBK_Zz3fVbQFReaVyFJbj7VsJcUilWtdY6iEezlI5uULMPG_uLc6bTGgDR3uxrqKOlTI2HIefLl4R7khU13n6g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T02:12:04.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "PL"
     },

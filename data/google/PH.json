@@ -1,8 +1,22 @@
 {
   "country": "PH",
   "store": "google",
-  "updatedAt": "2026-02-08T19:52:38.753Z",
+  "updatedAt": "2026-02-09T07:45:57.244Z",
   "new": [
+    {
+      "id": "com.fgol.HungrySharkEvolution",
+      "name": "Hungry Shark Evolution",
+      "developer": "Ubisoft Entertainment",
+      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T02:24:08.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "PH"
+    },
     {
       "id": "jp.garud.ssimulator",
       "name": "SAKURA School Simulator",
@@ -336,6 +350,20 @@
       "releaseDate": "2026-02-05T08:46:10.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "PH"
+    },
+    {
+      "id": "com.garena.game.codm",
+      "name": "Call of Duty®: Mobile - Garena",
+      "developer": "Garena Mobile Private",
+      "url": "https://play.google.com/store/apps/details?id=com.garena.game.codm&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/0DENLOaGXbadNpuWBLJf4lEhJCJmQV5Na1k5L311-sDPSncoW6_kDLsG_Vc4N0_AM_IGEf3cKTHGHKAyBYAe",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T04:45:56.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "PH"
     },
@@ -674,34 +702,6 @@
         "Casual"
       ],
       "country": "PH"
-    },
-    {
-      "id": "com.starplay.spider.fighter.openworld",
-      "name": "Spider Fighter 3: Action Game",
-      "developer": "Starplay FZCO",
-      "url": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter.openworld&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/lhpZGOr31ROOfma27WbGkKgutQfQTArd3CVkrsAE4CXtr71mrasDUMDZE2CqMrz1D71R",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:25:23.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "PH"
-    },
-    {
-      "id": "com.sprunki.mod.horror.incredibox.monster.beats.music.game",
-      "name": "Sprunki Beat: Full Mod Music",
-      "developer": "Gotstar Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.sprunki.mod.horror.incredibox.monster.beats.music.game&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/O7_TKLHLE3Q0XnE--e5tTXLbJYdfbo7J521cseiShnn4L_a2HnJduwxhKqVjWj4jLg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T14:50:40.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "PH"
     }
   ],
   "updated": [
@@ -818,16 +818,16 @@
       "country": "PH"
     },
     {
-      "id": "com.xman.sea.gp",
-      "name": "X-Clash",
-      "developer": "Glaciers Game",
-      "url": "https://play.google.com/store/apps/details?id=com.xman.sea.gp&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/2aBMjFus8vuWyFxAmxRMjDOt4TH5w7Zq6xmtMAxDRYa8bJNrnNsI8wdsSnrtPPkDKKts",
+      "id": "com.nexters.herowars",
+      "name": "Hero Wars: Alliance",
+      "developer": "NEXTERS GLOBAL LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.nexters.herowars&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/FtCFQxVWKIbe0kL2_bLpQp5We65COlUifnATqedJ1HVDybkcIHaf-kacHHabSBrJICGKOKwSJVFy8BVR1Oht",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-29T02:21:45.000Z",
+      "releaseDate": "2026-02-06T11:01:17.000Z",
       "genres": [
-        "Casual"
+        "Role Playing"
       ],
       "country": "PH"
     },
@@ -846,6 +846,20 @@
       "country": "PH"
     },
     {
+      "id": "com.xman.sea.gp",
+      "name": "X-Clash",
+      "developer": "Glaciers Game",
+      "url": "https://play.google.com/store/apps/details?id=com.xman.sea.gp&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/2aBMjFus8vuWyFxAmxRMjDOt4TH5w7Zq6xmtMAxDRYa8bJNrnNsI8wdsSnrtPPkDKKts",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T02:21:45.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "PH"
+    },
+    {
       "id": "com.levelinfinite.sgameGlobal",
       "name": "Honor of Kings",
       "developer": "Level Infinite",
@@ -856,6 +870,20 @@
       "releaseDate": "2026-02-04T09:48:13.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "PH"
+    },
+    {
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "PH"
     },
@@ -888,20 +916,6 @@
       "country": "PH"
     },
     {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "PH"
-    },
-    {
       "id": "com.garena.game.codm",
       "name": "Call of Duty®: Mobile - Garena",
       "developer": "Garena Mobile Private",
@@ -909,7 +923,7 @@
       "artwork": "https://play-lh.googleusercontent.com/0DENLOaGXbadNpuWBLJf4lEhJCJmQV5Na1k5L311-sDPSncoW6_kDLsG_Vc4N0_AM_IGEf3cKTHGHKAyBYAe",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-02T11:46:51.000Z",
+      "releaseDate": "2026-02-05T04:45:56.000Z",
       "genres": [
         "Action"
       ],
@@ -954,6 +968,20 @@
       "releaseDate": "2024-10-25T15:41:01.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "PH"
+    },
+    {
+      "id": "com.gismart.guitar",
+      "name": "Real Guitar - Music Band Game",
+      "developer": "Gismart",
+      "url": "https://play.google.com/store/apps/details?id=com.gismart.guitar&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/S8tizQoHxOGRrmzNTuoD8lQhZfcnEj342g8do_lICHLrpjddW8MOhy8txsuWQ7uhSIQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-28T14:31:59.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "PH"
     },
@@ -1126,20 +1154,6 @@
       "country": "PH"
     },
     {
-      "id": "com.nexters.herowars",
-      "name": "Hero Wars: Alliance",
-      "developer": "NEXTERS GLOBAL LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.nexters.herowars&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/FtCFQxVWKIbe0kL2_bLpQp5We65COlUifnATqedJ1HVDybkcIHaf-kacHHabSBrJICGKOKwSJVFy8BVR1Oht",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T11:01:17.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "PH"
-    },
-    {
       "id": "com.puzzlegames.puzzlebrickslegend",
       "name": "Color Block: Combo Blast",
       "developer": "Ivy",
@@ -1196,6 +1210,20 @@
       "country": "PH"
     },
     {
+      "id": "com.funnyjoy.snysw.an",
+      "name": "Brain Puzzle King",
+      "developer": "Mangoing Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.funnyjoy.snysw.an&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/OqtUPFO-s6YBenfAZVso0kgY3etTM6c6-dr7FMJVCzi_c9_wTNGso07hT1O5NaqfiYQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-05T09:26:15.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "PH"
+    },
+    {
       "id": "in.playsimple.wordsearch",
       "name": "Word Search Explorer",
       "developer": "PlaySimple Games",
@@ -1238,20 +1266,6 @@
       "country": "PH"
     },
     {
-      "id": "com.funnyjoy.snysw.an",
-      "name": "Brain Puzzle King",
-      "developer": "Mangoing Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.funnyjoy.snysw.an&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/OqtUPFO-s6YBenfAZVso0kgY3etTM6c6-dr7FMJVCzi_c9_wTNGso07hT1O5NaqfiYQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-05T09:26:15.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "PH"
-    },
-    {
       "id": "com.fgol.HungrySharkEvolution",
       "name": "Hungry Shark Evolution",
       "developer": "Ubisoft Entertainment",
@@ -1259,9 +1273,23 @@
       "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-26T03:04:31.000Z",
+      "releaseDate": "2026-02-09T02:24:08.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "PH"
+    },
+    {
+      "id": "com.higame.annoying.tricky.story.puzzle.game",
+      "name": "Tricky Prank: Annoying Quest",
+      "developer": "HIGAME Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.higame.annoying.tricky.story.puzzle.game&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/YWk5cQ0ubmXdvfMTU126A3MQNojFvYJKu15xuqSx3X74TqJ5Aonp71Hv83RRZdvJ8A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-26T11:11:09.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "PH"
     },
@@ -1280,16 +1308,16 @@
       "country": "PH"
     },
     {
-      "id": "com.higame.annoying.tricky.story.puzzle.game",
-      "name": "Tricky Prank: Annoying Quest",
-      "developer": "HIGAME Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.higame.annoying.tricky.story.puzzle.game&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/YWk5cQ0ubmXdvfMTU126A3MQNojFvYJKu15xuqSx3X74TqJ5Aonp71Hv83RRZdvJ8A",
+      "id": "com.fun.funclicker.spoopy",
+      "name": "Fun Clicker",
+      "developer": "Amobear Game Publishing",
+      "url": "https://play.google.com/store/apps/details?id=com.fun.funclicker.spoopy&hl=en&gl=PH",
+      "artwork": "https://play-lh.googleusercontent.com/QEO7l6-8Vv7uc8PTp1E9qbX0LrroCljxc9HYXREaRlMpKCIdxV_UGHJvSgO9c7TVD7-FucNU8v6sz8zXUK3LDA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-26T11:11:09.000Z",
+      "releaseDate": "2026-02-04T12:22:55.000Z",
       "genres": [
-        "Puzzle"
+        "Casual"
       ],
       "country": "PH"
     },
@@ -1364,20 +1392,6 @@
       "country": "PH"
     },
     {
-      "id": "com.fun.funclicker.spoopy",
-      "name": "Fun Clicker",
-      "developer": "Amobear Game Publishing",
-      "url": "https://play.google.com/store/apps/details?id=com.fun.funclicker.spoopy&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/QEO7l6-8Vv7uc8PTp1E9qbX0LrroCljxc9HYXREaRlMpKCIdxV_UGHJvSgO9c7TVD7-FucNU8v6sz8zXUK3LDA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T12:22:55.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "PH"
-    },
-    {
       "id": "com.tocaboca.tocalifeworld",
       "name": "Toca Boca World",
       "developer": "Toca Boca",
@@ -1388,20 +1402,6 @@
       "releaseDate": "2026-02-03T13:05:04.000Z",
       "genres": [
         "Educational"
-      ],
-      "country": "PH"
-    },
-    {
-      "id": "com.severex.cross.word.puzzle.logic",
-      "name": "Crostic Crossword－Word Puzzles",
-      "developer": "Severex",
-      "url": "https://play.google.com/store/apps/details?id=com.severex.cross.word.puzzle.logic&hl=en&gl=PH",
-      "artwork": "https://play-lh.googleusercontent.com/eIrfE0N1_m6sCYOmqCym9K20bZFOG8vmMctmND4PlRBwoS0mG6YU5qvqiAJ2_GbUC8U",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T17:06:59.000Z",
-      "genres": [
-        "Word"
       ],
       "country": "PH"
     }

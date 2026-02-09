@@ -1,8 +1,22 @@
 {
   "country": "NO",
   "store": "google",
-  "updatedAt": "2026-02-08T19:34:37.632Z",
+  "updatedAt": "2026-02-09T07:45:17.930Z",
   "new": [
+    {
+      "id": "com.kayac.level_up_number",
+      "name": "Number Master: Run and merge",
+      "developer": "KAYAC Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.kayac.level_up_number&hl=en&gl=NO",
+      "artwork": "https://play-lh.googleusercontent.com/KzEk8vKXTBztnDAU1XCwME43i70BTtwTH-xYhlFWOhvkBMXZh0cno_PR9XAU-P2xQgQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T02:41:22.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "NO"
+    },
     {
       "id": "com.loomgames.pixelflow",
       "name": "Pixel Flow!",
@@ -12,6 +26,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-08T14:58:16.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "NO"
+    },
+    {
+      "id": "com.gogames.sandsout",
+      "name": "Beads Out",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.gogames.sandsout&hl=en&gl=NO",
+      "artwork": "https://play-lh.googleusercontent.com/xGdV7OkV948nErbepw4p0JjbRDVlpryb9Xc8ysucH1Nzbt7ah_Un2wA_lwIjTYjtPQVla2zZldXXej3tXkvp",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T19:29:02.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -112,6 +140,20 @@
       "releaseDate": "2026-02-06T13:18:19.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "NO"
+    },
+    {
+      "id": "com.GybeGames.ColorBlockJam",
+      "name": "Color Block Jam",
+      "developer": "Rollic Games",
+      "url": "https://play.google.com/store/apps/details?id=com.GybeGames.ColorBlockJam&hl=en&gl=NO",
+      "artwork": "https://play-lh.googleusercontent.com/f8twcDzXl_K4Zo7GTp-053H5N_jygmGYCegjmOUxYNVocnXkYgSCA2H8Md5SNgaX_H28UA9WJaU0-cfSY53Jf04",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T12:45:20.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "NO"
     },
@@ -224,20 +266,6 @@
       "releaseDate": "2026-02-05T17:28:18.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "NO"
-    },
-    {
-      "id": "com.higame.brain.twist.tricky.puzzle",
-      "name": "Prison Puzzle: Brain Twist",
-      "developer": "HIGAME LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.higame.brain.twist.tricky.puzzle&hl=en&gl=NO",
-      "artwork": "https://play-lh.googleusercontent.com/D98i4j50j9-2uH6S0ogm6KKUfq4qyZHo5XLzumjxIpe_Y-CJHSO1Bf4JIY_BDy-HBQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T16:29:26.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "NO"
     },
@@ -674,34 +702,6 @@
         "Puzzle"
       ],
       "country": "NO"
-    },
-    {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=NO",
-      "artwork": "https://play-lh.googleusercontent.com/IHBNszxS4-19qbvbXMs2J_G6JccF-wQWBM-6e9C1P46fwXPUL8WDccXML3gPawaiIw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T13:54:14.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "NO"
-    },
-    {
-      "id": "in.playsimple.wordsearch",
-      "name": "Word Search Explorer",
-      "developer": "PlaySimple Games",
-      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=NO",
-      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T12:42:24.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "NO"
     }
   ],
   "updated": [
@@ -874,20 +874,6 @@
       "country": "NO"
     },
     {
-      "id": "com.fatmerge.global",
-      "name": "Tasty Travels: Merge Game",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=en&gl=NO",
-      "artwork": "https://play-lh.googleusercontent.com/eBK_Zz3fVbQFReaVyFJbj7VsJcUilWtdY6iEezlI5uULMPG_uLc6bTGgDR3uxrqKOlTI2HIefLl4R7khU13n6g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T02:12:04.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "NO"
-    },
-    {
       "id": "com.youmusic.magictiles",
       "name": "Magic Tiles 3™ - Piano Game",
       "developer": "AMANOTES PTE. LTD.",
@@ -898,6 +884,20 @@
       "releaseDate": "2026-02-06T11:33:52.000Z",
       "genres": [
         "Music"
+      ],
+      "country": "NO"
+    },
+    {
+      "id": "com.fatmerge.global",
+      "name": "Tasty Travels: Merge Game",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=en&gl=NO",
+      "artwork": "https://play-lh.googleusercontent.com/eBK_Zz3fVbQFReaVyFJbj7VsJcUilWtdY6iEezlI5uULMPG_uLc6bTGgDR3uxrqKOlTI2HIefLl4R7khU13n6g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T02:12:04.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "NO"
     },
@@ -954,6 +954,20 @@
       "releaseDate": "2025-12-29T06:05:28.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "NO"
+    },
+    {
+      "id": "com.grandgames.magicsort",
+      "name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort&hl=en&gl=NO",
+      "artwork": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T19:23:59.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "NO"
     },
@@ -1066,20 +1080,6 @@
       "releaseDate": "2025-12-18T15:56:12.000Z",
       "genres": [
         "Strategy"
-      ],
-      "country": "NO"
-    },
-    {
-      "id": "com.grandgames.magicsort",
-      "name": "Magic Sort!",
-      "developer": "Grand Games A.Ş.",
-      "url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort&hl=en&gl=NO",
-      "artwork": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T19:23:59.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "NO"
     },
@@ -1308,6 +1308,20 @@
       "country": "NO"
     },
     {
+      "id": "com.playstrom.dop4",
+      "name": "DOP 4: Draw One Part",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.playstrom.dop4&hl=en&gl=NO",
+      "artwork": "https://play-lh.googleusercontent.com/xCTDSJzuaJkDH_dNtGek7H6CO2oi4tNopjrXHtvZ4EumFr_5vs2RMJ-Htikhj5Aw8Q8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-05T12:53:58.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "NO"
+    },
+    {
       "id": "com.totalbattle",
       "name": "Total Battle: Strategy Games",
       "developer": "Scorewarrior",
@@ -1343,7 +1357,7 @@
       "artwork": "https://play-lh.googleusercontent.com/KzEk8vKXTBztnDAU1XCwME43i70BTtwTH-xYhlFWOhvkBMXZh0cno_PR9XAU-P2xQgQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-21T07:26:45.000Z",
+      "releaseDate": "2026-02-09T02:41:22.000Z",
       "genres": [
         "Action"
       ],
@@ -1358,20 +1372,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-01-27T14:34:18.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "NO"
-    },
-    {
-      "id": "com.fc.goods.sort.matching.puzzle.triplemaster",
-      "name": "Goods Puzzle: Sort Challenge™",
-      "developer": "FALCON GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.fc.goods.sort.matching.puzzle.triplemaster&hl=en&gl=NO",
-      "artwork": "https://play-lh.googleusercontent.com/F4r_imTe0hKKnVfrOUxbS8oumI6LpU-UgFbOW0VHoYQ_FnrcXq0p3QRR96u5wNANm2A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T11:47:54.000Z",
       "genres": [
         "Puzzle"
       ],
