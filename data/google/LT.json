@@ -1,8 +1,22 @@
 {
   "country": "LT",
   "store": "google",
-  "updatedAt": "2026-02-08T18:17:58.855Z",
+  "updatedAt": "2026-02-09T05:21:59.221Z",
   "new": [
+    {
+      "id": "com.kayac.level_up_number",
+      "name": "Number Master: Run and merge",
+      "developer": "KAYAC Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.kayac.level_up_number&hl=en&gl=LT",
+      "artwork": "https://play-lh.googleusercontent.com/KzEk8vKXTBztnDAU1XCwME43i70BTtwTH-xYhlFWOhvkBMXZh0cno_PR9XAU-P2xQgQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T02:41:22.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "LT"
+    },
     {
       "id": "com.loomgames.pixelflow",
       "name": "Pixel Flow!",
@@ -452,6 +466,20 @@
       "country": "LT"
     },
     {
+      "id": "com.uc.animal.hide.seek",
+      "name": "Prank House Escape",
+      "developer": "Dinosaur House",
+      "url": "https://play.google.com/store/apps/details?id=com.uc.animal.hide.seek&hl=en&gl=LT",
+      "artwork": "https://play-lh.googleusercontent.com/Hgt7FtZnDqjpzzV7IiHEoyT4_F48T06rlD3MOcq6JLzaV_Q_PFl77pEr4yLZccRgfmI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T02:30:49.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "LT"
+    },
+    {
       "id": "com.launcher.brgame",
       "name": "BLACK RUSSIA",
       "developer": "BLACKHUB GAMES - FZCO",
@@ -620,6 +648,20 @@
       "country": "LT"
     },
     {
+      "id": "com.grandgames.magicsort",
+      "name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort&hl=en&gl=LT",
+      "artwork": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T19:23:59.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "LT"
+    },
+    {
       "id": "com.NewFolderGames.IAmCat",
       "name": "I Am Cat",
       "developer": "Estoty",
@@ -660,48 +702,6 @@
         "Board"
       ],
       "country": "LT"
-    },
-    {
-      "id": "com.fatmerge.global",
-      "name": "Tasty Travels: Merge Game",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=en&gl=LT",
-      "artwork": "https://play-lh.googleusercontent.com/eBK_Zz3fVbQFReaVyFJbj7VsJcUilWtdY6iEezlI5uULMPG_uLc6bTGgDR3uxrqKOlTI2HIefLl4R7khU13n6g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T02:12:04.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "LT"
-    },
-    {
-      "id": "io.randomco.travel",
-      "name": "Travel Town - Merge Adventure",
-      "developer": "Magmatic Games LTD",
-      "url": "https://play.google.com/store/apps/details?id=io.randomco.travel&hl=en&gl=LT",
-      "artwork": "https://play-lh.googleusercontent.com/JUd09-Jkgctks6QibZBPeqnpPA-6A6nMXZqAW9Fa0MKOsolbvGKSXEnuq9nxiKNCFVOT",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-01T08:36:57.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "LT"
-    },
-    {
-      "id": "ig.com.hot.pot.qdc",
-      "name": "Hotpot Flow: Food Games",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=ig.com.hot.pot.qdc&hl=en&gl=LT",
-      "artwork": "https://play-lh.googleusercontent.com/wy4-8vLbPov2utuXORrZKLhkYlDjhy4JRs8EgBa5zsEPsprLSVdeKKTO3haVBdJ0Q9kkeKMkPxmByOLCw_kh2Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-31T07:30:56.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "LT"
     }
   ],
   "updated": [
@@ -720,20 +720,6 @@
       "country": "LT"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=LT",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T16:35:27.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "LT"
-    },
-    {
       "id": "com.cliffs.pro.cell.building.crazy.clever.craft",
       "name": "Block Crazy Robo World Craft",
       "developer": "Prokids Studio",
@@ -744,6 +730,20 @@
       "releaseDate": "2025-11-28T05:45:26.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "LT"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=LT",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:35:27.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "LT"
     },
@@ -804,6 +804,20 @@
       "country": "LT"
     },
     {
+      "id": "com.wood.block.sudoku.puzzle.bm",
+      "name": "Block Crush!",
+      "developer": "Wonderful  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=LT",
+      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T15:47:04.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "LT"
+    },
+    {
       "id": "com.roblox.client",
       "name": "Roblox",
       "developer": "Roblox Corporation",
@@ -826,20 +840,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-04T14:18:09.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "LT"
-    },
-    {
-      "id": "com.wood.block.sudoku.puzzle.bm",
-      "name": "Block Crush!",
-      "developer": "Wonderful  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=LT",
-      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T15:47:04.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -874,6 +874,20 @@
       "country": "LT"
     },
     {
+      "id": "ig.com.hot.pot.qdc",
+      "name": "Hotpot Flow: Food Games",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=ig.com.hot.pot.qdc&hl=en&gl=LT",
+      "artwork": "https://play-lh.googleusercontent.com/wy4-8vLbPov2utuXORrZKLhkYlDjhy4JRs8EgBa5zsEPsprLSVdeKKTO3haVBdJ0Q9kkeKMkPxmByOLCw_kh2Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-31T07:30:56.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "LT"
+    },
+    {
       "id": "com.playstrom.my.sticker.room",
       "name": "My Sticker Room - Decor Game",
       "developer": "SayGames Ltd",
@@ -902,20 +916,6 @@
       "country": "LT"
     },
     {
-      "id": "ig.com.hot.pot.qdc",
-      "name": "Hotpot Flow: Food Games",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=ig.com.hot.pot.qdc&hl=en&gl=LT",
-      "artwork": "https://play-lh.googleusercontent.com/wy4-8vLbPov2utuXORrZKLhkYlDjhy4JRs8EgBa5zsEPsprLSVdeKKTO3haVBdJ0Q9kkeKMkPxmByOLCw_kh2Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-31T07:30:56.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "LT"
-    },
-    {
       "id": "com.youmusic.magictiles",
       "name": "Magic Tiles 3™ - Piano Game",
       "developer": "AMANOTES PTE. LTD.",
@@ -940,6 +940,34 @@
       "releaseDate": "2026-01-15T14:29:01.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "LT"
+    },
+    {
+      "id": "com.supercell.brawlstars",
+      "name": "Brawl Stars",
+      "developer": "Supercell",
+      "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=en&gl=LT",
+      "artwork": "https://play-lh.googleusercontent.com/tYB_jWhdJuauLSPJ7LVj_5dUq6g_eQwj2wPNG9jFN78zKbDqMNfnEU2fUGiDQtYAy0yHn4SMnaF0lhanJpm0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T07:32:47.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "LT"
+    },
+    {
+      "id": "com.minigames.antistress.relaxinggames.toys",
+      "name": "Antistress Relaxing Mini Games",
+      "developer": "CAT Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.minigames.antistress.relaxinggames.toys&hl=en&gl=LT",
+      "artwork": "https://play-lh.googleusercontent.com/GyxH6OelloeKh9B0iWbTpGKeK3qSnVEhKl6MoiCnvLXTniWuITKjEQjrNACCA-XsmxooB1fKWxoXhaYVfLFqiA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-29T06:05:28.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "LT"
     },
@@ -1028,16 +1056,16 @@
       "country": "LT"
     },
     {
-      "id": "com.supercell.brawlstars",
-      "name": "Brawl Stars",
-      "developer": "Supercell",
-      "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=en&gl=LT",
-      "artwork": "https://play-lh.googleusercontent.com/tYB_jWhdJuauLSPJ7LVj_5dUq6g_eQwj2wPNG9jFN78zKbDqMNfnEU2fUGiDQtYAy0yHn4SMnaF0lhanJpm0",
+      "id": "com.geck.piano.cattiles.edm",
+      "name": "Piano Beat: Rush Tiles",
+      "developer": "Geckolor Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.geck.piano.cattiles.edm&hl=en&gl=LT",
+      "artwork": "https://play-lh.googleusercontent.com/hL4KteyfX56_XCH12a7_bSrxSY1b_s9Vs43b6VnwinkCsrKfusj_kZRzDmPnS-VE1g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-29T07:32:47.000Z",
+      "releaseDate": "2026-02-04T10:51:34.000Z",
       "genres": [
-        "Action"
+        "Casual"
       ],
       "country": "LT"
     },
@@ -1084,20 +1112,6 @@
       "country": "LT"
     },
     {
-      "id": "com.minigames.antistress.relaxinggames.toys",
-      "name": "Antistress Relaxing Mini Games",
-      "developer": "CAT Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.minigames.antistress.relaxinggames.toys&hl=en&gl=LT",
-      "artwork": "https://play-lh.googleusercontent.com/GyxH6OelloeKh9B0iWbTpGKeK3qSnVEhKl6MoiCnvLXTniWuITKjEQjrNACCA-XsmxooB1fKWxoXhaYVfLFqiA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-29T06:05:28.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "LT"
-    },
-    {
       "id": "com.axlebolt.standoff2",
       "name": "Standoff 2",
       "developer": "AXLEBOLT LTD",
@@ -1122,20 +1136,6 @@
       "releaseDate": "2026-02-04T17:36:54.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "LT"
-    },
-    {
-      "id": "com.geck.piano.cattiles.edm",
-      "name": "Piano Beat: Rush Tiles",
-      "developer": "Geckolor Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.geck.piano.cattiles.edm&hl=en&gl=LT",
-      "artwork": "https://play-lh.googleusercontent.com/hL4KteyfX56_XCH12a7_bSrxSY1b_s9Vs43b6VnwinkCsrKfusj_kZRzDmPnS-VE1g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T10:51:34.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "LT"
     },
@@ -1210,20 +1210,6 @@
       "country": "LT"
     },
     {
-      "id": "com.totalbattle",
-      "name": "Total Battle: Strategy Games",
-      "developer": "Scorewarrior",
-      "url": "https://play.google.com/store/apps/details?id=com.totalbattle&hl=en&gl=LT",
-      "artwork": "https://play-lh.googleusercontent.com/tVu9zOuRBk4aUjro3Rgt0XUug_DxzjkyHxaslu9Q1dRd3XTOAw5Pn7UPT_xG4Se4rKS-",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T14:52:21.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "LT"
-    },
-    {
       "id": "com.rolling.hop.dancing.cats.tiles.musicgames",
       "name": "Dancing Cats 2: Music Games",
       "developer": "Cobby Labs",
@@ -1238,6 +1224,48 @@
       "country": "LT"
     },
     {
+      "id": "com.totalbattle",
+      "name": "Total Battle: Strategy Games",
+      "developer": "Scorewarrior",
+      "url": "https://play.google.com/store/apps/details?id=com.totalbattle&hl=en&gl=LT",
+      "artwork": "https://play-lh.googleusercontent.com/tVu9zOuRBk4aUjro3Rgt0XUug_DxzjkyHxaslu9Q1dRd3XTOAw5Pn7UPT_xG4Se4rKS-",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T14:52:21.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "LT"
+    },
+    {
+      "id": "com.charmquest.dec",
+      "name": "Crystal Flow Sort",
+      "developer": "Gisler Giudu",
+      "url": "https://play.google.com/store/apps/details?id=com.charmquest.dec&hl=en&gl=LT",
+      "artwork": "https://play-lh.googleusercontent.com/wDWajmL-3s079WV1igUqzwc6n5cGULDddwzoQBvW8sW4eMaAj7h4CbksdwLLHW31By43-CMEntBOgyR8MWhTAA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T12:59:54.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "LT"
+    },
+    {
+      "id": "com.realm.fun.robo.earth.everyday.rain.house.rainbow.build",
+      "name": "Crafting and Building",
+      "developer": "MD. Sadekur Rahman",
+      "url": "https://play.google.com/store/apps/details?id=com.realm.fun.robo.earth.everyday.rain.house.rainbow.build&hl=en&gl=LT",
+      "artwork": "https://play-lh.googleusercontent.com/o6qMIkLIVp77ZMh_mW8Cahg3G7bucdjObmFFaY5n1ziWazMFVUtLpMYqfAOPrLLAgwx7bPet5_XQqTypZCynEw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T05:06:24.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "LT"
+    },
+    {
       "id": "com.sprunki.mod.horror.incredibox.monster.beats.music.game",
       "name": "Sprunki Beat: Full Mod Music",
       "developer": "Gotstar Studio",
@@ -1248,6 +1276,20 @@
       "releaseDate": "2026-01-29T14:50:40.000Z",
       "genres": [
         "Music"
+      ],
+      "country": "LT"
+    },
+    {
+      "id": "com.gof.global",
+      "name": "Whiteout Survival",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.gof.global&hl=en&gl=LT",
+      "artwork": "https://play-lh.googleusercontent.com/gtcDOls1xCaV_qtRKx3dsk75bNBqel81gWkhK2xvgq5KKHj_71lnZjXYO6He97w0j-U",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-18T15:56:12.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "LT"
     },
@@ -1280,6 +1322,20 @@
       "country": "LT"
     },
     {
+      "id": "com.NewFolderGames.IAmCat",
+      "name": "I Am Cat",
+      "developer": "Estoty",
+      "url": "https://play.google.com/store/apps/details?id=com.NewFolderGames.IAmCat&hl=en&gl=LT",
+      "artwork": "https://play-lh.googleusercontent.com/qPz2598bkAbZKDV5tm6-nt0xJdTeSp9rcw-msxEZAYUrvdEtHM82lknNWYsNY2FB_Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T17:27:35.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "LT"
+    },
+    {
       "id": "com.red.arrows.android",
       "name": "Arrowscapes™ - Arrows Puzzle",
       "developer": "Beijing Youyoutang Technology Co.,ltd.",
@@ -1308,6 +1364,20 @@
       "country": "LT"
     },
     {
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=LT",
+      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T03:06:33.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "LT"
+    },
+    {
       "id": "com.LinkedSquad.SchoolBoyRunaway",
       "name": "SCHOOLBOY RUNAWAY - STEALTH",
       "developer": "Linked Squad",
@@ -1322,86 +1392,16 @@
       "country": "LT"
     },
     {
-      "id": "com.kayac.breakragdoll",
-      "name": "Ragdoll Break: Let's destroy!",
-      "developer": "KAYAC Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.kayac.breakragdoll&hl=en&gl=LT",
-      "artwork": "https://play-lh.googleusercontent.com/PZVCOncNOW-vQ0oHmQEu3k9qJEPAoDpYZYRIpTPrhnMmuPPxrmPwzTrHupu6IYckjtY",
+      "id": "com.launcher.brgame",
+      "name": "BLACK RUSSIA",
+      "developer": "BLACKHUB GAMES - FZCO",
+      "url": "https://play.google.com/store/apps/details?id=com.launcher.brgame&hl=en&gl=LT",
+      "artwork": "https://play-lh.googleusercontent.com/wkfP7O2Jc5PHGRbMDfnoTtUG8iBcytrKnu3TH4EWc_zkP4Iq1cRCVYNWg1UvJkuQrXax",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-21T07:59:14.000Z",
+      "releaseDate": "2026-02-03T21:22:45.000Z",
       "genres": [
-        "Action"
-      ],
-      "country": "LT"
-    },
-    {
-      "id": "com.charmquest.dec",
-      "name": "Crystal Flow Sort",
-      "developer": "Gisler Giudu",
-      "url": "https://play.google.com/store/apps/details?id=com.charmquest.dec&hl=en&gl=LT",
-      "artwork": "https://play-lh.googleusercontent.com/wDWajmL-3s079WV1igUqzwc6n5cGULDddwzoQBvW8sW4eMaAj7h4CbksdwLLHW31By43-CMEntBOgyR8MWhTAA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T12:59:54.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "LT"
-    },
-    {
-      "id": "com.gof.global",
-      "name": "Whiteout Survival",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.gof.global&hl=en&gl=LT",
-      "artwork": "https://play-lh.googleusercontent.com/gtcDOls1xCaV_qtRKx3dsk75bNBqel81gWkhK2xvgq5KKHj_71lnZjXYO6He97w0j-U",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-18T15:56:12.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "LT"
-    },
-    {
-      "id": "com.wilds.craft.mysticland.explore",
-      "name": "Block Craft 3D: Realm Builder",
-      "developer": "Metagame.Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.wilds.craft.mysticland.explore&hl=en&gl=LT",
-      "artwork": "https://play-lh.googleusercontent.com/atgEBnDex2iZ3zknB3N5c4tBxJwT8NMrWTp0NXY7rYxk6DkDksRNddCm4E_832TI0w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T07:44:10.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "LT"
-    },
-    {
-      "id": "io.randomco.travel",
-      "name": "Travel Town - Merge Adventure",
-      "developer": "Magmatic Games LTD",
-      "url": "https://play.google.com/store/apps/details?id=io.randomco.travel&hl=en&gl=LT",
-      "artwork": "https://play-lh.googleusercontent.com/JUd09-Jkgctks6QibZBPeqnpPA-6A6nMXZqAW9Fa0MKOsolbvGKSXEnuq9nxiKNCFVOT",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-01T08:36:57.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "LT"
-    },
-    {
-      "id": "com.dreamgames.royalmatch",
-      "name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=LT",
-      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T15:41:31.000Z",
-      "genres": [
-        "Puzzle"
+        "Role Playing"
       ],
       "country": "LT"
     }
