@@ -1,7 +1,7 @@
 {
   "country": "GN",
   "store": "google",
-  "updatedAt": "2026-02-08T17:14:17.843Z",
+  "updatedAt": "2026-02-09T00:58:18.378Z",
   "new": [
     {
       "id": "com.rubygames.assassin",
@@ -40,20 +40,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-06T20:03:41.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "GN"
-    },
-    {
-      "id": "com.animal.hunter.sniper",
-      "name": "Animal Hunter: Wild Shooting",
-      "developer": "Fun Fun Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.animal.hunter.sniper&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/pd0Voe0O6zBPbVAdSBaVuBdQqiVSHe8V3wIhtuYpuIZS5Owam7E35TGxGkxHP3bUYf4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T18:34:00.000Z",
       "genres": [
         "Action"
       ],
@@ -522,20 +508,6 @@
       "country": "GN"
     },
     {
-      "id": "com.doit.fun.games.offroad.rally.truck.apps",
-      "name": "Offroad Car Parking: Car Games",
-      "developer": "Frolics Simulation & Action Games",
-      "url": "https://play.google.com/store/apps/details?id=com.doit.fun.games.offroad.rally.truck.apps&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/7vetl0MkXZEfadlCkjfjXOZr813ihWWw_KzblGRHrbpEGxTn24YP1dMqPMG_OHsIgUOb",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T08:05:26.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "GN"
-    },
-    {
       "id": "com.games.hexagon.odyssey.puzzle",
       "name": "Hexa Merge: Tile Sort Puzzle",
       "developer": "Adaric Ltd",
@@ -702,6 +674,34 @@
         "Sports"
       ],
       "country": "GN"
+    },
+    {
+      "id": "com.color.busfrenzy",
+      "name": "Bus Frenzy - Traffic Jam",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.color.busfrenzy&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/F__kdcqKAVs1L6zxIANuzrzk8YrZJ9o_dXexpzSPNAJ-2e-yBiCaSgFHDV3SDMXhV9xo13FTuscy3WKNRKRbog",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T08:36:42.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "GN"
+    },
+    {
+      "id": "com.mobirix.airhockey",
+      "name": "Air Hockey Challenge",
+      "developer": "mobirix",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.airhockey&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/mQVOywpoM-RklcYmwprO9uCbS8UTuoS2vCAzKnpdUlLsc1AfcqBK4v2lW2qoCnIyGg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T02:52:31.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "GN"
     }
   ],
   "updated": [
@@ -720,20 +720,6 @@
       "country": "GN"
     },
     {
-      "id": "com.hungrystudio.mahjong",
-      "name": "Double Tile!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T14:58:07.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "GN"
-    },
-    {
       "id": "com.firsttouchgames.dls7",
       "name": "Dream League Soccer 2026",
       "developer": "First Touch Games Ltd.",
@@ -744,6 +730,20 @@
       "releaseDate": "2026-02-05T17:30:32.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "GN"
+    },
+    {
+      "id": "com.hungrystudio.mahjong",
+      "name": "Double Tile!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T14:58:07.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "GN"
     },
@@ -804,20 +804,6 @@
       "country": "GN"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T16:35:27.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "GN"
-    },
-    {
       "id": "com.ludo.king",
       "name": "Ludo King®",
       "developer": "Gametion",
@@ -828,6 +814,20 @@
       "releaseDate": "2026-01-22T14:46:31.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "GN"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:35:27.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "GN"
     },
@@ -874,20 +874,6 @@
       "country": "GN"
     },
     {
-      "id": "com.games.hexagon.odyssey.puzzle",
-      "name": "Hexa Merge: Tile Sort Puzzle",
-      "developer": "Adaric Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.games.hexagon.odyssey.puzzle&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/e530XJgrI0wXmQ7RlVhGGe5MXwSOg5tLk0ukWZwM6R6iOJorKgnnkORUI7C23zbGISv9",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T06:36:42.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "GN"
-    },
-    {
       "id": "ball.sort.color.puz.game.puzzle",
       "name": "Ball Sort - Color Puz Game",
       "developer": "Infinite Joy Ltd.",
@@ -898,20 +884,6 @@
       "releaseDate": "2026-02-03T09:39:56.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "GN"
-    },
-    {
-      "id": "app.fxroyalepro.com",
-      "name": "Forex Royale",
-      "developer": "Edusystems OU",
-      "url": "https://play.google.com/store/apps/details?id=app.fxroyalepro.com&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/AfoBgrkMO0AuX_TTDCdUbdZDoPfs-TDJo2d21XU__n1kYZq_-xjkn2R7LKefEg0k7J4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-26T19:26:24.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "GN"
     },
@@ -930,16 +902,16 @@
       "country": "GN"
     },
     {
-      "id": "ball.sort.puzzle.color.bubble.games.magic",
-      "name": "Ball Sort Magic - Puzzle Game",
-      "developer": "Passion Fruit Joy",
-      "url": "https://play.google.com/store/apps/details?id=ball.sort.puzzle.color.bubble.games.magic&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/2LFoNpVRsnkG8xrDMUN5y-ZZymdRwjIfeYXHdBirrVW_kkqtAO1FPYVWpf42mZ_XIg",
+      "id": "app.fxroyalepro.com",
+      "name": "Forex Royale",
+      "developer": "Edusystems OU",
+      "url": "https://play.google.com/store/apps/details?id=app.fxroyalepro.com&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/AfoBgrkMO0AuX_TTDCdUbdZDoPfs-TDJo2d21XU__n1kYZq_-xjkn2R7LKefEg0k7J4",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-22T11:16:52.000Z",
+      "releaseDate": "2026-01-26T19:26:24.000Z",
       "genres": [
-        "Casual"
+        "Simulation"
       ],
       "country": "GN"
     },
@@ -958,14 +930,14 @@
       "country": "GN"
     },
     {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "id": "com.games.hexagon.odyssey.puzzle",
+      "name": "Hexa Merge: Tile Sort Puzzle",
+      "developer": "Adaric Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.games.hexagon.odyssey.puzzle&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/e530XJgrI0wXmQ7RlVhGGe5MXwSOg5tLk0ukWZwM6R6iOJorKgnnkORUI7C23zbGISv9",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T14:18:09.000Z",
+      "releaseDate": "2026-02-03T06:36:42.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1000,14 +972,28 @@
       "country": "GN"
     },
     {
-      "id": "com.gamovation.tileclub",
-      "name": "Tile Club - Match Puzzle Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
+      "id": "ball.sort.puzzle.color.bubble.games.magic",
+      "name": "Ball Sort Magic - Puzzle Game",
+      "developer": "Passion Fruit Joy",
+      "url": "https://play.google.com/store/apps/details?id=ball.sort.puzzle.color.bubble.games.magic&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/2LFoNpVRsnkG8xrDMUN5y-ZZymdRwjIfeYXHdBirrVW_kkqtAO1FPYVWpf42mZ_XIg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-07T10:41:36.000Z",
+      "releaseDate": "2026-01-22T11:16:52.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "GN"
+    },
+    {
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T14:18:09.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1022,6 +1008,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-05T19:06:20.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "GN"
+    },
+    {
+      "id": "com.gamovation.tileclub",
+      "name": "Tile Club - Match Puzzle Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-07T10:41:36.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1098,16 +1098,16 @@
       "country": "GN"
     },
     {
-      "id": "com.gp.pilot.simulator.airplanegames",
-      "name": "Pilot Simulator: Airplane Game",
-      "developer": "GamePark",
-      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-27T12:54:07.000Z",
+      "releaseDate": "2025-10-22T00:32:35.000Z",
       "genres": [
-        "Simulation"
+        "Arcade"
       ],
       "country": "GN"
     },
@@ -1126,30 +1126,44 @@
       "country": "GN"
     },
     {
-      "id": "games.joker.drop.poly",
-      "name": "Drop Balls - Plink Balls",
-      "developer": "Joker Game",
-      "url": "https://play.google.com/store/apps/details?id=games.joker.drop.poly&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/it8s5rxO_VV0rM6hd9XTN1iPX5X5asm5gqe57IN2dh6jD5tk5-JZyPJVkM6rQG8NfR9m8qdd1IvbYzYchsvOJg",
+      "id": "com.gp.pilot.simulator.airplanegames",
+      "name": "Pilot Simulator: Airplane Game",
+      "developer": "GamePark",
+      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-30T09:39:45.000Z",
+      "releaseDate": "2025-10-27T12:54:07.000Z",
       "genres": [
-        "Casual"
+        "Simulation"
       ],
       "country": "GN"
     },
     {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "releaseDate": "2026-02-05T12:05:32.000Z",
       "genres": [
-        "Arcade"
+        "Simulation"
+      ],
+      "country": "GN"
+    },
+    {
+      "id": "com.imangi.templerun2",
+      "name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-19T12:00:17.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "GN"
     },
@@ -1164,20 +1178,6 @@
       "releaseDate": "2026-02-05T15:47:04.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "GN"
-    },
-    {
-      "id": "com.ghive.jeep.parking.car.free.game.master.apps",
-      "name": "Car Parking Games - Car Games",
-      "developer": "Frolics Simulation & Action Games",
-      "url": "https://play.google.com/store/apps/details?id=com.ghive.jeep.parking.car.free.game.master.apps&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/zDP8r3c09761UBRIPHjAvlkolz3bbMn0wLM4cZ4rY1WyMsdP1rg0S6QZV6jnFgyqksqt",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-24T13:20:53.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "GN"
     },
@@ -1210,44 +1210,16 @@
       "country": "GN"
     },
     {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
+      "id": "com.fxroyale.app",
+      "name": "Trading Arena-Crypto Simulator",
+      "developer": "Edusystems OU",
+      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T12:05:32.000Z",
+      "releaseDate": "2026-02-03T15:20:24.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "GN"
-    },
-    {
-      "id": "com.yottagames.gameofmafia",
-      "name": "The Grand Mafia",
-      "developer": "Phantix Games",
-      "url": "https://play.google.com/store/apps/details?id=com.yottagames.gameofmafia&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/BAfInphSBr3pZueXnrRNIX_0Qa1ir_hmQwEUaQytbVJ55z2FclwfgQtNwP8M12Xj1Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T09:39:55.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "GN"
-    },
-    {
-      "id": "com.imangi.templerun2",
-      "name": "Temple Run 2: Endless Escape",
-      "developer": "Imangi Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-19T12:00:17.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "GN"
     },
@@ -1266,30 +1238,30 @@
       "country": "GN"
     },
     {
-      "id": "com.fxroyale.app",
-      "name": "Trading Arena-Crypto Simulator",
-      "developer": "Edusystems OU",
-      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
+      "id": "games.joker.drop.poly",
+      "name": "Drop Balls - Plink Balls",
+      "developer": "Joker Game",
+      "url": "https://play.google.com/store/apps/details?id=games.joker.drop.poly&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/it8s5rxO_VV0rM6hd9XTN1iPX5X5asm5gqe57IN2dh6jD5tk5-JZyPJVkM6rQG8NfR9m8qdd1IvbYzYchsvOJg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T15:20:24.000Z",
+      "releaseDate": "2026-01-30T09:39:45.000Z",
       "genres": [
-        "Simulation"
+        "Casual"
       ],
       "country": "GN"
     },
     {
-      "id": "com.rioo.runnersubway",
-      "name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
+      "id": "com.yottagames.gameofmafia",
+      "name": "The Grand Mafia",
+      "developer": "Phantix Games",
+      "url": "https://play.google.com/store/apps/details?id=com.yottagames.gameofmafia&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/BAfInphSBr3pZueXnrRNIX_0Qa1ir_hmQwEUaQytbVJ55z2FclwfgQtNwP8M12Xj1Q",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-27T01:29:03.000Z",
+      "releaseDate": "2026-02-02T09:39:55.000Z",
       "genres": [
-        "Arcade"
+        "Strategy"
       ],
       "country": "GN"
     },
@@ -1308,14 +1280,42 @@
       "country": "GN"
     },
     {
-      "id": "com.puzzlegamesclassic.puzzlegame",
-      "name": "Puzzle Game",
-      "developer": "Block Puzzle Games 2018",
-      "url": "https://play.google.com/store/apps/details?id=com.puzzlegamesclassic.puzzlegame&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/HfuesTiHqmFhcF_4rBN5NOuqIQlVcbZ_-boo-Yj1DMtiKLkwm8aLlTRU04Flg5mIh2M",
+      "id": "com.rioo.runnersubway",
+      "name": "Subway Princess Runner",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-27T12:13:41.000Z",
+      "releaseDate": "2026-01-27T01:29:03.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "GN"
+    },
+    {
+      "id": "com.ghive.jeep.parking.car.free.game.master.apps",
+      "name": "Car Parking Games - Car Games",
+      "developer": "Frolics Simulation & Action Games",
+      "url": "https://play.google.com/store/apps/details?id=com.ghive.jeep.parking.car.free.game.master.apps&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/zDP8r3c09761UBRIPHjAvlkolz3bbMn0wLM4cZ4rY1WyMsdP1rg0S6QZV6jnFgyqksqt",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-24T13:20:53.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "GN"
+    },
+    {
+      "id": "com.gamincat.jigsolitaire",
+      "name": "Jigsolitaire",
+      "developer": "Gamincat",
+      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T04:25:54.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1336,58 +1336,44 @@
       "country": "GN"
     },
     {
-      "id": "com.gamincat.jigsolitaire",
-      "name": "Jigsolitaire",
-      "developer": "Gamincat",
-      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
+      "id": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
+      "name": "Ramp Car Games: GT Car Stunts",
+      "developer": "Fun Drive Games",
+      "url": "https://play.google.com/store/apps/details?id=com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/AkcgFr9M2qfIcp1fkrQS8Ny6Ludis4_fBO0_VvfdWLJtrRpu0O-2T1v4mn0b1t59yA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T04:25:54.000Z",
+      "releaseDate": "2025-11-17T10:26:09.000Z",
       "genres": [
-        "Puzzle"
+        "Strategy"
       ],
       "country": "GN"
     },
     {
-      "id": "com.rubygames.assassin",
-      "name": "Hunter Assassin",
-      "developer": "Ruby Games AS",
-      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
+      "id": "com.xgame.VehicleDriving3D",
+      "name": "Real Driving: Vehicle & Park",
+      "developer": "XGAME STUDIO",
+      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-08T14:09:08.000Z",
+      "releaseDate": "2026-01-23T06:55:58.000Z",
       "genres": [
-        "Action"
+        "Simulation"
       ],
       "country": "GN"
     },
     {
-      "id": "com.gamee.kingdom.royale.match3.blast.escape",
-      "name": "Kingdom Match: Royal Adventure",
-      "developer": "GameeStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.gamee.kingdom.royale.match3.blast.escape&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/_rC8deserIKuXMyraF54oN8DUXgJPq77yKwCJv9fV5EceRT7bDugNIhufiYKZOMjYqRWOcMknkj-tGtZmsCzRok",
+      "id": "com.sgs.real.gangster.mafia.vegas.theft.crime.simulator.game",
+      "name": "Gangster Games Crime Simulator",
+      "developer": "Stag Creations",
+      "url": "https://play.google.com/store/apps/details?id=com.sgs.real.gangster.mafia.vegas.theft.crime.simulator.game&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/XTnzR-CFAdVnQ0_hWVZLuP8QQvnXmRPhdATw2_HJ84BvjyNF47nbHGK51M6SOHo9jmhXrYYHC6Wp3cG78XHO2E4",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-30T10:40:06.000Z",
+      "releaseDate": "2026-01-10T10:21:28.000Z",
       "genres": [
-        "Casual"
-      ],
-      "country": "GN"
-    },
-    {
-      "id": "com.mobirix.airhockey",
-      "name": "Air Hockey Challenge",
-      "developer": "mobirix",
-      "url": "https://play.google.com/store/apps/details?id=com.mobirix.airhockey&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/mQVOywpoM-RklcYmwprO9uCbS8UTuoS2vCAzKnpdUlLsc1AfcqBK4v2lW2qoCnIyGg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T02:52:31.000Z",
-      "genres": [
-        "Sports"
+        "Strategy"
       ],
       "country": "GN"
     },
@@ -1402,6 +1388,20 @@
       "releaseDate": "2026-02-06T11:30:24.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "GN"
+    },
+    {
+      "id": "com.yottagames.mafiawar",
+      "name": "Mafia City",
+      "developer": "Phantix Games",
+      "url": "https://play.google.com/store/apps/details?id=com.yottagames.mafiawar&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/qngih5GqkoZgjQ6u9ETXhcIgdFg3FFvBaR6Ni7l8hSzSoRuugPdMIrYkgxdMg_-8pCU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T05:52:53.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "GN"
     }
