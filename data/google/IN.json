@@ -1,8 +1,36 @@
 {
   "country": "IN",
   "store": "google",
-  "updatedAt": "2026-02-09T18:08:17.591Z",
+  "updatedAt": "2026-02-10T08:35:37.755Z",
   "new": [
+    {
+      "id": "com.fcg.bakery.stack.maker.game",
+      "name": "Bakery Stack: Cooking Games",
+      "developer": "Fried Chicken Games",
+      "url": "https://play.google.com/store/apps/details?id=com.fcg.bakery.stack.maker.game&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/-YDrg68Jj5Tfn-GRa7IJ6zTGTRQMHq54CeVSanVzOtPG_S4Maod0lE04yYektOGhG3I",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T18:34:17.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.king.candycrushsaga",
+      "name": "Candy Crush Saga",
+      "developer": "King",
+      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/TLUeelx8wcpEzf3hoqeLxPs3ai1tdGtAZTIFkNqy3gbDp1NPpNFTOzSFJDvZ9narFS0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T15:36:05.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "IN"
+    },
     {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
@@ -674,34 +702,6 @@
         "Casual"
       ],
       "country": "IN"
-    },
-    {
-      "id": "com.fantasygo.xmaster",
-      "name": "Cricket Master",
-      "developer": "Iksita Technology Solutions",
-      "url": "https://play.google.com/store/apps/details?id=com.fantasygo.xmaster&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/JRJfOI0ON4M0-Zhwxdnmmp_7WW6pqOgA-X8Cleamz4B0ILqzzyNGXxwJ_I9FvUfNbkQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T10:21:21.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.easybrain.arrow.puzzle.game",
-      "name": "Arrow Puzzle - Tap Away Game",
-      "developer": "Easybrain",
-      "url": "https://play.google.com/store/apps/details?id=com.easybrain.arrow.puzzle.game&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/b--9J_VPY-VBj6ZAYDkXBZIni5JSi44_tFOeJ_HW3uVnxw1XNIkUvHF8qT9V6aLzyK_W4U5EAlDoofjjOfqWXQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T14:34:18.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "IN"
     }
   ],
   "updated": [
@@ -734,20 +734,6 @@
       "country": "IN"
     },
     {
-      "id": "com.miniclip.carrom",
-      "name": "Carrom Pool: Disc Game",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.carrom&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/f_WKxV7B_TwfeHKWK2upkTTg6AXLUOtjZgrNWjGn7nrSnUbgf3HNLMIZMR14YsjVfgQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T17:49:46.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "IN"
-    },
-    {
       "id": "com.miniclip.cricketleague",
       "name": "Cricket League",
       "developer": "Miniclip.com",
@@ -772,6 +758,20 @@
       "releaseDate": "2026-02-09T12:53:14.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.miniclip.carrom",
+      "name": "Carrom Pool: Disc Game",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.carrom&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/f_WKxV7B_TwfeHKWK2upkTTg6AXLUOtjZgrNWjGn7nrSnUbgf3HNLMIZMR14YsjVfgQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T17:49:46.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "IN"
     },
@@ -909,7 +909,7 @@
       "artwork": "https://play-lh.googleusercontent.com/TLUeelx8wcpEzf3hoqeLxPs3ai1tdGtAZTIFkNqy3gbDp1NPpNFTOzSFJDvZ9narFS0",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-26T10:38:29.000Z",
+      "releaseDate": "2026-02-09T15:36:05.000Z",
       "genres": [
         "Casual"
       ],
@@ -986,6 +986,20 @@
       "country": "IN"
     },
     {
+      "id": "com.fingersoft.hillclimb",
+      "name": "Hill Climb Racing",
+      "developer": "Fingersoft",
+      "url": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/N0UxhBVUmx8s7y3F7Kqre2AcpXyPDKAp8nHjiPPoOONc_sfugHCYMjBpbUKCMlK_XUs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T13:04:13.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "IN"
+    },
+    {
       "id": "com.ffgames.racingincar2",
       "name": "Racing in Car 2",
       "developer": "ckgames",
@@ -1010,20 +1024,6 @@
       "releaseDate": "2026-01-07T07:45:50.000Z",
       "genres": [
         "Strategy"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.fingersoft.hillclimb",
-      "name": "Hill Climb Racing",
-      "developer": "Fingersoft",
-      "url": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/N0UxhBVUmx8s7y3F7Kqre2AcpXyPDKAp8nHjiPPoOONc_sfugHCYMjBpbUKCMlK_XUs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T13:04:13.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "IN"
     },
@@ -1126,6 +1126,34 @@
       "country": "IN"
     },
     {
+      "id": "com.dvloper.granny",
+      "name": "Granny",
+      "developer": "DVloper",
+      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-01T14:35:20.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T14:18:09.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "IN"
+    },
+    {
       "id": "com.samishceo.slfloary",
       "name": "777 Slots Glory",
       "developer": "Let's Find X Int'l",
@@ -1140,16 +1168,16 @@
       "country": "IN"
     },
     {
-      "id": "com.dvloper.granny",
-      "name": "Granny",
-      "developer": "DVloper",
-      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
+      "id": "com.ti.jeep.driving.games.jeep.simulator.offroad.jeep",
+      "name": "SUV Jeep Driving Games 2024",
+      "developer": "Twins Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.ti.jeep.driving.games.jeep.simulator.offroad.jeep&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/fw8k1J8puXgd3NtrrHuQ75YmGlbpQttgWYagdUJi5sc8I0Sp97tdPFUgGGz0oCitR9c",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-01T14:35:20.000Z",
+      "releaseDate": "2025-10-14T12:46:14.000Z",
       "genres": [
-        "Arcade"
+        "Strategy"
       ],
       "country": "IN"
     },
@@ -1210,20 +1238,6 @@
       "country": "IN"
     },
     {
-      "id": "com.ti.jeep.driving.games.jeep.simulator.offroad.jeep",
-      "name": "SUV Jeep Driving Games 2024",
-      "developer": "Twins Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.ti.jeep.driving.games.jeep.simulator.offroad.jeep&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/fw8k1J8puXgd3NtrrHuQ75YmGlbpQttgWYagdUJi5sc8I0Sp97tdPFUgGGz0oCitR9c",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-14T12:46:14.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "IN"
-    },
-    {
       "id": "com.depths.survive.al",
       "name": "Depth Survival",
       "developer": "RP Suriya",
@@ -1238,16 +1252,16 @@
       "country": "IN"
     },
     {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "id": "com.vincentb.MobControl",
+      "name": "Mob Control",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T14:18:09.000Z",
+      "releaseDate": "2026-02-05T10:12:28.000Z",
       "genres": [
-        "Puzzle"
+        "Arcade"
       ],
       "country": "IN"
     },
@@ -1280,20 +1294,6 @@
       "country": "IN"
     },
     {
-      "id": "com.vincentb.MobControl",
-      "name": "Mob Control",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T10:12:28.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "IN"
-    },
-    {
       "id": "com.block.juggle",
       "name": "Block Blast!",
       "developer": "HungryStudio",
@@ -1322,16 +1322,16 @@
       "country": "IN"
     },
     {
-      "id": "com.v09.real.moto.bike.driving.racing.city.open.world",
-      "name": "Real Moto Driving Racing World",
-      "developer": "Racing Games - Make it for fun",
-      "url": "https://play.google.com/store/apps/details?id=com.v09.real.moto.bike.driving.racing.city.open.world&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/xQMaF79AUezz7GlAjqG9FkUvtSQhnCXekrURxT1bWP8cxXJhhYq9WPUS1gc3LKvxQg",
+      "id": "com.nautilus.realcricket",
+      "name": "Real Cricket™",
+      "developer": "KRAFTON, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.nautilus.realcricket&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/jSv6ZBqavvM1O6FXERCwh_bOkXKdYs1NCrr09yYMr7KpC1SJqRSoTvV5pXCbBkt1V-xvS4pwaneYMTBeOWaPxg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-19T02:30:02.000Z",
+      "releaseDate": "2026-02-04T12:07:50.000Z",
       "genres": [
-        "Racing"
+        "Sports"
       ],
       "country": "IN"
     },
@@ -1344,6 +1344,34 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2025-12-17T07:24:11.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.xgame.VehicleDriving3D",
+      "name": "Real Driving: Vehicle & Park",
+      "developer": "XGAME STUDIO",
+      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T06:55:58.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.v09.real.moto.bike.driving.racing.city.open.world",
+      "name": "Real Moto Driving Racing World",
+      "developer": "Racing Games - Make it for fun",
+      "url": "https://play.google.com/store/apps/details?id=com.v09.real.moto.bike.driving.racing.city.open.world&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/xQMaF79AUezz7GlAjqG9FkUvtSQhnCXekrURxT1bWP8cxXJhhYq9WPUS1gc3LKvxQg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-19T02:30:02.000Z",
       "genres": [
         "Racing"
       ],
@@ -1364,44 +1392,16 @@
       "country": "IN"
     },
     {
-      "id": "com.nautilus.realcricket",
-      "name": "Real Cricket™",
-      "developer": "KRAFTON, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.nautilus.realcricket&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/jSv6ZBqavvM1O6FXERCwh_bOkXKdYs1NCrr09yYMr7KpC1SJqRSoTvV5pXCbBkt1V-xvS4pwaneYMTBeOWaPxg",
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T12:07:50.000Z",
+      "releaseDate": "2026-02-03T19:50:09.000Z",
       "genres": [
-        "Sports"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.xgame.VehicleDriving3D",
-      "name": "Real Driving: Vehicle & Park",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T06:55:58.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.easybrain.arrow.puzzle.game",
-      "name": "Arrow Puzzle - Tap Away Game",
-      "developer": "Easybrain",
-      "url": "https://play.google.com/store/apps/details?id=com.easybrain.arrow.puzzle.game&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/b--9J_VPY-VBj6ZAYDkXBZIni5JSi44_tFOeJ_HW3uVnxw1XNIkUvHF8qT9V6aLzyK_W4U5EAlDoofjjOfqWXQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T14:34:18.000Z",
-      "genres": [
-        "Puzzle"
+        "Arcade"
       ],
       "country": "IN"
     }
