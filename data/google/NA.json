@@ -1,8 +1,22 @@
 {
   "country": "NA",
   "store": "google",
-  "updatedAt": "2026-02-09T21:07:32.149Z",
+  "updatedAt": "2026-02-10T11:40:36.194Z",
   "new": [
+    {
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T10:19:29.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "NA"
+    },
     {
       "id": "com.advant.streamer",
       "name": "Lamar - Idle Vlogger",
@@ -46,6 +60,34 @@
       "country": "NA"
     },
     {
+      "id": "com.king.candycrushsaga",
+      "name": "Candy Crush Saga",
+      "developer": "King",
+      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T15:36:05.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "NA"
+    },
+    {
+      "id": "com.geck.piano.cattiles.edm",
+      "name": "Piano Beat: Rush Tiles",
+      "developer": "Geckolor Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.geck.piano.cattiles.edm&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/hL4KteyfX56_XCH12a7_bSrxSY1b_s9Vs43b6VnwinkCsrKfusj_kZRzDmPnS-VE1g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T14:27:34.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "NA"
+    },
+    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -70,20 +112,6 @@
       "releaseDate": "2026-02-09T13:44:16.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "NA"
-    },
-    {
-      "id": "com.fingersoft.hillclimb",
-      "name": "Hill Climb Racing",
-      "developer": "Fingersoft",
-      "url": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/N0UxhBVUmx8s7y3F7Kqre2AcpXyPDKAp8nHjiPPoOONc_sfugHCYMjBpbUKCMlK_XUs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T13:04:13.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "NA"
     },
@@ -214,20 +242,6 @@
       "country": "NA"
     },
     {
-      "id": "com.fungames.sniper3d",
-      "name": "Sniper 3D：Gun Shooting Games",
-      "developer": "Wildlife Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.fungames.sniper3d&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/8gHksx7nW7IK09ThtTM_f1Pgjblh5to4-q9pdsJQMb2zxDZ7VnFObxaihhAr-_HBf6E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T12:29:47.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "NA"
-    },
-    {
       "id": "kidultlovin.word.zen",
       "name": "Zen Word® - Relax Puzzle Game",
       "developer": "Oakever Games",
@@ -336,20 +350,6 @@
       "releaseDate": "2026-02-05T12:05:32.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "NA"
-    },
-    {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T14:18:09.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "NA"
     },
@@ -965,7 +965,7 @@
       "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-26T10:38:29.000Z",
+      "releaseDate": "2026-02-09T15:36:05.000Z",
       "genres": [
         "Casual"
       ],
@@ -1014,20 +1014,6 @@
       "country": "NA"
     },
     {
-      "id": "com.millgame.alignit",
-      "name": "Align It - Morabaraba, Online",
-      "developer": "AlignIt Games",
-      "url": "https://play.google.com/store/apps/details?id=com.millgame.alignit&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/bIyKZ0NMuoVioX7zboZ0K-3SgrR64_jWU0GiE2I3mwB4uJ6u-mIjPbvsrZZrcZQW9Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-08T03:36:31.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "NA"
-    },
-    {
       "id": "water.sort.color.puzzle.offline.games",
       "name": "Water Sort! Color Sort Puzzle",
       "developer": "Bobodoo Game",
@@ -1038,6 +1024,20 @@
       "releaseDate": "2026-02-05T19:06:20.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "NA"
+    },
+    {
+      "id": "com.millgame.alignit",
+      "name": "Align It - Morabaraba, Online",
+      "developer": "AlignIt Games",
+      "url": "https://play.google.com/store/apps/details?id=com.millgame.alignit&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/bIyKZ0NMuoVioX7zboZ0K-3SgrR64_jWU0GiE2I3mwB4uJ6u-mIjPbvsrZZrcZQW9Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-08T03:36:31.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "NA"
     },
@@ -1126,20 +1126,6 @@
       "country": "NA"
     },
     {
-      "id": "com.ea.game.nfs14_row",
-      "name": "Need for Speed™ No Limits",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.game.nfs14_row&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/rDAmDCGhyX7FcXYJcR0QrcO04uWgdiQaiWw6oA3T93oK4Xq8qOof0-J_qtw2XFYpKg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-21T02:39:50.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "NA"
-    },
-    {
       "id": "com.WandaSoftware.TruckersofEurope3",
       "name": "Truckers of Europe 3",
       "developer": "Wanda Software",
@@ -1182,20 +1168,6 @@
       "country": "NA"
     },
     {
-      "id": "com.advant.streamer",
-      "name": "Lamar - Idle Vlogger",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T19:11:43.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "NA"
-    },
-    {
       "id": "com.sniper.shooter.wild.ssw",
       "name": "Sniper Shooter Wild",
       "developer": "Supersonic Studios LTD",
@@ -1210,6 +1182,20 @@
       "country": "NA"
     },
     {
+      "id": "com.ea.game.nfs14_row",
+      "name": "Need for Speed™ No Limits",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.game.nfs14_row&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/rDAmDCGhyX7FcXYJcR0QrcO04uWgdiQaiWw6oA3T93oK4Xq8qOof0-J_qtw2XFYpKg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-21T02:39:50.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "NA"
+    },
+    {
       "id": "com.oakever.tiletrip",
       "name": "Tile Explorer - Triple Match",
       "developer": "Oakever Games",
@@ -1217,7 +1203,7 @@
       "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T14:18:09.000Z",
+      "releaseDate": "2026-02-10T10:19:29.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1266,6 +1252,20 @@
       "country": "NA"
     },
     {
+      "id": "com.advant.streamer",
+      "name": "Lamar - Idle Vlogger",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T19:11:43.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "NA"
+    },
+    {
       "id": "com.outfit7.mytalkingtom2",
       "name": "My Talking Tom 2: Pet Game",
       "developer": "Outfit7 Limited",
@@ -1294,6 +1294,20 @@
       "country": "NA"
     },
     {
+      "id": "com.fgol.HungrySharkEvolution",
+      "name": "Hungry Shark Evolution",
+      "developer": "Ubisoft Entertainment",
+      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T02:24:08.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "NA"
+    },
+    {
       "id": "io.yarsa.games.ludo",
       "name": "Ludo",
       "developer": "Yarsa Games",
@@ -1318,20 +1332,6 @@
       "releaseDate": "2026-01-15T11:30:35.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "NA"
-    },
-    {
-      "id": "com.fgol.HungrySharkEvolution",
-      "name": "Hungry Shark Evolution",
-      "developer": "Ubisoft Entertainment",
-      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T02:24:08.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "NA"
     },
