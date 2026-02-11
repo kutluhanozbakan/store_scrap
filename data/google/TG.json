@@ -1,8 +1,22 @@
 {
   "country": "TG",
   "store": "google",
-  "updatedAt": "2026-02-10T15:22:22.892Z",
+  "updatedAt": "2026-02-11T06:10:57.355Z",
   "new": [
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=TG",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T15:11:38.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "TG"
+    },
     {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
@@ -196,20 +210,6 @@
       "releaseDate": "2026-02-06T16:47:11.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "TG"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=TG",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T16:35:27.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "TG"
     },
@@ -762,20 +762,6 @@
       "country": "TG"
     },
     {
-      "id": "com.ludo.king",
-      "name": "Ludo King®",
-      "developer": "Gametion",
-      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=TG",
-      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T13:44:16.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "TG"
-    },
-    {
       "id": "org.ppsspp.ppsspp",
       "name": "PPSSPP - PSP emulator",
       "developer": "Henrik Rydgård",
@@ -790,16 +776,16 @@
       "country": "TG"
     },
     {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=TG",
-      "artwork": "https://play-lh.googleusercontent.com/upYircnh6-mH07OxwtX7L0EPFd4_FNV71xd8w4gHiyLKopipJxwPzoupoQgpzgf8_Fk",
+      "id": "com.ludo.king",
+      "name": "Ludo King®",
+      "developer": "Gametion",
+      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=TG",
+      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T15:34:55.000Z",
+      "releaseDate": "2026-02-09T13:44:16.000Z",
       "genres": [
-        "Arcade"
+        "Board"
       ],
       "country": "TG"
     },
@@ -814,6 +800,20 @@
       "releaseDate": "2026-02-03T01:41:34.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "TG"
+    },
+    {
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=TG",
+      "artwork": "https://play-lh.googleusercontent.com/upYircnh6-mH07OxwtX7L0EPFd4_FNV71xd8w4gHiyLKopipJxwPzoupoQgpzgf8_Fk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T15:34:55.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "TG"
     },
@@ -846,20 +846,6 @@
       "country": "TG"
     },
     {
-      "id": "com.rioo.runnersubway",
-      "name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=TG",
-      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T01:29:03.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "TG"
-    },
-    {
       "id": "com.cqqtudio.neo.zamani.android",
       "name": "NEO ZAMANI",
       "developer": "Ms khan",
@@ -884,6 +870,20 @@
       "releaseDate": "2026-01-27T17:01:42.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "TG"
+    },
+    {
+      "id": "com.rioo.runnersubway",
+      "name": "Subway Princess Runner",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=TG",
+      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T01:29:03.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "TG"
     },
@@ -916,30 +916,16 @@
       "country": "TG"
     },
     {
-      "id": "com.KillerBeanStudios.KillerBeanUnleashed",
-      "name": "Killer Bean Unleashed",
-      "developer": "Killer Bean Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.KillerBeanStudios.KillerBeanUnleashed&hl=en&gl=TG",
-      "artwork": "https://play-lh.googleusercontent.com/XdSQbC_NkY1XUlfTvyNNEkRXU9g68667dUc4L8Iqp6pAMojj64COFf8SDJ-Dh--wkZo",
+      "id": "jp.konami.pesam",
+      "name": "eFootball™",
+      "developer": "KONAMI",
+      "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=en&gl=TG",
+      "artwork": "https://play-lh.googleusercontent.com/o-iscF0u9uAm9jaems25nNUw3cIgxrzIELVTy-DPKb3CxN0_HLBcaWoeetZca_BBOp_u_NXeyQKz0nJkXiFMkA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-03T01:06:14.000Z",
+      "releaseDate": "2026-02-04T01:25:55.000Z",
       "genres": [
-        "Action"
-      ],
-      "country": "TG"
-    },
-    {
-      "id": "com.combineinc.streetracing.driftthreeD",
-      "name": "Street Racing 3D",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.combineinc.streetracing.driftthreeD&hl=en&gl=TG",
-      "artwork": "https://play-lh.googleusercontent.com/nM3nHVAK1oJIcU5BpjQMowaOuru_RNXwAb1y-BP6BGEwWTiAZvWrwPzMhrSfKzaGAHAf",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-27T09:42:57.000Z",
-      "genres": [
-        "Racing"
+        "Sports"
       ],
       "country": "TG"
     },
@@ -958,16 +944,30 @@
       "country": "TG"
     },
     {
-      "id": "jp.konami.pesam",
-      "name": "eFootball™",
-      "developer": "KONAMI",
-      "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=en&gl=TG",
-      "artwork": "https://play-lh.googleusercontent.com/o-iscF0u9uAm9jaems25nNUw3cIgxrzIELVTy-DPKb3CxN0_HLBcaWoeetZca_BBOp_u_NXeyQKz0nJkXiFMkA",
+      "id": "com.combineinc.streetracing.driftthreeD",
+      "name": "Street Racing 3D",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.combineinc.streetracing.driftthreeD&hl=en&gl=TG",
+      "artwork": "https://play-lh.googleusercontent.com/nM3nHVAK1oJIcU5BpjQMowaOuru_RNXwAb1y-BP6BGEwWTiAZvWrwPzMhrSfKzaGAHAf",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T01:25:55.000Z",
+      "releaseDate": "2025-11-27T09:42:57.000Z",
       "genres": [
-        "Sports"
+        "Racing"
+      ],
+      "country": "TG"
+    },
+    {
+      "id": "com.KillerBeanStudios.KillerBeanUnleashed",
+      "name": "Killer Bean Unleashed",
+      "developer": "Killer Bean Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.KillerBeanStudios.KillerBeanUnleashed&hl=en&gl=TG",
+      "artwork": "https://play-lh.googleusercontent.com/XdSQbC_NkY1XUlfTvyNNEkRXU9g68667dUc4L8Iqp6pAMojj64COFf8SDJ-Dh--wkZo",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-03T01:06:14.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "TG"
     },
@@ -1000,20 +1000,6 @@
       "country": "TG"
     },
     {
-      "id": "com.rubygames.assassin",
-      "name": "Hunter Assassin",
-      "developer": "Ruby Games AS",
-      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=TG",
-      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-08T14:09:08.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "TG"
-    },
-    {
       "id": "com.outfit7.mytalkingangelafree",
       "name": "My Talking Angela",
       "developer": "Outfit7 Limited",
@@ -1024,34 +1010,6 @@
       "releaseDate": "2025-12-10T11:12:26.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "TG"
-    },
-    {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=TG",
-      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T12:05:32.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "TG"
-    },
-    {
-      "id": "com.bandainamcogames.dbzdokkanww",
-      "name": "DRAGON BALL Z DOKKAN BATTLE",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.bandainamcogames.dbzdokkanww&hl=en&gl=TG",
-      "artwork": "https://play-lh.googleusercontent.com/Q17xFhLGPTxvlnX9vAk7aKF79AxvYNs-Ug9t-WLuISdfHkdFDEUdM5q22ShQAvvUXOYlpgkbPC0MaQXbiNtT",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-26T02:08:39.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "TG"
     },
@@ -1070,6 +1028,20 @@
       "country": "TG"
     },
     {
+      "id": "com.rubygames.assassin",
+      "name": "Hunter Assassin",
+      "developer": "Ruby Games AS",
+      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=TG",
+      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-08T14:09:08.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "TG"
+    },
+    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -1084,6 +1056,34 @@
       "country": "TG"
     },
     {
+      "id": "com.bandainamcogames.dbzdokkanww",
+      "name": "DRAGON BALL Z DOKKAN BATTLE",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.bandainamcogames.dbzdokkanww&hl=en&gl=TG",
+      "artwork": "https://play-lh.googleusercontent.com/Q17xFhLGPTxvlnX9vAk7aKF79AxvYNs-Ug9t-WLuISdfHkdFDEUdM5q22ShQAvvUXOYlpgkbPC0MaQXbiNtT",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-26T02:08:39.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "TG"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=TG",
+      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T12:05:32.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "TG"
+    },
+    {
       "id": "com.core.biggame.marble.android",
       "name": "Marble Match Origin",
       "developer": "LeisureLab Studios",
@@ -1094,20 +1094,6 @@
       "releaseDate": "2025-10-21T09:31:15.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "TG"
-    },
-    {
-      "id": "com.soccer.score.star",
-      "name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=TG",
-      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:32:33.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "TG"
     },
@@ -1154,20 +1140,6 @@
       "country": "TG"
     },
     {
-      "id": "com.dreamgames.royalmatch",
-      "name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=TG",
-      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T15:41:31.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "TG"
-    },
-    {
       "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
       "name": "Fashion Glow: Model & Style",
       "developer": "Dress Up Games for Girls",
@@ -1178,6 +1150,20 @@
       "releaseDate": "2026-01-14T08:31:08.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "TG"
+    },
+    {
+      "id": "com.dreamgames.royalmatch",
+      "name": "Royal Match",
+      "developer": "Dream Games, Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=TG",
+      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T15:41:31.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "TG"
     },
@@ -1196,6 +1182,20 @@
       "country": "TG"
     },
     {
+      "id": "com.soccer.score.star",
+      "name": "Soccer Superstar",
+      "developer": "Real Freestyle Soccer",
+      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=TG",
+      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T15:32:33.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "TG"
+    },
+    {
       "id": "ninja.creed2.sniper.real3d.action.free.android",
       "name": "Ninja's Creed 2: 3D FPS Game",
       "developer": "707 INTERACTIVE: Fun Epic Casual Games",
@@ -1206,20 +1206,6 @@
       "releaseDate": "2026-02-06T10:02:20.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "TG"
-    },
-    {
-      "id": "io.yarsa.games.ludo",
-      "name": "Ludo",
-      "developer": "Yarsa Games",
-      "url": "https://play.google.com/store/apps/details?id=io.yarsa.games.ludo&hl=en&gl=TG",
-      "artwork": "https://play-lh.googleusercontent.com/GP8H9ZbM-FWke-U-N9lGIRVqHX6l4ULTqVpilCKgicIw42D1qEVinQO0_KsFAIft1OEh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-01T14:06:00.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "TG"
     },
@@ -1238,16 +1224,16 @@
       "country": "TG"
     },
     {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=TG",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "id": "io.yarsa.games.ludo",
+      "name": "Ludo",
+      "developer": "Yarsa Games",
+      "url": "https://play.google.com/store/apps/details?id=io.yarsa.games.ludo&hl=en&gl=TG",
+      "artwork": "https://play-lh.googleusercontent.com/GP8H9ZbM-FWke-U-N9lGIRVqHX6l4ULTqVpilCKgicIw42D1qEVinQO0_KsFAIft1OEh",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "releaseDate": "2026-01-01T14:06:00.000Z",
       "genres": [
-        "Adventure"
+        "Board"
       ],
       "country": "TG"
     },
@@ -1266,6 +1252,20 @@
       "country": "TG"
     },
     {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=TG",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "TG"
+    },
+    {
       "id": "com.gamegou.football",
       "name": "Top Football Manager 2026",
       "developer": "Gamegou Limited",
@@ -1276,20 +1276,6 @@
       "releaseDate": "2026-01-26T11:03:22.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "TG"
-    },
-    {
-      "id": "com.ffgames.racingincar2",
-      "name": "Racing in Car 2",
-      "developer": "ckgames",
-      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=TG",
-      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-19T14:55:06.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "TG"
     },
@@ -1308,16 +1294,16 @@
       "country": "TG"
     },
     {
-      "id": "net.apex_designs.payback2",
-      "name": "Payback 2 - The Battle Sandbox",
-      "developer": "Apex Designs Games LLP",
-      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=TG",
-      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=TG",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-08-27T16:01:25.000Z",
+      "releaseDate": "2025-12-19T14:55:06.000Z",
       "genres": [
-        "Arcade"
+        "Racing"
       ],
       "country": "TG"
     },
@@ -1336,28 +1322,42 @@
       "country": "TG"
     },
     {
-      "id": "com.xgame.VehicleDriving3D",
-      "name": "Real Driving: Vehicle & Park",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=TG",
-      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
+      "id": "net.apex_designs.payback2",
+      "name": "Payback 2 - The Battle Sandbox",
+      "developer": "Apex Designs Games LLP",
+      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=TG",
+      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T06:55:58.000Z",
+      "releaseDate": "2025-08-27T16:01:25.000Z",
       "genres": [
-        "Simulation"
+        "Arcade"
       ],
       "country": "TG"
     },
     {
-      "id": "com.outfit7.mytalkingtom2",
-      "name": "My Talking Tom 2: Pet Game",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=TG",
-      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
+      "id": "com.gamincat.jigsolitaire",
+      "name": "Jigsolitaire",
+      "developer": "Gamincat",
+      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=TG",
+      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-14T12:55:59.000Z",
+      "releaseDate": "2026-02-09T08:53:04.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "TG"
+    },
+    {
+      "id": "com.king.candycrushsaga",
+      "name": "Candy Crush Saga",
+      "developer": "King",
+      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=TG",
+      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T09:34:49.000Z",
       "genres": [
         "Casual"
       ],
@@ -1378,6 +1378,20 @@
       "country": "TG"
     },
     {
+      "id": "com.outfit7.mytalkingtom2",
+      "name": "My Talking Tom 2: Pet Game",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=TG",
+      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-14T12:55:59.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "TG"
+    },
+    {
       "id": "com.block.juggle",
       "name": "Block Blast!",
       "developer": "HungryStudio",
@@ -1385,23 +1399,9 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T16:35:27.000Z",
+      "releaseDate": "2026-02-10T15:11:38.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "TG"
-    },
-    {
-      "id": "com.king.candycrushsaga",
-      "name": "Candy Crush Saga",
-      "developer": "King",
-      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=TG",
-      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T09:34:49.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "TG"
     }
