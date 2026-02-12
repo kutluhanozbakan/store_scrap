@@ -1,8 +1,36 @@
 {
   "country": "CA",
   "store": "google",
-  "updatedAt": "2026-02-12T11:56:17.202Z",
+  "updatedAt": "2026-02-12T22:49:31.357Z",
   "new": [
+    {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T17:29:32.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "CA"
+    },
+    {
+      "id": "com.playvalve.connect.dots",
+      "name": "Dot Link - Connect the Dots",
+      "developer": "Bluetile",
+      "url": "https://play.google.com/store/apps/details?id=com.playvalve.connect.dots&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/mxpiVfNqpKGLkgl6uVvLw15gCDQIqMRHdh_iLgLxPObkMJMOy4ra5O8i6RfRPFuxURx1",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T14:12:32.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CA"
+    },
     {
       "id": "com.iogame.gearworld",
       "name": "Gear Defenders",
@@ -14,6 +42,20 @@
       "releaseDate": "2026-02-12T10:57:56.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "CA"
+    },
+    {
+      "id": "com.tocaboca.tocalifeworld",
+      "name": "Toca Boca World",
+      "developer": "Toca Boca",
+      "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/UHryL-7W2yoA92NAfKpwoPIaW9N1u1hhTCtGkppyafgRfpKSYMS3bnoPmouHk1F0X5sHeoStf3cbD7_yCYBU4w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T10:51:42.000Z",
+      "genres": [
+        "Educational"
       ],
       "country": "CA"
     },
@@ -340,34 +382,6 @@
       "country": "CA"
     },
     {
-      "id": "com.flyingwhalegames.carout",
-      "name": "Car Out! Traffic Parking Games",
-      "developer": "Tripledot Studios Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.flyingwhalegames.carout&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/Z6KJAQTDqQzJaeisYfVVBvAGMznEFBNb0U229BpFgmm8nolXrvqZ7HQmoiUTjsY4esI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T09:50:19.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CA"
-    },
-    {
-      "id": "com.evodefensetd.gp",
-      "name": "Evo Defense: Merge TD",
-      "developer": "BLUE PLANET JOY",
-      "url": "https://play.google.com/store/apps/details?id=com.evodefensetd.gp&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/QkRZ3WvXcGOGC7gx_VefuVN5LH-qWQDy9ANsf4fQduDNuv9Cxinb2h6u0xY9Vr7c_YNxmil5msapn7yKzJwh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T08:23:36.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "CA"
-    },
-    {
       "id": "com.red.sortingstore.android",
       "name": "Water Match™- ASMR Water Sort",
       "developer": "Youyoutang Technology",
@@ -688,20 +702,6 @@
         "Casual"
       ],
       "country": "CA"
-    },
-    {
-      "id": "com.gogames.sandsout",
-      "name": "Beads Out",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.gogames.sandsout&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/xGdV7OkV948nErbepw4p0JjbRDVlpryb9Xc8ysucH1Nzbt7ah_Un2wA_lwIjTYjtPQVla2zZldXXej3tXkvp",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T19:29:02.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CA"
     }
   ],
   "updated": [
@@ -797,9 +797,23 @@
       "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T17:28:18.000Z",
+      "releaseDate": "2026-02-12T17:29:32.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "CA"
+    },
+    {
+      "id": "com.wood.block.sudoku.puzzle.bm",
+      "name": "Block Crush!",
+      "developer": "Wonderful  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T04:28:46.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "CA"
     },
@@ -828,20 +842,6 @@
       "releaseDate": "2026-02-10T14:00:03.000Z",
       "genres": [
         "Word"
-      ],
-      "country": "CA"
-    },
-    {
-      "id": "com.wood.block.sudoku.puzzle.bm",
-      "name": "Block Crush!",
-      "developer": "Wonderful  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T04:28:46.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "CA"
     },
@@ -888,20 +888,6 @@
       "country": "CA"
     },
     {
-      "id": "com.scopely.monopolygo",
-      "name": "MONOPOLY GO!",
-      "developer": "Scopely",
-      "url": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T18:57:52.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "CA"
-    },
-    {
       "id": "com.mergegames.gossipharbor",
       "name": "Gossip Harbor®: Merge & Story",
       "developer": "Microfun Limited",
@@ -930,6 +916,20 @@
       "country": "CA"
     },
     {
+      "id": "com.scopely.monopolygo",
+      "name": "MONOPOLY GO!",
+      "developer": "Scopely",
+      "url": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T18:57:52.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "CA"
+    },
+    {
       "id": "com.fun.funclicker.spoopy",
       "name": "Fun Clicker",
       "developer": "Amobear Game Publishing",
@@ -940,20 +940,6 @@
       "releaseDate": "2026-02-04T12:22:55.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "CA"
-    },
-    {
-      "id": "com.ast.grandmondial",
-      "name": "Grand Mondial Online",
-      "developer": "App Sprint Technologies",
-      "url": "https://play.google.com/store/apps/details?id=com.ast.grandmondial&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/_rnkZp_81WusQarRJC09ZTrfu0ajEYxZXeVaOjXGAO5DBnTFD1wMeRLzDON2_dm-4DB3",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-08-13T12:27:19.000Z",
-      "genres": [
-        "Casino"
       ],
       "country": "CA"
     },
@@ -986,6 +972,20 @@
       "country": "CA"
     },
     {
+      "id": "com.ast.grandmondial",
+      "name": "Grand Mondial Online",
+      "developer": "App Sprint Technologies",
+      "url": "https://play.google.com/store/apps/details?id=com.ast.grandmondial&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/_rnkZp_81WusQarRJC09ZTrfu0ajEYxZXeVaOjXGAO5DBnTFD1wMeRLzDON2_dm-4DB3",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-13T12:27:19.000Z",
+      "genres": [
+        "Casino"
+      ],
+      "country": "CA"
+    },
+    {
       "id": "com.arrow.out",
       "name": "Arrow Out",
       "developer": "Lion Studios Plus",
@@ -994,6 +994,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-04T06:12:02.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CA"
+    },
+    {
+      "id": "com.loomgames.pixelflow",
+      "name": "Pixel Flow!",
+      "developer": "Loom Games A.Ş.",
+      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T16:47:39.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1014,28 +1028,14 @@
       "country": "CA"
     },
     {
-      "id": "com.innersloth.spacemafia",
-      "name": "Among Us",
-      "developer": "Innersloth LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "id": "com.zm.blockaway",
+      "name": "Block Away - Tap Out Puzzle",
+      "developer": "Tripledot Studios Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.zm.blockaway&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/Zq-wLWkJZ7OonrQhny7D_Y3dOBcFBbhRwrtQoAbOiaycK85HNNHW94tjkmQ7QkHSkyE",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-10T22:11:03.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "CA"
-    },
-    {
-      "id": "com.loomgames.pixelflow",
-      "name": "Pixel Flow!",
-      "developer": "Loom Games A.Ş.",
-      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T16:47:39.000Z",
+      "releaseDate": "2026-02-05T13:13:39.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1056,34 +1056,6 @@
       "country": "CA"
     },
     {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T00:38:27.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "CA"
-    },
-    {
-      "id": "com.zm.blockaway",
-      "name": "Block Away - Tap Out Puzzle",
-      "developer": "Tripledot Studios Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.zm.blockaway&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/Zq-wLWkJZ7OonrQhny7D_Y3dOBcFBbhRwrtQoAbOiaycK85HNNHW94tjkmQ7QkHSkyE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T13:13:39.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CA"
-    },
-    {
       "id": "find.difference.spot.differences.hidden.puzzle.games.free",
       "name": "Differences - Find & Spot It",
       "developer": "Guru Puzzle Game",
@@ -1098,16 +1070,16 @@
       "country": "CA"
     },
     {
-      "id": "com.proximabeta.aoemobile",
-      "name": "Age of Empires Mobile",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.proximabeta.aoemobile&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/zp1t6IbS08x3V-NwrV2Wy4JjMDiqnxgOFoYRVtfLDJzGmy_JH1G1csjmg69geUAXnA",
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T02:53:56.000Z",
+      "releaseDate": "2026-02-12T00:38:27.000Z",
       "genres": [
-        "Strategy"
+        "Simulation"
       ],
       "country": "CA"
     },
@@ -1154,16 +1126,44 @@
       "country": "CA"
     },
     {
-      "id": "com.iogame.gearworld",
-      "name": "Gear Defenders",
-      "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.iogame.gearworld&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/Mfx1KraZT204_q6SU72F_NObvTzMUQHxwxocwi97aKvS_GWXmIIwVzCcXhOuFtFOvkj9POgeXrHjyTGXrI6Z",
+      "id": "com.solitairecard.relaxgame.classiccard",
+      "name": "Daily Classic Solitaire",
+      "developer": "A&E Game Innovations",
+      "url": "https://play.google.com/store/apps/details?id=com.solitairecard.relaxgame.classiccard&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/qQOYXa-UDBZ-txBoODT-YWfn6x7DiD7GbgYQtDo5X_tNxw-sdxQKVYmF2M__lBb2Uw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-12T10:57:56.000Z",
+      "releaseDate": "2026-01-31T03:11:35.000Z",
       "genres": [
-        "Casual"
+        "Card"
+      ],
+      "country": "CA"
+    },
+    {
+      "id": "com.innersloth.spacemafia",
+      "name": "Among Us",
+      "developer": "Innersloth LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-10T22:11:03.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "CA"
+    },
+    {
+      "id": "com.proximabeta.aoemobile",
+      "name": "Age of Empires Mobile",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.proximabeta.aoemobile&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/zp1t6IbS08x3V-NwrV2Wy4JjMDiqnxgOFoYRVtfLDJzGmy_JH1G1csjmg69geUAXnA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T02:53:56.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "CA"
     },
@@ -1182,20 +1182,6 @@
       "country": "CA"
     },
     {
-      "id": "com.solitairecard.relaxgame.classiccard",
-      "name": "Daily Classic Solitaire",
-      "developer": "A&E Game Innovations",
-      "url": "https://play.google.com/store/apps/details?id=com.solitairecard.relaxgame.classiccard&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/qQOYXa-UDBZ-txBoODT-YWfn6x7DiD7GbgYQtDo5X_tNxw-sdxQKVYmF2M__lBb2Uw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-31T03:11:35.000Z",
-      "genres": [
-        "Card"
-      ],
-      "country": "CA"
-    },
-    {
       "id": "defense.roguelike.cell.shoot.survivor",
       "name": "Cell Survivor",
       "developer": "Snap Brain Games",
@@ -1206,20 +1192,6 @@
       "releaseDate": "2026-02-10T15:03:35.000Z",
       "genres": [
         "Role Playing"
-      ],
-      "country": "CA"
-    },
-    {
-      "id": "com.innplaylabs.animalkingdomraid",
-      "name": "Animals & Coins: Animal Run",
-      "developer": "Innplay Labs",
-      "url": "https://play.google.com/store/apps/details?id=com.innplaylabs.animalkingdomraid&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/Sb1d2UX3-EXpeW8o5dKBSMOKRTWC2qCMVS1zeFXsmhPFOCIf-dReUCXVF9bPNJkh_m6z",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T15:10:29.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "CA"
     },
@@ -1238,20 +1210,6 @@
       "country": "CA"
     },
     {
-      "id": "com.red.arrows.android",
-      "name": "Arrowscapes™ - Arrows Puzzle",
-      "developer": "Beijing Youyoutang Technology Co.,ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.red.arrows.android&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/sLclRCwg48GnYDGbqUFSDXXUDtx1VwFhKy0eNadH3EUn5DccgwDn1GFSwJXV0RrIQNQq",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T04:02:08.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "CA"
-    },
-    {
       "id": "com.oculus.twilight",
       "name": "Meta Horizon",
       "developer": "Meta Platforms Inc",
@@ -1266,16 +1224,30 @@
       "country": "CA"
     },
     {
-      "id": "com.efun.euklqb",
-      "name": "Skull Up",
-      "developer": "Efun Game Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.efun.euklqb&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/Hs3ksIWdDxq9McQYMBUnfVQMdD1_1tP4R8PUsXDa0BECSf7rcc8xkh8A5J4fqhmLx--DHdQNJ6LEbLkHLersAQ",
+      "id": "com.iogame.gearworld",
+      "name": "Gear Defenders",
+      "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.iogame.gearworld&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/Mfx1KraZT204_q6SU72F_NObvTzMUQHxwxocwi97aKvS_GWXmIIwVzCcXhOuFtFOvkj9POgeXrHjyTGXrI6Z",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T06:12:27.000Z",
+      "releaseDate": "2026-02-12T10:57:56.000Z",
       "genres": [
-        "Card"
+        "Casual"
+      ],
+      "country": "CA"
+    },
+    {
+      "id": "com.red.arrows.android",
+      "name": "Arrowscapes™ - Arrows Puzzle",
+      "developer": "Beijing Youyoutang Technology Co.,ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.red.arrows.android&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/sLclRCwg48GnYDGbqUFSDXXUDtx1VwFhKy0eNadH3EUn5DccgwDn1GFSwJXV0RrIQNQq",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T04:02:08.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "CA"
     },
@@ -1288,20 +1260,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-11T13:19:01.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CA"
-    },
-    {
-      "id": "com.dreamgames.royalmatch",
-      "name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T15:41:31.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1322,44 +1280,44 @@
       "country": "CA"
     },
     {
-      "id": "com.tocaboca.tocalifeworld",
-      "name": "Toca Boca World",
-      "developer": "Toca Boca",
-      "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/UHryL-7W2yoA92NAfKpwoPIaW9N1u1hhTCtGkppyafgRfpKSYMS3bnoPmouHk1F0X5sHeoStf3cbD7_yCYBU4w",
+      "id": "com.efun.euklqb",
+      "name": "Skull Up",
+      "developer": "Efun Game Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.efun.euklqb&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/Hs3ksIWdDxq9McQYMBUnfVQMdD1_1tP4R8PUsXDa0BECSf7rcc8xkh8A5J4fqhmLx--DHdQNJ6LEbLkHLersAQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T13:05:04.000Z",
+      "releaseDate": "2026-02-03T06:12:27.000Z",
       "genres": [
-        "Educational"
+        "Card"
       ],
       "country": "CA"
     },
     {
-      "id": "hidden.object.find.seek.search.mystery.puzzle.games.free",
-      "name": "Hidden Object Games: Seek It",
-      "developer": "NimbleMind Network Inc.",
-      "url": "https://play.google.com/store/apps/details?id=hidden.object.find.seek.search.mystery.puzzle.games.free&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/jrJoqH7cUwbJNuBvRUGxvTwmfpOPm0wHOygyMBxse5hjPwmbyduNziFWYDZS7Zj4qHBS",
+      "id": "com.dreamgames.royalmatch",
+      "name": "Royal Match",
+      "developer": "Dream Games, Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T03:15:26.000Z",
+      "releaseDate": "2026-01-30T15:41:31.000Z",
       "genres": [
         "Puzzle"
       ],
       "country": "CA"
     },
     {
-      "id": "ca.betty.app",
-      "name": "Betty Ontario: Slots Casino",
-      "developer": "Betty Canada",
-      "url": "https://play.google.com/store/apps/details?id=ca.betty.app&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/lgJdey4RlKTfQz0C5iWDTPSbKoKxvsfy5egSVRtX6PEREB2NbY83QlXxDftzZk6xNnnK_rSQ2XulS4liY3GU",
+      "id": "com.chess",
+      "name": "Chess - Play and Learn Online",
+      "developer": "Chess.com",
+      "url": "https://play.google.com/store/apps/details?id=com.chess&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/a7R5nyeaX8lIEWdBOxjlvbyq9LcFwh3XMvNtBPEKR3LPGgdvgGrec4sJwn8tUaaSkw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T13:43:37.000Z",
+      "releaseDate": "2026-02-11T13:18:04.000Z",
       "genres": [
-        "Casino"
+        "Board"
       ],
       "country": "CA"
     },
@@ -1378,6 +1336,34 @@
       "country": "CA"
     },
     {
+      "id": "com.innplaylabs.animalkingdomraid",
+      "name": "Animals & Coins: Animal Run",
+      "developer": "Innplay Labs",
+      "url": "https://play.google.com/store/apps/details?id=com.innplaylabs.animalkingdomraid&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/Sb1d2UX3-EXpeW8o5dKBSMOKRTWC2qCMVS1zeFXsmhPFOCIf-dReUCXVF9bPNJkh_m6z",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T15:10:29.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "CA"
+    },
+    {
+      "id": "ca.betty.app",
+      "name": "Betty Ontario: Slots Casino",
+      "developer": "Betty Canada",
+      "url": "https://play.google.com/store/apps/details?id=ca.betty.app&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/lgJdey4RlKTfQz0C5iWDTPSbKoKxvsfy5egSVRtX6PEREB2NbY83QlXxDftzZk6xNnnK_rSQ2XulS4liY3GU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T13:43:37.000Z",
+      "genres": [
+        "Casino"
+      ],
+      "country": "CA"
+    },
+    {
       "id": "com.unicostudio.braintest",
       "name": "Brain Test: Tricky Puzzles",
       "developer": "Unico Studio",
@@ -1392,16 +1378,30 @@
       "country": "CA"
     },
     {
-      "id": "com.chess",
-      "name": "Chess - Play and Learn Online",
-      "developer": "Chess.com",
-      "url": "https://play.google.com/store/apps/details?id=com.chess&hl=en&gl=CA",
-      "artwork": "https://play-lh.googleusercontent.com/a7R5nyeaX8lIEWdBOxjlvbyq9LcFwh3XMvNtBPEKR3LPGgdvgGrec4sJwn8tUaaSkw",
+      "id": "com.tocaboca.tocalifeworld",
+      "name": "Toca Boca World",
+      "developer": "Toca Boca",
+      "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/UHryL-7W2yoA92NAfKpwoPIaW9N1u1hhTCtGkppyafgRfpKSYMS3bnoPmouHk1F0X5sHeoStf3cbD7_yCYBU4w",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T13:18:04.000Z",
+      "releaseDate": "2026-02-12T10:51:42.000Z",
       "genres": [
-        "Board"
+        "Educational"
+      ],
+      "country": "CA"
+    },
+    {
+      "id": "hidden.object.find.seek.search.mystery.puzzle.games.free",
+      "name": "Hidden Object Games: Seek It",
+      "developer": "NimbleMind Network Inc.",
+      "url": "https://play.google.com/store/apps/details?id=hidden.object.find.seek.search.mystery.puzzle.games.free&hl=en&gl=CA",
+      "artwork": "https://play-lh.googleusercontent.com/jrJoqH7cUwbJNuBvRUGxvTwmfpOPm0wHOygyMBxse5hjPwmbyduNziFWYDZS7Zj4qHBS",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T03:15:26.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "CA"
     }
