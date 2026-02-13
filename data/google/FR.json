@@ -1,8 +1,22 @@
 {
   "country": "FR",
   "store": "google",
-  "updatedAt": "2026-02-13T14:24:14.661Z",
+  "updatedAt": "2026-02-13T23:44:18.135Z",
   "new": [
+    {
+      "id": "com.pc.sand.loop",
+      "name": "Sand Loop",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.pc.sand.loop&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/s6cmSYppHKc91Ni_UGiS8UHRFm0FcpYGt9JHjeillkrqjOlt8hOEcK5fkR-Jo68dnIN0TtPJa3Pboxp5P9YWsA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T18:17:11.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "FR"
+    },
     {
       "id": "com.cliffs.pro.cell.building.crazy.clever.craft",
       "name": "Block Crazy Robo World Craft",
@@ -11,7 +25,7 @@
       "artwork": "https://play-lh.googleusercontent.com/K3ncdCrbnHb-Po_gNuiJldSG7lfczGR0ZdFs3zoV28yTqPnzWQh07l2xI3rgMiIPsA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T11:03:40.000Z",
+      "releaseDate": "2026-02-13T16:33:18.000Z",
       "genres": [
         "Simulation"
       ],
@@ -386,7 +400,7 @@
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
       "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/IHBNszxS4-19qbvbXMs2J_G6JccF-wQWBM-6e9C1P46fwXPUL8WDccXML3gPawaiIw",
+      "artwork": "https://play-lh.googleusercontent.com/IpMIQt9oARB1yE1BaFtFp9EkOw5nhb02KPMxzJCAGqHhPcVAgBOhhmjbgq2vR3yxrl8J",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-11T11:09:54.000Z",
@@ -688,20 +702,6 @@
         "Adventure"
       ],
       "country": "FR"
-    },
-    {
-      "id": "io.randomco.travel",
-      "name": "Travel Town - Merge Adventure",
-      "developer": "Magmatic Games LTD",
-      "url": "https://play.google.com/store/apps/details?id=io.randomco.travel&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/JUd09-Jkgctks6QibZBPeqnpPA-6A6nMXZqAW9Fa0MKOsolbvGKSXEnuq9nxiKNCFVOT",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T13:18:18.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "FR"
     }
   ],
   "updated": [
@@ -738,7 +738,7 @@
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
       "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/IHBNszxS4-19qbvbXMs2J_G6JccF-wQWBM-6e9C1P46fwXPUL8WDccXML3gPawaiIw",
+      "artwork": "https://play-lh.googleusercontent.com/IpMIQt9oARB1yE1BaFtFp9EkOw5nhb02KPMxzJCAGqHhPcVAgBOhhmjbgq2vR3yxrl8J",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-11T11:09:54.000Z",
@@ -846,20 +846,6 @@
       "country": "FR"
     },
     {
-      "id": "beats.color.sing.star.rush",
-      "name": "Magic Level 9 Music Piano Game",
-      "developer": "Beatwave Studio",
-      "url": "https://play.google.com/store/apps/details?id=beats.color.sing.star.rush&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/uIih37VSDcSfq-Fp2ve2BGmBSLGEVD_AZj1_dI7_GeJLUuHxh-sgNBCIPEt5Axt98T-x",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T03:16:32.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "FR"
-    },
-    {
       "id": "com.oakever.tiletrip",
       "name": "Tile Explorer - Triple Match",
       "developer": "Oakever Games",
@@ -902,6 +888,20 @@
       "country": "FR"
     },
     {
+      "id": "beats.color.sing.star.rush",
+      "name": "Magic Level 9 Music Piano Game",
+      "developer": "Beatwave Studio",
+      "url": "https://play.google.com/store/apps/details?id=beats.color.sing.star.rush&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/uIih37VSDcSfq-Fp2ve2BGmBSLGEVD_AZj1_dI7_GeJLUuHxh-sgNBCIPEt5Axt98T-x",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T03:16:32.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "FR"
+    },
+    {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -916,20 +916,6 @@
       "country": "FR"
     },
     {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T00:38:27.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "FR"
-    },
-    {
       "id": "com.dreamgames.royalmatch",
       "name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -940,6 +926,20 @@
       "releaseDate": "2026-01-30T15:41:31.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "FR"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T00:38:27.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "FR"
     },
@@ -972,30 +972,16 @@
       "country": "FR"
     },
     {
-      "id": "com.pixel.art.coloring.color.number",
-      "name": "Happy Color®: Color by Number",
-      "developer": "X-FLOW",
-      "url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/paB5-2s6q3uXd3nRE0-2QzCLeLklmemDepD0_Erald5YQUazuiOhMvJ8giFluMAX0w",
+      "id": "com.screenshake.dominodreams",
+      "name": "Domino Dreams™",
+      "developer": "SuperPlay.",
+      "url": "https://play.google.com/store/apps/details?id=com.screenshake.dominodreams&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/KPBcFtNGNn3cMtgFthtbrWL0COVs5bINj1aQYniBa6JxgI-FAkce2czhVONttEtLQXnfd0X5rHA6YGMHp3nfWw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-20T07:32:35.000Z",
+      "releaseDate": "2026-02-05T19:58:19.000Z",
       "genres": [
-        "Board"
-      ],
-      "country": "FR"
-    },
-    {
-      "id": "com.fatmerge.global",
-      "name": "Tasty Travels: Merge Game",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/eBK_Zz3fVbQFReaVyFJbj7VsJcUilWtdY6iEezlI5uULMPG_uLc6bTGgDR3uxrqKOlTI2HIefLl4R7khU13n6g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T02:48:45.000Z",
-      "genres": [
-        "Casual"
+        "Puzzle"
       ],
       "country": "FR"
     },
@@ -1014,16 +1000,30 @@
       "country": "FR"
     },
     {
-      "id": "com.screenshake.dominodreams",
-      "name": "Domino Dreams™",
-      "developer": "SuperPlay.",
-      "url": "https://play.google.com/store/apps/details?id=com.screenshake.dominodreams&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/KPBcFtNGNn3cMtgFthtbrWL0COVs5bINj1aQYniBa6JxgI-FAkce2czhVONttEtLQXnfd0X5rHA6YGMHp3nfWw",
+      "id": "com.fatmerge.global",
+      "name": "Tasty Travels: Merge Game",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/eBK_Zz3fVbQFReaVyFJbj7VsJcUilWtdY6iEezlI5uULMPG_uLc6bTGgDR3uxrqKOlTI2HIefLl4R7khU13n6g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T19:58:19.000Z",
+      "releaseDate": "2026-02-12T02:48:45.000Z",
       "genres": [
-        "Puzzle"
+        "Casual"
+      ],
+      "country": "FR"
+    },
+    {
+      "id": "com.pixel.art.coloring.color.number",
+      "name": "Happy Color®: Color by Number",
+      "developer": "X-FLOW",
+      "url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/paB5-2s6q3uXd3nRE0-2QzCLeLklmemDepD0_Erald5YQUazuiOhMvJ8giFluMAX0w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-20T07:32:35.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "FR"
     },
@@ -1112,6 +1112,20 @@
       "country": "FR"
     },
     {
+      "id": "find.difference.spot.differences.hidden.puzzle.games.free",
+      "name": "Differences - Find & Spot It",
+      "developer": "Guru Puzzle Game",
+      "url": "https://play.google.com/store/apps/details?id=find.difference.spot.differences.hidden.puzzle.games.free&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/RI6UJVRVGrNst-Z35o4IXsgkpVpUJNpceFNPLEsy-2nGZGxoedKv0-sNLsU_wX89cfM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T08:33:48.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "FR"
+    },
+    {
       "id": "com.supercell.brawlstars",
       "name": "Brawl Stars",
       "developer": "Supercell",
@@ -1126,14 +1140,14 @@
       "country": "FR"
     },
     {
-      "id": "find.difference.spot.differences.hidden.puzzle.games.free",
-      "name": "Differences - Find & Spot It",
-      "developer": "Guru Puzzle Game",
-      "url": "https://play.google.com/store/apps/details?id=find.difference.spot.differences.hidden.puzzle.games.free&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/RI6UJVRVGrNst-Z35o4IXsgkpVpUJNpceFNPLEsy-2nGZGxoedKv0-sNLsU_wX89cfM",
+      "id": "com.belkagames.ds",
+      "name": "Brilliant Sort: Diamond Puzzle",
+      "developer": "BELKA GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.belkagames.ds&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/HSSNfJojEaJlKQ36944fwxafzQAY9CwEe25Ak5pWdDkFHR_EfnuT_o8wdffgW80JlTJ4Nw1wM1YQRtVQtVMnQA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-10T08:33:48.000Z",
+      "releaseDate": "2026-02-11T14:51:50.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1150,20 +1164,6 @@
       "releaseDate": "2026-02-10T15:03:56.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "FR"
-    },
-    {
-      "id": "com.belkagames.ds",
-      "name": "Brilliant Sort: Diamond Puzzle",
-      "developer": "BELKA GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.belkagames.ds&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/HSSNfJojEaJlKQ36944fwxafzQAY9CwEe25Ak5pWdDkFHR_EfnuT_o8wdffgW80JlTJ4Nw1wM1YQRtVQtVMnQA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T14:51:50.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "FR"
     },
@@ -1280,6 +1280,20 @@
       "country": "FR"
     },
     {
+      "id": "com.loomgames.pixelflow",
+      "name": "Pixel Flow!",
+      "developer": "Loom Games A.Ş.",
+      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T18:06:07.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "FR"
+    },
+    {
       "id": "com.zm.blockaway",
       "name": "Block Away - Tap Out Puzzle",
       "developer": "Tripledot Studios Limited",
@@ -1308,20 +1322,6 @@
       "country": "FR"
     },
     {
-      "id": "com.loomgames.pixelflow",
-      "name": "Pixel Flow!",
-      "developer": "Loom Games A.Ş.",
-      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T18:06:07.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "FR"
-    },
-    {
       "id": "com.igg.android.lordsmobile",
       "name": "Lords Mobile: Kingdom Wars",
       "developer": "IGG.COM",
@@ -1332,6 +1332,20 @@
       "releaseDate": "2026-01-30T01:51:44.000Z",
       "genres": [
         "Strategy"
+      ],
+      "country": "FR"
+    },
+    {
+      "id": "com.gamincat.jigsolitaire",
+      "name": "Jigsolitaire",
+      "developer": "Gamincat",
+      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T08:53:04.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "FR"
     },
@@ -1350,20 +1364,6 @@
       "country": "FR"
     },
     {
-      "id": "com.higame.annoying.tricky.story.puzzle.game",
-      "name": "Tricky Prank: Brain Quest",
-      "developer": "HIGAME Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.higame.annoying.tricky.story.puzzle.game&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/c4GeGD2LgyBEKA6vUalFLxcbhS5rxsqrriNbKUErdyE4ZoxlLaksRGjMtsOHdnjrBrE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-26T11:11:09.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "FR"
-    },
-    {
       "id": "com.chess",
       "name": "Chess - Play and Learn Online",
       "developer": "Chess.com",
@@ -1378,6 +1378,20 @@
       "country": "FR"
     },
     {
+      "id": "math.puzzle.games.crossmath.number.puzzles.free",
+      "name": "Crossmath® - Math Puzzle Games",
+      "developer": "Guru Puzzle Game",
+      "url": "https://play.google.com/store/apps/details?id=math.puzzle.games.crossmath.number.puzzles.free&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/gZMoYCpjSwN_BJtwVM7f2UQASnQ0EUch1Ylpg3NaFvF-lq82gHdc1FoL1KucPtVXkQ5V",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T02:59:54.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "FR"
+    },
+    {
       "id": "io.voodoo.paper2",
       "name": "Paper.io 2",
       "developer": "VOODOO",
@@ -1388,20 +1402,6 @@
       "releaseDate": "2026-02-03T19:50:09.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "FR"
-    },
-    {
-      "id": "com.openmygame.games.android.jigsaw.solitaire.puzzle",
-      "name": "Cardscapes: Jigsaw Puzzle",
-      "developer": "Malpa Games",
-      "url": "https://play.google.com/store/apps/details?id=com.openmygame.games.android.jigsaw.solitaire.puzzle&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/vf8KzfHG1J7oCp9O-FoSNKMc-Gzjnhw4_7su1RsB4pdF6JARn3vy-xqhwqyj3nowJmdrN-HI0dHfg5vnMJc_ro8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T15:59:15.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "FR"
     }

@@ -1,8 +1,22 @@
 {
   "country": "GB",
   "store": "google",
-  "updatedAt": "2026-02-13T14:24:14.154Z",
+  "updatedAt": "2026-02-13T23:44:27.017Z",
   "new": [
+    {
+      "id": "com.pc.sand.loop",
+      "name": "Sand Loop",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.pc.sand.loop&hl=en&gl=GB",
+      "artwork": "https://play-lh.googleusercontent.com/s6cmSYppHKc91Ni_UGiS8UHRFm0FcpYGt9JHjeillkrqjOlt8hOEcK5fkR-Jo68dnIN0TtPJa3Pboxp5P9YWsA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T18:17:11.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "GB"
+    },
     {
       "id": "com.studio27.MelonPlayground",
       "name": "Melon Sandbox",
@@ -386,7 +400,7 @@
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
       "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=GB",
-      "artwork": "https://play-lh.googleusercontent.com/IHBNszxS4-19qbvbXMs2J_G6JccF-wQWBM-6e9C1P46fwXPUL8WDccXML3gPawaiIw",
+      "artwork": "https://play-lh.googleusercontent.com/IpMIQt9oARB1yE1BaFtFp9EkOw5nhb02KPMxzJCAGqHhPcVAgBOhhmjbgq2vR3yxrl8J",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-11T11:09:54.000Z",
@@ -688,20 +702,6 @@
         "Puzzle"
       ],
       "country": "GB"
-    },
-    {
-      "id": "com.miniclip.eightballpool",
-      "name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=GB",
-      "artwork": "https://play-lh.googleusercontent.com/KynesFnWXG0_n2FzoDEg2YKgKg4X0O4hhGPteugOS-qTbpsyYnvxMuby_fL2G-hsdbHs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T16:37:18.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "GB"
     }
   ],
   "updated": [
@@ -710,7 +710,7 @@
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
       "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=GB",
-      "artwork": "https://play-lh.googleusercontent.com/IHBNszxS4-19qbvbXMs2J_G6JccF-wQWBM-6e9C1P46fwXPUL8WDccXML3gPawaiIw",
+      "artwork": "https://play-lh.googleusercontent.com/IpMIQt9oARB1yE1BaFtFp9EkOw5nhb02KPMxzJCAGqHhPcVAgBOhhmjbgq2vR3yxrl8J",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-11T11:09:54.000Z",
@@ -958,16 +958,16 @@
       "country": "GB"
     },
     {
-      "id": "com.scopely.monopolygo",
-      "name": "MONOPOLY GO!",
-      "developer": "Scopely",
-      "url": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo&hl=en&gl=GB",
-      "artwork": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g",
+      "id": "com.grandgames.magicsort",
+      "name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort&hl=en&gl=GB",
+      "artwork": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T18:57:52.000Z",
+      "releaseDate": "2026-02-09T21:56:11.000Z",
       "genres": [
-        "Board"
+        "Puzzle"
       ],
       "country": "GB"
     },
@@ -986,16 +986,16 @@
       "country": "GB"
     },
     {
-      "id": "com.grandgames.magicsort",
-      "name": "Magic Sort!",
-      "developer": "Grand Games A.Ş.",
-      "url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort&hl=en&gl=GB",
-      "artwork": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
+      "id": "com.scopely.monopolygo",
+      "name": "MONOPOLY GO!",
+      "developer": "Scopely",
+      "url": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo&hl=en&gl=GB",
+      "artwork": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-09T21:56:11.000Z",
+      "releaseDate": "2026-02-11T18:57:52.000Z",
       "genres": [
-        "Puzzle"
+        "Board"
       ],
       "country": "GB"
     },
@@ -1042,20 +1042,6 @@
       "country": "GB"
     },
     {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=GB",
-      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T00:38:27.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "GB"
-    },
-    {
       "id": "com.pixel.art.coloring.color.number",
       "name": "Happy Color®: Color by Number",
       "developer": "X-FLOW",
@@ -1066,20 +1052,6 @@
       "releaseDate": "2026-01-20T07:32:35.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "GB"
-    },
-    {
-      "id": "com.robtopx.geometryjumplite",
-      "name": "Geometry Dash Lite",
-      "developer": "RobTop Games",
-      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=GB",
-      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T14:03:50.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "GB"
     },
@@ -1098,16 +1070,16 @@
       "country": "GB"
     },
     {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=GB",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "id": "com.monopoly.dream.idle.king",
+      "name": "Top Tycoon: Coin Theme Empire",
+      "developer": "BeheFun Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.monopoly.dream.idle.king&hl=en&gl=GB",
+      "artwork": "https://play-lh.googleusercontent.com/YSofgpw9fVAdL8ARICBntM6H2SchRLC7e-NYczRc-1I_gCQaN8U7y49ikrl3GfUYXW4",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-10T15:03:56.000Z",
+      "releaseDate": "2026-01-15T14:29:01.000Z",
       "genres": [
-        "Arcade"
+        "Simulation"
       ],
       "country": "GB"
     },
@@ -1126,16 +1098,30 @@
       "country": "GB"
     },
     {
-      "id": "com.monopoly.dream.idle.king",
-      "name": "Top Tycoon: Coin Theme Empire",
-      "developer": "BeheFun Games Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.monopoly.dream.idle.king&hl=en&gl=GB",
-      "artwork": "https://play-lh.googleusercontent.com/YSofgpw9fVAdL8ARICBntM6H2SchRLC7e-NYczRc-1I_gCQaN8U7y49ikrl3GfUYXW4",
+      "id": "com.robtopx.geometryjumplite",
+      "name": "Geometry Dash Lite",
+      "developer": "RobTop Games",
+      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=GB",
+      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-15T14:29:01.000Z",
+      "releaseDate": "2026-01-30T14:03:50.000Z",
       "genres": [
-        "Simulation"
+        "Arcade"
+      ],
+      "country": "GB"
+    },
+    {
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=GB",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T15:03:56.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "GB"
     },
@@ -1196,6 +1182,34 @@
       "country": "GB"
     },
     {
+      "id": "com.belkagames.ds",
+      "name": "Brilliant Sort: Diamond Puzzle",
+      "developer": "BELKA GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.belkagames.ds&hl=en&gl=GB",
+      "artwork": "https://play-lh.googleusercontent.com/HSSNfJojEaJlKQ36944fwxafzQAY9CwEe25Ak5pWdDkFHR_EfnuT_o8wdffgW80JlTJ4Nw1wM1YQRtVQtVMnQA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T14:51:50.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "GB"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=GB",
+      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T00:38:27.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "GB"
+    },
+    {
       "id": "com.pc.sand.loop",
       "name": "Sand Loop",
       "developer": "VOODOO",
@@ -1203,23 +1217,23 @@
       "artwork": "https://play-lh.googleusercontent.com/s6cmSYppHKc91Ni_UGiS8UHRFm0FcpYGt9JHjeillkrqjOlt8hOEcK5fkR-Jo68dnIN0TtPJa3Pboxp5P9YWsA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T14:52:12.000Z",
+      "releaseDate": "2026-02-13T18:17:11.000Z",
       "genres": [
         "Puzzle"
       ],
       "country": "GB"
     },
     {
-      "id": "com.tocaboca.tocalifeworld",
-      "name": "Toca Boca World",
-      "developer": "Toca Boca",
-      "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=en&gl=GB",
-      "artwork": "https://play-lh.googleusercontent.com/UHryL-7W2yoA92NAfKpwoPIaW9N1u1hhTCtGkppyafgRfpKSYMS3bnoPmouHk1F0X5sHeoStf3cbD7_yCYBU4w",
+      "id": "com.fc.goods.sort.matching.puzzle.triplemaster",
+      "name": "Goods Puzzle: Sort Challenge™",
+      "developer": "FALCON GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.fc.goods.sort.matching.puzzle.triplemaster&hl=en&gl=GB",
+      "artwork": "https://play-lh.googleusercontent.com/F4r_imTe0hKKnVfrOUxbS8oumI6LpU-UgFbOW0VHoYQ_FnrcXq0p3QRR96u5wNANm2A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-12T10:51:42.000Z",
+      "releaseDate": "2026-02-11T11:00:30.000Z",
       "genres": [
-        "Educational"
+        "Puzzle"
       ],
       "country": "GB"
     },
@@ -1252,6 +1266,34 @@
       "country": "GB"
     },
     {
+      "id": "kidultlovin.word.zen",
+      "name": "Zen Word® - Relax Puzzle Game",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=kidultlovin.word.zen&hl=en&gl=GB",
+      "artwork": "https://play-lh.googleusercontent.com/N8mUXzTWlnNuh3gXUuLH1ncQkcygBAuSGGmwv713e6I3Wit70WqEMIgPzbFSC_jn5LI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T10:04:05.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "GB"
+    },
+    {
+      "id": "com.tocaboca.tocalifeworld",
+      "name": "Toca Boca World",
+      "developer": "Toca Boca",
+      "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=en&gl=GB",
+      "artwork": "https://play-lh.googleusercontent.com/UHryL-7W2yoA92NAfKpwoPIaW9N1u1hhTCtGkppyafgRfpKSYMS3bnoPmouHk1F0X5sHeoStf3cbD7_yCYBU4w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T10:51:42.000Z",
+      "genres": [
+        "Educational"
+      ],
+      "country": "GB"
+    },
+    {
       "id": "com.innersloth.spacemafia",
       "name": "Among Us",
       "developer": "Innersloth LLC",
@@ -1262,34 +1304,6 @@
       "releaseDate": "2025-12-10T22:11:03.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "GB"
-    },
-    {
-      "id": "com.fc.goods.sort.matching.puzzle.triplemaster",
-      "name": "Goods Puzzle: Sort Challenge™",
-      "developer": "FALCON GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.fc.goods.sort.matching.puzzle.triplemaster&hl=en&gl=GB",
-      "artwork": "https://play-lh.googleusercontent.com/F4r_imTe0hKKnVfrOUxbS8oumI6LpU-UgFbOW0VHoYQ_FnrcXq0p3QRR96u5wNANm2A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T11:00:30.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "GB"
-    },
-    {
-      "id": "com.belkagames.ds",
-      "name": "Brilliant Sort: Diamond Puzzle",
-      "developer": "BELKA GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.belkagames.ds&hl=en&gl=GB",
-      "artwork": "https://play-lh.googleusercontent.com/HSSNfJojEaJlKQ36944fwxafzQAY9CwEe25Ak5pWdDkFHR_EfnuT_o8wdffgW80JlTJ4Nw1wM1YQRtVQtVMnQA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T14:51:50.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "GB"
     },
@@ -1308,16 +1322,16 @@
       "country": "GB"
     },
     {
-      "id": "kidultlovin.word.zen",
-      "name": "Zen Word® - Relax Puzzle Game",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=kidultlovin.word.zen&hl=en&gl=GB",
-      "artwork": "https://play-lh.googleusercontent.com/N8mUXzTWlnNuh3gXUuLH1ncQkcygBAuSGGmwv713e6I3Wit70WqEMIgPzbFSC_jn5LI",
+      "id": "ig.com.hot.pot.qdc",
+      "name": "Hotpot Flow: Food Games",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=ig.com.hot.pot.qdc&hl=en&gl=GB",
+      "artwork": "https://play-lh.googleusercontent.com/wy4-8vLbPov2utuXORrZKLhkYlDjhy4JRs8EgBa5zsEPsprLSVdeKKTO3haVBdJ0Q9kkeKMkPxmByOLCw_kh2Q",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T10:04:05.000Z",
+      "releaseDate": "2026-02-12T08:24:34.000Z",
       "genres": [
-        "Word"
+        "Puzzle"
       ],
       "country": "GB"
     },
@@ -1350,20 +1364,6 @@
       "country": "GB"
     },
     {
-      "id": "ig.com.hot.pot.qdc",
-      "name": "Hotpot Flow: Food Games",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=ig.com.hot.pot.qdc&hl=en&gl=GB",
-      "artwork": "https://play-lh.googleusercontent.com/wy4-8vLbPov2utuXORrZKLhkYlDjhy4JRs8EgBa5zsEPsprLSVdeKKTO3haVBdJ0Q9kkeKMkPxmByOLCw_kh2Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T08:24:34.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "GB"
-    },
-    {
       "id": "com.unicostudio.braintest",
       "name": "Brain Test: Tricky Puzzles",
       "developer": "Unico Studio",
@@ -1392,16 +1392,16 @@
       "country": "GB"
     },
     {
-      "id": "com.ttrockstars.app",
-      "name": "Times Tables Rock Stars",
-      "developer": "Maths Circle",
-      "url": "https://play.google.com/store/apps/details?id=com.ttrockstars.app&hl=en&gl=GB",
-      "artwork": "https://play-lh.googleusercontent.com/5oHfmoc1LQu2Ffg6OygNEx6LY8w0OFnQ4HqaSXF4eO2TqLL-9m7_wQ-0qjCexDf9Q_5k",
+      "id": "com.moonactive.coinmaster",
+      "name": "Coin Master",
+      "developer": "Moon Active",
+      "url": "https://play.google.com/store/apps/details?id=com.moonactive.coinmaster&hl=en&gl=GB",
+      "artwork": "https://play-lh.googleusercontent.com/lja_bcS9SXsaK4x_q0rXuiqf3CIIwfy8QveRWfW5MEaAPOST_auDLuzWMyMUrBzi0sI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-11-26T02:52:20.000Z",
+      "releaseDate": "2026-02-09T07:01:33.000Z",
       "genres": [
-        "Educational"
+        "Casual"
       ],
       "country": "GB"
     }
