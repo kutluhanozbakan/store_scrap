@@ -1,7 +1,7 @@
 {
   "country": "MY",
   "store": "google",
-  "updatedAt": "2026-02-14T05:55:09.106Z",
+  "updatedAt": "2026-02-14T13:54:13.462Z",
   "new": [
     {
       "id": "com.cliffs.pro.cell.building.crazy.clever.craft",
@@ -116,6 +116,20 @@
       "country": "MY"
     },
     {
+      "id": "com.pazugames.avatarworld",
+      "name": "Avatar World ®",
+      "developer": "Pazu Games",
+      "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld&hl=en&gl=MY",
+      "artwork": "https://play-lh.googleusercontent.com/LnX6GD073ysfflkl2jX8NBcDxdG6ZV8xBkbo985dJgR2v2xdsKD6nIA-EtIl2cFwfHTPKaraLh4U4uq7iH1b",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T17:27:50.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "MY"
+    },
+    {
       "id": "com.easygames.race",
       "name": "Race Master 3D: Car Racing",
       "developer": "Beresnev Games",
@@ -154,6 +168,20 @@
       "releaseDate": "2026-02-12T14:43:49.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "MY"
+    },
+    {
+      "id": "com.craftsman.go.craft",
+      "name": "Craftsman Pro: Building Craft",
+      "developer": "StarGame14",
+      "url": "https://play.google.com/store/apps/details?id=com.craftsman.go.craft&hl=en&gl=MY",
+      "artwork": "https://play-lh.googleusercontent.com/bEp6u92JPR8Xu4tuVMie5zvfWMKuziWotOULNRl7TgIocaoQvqV4FJj60u-ePT7CaRiR85JoTlNhbExeCcJeOVc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T13:48:29.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "MY"
     },
@@ -674,34 +702,6 @@
         "Simulation"
       ],
       "country": "MY"
-    },
-    {
-      "id": "com.moonstep.artpuzzle",
-      "name": "Art Block Puzzle: Snap & Merge",
-      "developer": "Moonstep Games",
-      "url": "https://play.google.com/store/apps/details?id=com.moonstep.artpuzzle&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/EzAX9a07314u8t1G3_0LmTL35uJd7jnjcMu5B9tIHlOHGyL2zOPCD3dUb4JCLfWJtUHV3s-yiERZf7FHYYTkS9A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-07T12:38:37.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MY"
-    },
-    {
-      "id": "com.metax.prison.escape.obby.parkour",
-      "name": "Prison Escape: 3D Obby Parkour",
-      "developer": "Metagame.Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.metax.prison.escape.obby.parkour&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/23Gtn025AfVsBJRMwzqs3yiGRYmOqYLQw12RldeUeKfKmG-tjHc1_Lr-QP2xi-TXTmM-",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-07T03:55:59.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "MY"
     }
   ],
   "updated": [
@@ -730,20 +730,6 @@
       "releaseDate": "2026-02-12T17:29:32.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "MY"
-    },
-    {
-      "id": "com.fun.funclicker.spoopy",
-      "name": "Fun Clicker",
-      "developer": "Amobear Game Publishing",
-      "url": "https://play.google.com/store/apps/details?id=com.fun.funclicker.spoopy&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/QEO7l6-8Vv7uc8PTp1E9qbX0LrroCljxc9HYXREaRlMpKCIdxV_UGHJvSgO9c7TVD7-FucNU8v6sz8zXUK3LDA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T12:22:55.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "MY"
     },
@@ -1396,12 +1382,26 @@
       "name": "Avatar World ®",
       "developer": "Pazu Games",
       "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/jJFyM3fX6KGvTJUim-_mcYVcVD4g2vPL-7X7KZl1v0ieWIxjgfJlKzKoDmV5MNyo91QiN2p7smNld27XzUiKmA",
+      "artwork": "https://play-lh.googleusercontent.com/LnX6GD073ysfflkl2jX8NBcDxdG6ZV8xBkbo985dJgR2v2xdsKD6nIA-EtIl2cFwfHTPKaraLh4U4uq7iH1b",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T15:32:26.000Z",
+      "releaseDate": "2026-02-12T17:27:50.000Z",
       "genres": [
         "Role Playing"
+      ],
+      "country": "MY"
+    },
+    {
+      "id": "jp.garud.ssimulator",
+      "name": "SAKURA School Simulator",
+      "developer": "GARUSOFT K.K.",
+      "url": "https://play.google.com/store/apps/details?id=jp.garud.ssimulator&hl=en&gl=MY",
+      "artwork": "https://play-lh.googleusercontent.com/kE2hDKCtPcpI8nR0UAGZ7x0tHJQXooY-54bMyar5H2G_Y8-1-VxpB111tAqVCxNn8g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T07:45:02.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "MY"
     }
