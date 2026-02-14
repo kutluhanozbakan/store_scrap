@@ -1,8 +1,22 @@
 {
   "country": "MZ",
   "store": "google",
-  "updatedAt": "2026-02-14T13:54:13.533Z",
+  "updatedAt": "2026-02-14T19:56:52.591Z",
   "new": [
+    {
+      "id": "com.andregal.android.poolbilliard",
+      "name": "Pool Billiards offline",
+      "developer": "Andregal",
+      "url": "https://play.google.com/store/apps/details?id=com.andregal.android.poolbilliard&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/prsJFxj_daaTKEn6F1sW2aSsMT-2dBe41HGx9J31jWd3xAPU2rTDBbm-tlLpWacmyyHF",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-14T17:33:38.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MZ"
+    },
     {
       "id": "com.taprun.fruitmanialine",
       "name": "Fruit Fancy",
@@ -182,6 +196,20 @@
       "releaseDate": "2026-02-12T15:07:40.000Z",
       "genres": [
         "Strategy"
+      ],
+      "country": "MZ"
+    },
+    {
+      "id": "com.hungrystudio.mahjong",
+      "name": "Double Tile!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T14:40:11.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "MZ"
     },
@@ -382,20 +410,6 @@
       "country": "MZ"
     },
     {
-      "id": "com.andregal.android.poolbilliard",
-      "name": "Pool Billiards offline",
-      "developer": "Andregal",
-      "url": "https://play.google.com/store/apps/details?id=com.andregal.android.poolbilliard&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/prsJFxj_daaTKEn6F1sW2aSsMT-2dBe41HGx9J31jWd3xAPU2rTDBbm-tlLpWacmyyHF",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-07T13:53:44.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MZ"
-    },
-    {
       "id": "com.sbg.car.driving.game.openworld.car.game",
       "name": "Advance Car Offline Game",
       "developer": "ShadowByte Games",
@@ -518,20 +532,6 @@
       "releaseDate": "2026-01-30T15:41:31.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "MZ"
-    },
-    {
-      "id": "com.ssi.bus.games.bus.simulator",
-      "name": "Real Bus Simulator : Bus Games",
-      "developer": "Solo Studio Inc",
-      "url": "https://play.google.com/store/apps/details?id=com.ssi.bus.games.bus.simulator&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/3jwfrNqNLgdtj3zS2-i0mMACBopCLRyNWdeyC2zUxFQbgKrOAbSjiILNGzfGzmIJaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T10:33:47.000Z",
-      "genres": [
-        "Strategy"
       ],
       "country": "MZ"
     },
@@ -776,20 +776,6 @@
       "country": "MZ"
     },
     {
-      "id": "ball.sort.color.puz.game.puzzle",
-      "name": "Ball Sort - Color Puz Game",
-      "developer": "Infinite Joy Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=ball.sort.color.puz.game.puzzle&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/4oeX8CJbwfvyeiz3G9gSDGUku7ilvOJxC3sDaDQGZUyBJKd60F12kxB1fQPE45W1Qgc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T09:39:56.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MZ"
-    },
-    {
       "id": "pl.lukok.draughts",
       "name": "Checkers Online",
       "developer": "CC  Games",
@@ -800,6 +786,20 @@
       "releaseDate": "2026-02-10T13:03:12.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "MZ"
+    },
+    {
+      "id": "ball.sort.color.puz.game.puzzle",
+      "name": "Ball Sort - Color Puz Game",
+      "developer": "Infinite Joy Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=ball.sort.color.puz.game.puzzle&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/4oeX8CJbwfvyeiz3G9gSDGUku7ilvOJxC3sDaDQGZUyBJKd60F12kxB1fQPE45W1Qgc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T09:39:56.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "MZ"
     },
@@ -846,16 +846,16 @@
       "country": "MZ"
     },
     {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "id": "com.dts.freefireth",
+      "name": "Free Fire x JUJUTSU KAISEN",
+      "developer": "GARENA INTERNATIONAL I",
+      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/-6LwMoL2ZWR3pl3s1fvwiYil-vrLS8q2n6Lg8rJ_I_uSAXtFD7OEO-KziVFxIlfuhezB7jsMYnf5COn4S1iu",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "releaseDate": "2026-02-04T06:43:26.000Z",
       "genres": [
-        "Sports"
+        "Action"
       ],
       "country": "MZ"
     },
@@ -874,20 +874,6 @@
       "country": "MZ"
     },
     {
-      "id": "com.dts.freefireth",
-      "name": "Free Fire x JUJUTSU KAISEN",
-      "developer": "GARENA INTERNATIONAL I",
-      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/-6LwMoL2ZWR3pl3s1fvwiYil-vrLS8q2n6Lg8rJ_I_uSAXtFD7OEO-KziVFxIlfuhezB7jsMYnf5COn4S1iu",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T06:43:26.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "MZ"
-    },
-    {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -898,6 +884,20 @@
       "releaseDate": "2026-02-11T16:20:35.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "MZ"
+    },
+    {
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "MZ"
     },
@@ -923,7 +923,7 @@
       "artwork": "https://play-lh.googleusercontent.com/prsJFxj_daaTKEn6F1sW2aSsMT-2dBe41HGx9J31jWd3xAPU2rTDBbm-tlLpWacmyyHF",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-07T13:53:44.000Z",
+      "releaseDate": "2026-02-14T17:33:38.000Z",
       "genres": [
         "Casual"
       ],
@@ -958,20 +958,6 @@
       "country": "MZ"
     },
     {
-      "id": "io.yarsa.games.ludo",
-      "name": "Ludo",
-      "developer": "Yarsa Games",
-      "url": "https://play.google.com/store/apps/details?id=io.yarsa.games.ludo&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/GP8H9ZbM-FWke-U-N9lGIRVqHX6l4ULTqVpilCKgicIw42D1qEVinQO0_KsFAIft1OEh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-01T14:06:00.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "MZ"
-    },
-    {
       "id": "com.gf.minibus.minicoach.game",
       "name": "Mini Bus Driving Simulator 3D",
       "developer": "Gamix Fusion",
@@ -986,16 +972,16 @@
       "country": "MZ"
     },
     {
-      "id": "com.combineinc.streetracing.driftthreeD",
-      "name": "Street Racing 3D",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.combineinc.streetracing.driftthreeD&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/nM3nHVAK1oJIcU5BpjQMowaOuru_RNXwAb1y-BP6BGEwWTiAZvWrwPzMhrSfKzaGAHAf",
+      "id": "io.yarsa.games.ludo",
+      "name": "Ludo",
+      "developer": "Yarsa Games",
+      "url": "https://play.google.com/store/apps/details?id=io.yarsa.games.ludo&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/GP8H9ZbM-FWke-U-N9lGIRVqHX6l4ULTqVpilCKgicIw42D1qEVinQO0_KsFAIft1OEh",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-11-27T09:42:57.000Z",
+      "releaseDate": "2026-01-01T14:06:00.000Z",
       "genres": [
-        "Racing"
+        "Board"
       ],
       "country": "MZ"
     },
@@ -1014,20 +1000,6 @@
       "country": "MZ"
     },
     {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/IpMIQt9oARB1yE1BaFtFp9EkOw5nhb02KPMxzJCAGqHhPcVAgBOhhmjbgq2vR3yxrl8J",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T11:09:54.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "MZ"
-    },
-    {
       "id": "com.ffgames.racingincar2",
       "name": "Racing in Car 2",
       "developer": "ckgames",
@@ -1038,6 +1010,34 @@
       "releaseDate": "2025-12-19T14:55:06.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "MZ"
+    },
+    {
+      "id": "com.combineinc.streetracing.driftthreeD",
+      "name": "Street Racing 3D",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.combineinc.streetracing.driftthreeD&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/nM3nHVAK1oJIcU5BpjQMowaOuru_RNXwAb1y-BP6BGEwWTiAZvWrwPzMhrSfKzaGAHAf",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-27T09:42:57.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "MZ"
+    },
+    {
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/IpMIQt9oARB1yE1BaFtFp9EkOw5nhb02KPMxzJCAGqHhPcVAgBOhhmjbgq2vR3yxrl8J",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T11:09:54.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "MZ"
     },
@@ -1070,20 +1070,6 @@
       "country": "MZ"
     },
     {
-      "id": "com.rioo.runnersubway",
-      "name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T01:29:03.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "MZ"
-    },
-    {
       "id": "com.gamovation.tileclub",
       "name": "Tile Club - Match Puzzle Game",
       "developer": "GamoVation",
@@ -1098,16 +1084,16 @@
       "country": "MZ"
     },
     {
-      "id": "jpark.AOS5",
-      "name": "Anger of stick 5 : zombie",
-      "developer": "Button E&M",
-      "url": "https://play.google.com/store/apps/details?id=jpark.AOS5&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/oO2C5Re7SMZvbOT_FM9CG6q4FglmBKCyygSkQ9_zEIC2DtV1d_OAmN9f703z9-hB59kH",
+      "id": "com.rioo.runnersubway",
+      "name": "Subway Princess Runner",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2024-12-16T04:24:00.000Z",
+      "releaseDate": "2026-01-27T01:29:03.000Z",
       "genres": [
-        "Action"
+        "Arcade"
       ],
       "country": "MZ"
     },
@@ -1126,6 +1112,20 @@
       "country": "MZ"
     },
     {
+      "id": "jpark.AOS5",
+      "name": "Anger of stick 5 : zombie",
+      "developer": "Button E&M",
+      "url": "https://play.google.com/store/apps/details?id=jpark.AOS5&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/oO2C5Re7SMZvbOT_FM9CG6q4FglmBKCyygSkQ9_zEIC2DtV1d_OAmN9f703z9-hB59kH",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2024-12-16T04:24:00.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "MZ"
+    },
+    {
       "id": "org.ppsspp.ppsspp",
       "name": "PPSSPP - PSP emulator",
       "developer": "Henrik Rydgård",
@@ -1136,20 +1136,6 @@
       "releaseDate": "2025-07-14T10:46:02.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "MZ"
-    },
-    {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "MZ"
     },
@@ -1168,30 +1154,16 @@
       "country": "MZ"
     },
     {
-      "id": "com.nextstep.fruitburstline",
-      "name": "Fruit Burst",
-      "developer": "TINY WINGS",
-      "url": "https://play.google.com/store/apps/details?id=com.nextstep.fruitburstline&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/keeo_hHkJYpdSlY9CSFyTdp6e9wgkLMo8x1cme7NVQLpFeaa6ezO4Bsft_VQnZz3Aw",
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T04:22:46.000Z",
+      "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
-        "Arcade"
-      ],
-      "country": "MZ"
-    },
-    {
-      "id": "com.fxroyale.app",
-      "name": "Trading Arena-Crypto Simulator",
-      "developer": "Edusystems OU",
-      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T15:20:24.000Z",
-      "genres": [
-        "Simulation"
+        "Adventure"
       ],
       "country": "MZ"
     },
@@ -1210,16 +1182,16 @@
       "country": "MZ"
     },
     {
-      "id": "com.igs.bus.simulator.bus.games",
-      "name": "Bus Simulator - 3D Bus Games",
-      "developer": "Innovative Gaming Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.igs.bus.simulator.bus.games&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/7wvk5zJNI--xrIkJlKZbuL9ixMHezfYPM8ajL2RyHR8ZL5FZbs_BdmzpULRtXAUxf48",
+      "id": "com.nextstep.fruitburstline",
+      "name": "Fruit Burst",
+      "developer": "TINY WINGS",
+      "url": "https://play.google.com/store/apps/details?id=com.nextstep.fruitburstline&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/keeo_hHkJYpdSlY9CSFyTdp6e9wgkLMo8x1cme7NVQLpFeaa6ezO4Bsft_VQnZz3Aw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-18T17:53:55.000Z",
+      "releaseDate": "2026-02-11T04:22:46.000Z",
       "genres": [
-        "Role Playing"
+        "Arcade"
       ],
       "country": "MZ"
     },
@@ -1238,6 +1210,20 @@
       "country": "MZ"
     },
     {
+      "id": "com.igs.bus.simulator.bus.games",
+      "name": "Bus Simulator - 3D Bus Games",
+      "developer": "Innovative Gaming Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.igs.bus.simulator.bus.games&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/7wvk5zJNI--xrIkJlKZbuL9ixMHezfYPM8ajL2RyHR8ZL5FZbs_BdmzpULRtXAUxf48",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-18T17:53:55.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "MZ"
+    },
+    {
       "id": "com.appsomniacs.da2",
       "name": "Mini Militia - War.io",
       "developer": "Miniclip.com",
@@ -1252,30 +1238,16 @@
       "country": "MZ"
     },
     {
-      "id": "com.chillingo.robberybobfree.android.row",
-      "name": "Robbery Bob - King of Sneak",
-      "developer": "Deca_Games",
-      "url": "https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/H3jfnH0UVoITHIsLUqrK5R-Gsw7_4sfzDdrND-uoZJAGQsYXCu20ccmnZcK74hYyGcY",
+      "id": "com.fxroyale.app",
+      "name": "Trading Arena-Crypto Simulator",
+      "developer": "Edusystems OU",
+      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-23T13:25:32.000Z",
+      "releaseDate": "2026-02-03T15:20:24.000Z",
       "genres": [
-        "Action"
-      ],
-      "country": "MZ"
-    },
-    {
-      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
-      "name": "Fashion Glow: Model & Style",
-      "developer": "Dress Up Games for Girls",
-      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-14T08:31:08.000Z",
-      "genres": [
-        "Casual"
+        "Simulation"
       ],
       "country": "MZ"
     },
@@ -1294,6 +1266,20 @@
       "country": "MZ"
     },
     {
+      "id": "com.chillingo.robberybobfree.android.row",
+      "name": "Robbery Bob - King of Sneak",
+      "developer": "Deca_Games",
+      "url": "https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/H3jfnH0UVoITHIsLUqrK5R-Gsw7_4sfzDdrND-uoZJAGQsYXCu20ccmnZcK74hYyGcY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-23T13:25:32.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "MZ"
+    },
+    {
       "id": "com.outfit7.mytalkingangela2",
       "name": "My Talking Angela 2",
       "developer": "Outfit7 Limited",
@@ -1302,6 +1288,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-13T12:24:27.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MZ"
+    },
+    {
+      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
+      "name": "Fashion Glow: Model & Style",
+      "developer": "Dress Up Games for Girls",
+      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-14T08:31:08.000Z",
       "genres": [
         "Casual"
       ],
@@ -1322,16 +1322,16 @@
       "country": "MZ"
     },
     {
-      "id": "com.freeplaysultanov.shootit",
-      "name": "Shoot Out: Gun Shooting Games",
-      "developer": "Freeplay Inc",
-      "url": "https://play.google.com/store/apps/details?id=com.freeplaysultanov.shootit&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/CTsQOaxdnNOeomvRHm9e_-_JWIOoEIzHti1l53cBHNUcgzL07xQMtr6c_NyhYwoapw",
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-28T23:00:16.000Z",
+      "releaseDate": "2026-02-13T03:44:46.000Z",
       "genres": [
-        "Action"
+        "Puzzle"
       ],
       "country": "MZ"
     },
@@ -1350,44 +1350,16 @@
       "country": "MZ"
     },
     {
-      "id": "ball.sort.puzzle.color.bubble.games.magic",
-      "name": "Ball Sort Magic - Puzzle Game",
-      "developer": "Passion Fruit Joy",
-      "url": "https://play.google.com/store/apps/details?id=ball.sort.puzzle.color.bubble.games.magic&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/2LFoNpVRsnkG8xrDMUN5y-ZZymdRwjIfeYXHdBirrVW_kkqtAO1FPYVWpf42mZ_XIg",
+      "id": "com.rubygames.assassin",
+      "name": "Hunter Assassin",
+      "developer": "Ruby Games AS",
+      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-22T11:16:52.000Z",
+      "releaseDate": "2026-02-08T14:09:08.000Z",
       "genres": [
-        "Casual"
-      ],
-      "country": "MZ"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T03:44:46.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MZ"
-    },
-    {
-      "id": "mz.co.explicador.androidapp",
-      "name": "Carta Fácil-MZ Sinais&Trânsito",
-      "developer": "Mawonelo Consultoria e Servicos E.I",
-      "url": "https://play.google.com/store/apps/details?id=mz.co.explicador.androidapp&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/4Tq3xI4Cl28ed9h0kni9LLqz_aodqr9CHPEGDGgn7-95IxL4w4soehcj8W0jUbEmNOI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T18:21:49.000Z",
-      "genres": [
-        "Educational"
+        "Action"
       ],
       "country": "MZ"
     },
@@ -1402,6 +1374,34 @@
       "releaseDate": "2026-01-13T08:00:37.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "MZ"
+    },
+    {
+      "id": "com.freeplaysultanov.shootit",
+      "name": "Shoot Out: Gun Shooting Games",
+      "developer": "Freeplay Inc",
+      "url": "https://play.google.com/store/apps/details?id=com.freeplaysultanov.shootit&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/CTsQOaxdnNOeomvRHm9e_-_JWIOoEIzHti1l53cBHNUcgzL07xQMtr6c_NyhYwoapw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T23:00:16.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "MZ"
+    },
+    {
+      "id": "ball.sort.puzzle.color.bubble.games.magic",
+      "name": "Ball Sort Magic - Puzzle Game",
+      "developer": "Passion Fruit Joy",
+      "url": "https://play.google.com/store/apps/details?id=ball.sort.puzzle.color.bubble.games.magic&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/2LFoNpVRsnkG8xrDMUN5y-ZZymdRwjIfeYXHdBirrVW_kkqtAO1FPYVWpf42mZ_XIg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-22T11:16:52.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "MZ"
     }
