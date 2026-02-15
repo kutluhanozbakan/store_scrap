@@ -1,8 +1,22 @@
 {
   "country": "MP",
   "store": "google",
-  "updatedAt": "2026-02-15T06:35:28.314Z",
+  "updatedAt": "2026-02-15T14:59:58.372Z",
   "new": [
+    {
+      "id": "com.gps.housemakeover.satisfying.clean",
+      "name": "House Makeover: ASMR Cleaning",
+      "developer": "Mad1 Games",
+      "url": "https://play.google.com/store/apps/details?id=com.gps.housemakeover.satisfying.clean&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/7y126KQrQEKp0Ba5tySSSyl9N30WrP0VQl0xQ4diTnqpoxohAAhoZvlTYeP0S8gOYQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-14T17:03:58.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MP"
+    },
     {
       "id": "com.cliffs.pro.cell.building.crazy.clever.craft",
       "name": "Block Crazy Robo World Craft",
@@ -140,20 +154,6 @@
       "releaseDate": "2026-02-12T17:27:50.000Z",
       "genres": [
         "Role Playing"
-      ],
-      "country": "MP"
-    },
-    {
-      "id": "com.easygames.race",
-      "name": "Race Master 3D: Car Racing",
-      "developer": "Beresnev Games",
-      "url": "https://play.google.com/store/apps/details?id=com.easygames.race&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/bvwfA5c4O9vHq-b6dXtnPSNtdSe7nWkKwNxP60lE_MNLMoIl4rV3t2743xJSlLFKYJQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T17:26:25.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "MP"
     },
@@ -382,20 +382,6 @@
       "country": "MP"
     },
     {
-      "id": "com.vincentb.MobControl",
-      "name": "Mob Control",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T10:21:55.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "MP"
-    },
-    {
       "id": "com.creations.runnergame",
       "name": "Kooply Run™: Play and Create!",
       "developer": "KOOPLY",
@@ -620,6 +606,20 @@
       "country": "MP"
     },
     {
+      "id": "com.wilds.craft.mysticland.explore",
+      "name": "Block Craft 3D: Realm Builder",
+      "developer": "Metagame.Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.wilds.craft.mysticland.explore&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/atgEBnDex2iZ3zknB3N5c4tBxJwT8NMrWTp0NXY7rYxk6DkDksRNddCm4E_832TI0w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T10:54:34.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MP"
+    },
+    {
       "id": "com.brain.logic.joygame",
       "name": "Brain Puzzle 2: Logic Twist",
       "developer": "JoyGame Studio",
@@ -818,20 +818,6 @@
       "country": "MP"
     },
     {
-      "id": "com.outfit7.mytalkingtom2",
-      "name": "My Talking Tom 2: Pet Game",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-14T12:55:59.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MP"
-    },
-    {
       "id": "com.candyroom.clubcraft",
       "name": "School Party Craft",
       "developer": "Candy Room Games & RabbitCo",
@@ -874,6 +860,20 @@
       "country": "MP"
     },
     {
+      "id": "com.outfit7.mytalkingtom2",
+      "name": "My Talking Tom 2: Pet Game",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-14T12:55:59.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MP"
+    },
+    {
       "id": "com.football.soccer.league",
       "name": "Football League 2026",
       "developer": "MOBILE SOCCER",
@@ -902,16 +902,16 @@
       "country": "MP"
     },
     {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "id": "com.Earthkwak.Platformer",
+      "name": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "releaseDate": "2025-11-26T09:16:49.000Z",
       "genres": [
-        "Sports"
+        "Adventure"
       ],
       "country": "MP"
     },
@@ -930,34 +930,6 @@
       "country": "MP"
     },
     {
-      "id": "com.fgol.HungrySharkEvolution",
-      "name": "Hungry Shark Evolution",
-      "developer": "Ubisoft Entertainment",
-      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T02:24:08.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "MP"
-    },
-    {
-      "id": "com.Earthkwak.Platformer",
-      "name": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-26T09:16:49.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "MP"
-    },
-    {
       "id": "com.tencent.ig",
       "name": "PUBG MOBILE",
       "developer": "Level Infinite",
@@ -968,6 +940,20 @@
       "releaseDate": "2025-12-29T01:31:07.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "MP"
+    },
+    {
+      "id": "com.fgol.HungrySharkEvolution",
+      "name": "Hungry Shark Evolution",
+      "developer": "Ubisoft Entertainment",
+      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T02:24:08.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "MP"
     },
@@ -1000,34 +986,6 @@
       "country": "MP"
     },
     {
-      "id": "com.cliffs.pro.cell.building.crazy.clever.craft",
-      "name": "Block Crazy Robo World Craft",
-      "developer": "Prokids Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.cliffs.pro.cell.building.crazy.clever.craft&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/K3ncdCrbnHb-Po_gNuiJldSG7lfczGR0ZdFs3zoV28yTqPnzWQh07l2xI3rgMiIPsA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-14T16:42:23.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MP"
-    },
-    {
-      "id": "com.king.candycrushsaga",
-      "name": "Candy Crush Saga",
-      "developer": "King",
-      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T09:34:49.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MP"
-    },
-    {
       "id": "com.youmusic.magictiles",
       "name": "Magic Tiles 3™ - Piano Game",
       "developer": "AMANOTES PTE. LTD.",
@@ -1038,6 +996,20 @@
       "releaseDate": "2026-02-10T09:38:01.000Z",
       "genres": [
         "Music"
+      ],
+      "country": "MP"
+    },
+    {
+      "id": "com.cliffs.pro.cell.building.crazy.clever.craft",
+      "name": "Block Crazy Robo World Craft",
+      "developer": "Prokids Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.cliffs.pro.cell.building.crazy.clever.craft&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/K3ncdCrbnHb-Po_gNuiJldSG7lfczGR0ZdFs3zoV28yTqPnzWQh07l2xI3rgMiIPsA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-14T16:42:23.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "MP"
     },
@@ -1056,6 +1028,20 @@
       "country": "MP"
     },
     {
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "MP"
+    },
+    {
       "id": "com.outfit7.mytalkingangela2",
       "name": "My Talking Angela 2",
       "developer": "Outfit7 Limited",
@@ -1066,48 +1052,6 @@
       "releaseDate": "2026-02-13T12:24:27.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "MP"
-    },
-    {
-      "id": "com.rubygames.assassin",
-      "name": "Hunter Assassin",
-      "developer": "Ruby Games AS",
-      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-08T14:09:08.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "MP"
-    },
-    {
-      "id": "com.gtsy.annoying.punch.game",
-      "name": "Annoying Uncle Punch Game",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T15:38:31.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MP"
-    },
-    {
-      "id": "com.flightsimulator.airplane3d.airportsimulator.airplane.flying",
-      "name": "Flight Simulator Airplane Game",
-      "developer": "HiveMind Games Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.flightsimulator.airplane3d.airportsimulator.airplane.flying&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/pIbpgw4g7bQIe6LWkHM1HUvmxG6RUw6SwAam31yRJ20V2QlJ_6adBrLcy0O2iUPiGHk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T12:53:14.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "MP"
     },
@@ -1126,16 +1070,16 @@
       "country": "MP"
     },
     {
-      "id": "com.puzzlegames.puzzlebrickslegend",
-      "name": "Color Block: Combo Blast",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.puzzlebrickslegend&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T09:36:13.000Z",
+      "releaseDate": "2026-01-23T15:38:31.000Z",
       "genres": [
-        "Puzzle"
+        "Simulation"
       ],
       "country": "MP"
     },
@@ -1154,16 +1098,16 @@
       "country": "MP"
     },
     {
-      "id": "com.miniclip.cricketleague",
-      "name": "Cricket League",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.cricketleague&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/QRDs1JqUoWqNSMb5vJJPGcOhsp3jdknEcPi8e-enFEOpkNZ5v-bGMvoO5hD-zlyjfag",
+      "id": "com.puzzlegames.puzzlebrickslegend",
+      "name": "Color Block: Combo Blast",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.puzzlebrickslegend&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-11-26T14:49:52.000Z",
+      "releaseDate": "2026-02-06T09:36:13.000Z",
       "genres": [
-        "Sports"
+        "Puzzle"
       ],
       "country": "MP"
     },
@@ -1178,6 +1122,76 @@
       "releaseDate": "2026-02-10T15:03:56.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "MP"
+    },
+    {
+      "id": "com.flightsimulator.airplane3d.airportsimulator.airplane.flying",
+      "name": "Flight Simulator Airplane Game",
+      "developer": "HiveMind Games Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.flightsimulator.airplane3d.airportsimulator.airplane.flying&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/pIbpgw4g7bQIe6LWkHM1HUvmxG6RUw6SwAam31yRJ20V2QlJ_6adBrLcy0O2iUPiGHk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T12:53:14.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MP"
+    },
+    {
+      "id": "com.miniclip.cricketleague",
+      "name": "Cricket League",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.cricketleague&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/QRDs1JqUoWqNSMb5vJJPGcOhsp3jdknEcPi8e-enFEOpkNZ5v-bGMvoO5hD-zlyjfag",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-26T14:49:52.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "MP"
+    },
+    {
+      "id": "com.fungames.blockcraft",
+      "name": "Block Craft 3D：Building Game",
+      "developer": "Wildlife Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/YOtXpivwnbn07ufEnrcX6W--s4FOK6qVMmxvhKkYZhQZzgjxAzy10DgvwlHhYzbHaF1Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T15:36:06.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "MP"
+    },
+    {
+      "id": "com.dreamgames.royalkingdom",
+      "name": "Royal Kingdom",
+      "developer": "Dream Games, Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T13:58:49.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MP"
+    },
+    {
+      "id": "com.king.candycrushsaga",
+      "name": "Candy Crush Saga",
+      "developer": "King",
+      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T09:34:49.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "MP"
     },
@@ -1210,48 +1224,6 @@
       "country": "MP"
     },
     {
-      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
-      "name": "Fashion Glow: Model & Style",
-      "developer": "Dress Up Games for Girls",
-      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/TjWsOWZUfR1wfkqdrFb1vsjDF2AYv1QExUiTL-d-YyYGJrzMjfZi9aVdLxW5r6Of28M",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-14T08:31:08.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MP"
-    },
-    {
-      "id": "com.fungames.blockcraft",
-      "name": "Block Craft 3D：Building Game",
-      "developer": "Wildlife Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/YOtXpivwnbn07ufEnrcX6W--s4FOK6qVMmxvhKkYZhQZzgjxAzy10DgvwlHhYzbHaF1Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:36:06.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "MP"
-    },
-    {
-      "id": "com.hitappsgames.wordsolitaire",
-      "name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games",
-      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.wordsolitaire&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/PrVcy5lS_K5t-HHnRoWSr4lwIWX-s-1mbsOYevHcmaMDfoTtT2blvfmN8vsOEvaG49W1fcJSiNdFYAq9rLWc2W8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T14:00:03.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "MP"
-    },
-    {
       "id": "com.ea.game.pvzfree_row",
       "name": "Plants vs. Zombies™",
       "developer": "ELECTRONIC ARTS",
@@ -1262,48 +1234,6 @@
       "releaseDate": "2025-12-15T07:00:21.000Z",
       "genres": [
         "Strategy"
-      ],
-      "country": "MP"
-    },
-    {
-      "id": "com.rioo.runnersubway",
-      "name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T01:29:03.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "MP"
-    },
-    {
-      "id": "com.dreamgames.royalkingdom",
-      "name": "Royal Kingdom",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T13:58:49.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MP"
-    },
-    {
-      "id": "com.Rohit.IndianBikes",
-      "name": "Indian Bikes Driving 3D",
-      "developer": "Rohit Gaming Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.Rohit.IndianBikes&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/HToouNPMRBSTbHD1swPV3nNx2BCPkquQnJHYFTEcjcmt5MbEEEBJrpeWDh7FZ8YssXw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T16:47:32.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "MP"
     },
@@ -1322,20 +1252,6 @@
       "country": "MP"
     },
     {
-      "id": "com.firsttouchgames.dls7",
-      "name": "Dream League Soccer 2026",
-      "developer": "First Touch Games Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T17:30:32.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "MP"
-    },
-    {
       "id": "com.aim.racing",
       "name": "Extreme Car Driving Simulator",
       "developer": "AxesInMotion Racing",
@@ -1346,6 +1262,34 @@
       "releaseDate": "2026-02-11T16:50:44.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "MP"
+    },
+    {
+      "id": "com.rioo.runnersubway",
+      "name": "Subway Princess Runner",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T01:29:03.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "MP"
+    },
+    {
+      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
+      "name": "Fashion Glow: Model & Style",
+      "developer": "Dress Up Games for Girls",
+      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/TjWsOWZUfR1wfkqdrFb1vsjDF2AYv1QExUiTL-d-YyYGJrzMjfZi9aVdLxW5r6Of28M",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-14T08:31:08.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "MP"
     },
@@ -1364,16 +1308,72 @@
       "country": "MP"
     },
     {
-      "id": "com.creations.runnergame",
-      "name": "Kooply Run™: Play and Create!",
-      "developer": "KOOPLY",
-      "url": "https://play.google.com/store/apps/details?id=com.creations.runnergame&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/hLEUT0aM-VNy24Bnh3jEQwLOVqEJc-Oq0SPM9VT-NvWMcGCG0of6K26cs9KlUKMt9tI",
+      "id": "com.rubygames.assassin",
+      "name": "Hunter Assassin",
+      "developer": "Ruby Games AS",
+      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T07:21:54.000Z",
+      "releaseDate": "2026-02-08T14:09:08.000Z",
       "genres": [
-        "Arcade"
+        "Action"
+      ],
+      "country": "MP"
+    },
+    {
+      "id": "com.Rohit.IndianBikes",
+      "name": "Indian Bikes Driving 3D",
+      "developer": "Rohit Gaming Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.Rohit.IndianBikes&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/HToouNPMRBSTbHD1swPV3nNx2BCPkquQnJHYFTEcjcmt5MbEEEBJrpeWDh7FZ8YssXw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T16:47:32.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MP"
+    },
+    {
+      "id": "com.dino.race.master",
+      "name": "Car Race",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-09T02:55:19.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "MP"
+    },
+    {
+      "id": "com.soccer.score.star",
+      "name": "Soccer Superstar",
+      "developer": "Real Freestyle Soccer",
+      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T15:32:33.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "MP"
+    },
+    {
+      "id": "com.ansangha.drdriving",
+      "name": "Dr. Driving",
+      "developer": "SUD Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-25T07:34:27.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "MP"
     },
@@ -1392,16 +1392,16 @@
       "country": "MP"
     },
     {
-      "id": "com.dino.race.master",
-      "name": "Car Race",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=MP",
-      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
+      "id": "com.sh.fidget.toys.mini.relaxing.antistress.games",
+      "name": "Mini Relaxing Game- pop it",
+      "developer": "stick hunter",
+      "url": "https://play.google.com/store/apps/details?id=com.sh.fidget.toys.mini.relaxing.antistress.games&hl=en&gl=MP",
+      "artwork": "https://play-lh.googleusercontent.com/uaUYUU88p8XAufLdsdXT6ZJGmJonR77icn9zREk9axgRPHIWhxkNhLDo7-EmUl2VY5E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-09T02:55:19.000Z",
+      "releaseDate": "2026-02-03T13:03:03.000Z",
       "genres": [
-        "Racing"
+        "Casual"
       ],
       "country": "MP"
     }
