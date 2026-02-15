@@ -1,7 +1,7 @@
 {
   "country": "LT",
   "store": "google",
-  "updatedAt": "2026-02-15T14:32:17.737Z",
+  "updatedAt": "2026-02-15T20:47:28.688Z",
   "new": [
     {
       "id": "com.vitastudio.mahjong",
@@ -33,6 +33,18 @@
       "developer": "Microfun Limited",
       "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor",
       "artwork": "https://play-lh.googleusercontent.com/xVIGbuFosD3kQ4D9iyRQGFjEy5stL8NODkfdeZ-o73q-APh-XKaHo2nMseGc1FeB138H3TeEoI0ew9Wca5-iJA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "LT"
+    },
+    {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -148,11 +160,11 @@
       "country": "LT"
     },
     {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "id": "com.axlebolt.standoff2",
+      "name": "Standoff 2",
+      "developer": "AXLEBOLT LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.axlebolt.standoff2",
+      "artwork": "https://play-lh.googleusercontent.com/VpUP8AqSRB-R_uusCh1jeQLa2LRyqPB3Vb_9tY9O8Y-2wzJvtwwrZWWhP0xxTuFf5bpz-DP6LrdcYOc-KjIdOA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -160,11 +172,11 @@
       "country": "LT"
     },
     {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -196,18 +208,6 @@
       "country": "LT"
     },
     {
-      "id": "com.hitappsgames.wordsolitaire",
-      "name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games",
-      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.wordsolitaire",
-      "artwork": "https://play-lh.googleusercontent.com/PrVcy5lS_K5t-HHnRoWSr4lwIWX-s-1mbsOYevHcmaMDfoTtT2blvfmN8vsOEvaG49W1fcJSiNdFYAq9rLWc2W8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "LT"
-    },
-    {
       "id": "com.ua.online",
       "name": "UA Online",
       "developer": "UAOnline",
@@ -220,11 +220,35 @@
       "country": "LT"
     },
     {
+      "id": "com.hitappsgames.wordsolitaire",
+      "name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games",
+      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.wordsolitaire",
+      "artwork": "https://play-lh.googleusercontent.com/PrVcy5lS_K5t-HHnRoWSr4lwIWX-s-1mbsOYevHcmaMDfoTtT2blvfmN8vsOEvaG49W1fcJSiNdFYAq9rLWc2W8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "LT"
+    },
+    {
       "id": "com.supercell.brawlstars",
       "name": "Brawl Stars",
       "developer": "Supercell",
       "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
       "artwork": "https://play-lh.googleusercontent.com/tYB_jWhdJuauLSPJ7LVj_5dUq6g_eQwj2wPNG9jFN78zKbDqMNfnEU2fUGiDQtYAy0yHn4SMnaF0lhanJpm0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "LT"
+    },
+    {
+      "id": "com.monopoly.dream.idle.king",
+      "name": "Top Tycoon: Coin Theme Empire",
+      "developer": "BeheFun Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.monopoly.dream.idle.king",
+      "artwork": "https://play-lh.googleusercontent.com/YSofgpw9fVAdL8ARICBntM6H2SchRLC7e-NYczRc-1I_gCQaN8U7y49ikrl3GfUYXW4",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -316,11 +340,11 @@
       "country": "LT"
     },
     {
-      "id": "io.voodoo.holeio",
-      "name": "Hole.io",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio",
-      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "id": "com.blockgamesstudio.blockworld3d",
+      "name": "Block World 3D: Craft & Build",
+      "developer": "Funburstgame LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d",
+      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -328,11 +352,11 @@
       "country": "LT"
     },
     {
-      "id": "com.blockgamesstudio.blockworld3d",
-      "name": "Block World 3D: Craft & Build",
-      "developer": "Funburstgame LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d",
-      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -352,6 +376,18 @@
       "country": "LT"
     },
     {
+      "id": "com.fugo.wow",
+      "name": "Words of Wonders: Crossword",
+      "developer": "Fugo Games",
+      "url": "https://play.google.com/store/apps/details?id=com.fugo.wow",
+      "artwork": "https://play-lh.googleusercontent.com/8Zc2SWYy3t70pvIdX9PeuaHpZZIP8sJybKiBUH2vkdxx9R2rypcIE-rN9_fbt-G7rWQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "LT"
+    },
+    {
       "id": "com.studio27.MelonPlayground",
       "name": "Melon Sandbox",
       "developer": "playducky.com",
@@ -364,35 +400,11 @@
       "country": "LT"
     },
     {
-      "id": "com.monopoly.dream.idle.king",
-      "name": "Top Tycoon: Coin Theme Empire",
-      "developer": "BeheFun Games Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.monopoly.dream.idle.king",
-      "artwork": "https://play-lh.googleusercontent.com/YSofgpw9fVAdL8ARICBntM6H2SchRLC7e-NYczRc-1I_gCQaN8U7y49ikrl3GfUYXW4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "LT"
-    },
-    {
       "id": "com.run.tower.defense",
       "name": "Kingshot",
       "developer": "Century Games PTE. LTD.",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense",
       "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "LT"
-    },
-    {
-      "id": "com.axlebolt.standoff2",
-      "name": "Standoff 2",
-      "developer": "AXLEBOLT LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.axlebolt.standoff2",
-      "artwork": "https://play-lh.googleusercontent.com/VpUP8AqSRB-R_uusCh1jeQLa2LRyqPB3Vb_9tY9O8Y-2wzJvtwwrZWWhP0xxTuFf5bpz-DP6LrdcYOc-KjIdOA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -436,6 +448,18 @@
       "country": "LT"
     },
     {
+      "id": "com.sled.surfers.game",
+      "name": "Sled Surfers",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game",
+      "artwork": "https://play-lh.googleusercontent.com/dtrjuQilrP1js6mDnl7mFPerlmnwUPwhYESlGriPKxwlUhWJ1yQ0r52EIvXrc-S5vqY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "LT"
+    },
+    {
       "id": "com.gtsy.annoying.punch.game",
       "name": "Annoying Uncle Punch Game",
       "developer": "Game District LLC",
@@ -472,18 +496,6 @@
       "country": "LT"
     },
     {
-      "id": "com.fugo.wow",
-      "name": "Words of Wonders: Crossword",
-      "developer": "Fugo Games",
-      "url": "https://play.google.com/store/apps/details?id=com.fugo.wow",
-      "artwork": "https://play-lh.googleusercontent.com/8Zc2SWYy3t70pvIdX9PeuaHpZZIP8sJybKiBUH2vkdxx9R2rypcIE-rN9_fbt-G7rWQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "LT"
-    },
-    {
       "id": "com.sprunki.mod.horror.incredibox.monster.beats.music.game",
       "name": "Sprunki Beat: Full Mod Music",
       "developer": "Gotstar Studio",
@@ -501,6 +513,30 @@
       "developer": "Prokids Studio",
       "url": "https://play.google.com/store/apps/details?id=com.cliffs.pro.cell.building.crazy.clever.craft",
       "artwork": "https://play-lh.googleusercontent.com/K3ncdCrbnHb-Po_gNuiJldSG7lfczGR0ZdFs3zoV28yTqPnzWQh07l2xI3rgMiIPsA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "LT"
+    },
+    {
+      "id": "com.totalbattle",
+      "name": "Total Battle: Strategy Games",
+      "developer": "Scorewarrior",
+      "url": "https://play.google.com/store/apps/details?id=com.totalbattle",
+      "artwork": "https://play-lh.googleusercontent.com/tVu9zOuRBk4aUjro3Rgt0XUug_DxzjkyHxaslu9Q1dRd3XTOAw5Pn7UPT_xG4Se4rKS-",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "LT"
+    },
+    {
+      "id": "gg.sunday.dog.escape.puzzle",
+      "name": "Dog Escape: Cute Pet Care Life",
+      "developer": "Sunday.gg",
+      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle",
+      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -532,18 +568,6 @@
       "country": "LT"
     },
     {
-      "id": "com.totalbattle",
-      "name": "Total Battle: Strategy Games",
-      "developer": "Scorewarrior",
-      "url": "https://play.google.com/store/apps/details?id=com.totalbattle",
-      "artwork": "https://play-lh.googleusercontent.com/tVu9zOuRBk4aUjro3Rgt0XUug_DxzjkyHxaslu9Q1dRd3XTOAw5Pn7UPT_xG4Se4rKS-",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "LT"
-    },
-    {
       "id": "com.bandainamcoent.dbgekishinsquadra",
       "name": "DRAGON BALL GEKISHIN SQUADRA",
       "developer": "Bandai Namco Entertainment Inc.",
@@ -568,35 +592,11 @@
       "country": "LT"
     },
     {
-      "id": "com.LinkedSquad.SchoolBoyRunaway",
-      "name": "SCHOOLBOY RUNAWAY - STEALTH",
-      "developer": "Linked Squad",
-      "url": "https://play.google.com/store/apps/details?id=com.LinkedSquad.SchoolBoyRunaway",
-      "artwork": "https://play-lh.googleusercontent.com/aeQ9le0YHrdLlPODSyYW9BnSZVR8gaQZH8hlRz9ksMX_hnzzMdw95Fo1zta4Lc726vQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "LT"
-    },
-    {
       "id": "com.ea.game.pvzfree_row",
       "name": "Plants vs. Zombies™",
       "developer": "ELECTRONIC ARTS",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.pvzfree_row",
       "artwork": "https://play-lh.googleusercontent.com/hO7716hh7NCcFauJedDclX-R3Zh9JmbSs8AUU6TP2edGVILlZM7gmyt_8WPCZELiPQA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "LT"
-    },
-    {
-      "id": "com.launcher.brgame",
-      "name": "BLACK RUSSIA",
-      "developer": "BLACKHUB GAMES - FZCO",
-      "url": "https://play.google.com/store/apps/details?id=com.launcher.brgame",
-      "artwork": "https://play-lh.googleusercontent.com/wkfP7O2Jc5PHGRbMDfnoTtUG8iBcytrKnu3TH4EWc_zkP4Iq1cRCVYNWg1UvJkuQrXax",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -642,6 +642,18 @@
       "country": "LT"
     },
     {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "LT"
+    },
+    {
       "id": "com.dreamgames.royalkingdom",
       "name": "Royal Kingdom",
       "developer": "Dream Games, Ltd.",
@@ -750,11 +762,11 @@
       "country": "LT"
     },
     {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "id": "com.axlebolt.standoff2",
+      "name": "Standoff 2",
+      "developer": "AXLEBOLT LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.axlebolt.standoff2",
+      "artwork": "https://play-lh.googleusercontent.com/VpUP8AqSRB-R_uusCh1jeQLa2LRyqPB3Vb_9tY9O8Y-2wzJvtwwrZWWhP0xxTuFf5bpz-DP6LrdcYOc-KjIdOA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -762,11 +774,11 @@
       "country": "LT"
     },
     {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -798,18 +810,6 @@
       "country": "LT"
     },
     {
-      "id": "com.hitappsgames.wordsolitaire",
-      "name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games",
-      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.wordsolitaire",
-      "artwork": "https://play-lh.googleusercontent.com/PrVcy5lS_K5t-HHnRoWSr4lwIWX-s-1mbsOYevHcmaMDfoTtT2blvfmN8vsOEvaG49W1fcJSiNdFYAq9rLWc2W8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "LT"
-    },
-    {
       "id": "com.ua.online",
       "name": "UA Online",
       "developer": "UAOnline",
@@ -822,11 +822,35 @@
       "country": "LT"
     },
     {
+      "id": "com.hitappsgames.wordsolitaire",
+      "name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games",
+      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.wordsolitaire",
+      "artwork": "https://play-lh.googleusercontent.com/PrVcy5lS_K5t-HHnRoWSr4lwIWX-s-1mbsOYevHcmaMDfoTtT2blvfmN8vsOEvaG49W1fcJSiNdFYAq9rLWc2W8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "LT"
+    },
+    {
       "id": "com.supercell.brawlstars",
       "name": "Brawl Stars",
       "developer": "Supercell",
       "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
       "artwork": "https://play-lh.googleusercontent.com/tYB_jWhdJuauLSPJ7LVj_5dUq6g_eQwj2wPNG9jFN78zKbDqMNfnEU2fUGiDQtYAy0yHn4SMnaF0lhanJpm0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "LT"
+    },
+    {
+      "id": "com.monopoly.dream.idle.king",
+      "name": "Top Tycoon: Coin Theme Empire",
+      "developer": "BeheFun Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.monopoly.dream.idle.king",
+      "artwork": "https://play-lh.googleusercontent.com/YSofgpw9fVAdL8ARICBntM6H2SchRLC7e-NYczRc-1I_gCQaN8U7y49ikrl3GfUYXW4",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -918,11 +942,11 @@
       "country": "LT"
     },
     {
-      "id": "io.voodoo.holeio",
-      "name": "Hole.io",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio",
-      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "id": "com.blockgamesstudio.blockworld3d",
+      "name": "Block World 3D: Craft & Build",
+      "developer": "Funburstgame LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d",
+      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -930,11 +954,11 @@
       "country": "LT"
     },
     {
-      "id": "com.blockgamesstudio.blockworld3d",
-      "name": "Block World 3D: Craft & Build",
-      "developer": "Funburstgame LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d",
-      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -954,6 +978,18 @@
       "country": "LT"
     },
     {
+      "id": "com.fugo.wow",
+      "name": "Words of Wonders: Crossword",
+      "developer": "Fugo Games",
+      "url": "https://play.google.com/store/apps/details?id=com.fugo.wow",
+      "artwork": "https://play-lh.googleusercontent.com/8Zc2SWYy3t70pvIdX9PeuaHpZZIP8sJybKiBUH2vkdxx9R2rypcIE-rN9_fbt-G7rWQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "LT"
+    },
+    {
       "id": "com.studio27.MelonPlayground",
       "name": "Melon Sandbox",
       "developer": "playducky.com",
@@ -966,35 +1002,11 @@
       "country": "LT"
     },
     {
-      "id": "com.monopoly.dream.idle.king",
-      "name": "Top Tycoon: Coin Theme Empire",
-      "developer": "BeheFun Games Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.monopoly.dream.idle.king",
-      "artwork": "https://play-lh.googleusercontent.com/YSofgpw9fVAdL8ARICBntM6H2SchRLC7e-NYczRc-1I_gCQaN8U7y49ikrl3GfUYXW4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "LT"
-    },
-    {
       "id": "com.run.tower.defense",
       "name": "Kingshot",
       "developer": "Century Games PTE. LTD.",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense",
       "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "LT"
-    },
-    {
-      "id": "com.axlebolt.standoff2",
-      "name": "Standoff 2",
-      "developer": "AXLEBOLT LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.axlebolt.standoff2",
-      "artwork": "https://play-lh.googleusercontent.com/VpUP8AqSRB-R_uusCh1jeQLa2LRyqPB3Vb_9tY9O8Y-2wzJvtwwrZWWhP0xxTuFf5bpz-DP6LrdcYOc-KjIdOA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1038,6 +1050,18 @@
       "country": "LT"
     },
     {
+      "id": "com.sled.surfers.game",
+      "name": "Sled Surfers",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game",
+      "artwork": "https://play-lh.googleusercontent.com/dtrjuQilrP1js6mDnl7mFPerlmnwUPwhYESlGriPKxwlUhWJ1yQ0r52EIvXrc-S5vqY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "LT"
+    },
+    {
       "id": "com.gtsy.annoying.punch.game",
       "name": "Annoying Uncle Punch Game",
       "developer": "Game District LLC",
@@ -1074,18 +1098,6 @@
       "country": "LT"
     },
     {
-      "id": "com.fugo.wow",
-      "name": "Words of Wonders: Crossword",
-      "developer": "Fugo Games",
-      "url": "https://play.google.com/store/apps/details?id=com.fugo.wow",
-      "artwork": "https://play-lh.googleusercontent.com/8Zc2SWYy3t70pvIdX9PeuaHpZZIP8sJybKiBUH2vkdxx9R2rypcIE-rN9_fbt-G7rWQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "LT"
-    },
-    {
       "id": "com.sprunki.mod.horror.incredibox.monster.beats.music.game",
       "name": "Sprunki Beat: Full Mod Music",
       "developer": "Gotstar Studio",
@@ -1103,6 +1115,30 @@
       "developer": "Prokids Studio",
       "url": "https://play.google.com/store/apps/details?id=com.cliffs.pro.cell.building.crazy.clever.craft",
       "artwork": "https://play-lh.googleusercontent.com/K3ncdCrbnHb-Po_gNuiJldSG7lfczGR0ZdFs3zoV28yTqPnzWQh07l2xI3rgMiIPsA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "LT"
+    },
+    {
+      "id": "com.totalbattle",
+      "name": "Total Battle: Strategy Games",
+      "developer": "Scorewarrior",
+      "url": "https://play.google.com/store/apps/details?id=com.totalbattle",
+      "artwork": "https://play-lh.googleusercontent.com/tVu9zOuRBk4aUjro3Rgt0XUug_DxzjkyHxaslu9Q1dRd3XTOAw5Pn7UPT_xG4Se4rKS-",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "LT"
+    },
+    {
+      "id": "gg.sunday.dog.escape.puzzle",
+      "name": "Dog Escape: Cute Pet Care Life",
+      "developer": "Sunday.gg",
+      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle",
+      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1134,18 +1170,6 @@
       "country": "LT"
     },
     {
-      "id": "com.totalbattle",
-      "name": "Total Battle: Strategy Games",
-      "developer": "Scorewarrior",
-      "url": "https://play.google.com/store/apps/details?id=com.totalbattle",
-      "artwork": "https://play-lh.googleusercontent.com/tVu9zOuRBk4aUjro3Rgt0XUug_DxzjkyHxaslu9Q1dRd3XTOAw5Pn7UPT_xG4Se4rKS-",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "LT"
-    },
-    {
       "id": "com.bandainamcoent.dbgekishinsquadra",
       "name": "DRAGON BALL GEKISHIN SQUADRA",
       "developer": "Bandai Namco Entertainment Inc.",
@@ -1170,35 +1194,11 @@
       "country": "LT"
     },
     {
-      "id": "com.LinkedSquad.SchoolBoyRunaway",
-      "name": "SCHOOLBOY RUNAWAY - STEALTH",
-      "developer": "Linked Squad",
-      "url": "https://play.google.com/store/apps/details?id=com.LinkedSquad.SchoolBoyRunaway",
-      "artwork": "https://play-lh.googleusercontent.com/aeQ9le0YHrdLlPODSyYW9BnSZVR8gaQZH8hlRz9ksMX_hnzzMdw95Fo1zta4Lc726vQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "LT"
-    },
-    {
       "id": "com.ea.game.pvzfree_row",
       "name": "Plants vs. Zombies™",
       "developer": "ELECTRONIC ARTS",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.pvzfree_row",
       "artwork": "https://play-lh.googleusercontent.com/hO7716hh7NCcFauJedDclX-R3Zh9JmbSs8AUU6TP2edGVILlZM7gmyt_8WPCZELiPQA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "LT"
-    },
-    {
-      "id": "com.launcher.brgame",
-      "name": "BLACK RUSSIA",
-      "developer": "BLACKHUB GAMES - FZCO",
-      "url": "https://play.google.com/store/apps/details?id=com.launcher.brgame",
-      "artwork": "https://play-lh.googleusercontent.com/wkfP7O2Jc5PHGRbMDfnoTtUG8iBcytrKnu3TH4EWc_zkP4Iq1cRCVYNWg1UvJkuQrXax",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
