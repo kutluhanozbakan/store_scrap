@@ -1,7 +1,7 @@
 {
   "country": "MA",
   "store": "google",
-  "updatedAt": "2026-02-15T20:47:40.990Z",
+  "updatedAt": "2026-02-16T09:30:43.159Z",
   "new": [
     {
       "id": "funvent.tilepark",
@@ -56,6 +56,20 @@
       "releaseDate": "2026-02-14T08:52:40.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.king.candycrushsaga",
+      "name": "Candy Crush Saga",
+      "developer": "King",
+      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T15:57:40.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "MA"
     },
@@ -186,6 +200,20 @@
       "country": "MA"
     },
     {
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T11:27:15.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "MA"
+    },
+    {
       "id": "com.blockgamesstudio.blockworld3d",
       "name": "Block World 3D: Craft & Build",
       "developer": "Funburstgame LTD",
@@ -228,20 +256,6 @@
       "country": "MA"
     },
     {
-      "id": "com.Kidoverse.HairSalon",
-      "name": "Hair Salon Games For Kids",
-      "developer": "Kidospace LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.Kidoverse.HairSalon&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/HD2NaRg6-6oLoJfxUWMfp_SyUrWuXzfwLgbKE3RZbJZ0rbcb2Ew0wvrzaIyzv_OqyLI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T17:30:30.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MA"
-    },
-    {
       "id": "com.aim.racing",
       "name": "Extreme Car Driving Simulator",
       "developer": "AxesInMotion Racing",
@@ -252,20 +266,6 @@
       "releaseDate": "2026-02-11T16:50:44.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/upYircnh6-mH07OxwtX7L0EPFd4_FNV71xd8w4gHiyLKopipJxwPzoupoQgpzgf8_Fk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T16:20:35.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "MA"
     },
@@ -382,6 +382,20 @@
       "country": "MA"
     },
     {
+      "id": "com.Garawell.BridgeRace",
+      "name": "Bridge Race",
+      "developer": "Supersonic Studios LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.Garawell.BridgeRace&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/ebWtAyC4uzKL5rXAjsPzy1AlqVbjpK0r0kGYzTtoljvu7RqYTfOLLObeotRCZkisC7Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T15:27:39.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MA"
+    },
+    {
       "id": "io.supercent.linkedcubic",
       "name": "Snake Clash!",
       "developer": "Supercent, Inc.",
@@ -448,20 +462,6 @@
       "releaseDate": "2026-02-10T09:38:01.000Z",
       "genres": [
         "Music"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.king.candycrushsaga",
-      "name": "Candy Crush Saga",
-      "developer": "King",
-      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T09:34:49.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "MA"
     },
@@ -748,28 +748,14 @@
       "country": "MA"
     },
     {
-      "id": "com.WandaSoftware.TruckersofEurope3",
-      "name": "Truckers of Europe 3",
-      "developer": "Wanda Software",
-      "url": "https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/FwKtLtLulWDsEawc5dOelxZyvzTQK6gEZUmqLkpEIlVJjiyPtikvwpWEkSrsgREt9yCg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-26T09:09:22.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MA"
-    },
-    {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
       "developer": "SYBO Games",
       "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/upYircnh6-mH07OxwtX7L0EPFd4_FNV71xd8w4gHiyLKopipJxwPzoupoQgpzgf8_Fk",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T16:20:35.000Z",
+      "releaseDate": "2026-02-12T11:27:15.000Z",
       "genres": [
         "Arcade"
       ],
@@ -818,6 +804,20 @@
       "country": "MA"
     },
     {
+      "id": "com.WandaSoftware.TruckersofEurope3",
+      "name": "Truckers of Europe 3",
+      "developer": "Wanda Software",
+      "url": "https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/FwKtLtLulWDsEawc5dOelxZyvzTQK6gEZUmqLkpEIlVJjiyPtikvwpWEkSrsgREt9yCg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-26T09:09:22.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MA"
+    },
+    {
       "id": "com.block.juggle",
       "name": "Block Blast!",
       "developer": "HungryStudio",
@@ -828,20 +828,6 @@
       "releaseDate": "2026-02-13T03:44:46.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "MA"
     },
@@ -860,16 +846,16 @@
       "country": "MA"
     },
     {
-      "id": "com.fgol.HungrySharkEvolution",
-      "name": "Hungry Shark Evolution",
-      "developer": "Ubisoft Entertainment",
-      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-09T02:24:08.000Z",
+      "releaseDate": "2026-01-28T21:11:32.000Z",
       "genres": [
-        "Arcade"
+        "Adventure"
       ],
       "country": "MA"
     },
@@ -930,6 +916,20 @@
       "country": "MA"
     },
     {
+      "id": "com.fgol.HungrySharkEvolution",
+      "name": "Hungry Shark Evolution",
+      "developer": "Ubisoft Entertainment",
+      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T02:24:08.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "MA"
+    },
+    {
       "id": "com.creations.runnergame",
       "name": "Kooply Run™: Play and Create!",
       "developer": "KOOPLY",
@@ -986,20 +986,6 @@
       "country": "MA"
     },
     {
-      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
-      "name": "Agent Shooter - Shooting Game",
-      "developer": "Rebel Actions",
-      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-16T06:00:02.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "MA"
-    },
-    {
       "id": "com.unept.leveldevil",
       "name": "Level Devil - NOT A Troll Game",
       "developer": "Poki",
@@ -1008,6 +994,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-03T14:49:51.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
+      "name": "Agent Shooter - Shooting Game",
+      "developer": "Rebel Actions",
+      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-16T06:00:02.000Z",
       "genres": [
         "Action"
       ],
@@ -1028,20 +1028,6 @@
       "country": "MA"
     },
     {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T11:09:54.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "MA"
-    },
-    {
       "id": "com.LinkedSquad.SchoolBoyRunaway",
       "name": "SCHOOLBOY RUNAWAY - STEALTH",
       "developer": "Linked Squad",
@@ -1050,20 +1036,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2025-12-10T10:08:50.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.dvloper.granny",
-      "name": "Granny",
-      "developer": "DVloper",
-      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-01T14:35:20.000Z",
       "genres": [
         "Arcade"
       ],
@@ -1084,6 +1056,20 @@
       "country": "MA"
     },
     {
+      "id": "com.dvloper.granny",
+      "name": "Granny",
+      "developer": "DVloper",
+      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-01T14:35:20.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "MA"
+    },
+    {
       "id": "com.media720.games2020.two.player.offline.games",
       "name": "2 Player Games Offline - 1234",
       "developer": "Fun Offline Games",
@@ -1094,20 +1080,6 @@
       "releaseDate": "2026-02-05T18:17:10.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.devgame.masha.and.bear.pizzeria.games",
-      "name": "Masha and the Bear Pizza Maker",
-      "developer": "DEVGAME KIDS games",
-      "url": "https://play.google.com/store/apps/details?id=com.devgame.masha.and.bear.pizzeria.games&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/oZv-3Ob4JdeQLXQFmC-bTePxjfNU7PYRcuQe-tnUPLvbL1MdeWv-X1U6bF5SApbpKO6hfW2GsQPZsnxSVnG9",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T09:07:24.000Z",
-      "genres": [
-        "Role Playing"
       ],
       "country": "MA"
     },
@@ -1126,58 +1098,16 @@
       "country": "MA"
     },
     {
-      "id": "com.gt.moto.bike.wheelie.stunt.race.game",
-      "name": "Moto Bike Stunt Wheelie Game",
-      "developer": "Game town",
-      "url": "https://play.google.com/store/apps/details?id=com.gt.moto.bike.wheelie.stunt.race.game&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/joPwuRJCICDqmz3xqbNWd61tbuUih4UXFukU8_uVb1o6rpzIMV4PnUmpkbXd7izozgn68FCAGZWcRGcbjGSI",
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-15T07:59:08.000Z",
+      "releaseDate": "2026-02-11T11:09:54.000Z",
       "genres": [
-        "Sports"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
-      "name": "Fashion Glow: Model & Style",
-      "developer": "Dress Up Games for Girls",
-      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-14T08:31:08.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.fungames.blockcraft",
-      "name": "Block Craft 3D：Building Game",
-      "developer": "Wildlife Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/n37lIFSnvlxFSzdIEhCCLdP5DTLPye2pykbhj490_LHKQaRHQ_Ae7PhaBaUFU3qdiyM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:36:06.000Z",
-      "genres": [
-        "Arcade"
+        "Board"
       ],
       "country": "MA"
     },
@@ -1210,6 +1140,34 @@
       "country": "MA"
     },
     {
+      "id": "com.fungames.blockcraft",
+      "name": "Block Craft 3D：Building Game",
+      "developer": "Wildlife Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/n37lIFSnvlxFSzdIEhCCLdP5DTLPye2pykbhj490_LHKQaRHQ_Ae7PhaBaUFU3qdiyM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T15:36:06.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "MA"
+    },
+    {
       "id": "com.skgames.trafficrider",
       "name": "Traffic Rider",
       "developer": "skgames",
@@ -1224,16 +1182,44 @@
       "country": "MA"
     },
     {
-      "id": "com.miniclip.footballstrike",
-      "name": "Football Strike: Online Soccer",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.footballstrike&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/QfFRLz_-JzxMFJzKyJQQpqQWQyw2f2VQLlEsr14R6SqvNe99Rdli-Qcki1MTK8Bh078",
+      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
+      "name": "Fashion Glow: Model & Style",
+      "developer": "Dress Up Games for Girls",
+      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-26T09:50:47.000Z",
+      "releaseDate": "2026-01-14T08:31:08.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.gt.moto.bike.wheelie.stunt.race.game",
+      "name": "Moto Bike Stunt Wheelie Game",
+      "developer": "Game town",
+      "url": "https://play.google.com/store/apps/details?id=com.gt.moto.bike.wheelie.stunt.race.game&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/joPwuRJCICDqmz3xqbNWd61tbuUih4UXFukU8_uVb1o6rpzIMV4PnUmpkbXd7izozgn68FCAGZWcRGcbjGSI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-15T07:59:08.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.devgame.masha.and.bear.pizzeria.games",
+      "name": "Masha and the Bear Pizza Maker",
+      "developer": "DEVGAME KIDS games",
+      "url": "https://play.google.com/store/apps/details?id=com.devgame.masha.and.bear.pizzeria.games&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/oZv-3Ob4JdeQLXQFmC-bTePxjfNU7PYRcuQe-tnUPLvbL1MdeWv-X1U6bF5SApbpKO6hfW2GsQPZsnxSVnG9",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T09:07:24.000Z",
+      "genres": [
+        "Role Playing"
       ],
       "country": "MA"
     },
@@ -1252,16 +1238,16 @@
       "country": "MA"
     },
     {
-      "id": "com.gameloft.android.ANMP.GloftA8HM",
-      "name": "Asphalt 8 - Car Racing Game",
-      "developer": "Gameloft SE",
-      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/y1J3-OrqJIlezTtaung2sPOnHY9wS2hdJh26ADkwcc3kdZy4DTGyv94IN_YRvdKy0y4",
+      "id": "com.miniclip.footballstrike",
+      "name": "Football Strike: Online Soccer",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.footballstrike&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/QfFRLz_-JzxMFJzKyJQQpqQWQyw2f2VQLlEsr14R6SqvNe99Rdli-Qcki1MTK8Bh078",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T10:10:06.000Z",
+      "releaseDate": "2026-01-26T09:50:47.000Z",
       "genres": [
-        "Racing"
+        "Sports"
       ],
       "country": "MA"
     },
@@ -1280,6 +1266,20 @@
       "country": "MA"
     },
     {
+      "id": "com.gameloft.android.ANMP.GloftA8HM",
+      "name": "Asphalt 8 - Car Racing Game",
+      "developer": "Gameloft SE",
+      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/y1J3-OrqJIlezTtaung2sPOnHY9wS2hdJh26ADkwcc3kdZy4DTGyv94IN_YRvdKy0y4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T10:10:06.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "MA"
+    },
+    {
       "id": "com.bunbunstudio.magicblocktiles",
       "name": "Music Piano 7: Rush Song Games",
       "developer": "Melodya Muses",
@@ -1290,48 +1290,6 @@
       "releaseDate": "2026-02-10T11:15:17.000Z",
       "genres": [
         "Music"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.ffgames.racingincar2",
-      "name": "Racing in Car 2",
-      "developer": "ckgames",
-      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-19T14:55:06.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.starplay.spider.fighter.openworld",
-      "name": "Spider Fighter 3: Action Game",
-      "developer": "Starplay FZCO",
-      "url": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter.openworld&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/HGJGoIR7ZpHDMhRuaYJz_M5k8L0DCwXPcSBDGt217ye4o40LSaXTPHI-XIyiPbRw7g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T12:36:13.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.dino.race.master",
-      "name": "Car Race",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-09T02:55:19.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "MA"
     },
@@ -1350,16 +1308,30 @@
       "country": "MA"
     },
     {
-      "id": "com.youmusic.magictiles",
-      "name": "Magic Tiles 3™ - Piano Game",
-      "developer": "AMANOTES PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-10T09:38:01.000Z",
+      "releaseDate": "2026-02-13T10:53:41.000Z",
       "genres": [
-        "Music"
+        "Arcade"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.masomo.headball2",
+      "name": "Head Ball 2 - Foot en Ligne",
+      "developer": "Masomo Gaming",
+      "url": "https://play.google.com/store/apps/details?id=com.masomo.headball2&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/7t4GRbuVmvUKzo-2dkt7ccygoFjc2zX3_jVLr6fIXAiJmHLdQvdfbhbKbS8awRekm9vL",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T08:18:39.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "MA"
     },
@@ -1378,30 +1350,58 @@
       "country": "MA"
     },
     {
-      "id": "io.voodoo.holeio",
-      "name": "Hole.io",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "id": "com.youmusic.magictiles",
+      "name": "Magic Tiles 3™ - Piano Game",
+      "developer": "AMANOTES PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T10:53:41.000Z",
+      "releaseDate": "2026-02-10T09:38:01.000Z",
       "genres": [
-        "Arcade"
+        "Music"
       ],
       "country": "MA"
     },
     {
-      "id": "com.yalla.yallagames",
-      "name": "Yalla Ludo - Ludo&Jackaroo",
-      "developer": "Aviva Sun",
-      "url": "https://play.google.com/store/apps/details?id=com.yalla.yallagames&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/p7_G7W7KQO_UO09jAekkwaw4yqEmOQvY6QExD63pPMiK_DVeEPDLacZdXsnvgvXeSuCe",
+      "id": "com.dino.race.master",
+      "name": "Car Race",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T08:10:51.000Z",
+      "releaseDate": "2026-01-09T02:55:19.000Z",
       "genres": [
-        "Board"
+        "Racing"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-19T14:55:06.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.dts.freefiremax",
+      "name": "Free Fire MAX: Lost Treasure",
+      "developer": "GARENA INTERNATIONAL I",
+      "url": "https://play.google.com/store/apps/details?id=com.dts.freefiremax&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/uVRjDZ9q6OBIYE2ASYcl0wyBUFOgXsex5XnzS1BA7YP-CbVYCTEY3kD_t3zFP63W7W6SYesGEMgbbgG9Onn7",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-09T06:52:43.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "MA"
     }
