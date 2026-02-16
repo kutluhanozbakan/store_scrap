@@ -1,8 +1,36 @@
 {
   "country": "NP",
   "store": "google",
-  "updatedAt": "2026-02-16T10:32:21.508Z",
+  "updatedAt": "2026-02-16T21:15:53.499Z",
   "new": [
+    {
+      "id": "com.outfit7.mytalkingtom2",
+      "name": "My Talking Tom 2: Pet Game",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T15:15:25.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.outfit7.mytalkingangela2",
+      "name": "My Talking Angela 2",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T14:20:52.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "NP"
+    },
     {
       "id": "io.yarsa.games.ludo",
       "name": "Ludo",
@@ -40,34 +68,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-13T15:57:40.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "NP"
-    },
-    {
-      "id": "com.hb.spider.games.fighting.hero",
-      "name": "Rope Fighter Action Game",
-      "developer": "HitBox Games",
-      "url": "https://play.google.com/store/apps/details?id=com.hb.spider.games.fighting.hero&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/_gZjsU8oMhDsaahx8l3ISSYT-vYv-3XK3ysHLR3YpXuyNI-JtNP-pp3VSr0tO86WnGI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T13:32:12.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "NP"
-    },
-    {
-      "id": "com.outfit7.mytalkingangela2",
-      "name": "My Talking Angela 2",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T12:24:27.000Z",
       "genres": [
         "Casual"
       ],
@@ -308,20 +308,6 @@
       "releaseDate": "2026-02-11T12:25:49.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "NP"
-    },
-    {
-      "id": "com.vincentb.MobControl",
-      "name": "Mob Control",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T10:21:55.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "NP"
     },
@@ -702,6 +688,20 @@
         "Strategy"
       ],
       "country": "NP"
+    },
+    {
+      "id": "com.fungames.blockcraft",
+      "name": "Block Craft 3D：Building Game",
+      "developer": "Wildlife Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/n37lIFSnvlxFSzdIEhCCLdP5DTLPye2pykbhj490_LHKQaRHQ_Ae7PhaBaUFU3qdiyM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T15:36:06.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "NP"
     }
   ],
   "updated": [
@@ -832,20 +832,6 @@
       "country": "NP"
     },
     {
-      "id": "com.tencent.ig",
-      "name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-29T01:31:07.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "NP"
-    },
-    {
       "id": "com.mobile.legends",
       "name": "Mobile Legends: Bang Bang",
       "developer": "MOONTON",
@@ -854,6 +840,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-07T03:26:33.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.tencent.ig",
+      "name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-29T01:31:07.000Z",
       "genres": [
         "Action"
       ],
@@ -916,6 +916,20 @@
       "country": "NP"
     },
     {
+      "id": "com.outfit7.mytalkingtom2",
+      "name": "My Talking Tom 2: Pet Game",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T15:15:25.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "NP"
+    },
+    {
       "id": "com.football.soccer.league",
       "name": "Football League 2026",
       "developer": "MOBILE SOCCER",
@@ -958,6 +972,20 @@
       "country": "NP"
     },
     {
+      "id": "com.king.candycrushsaga",
+      "name": "Candy Crush Saga",
+      "developer": "King",
+      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T15:57:40.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "NP"
+    },
+    {
       "id": "com.JindoBlu.FourPlayers",
       "name": "1 2 3 4 Player Games - Offline",
       "developer": "JindoBlu",
@@ -986,20 +1014,6 @@
       "country": "NP"
     },
     {
-      "id": "com.king.candycrushsaga",
-      "name": "Candy Crush Saga",
-      "developer": "King",
-      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T15:57:40.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "NP"
-    },
-    {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -1010,20 +1024,6 @@
       "releaseDate": "2026-02-12T11:27:15.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "NP"
-    },
-    {
-      "id": "com.outfit7.mytalkingtom2",
-      "name": "My Talking Tom 2: Pet Game",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-14T12:55:59.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "NP"
     },
@@ -1210,6 +1210,20 @@
       "country": "NP"
     },
     {
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "NP"
+    },
+    {
       "id": "com.vicenter.stickman.ragdoll.dismounting",
       "name": "Ragdoll Turbo Dismount",
       "developer": "Prime1 Lab LTD",
@@ -1262,20 +1276,6 @@
       "releaseDate": "2026-01-12T16:07:58.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "NP"
-    },
-    {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "NP"
     },
@@ -1364,20 +1364,6 @@
       "country": "NP"
     },
     {
-      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
-      "name": "Fashion Glow: Model & Style",
-      "developer": "Dress Up Games for Girls",
-      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-14T08:31:08.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "NP"
-    },
-    {
       "id": "com.dongbasiki.snowrace3d.snowball",
       "name": "Ice Runner Battle: Snow Race",
       "developer": "Dongbasiki",
@@ -1402,6 +1388,20 @@
       "releaseDate": "2026-02-15T07:52:10.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.maleo.bussimulatorid",
+      "name": "Bus Simulator Indonesia",
+      "developer": "Maleo",
+      "url": "https://play.google.com/store/apps/details?id=com.maleo.bussimulatorid&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/urq7M2QD9-AVt3AMQn1dHl0wSfWItoPExLsnu7BAqlfvXlikR3kVrHr7LarPFGhscLM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-13T02:16:23.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "NP"
     }
