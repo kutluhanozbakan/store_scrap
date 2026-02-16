@@ -1,7 +1,7 @@
 {
   "country": "CM",
   "store": "google",
-  "updatedAt": "2026-02-15T18:54:49.581Z",
+  "updatedAt": "2026-02-16T02:56:59.279Z",
   "new": [
     {
       "id": "io.yarsa.games.ludo",
@@ -354,20 +354,6 @@
       "country": "CM"
     },
     {
-      "id": "com.yottagames.gameofmafia",
-      "name": "The Grand Mafia",
-      "developer": "Phantix Games",
-      "url": "https://play.google.com/store/apps/details?id=com.yottagames.gameofmafia&hl=en&gl=CM",
-      "artwork": "https://play-lh.googleusercontent.com/BAfInphSBr3pZueXnrRNIX_0Qa1ir_hmQwEUaQytbVJ55z2FclwfgQtNwP8M12Xj1Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T08:58:30.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "CM"
-    },
-    {
       "id": "com.gamincat.jigsolitaire",
       "name": "Jigsolitaire",
       "developer": "Gamincat",
@@ -702,6 +688,20 @@
         "Action"
       ],
       "country": "CM"
+    },
+    {
+      "id": "com.popupgames.ludo.king.club.dice.board.game",
+      "name": "Ludo Buzz - Multiplayer Game",
+      "developer": "Popup Games",
+      "url": "https://play.google.com/store/apps/details?id=com.popupgames.ludo.king.club.dice.board.game&hl=en&gl=CM",
+      "artwork": "https://play-lh.googleusercontent.com/lcuTQhQGS9oHZBOniOjAVhMCucUGpFZYXpTNAOtO6Nm9dvE6JfusZHaWaXEMl6NdQ3aczCrdMLguh8k4ADvRZCs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T20:32:16.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "CM"
     }
   ],
   "updated": [
@@ -930,6 +930,20 @@
       "country": "CM"
     },
     {
+      "id": "com.a3.tavernlegend.googleplay",
+      "name": "Tavern Legend",
+      "developer": "Larks Holding Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.a3.tavernlegend.googleplay&hl=en&gl=CM",
+      "artwork": "https://play-lh.googleusercontent.com/AWUYNRN6U1qkE1VLtAAESo6u97M9NIxG_o1UyAqqQtD79ToGkgLlpOKfJoscZQNIlw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T13:49:27.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "CM"
+    },
+    {
       "id": "com.hungrystudio.mahjong",
       "name": "Double Tile!",
       "developer": "HungryStudio",
@@ -968,20 +982,6 @@
       "releaseDate": "2026-01-23T06:55:58.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "CM"
-    },
-    {
-      "id": "com.a3.tavernlegend.googleplay",
-      "name": "Tavern Legend",
-      "developer": "Larks Holding Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.a3.tavernlegend.googleplay&hl=en&gl=CM",
-      "artwork": "https://play-lh.googleusercontent.com/AWUYNRN6U1qkE1VLtAAESo6u97M9NIxG_o1UyAqqQtD79ToGkgLlpOKfJoscZQNIlw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T13:49:27.000Z",
-      "genres": [
-        "Strategy"
       ],
       "country": "CM"
     },
@@ -1126,20 +1126,6 @@
       "country": "CM"
     },
     {
-      "id": "com.combineinc.streetracing.driftthreeD",
-      "name": "Street Racing 3D",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.combineinc.streetracing.driftthreeD&hl=en&gl=CM",
-      "artwork": "https://play-lh.googleusercontent.com/nM3nHVAK1oJIcU5BpjQMowaOuru_RNXwAb1y-BP6BGEwWTiAZvWrwPzMhrSfKzaGAHAf",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-27T09:42:57.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "CM"
-    },
-    {
       "id": "com.gameloft.android.ANMP.GloftA8HM",
       "name": "Asphalt 8 - Car Racing Game",
       "developer": "Gameloft SE",
@@ -1148,6 +1134,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-05T10:10:06.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "CM"
+    },
+    {
+      "id": "com.combineinc.streetracing.driftthreeD",
+      "name": "Street Racing 3D",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.combineinc.streetracing.driftthreeD&hl=en&gl=CM",
+      "artwork": "https://play-lh.googleusercontent.com/nM3nHVAK1oJIcU5BpjQMowaOuru_RNXwAb1y-BP6BGEwWTiAZvWrwPzMhrSfKzaGAHAf",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-27T09:42:57.000Z",
       "genres": [
         "Racing"
       ],
@@ -1182,6 +1182,20 @@
       "country": "CM"
     },
     {
+      "id": "net.apex_designs.payback2",
+      "name": "Payback 2 - The Battle Sandbox",
+      "developer": "Apex Designs Games LLP",
+      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=CM",
+      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-27T16:01:25.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "CM"
+    },
+    {
       "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
       "name": "Fashion Glow: Model & Style",
       "developer": "Dress Up Games for Girls",
@@ -1206,20 +1220,6 @@
       "releaseDate": "2026-01-29T12:46:52.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "CM"
-    },
-    {
-      "id": "net.apex_designs.payback2",
-      "name": "Payback 2 - The Battle Sandbox",
-      "developer": "Apex Designs Games LLP",
-      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=CM",
-      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-08-27T16:01:25.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "CM"
     },
@@ -1252,20 +1252,6 @@
       "country": "CM"
     },
     {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=CM",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "CM"
-    },
-    {
       "id": "com.ta.strike.ops",
       "name": "FPS Strike Ops : Modern Arena",
       "developer": "FPS Shooter & Action Game",
@@ -1276,6 +1262,20 @@
       "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "CM"
+    },
+    {
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=CM",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "CM"
     },
@@ -1294,20 +1294,6 @@
       "country": "CM"
     },
     {
-      "id": "com.coloredway.reacttocolor",
-      "name": "betPawa",
-      "developer": "ANDHDEVH",
-      "url": "https://play.google.com/store/apps/details?id=com.coloredway.reacttocolor&hl=en&gl=CM",
-      "artwork": "https://play-lh.googleusercontent.com/ujNKPsUw-_QufAV3QUEU_XKbOxjAe5OUPmOPLhciTyDQM1qjVbJUjA9ybwyoTrQybXsVwHpz0hET7bPl554QqA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T17:33:08.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "CM"
-    },
-    {
       "id": "water.sort.color.puzzle.offline.games",
       "name": "Water Sort! Color Sort Puzzle",
       "developer": "Bobodoo Game",
@@ -1318,6 +1304,20 @@
       "releaseDate": "2026-02-12T14:06:14.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "CM"
+    },
+    {
+      "id": "com.coloredway.reacttocolor",
+      "name": "betPawa",
+      "developer": "ANDHDEVH",
+      "url": "https://play.google.com/store/apps/details?id=com.coloredway.reacttocolor&hl=en&gl=CM",
+      "artwork": "https://play-lh.googleusercontent.com/ujNKPsUw-_QufAV3QUEU_XKbOxjAe5OUPmOPLhciTyDQM1qjVbJUjA9ybwyoTrQybXsVwHpz0hET7bPl554QqA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T17:33:08.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "CM"
     },
