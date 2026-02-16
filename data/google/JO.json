@@ -1,7 +1,7 @@
 {
   "country": "JO",
   "store": "google",
-  "updatedAt": "2026-02-15T20:14:37.327Z",
+  "updatedAt": "2026-02-16T08:26:11.497Z",
   "new": [
     {
       "id": "com.mgc.RopeHero.ViceTown",
@@ -56,6 +56,20 @@
       "releaseDate": "2026-02-14T08:52:40.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "JO"
+    },
+    {
+      "id": "com.king.candycrushsaga",
+      "name": "Candy Crush Saga",
+      "developer": "King",
+      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=JO",
+      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T15:57:40.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "JO"
     },
@@ -242,6 +256,20 @@
       "country": "JO"
     },
     {
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=JO",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T11:27:15.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "JO"
+    },
+    {
       "id": "com.tocaboca.tocalifeworld",
       "name": "Toca Boca World",
       "developer": "Toca Boca",
@@ -340,20 +368,6 @@
       "country": "JO"
     },
     {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=JO",
-      "artwork": "https://play-lh.googleusercontent.com/upYircnh6-mH07OxwtX7L0EPFd4_FNV71xd8w4gHiyLKopipJxwPzoupoQgpzgf8_Fk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T16:20:35.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "JO"
-    },
-    {
       "id": "com.oakever.tiletrip",
       "name": "Tile Explorer - Triple Match",
       "developer": "Oakever Games",
@@ -438,20 +452,6 @@
       "country": "JO"
     },
     {
-      "id": "com.sh.mini.antistress.relaxing.games",
-      "name": "Mini Antistress Relaxing Games",
-      "developer": "stick hunter",
-      "url": "https://play.google.com/store/apps/details?id=com.sh.mini.antistress.relaxing.games&hl=en&gl=JO",
-      "artwork": "https://play-lh.googleusercontent.com/1kInqsBi-gTuGgRxKn8G1_KntTSKdgEI3GndN1d7C4jH974OMAK_Gy39_8nidKrfftMm",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T12:45:48.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "JO"
-    },
-    {
       "id": "com.bunbunstudio.magicblocktiles",
       "name": "Music Piano 7: Rush Song Games",
       "developer": "Melodya Muses",
@@ -476,20 +476,6 @@
       "releaseDate": "2026-02-10T09:38:01.000Z",
       "genres": [
         "Music"
-      ],
-      "country": "JO"
-    },
-    {
-      "id": "com.king.candycrushsaga",
-      "name": "Candy Crush Saga",
-      "developer": "King",
-      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=JO",
-      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T09:34:49.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "JO"
     },
@@ -702,6 +688,20 @@
         "Puzzle"
       ],
       "country": "JO"
+    },
+    {
+      "id": "com.devgame.masha.and.bear.pizzeria.games",
+      "name": "Masha and the Bear Pizza Maker",
+      "developer": "DEVGAME KIDS games",
+      "url": "https://play.google.com/store/apps/details?id=com.devgame.masha.and.bear.pizzeria.games&hl=en&gl=JO",
+      "artwork": "https://play-lh.googleusercontent.com/oZv-3Ob4JdeQLXQFmC-bTePxjfNU7PYRcuQe-tnUPLvbL1MdeWv-X1U6bF5SApbpKO6hfW2GsQPZsnxSVnG9",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T09:07:24.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "JO"
     }
   ],
   "updated": [
@@ -738,10 +738,10 @@
       "name": "Subway Surfers",
       "developer": "SYBO Games",
       "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=JO",
-      "artwork": "https://play-lh.googleusercontent.com/upYircnh6-mH07OxwtX7L0EPFd4_FNV71xd8w4gHiyLKopipJxwPzoupoQgpzgf8_Fk",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T16:20:35.000Z",
+      "releaseDate": "2026-02-12T11:27:15.000Z",
       "genres": [
         "Arcade"
       ],
@@ -972,20 +972,6 @@
       "country": "JO"
     },
     {
-      "id": "io.voodoo.holeio",
-      "name": "Hole.io",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=JO",
-      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T10:53:41.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "JO"
-    },
-    {
       "id": "com.miniclip.eightballpool",
       "name": "8 Ball Pool",
       "developer": "Miniclip.com",
@@ -996,6 +982,20 @@
       "releaseDate": "2026-02-09T16:37:18.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "JO"
+    },
+    {
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=JO",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T10:53:41.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "JO"
     },
@@ -1070,20 +1070,6 @@
       "country": "JO"
     },
     {
-      "id": "com.miniclip.footballstrike",
-      "name": "Football Strike: Online Soccer",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.footballstrike&hl=en&gl=JO",
-      "artwork": "https://play-lh.googleusercontent.com/QfFRLz_-JzxMFJzKyJQQpqQWQyw2f2VQLlEsr14R6SqvNe99Rdli-Qcki1MTK8Bh078",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-26T09:50:47.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "JO"
-    },
-    {
       "id": "com.oakever.tiletrip",
       "name": "Tile Explorer - Triple Match",
       "developer": "Oakever Games",
@@ -1098,16 +1084,16 @@
       "country": "JO"
     },
     {
-      "id": "co.tamatem.awadcar",
-      "name": "لعبة ملك التوصيل - عوض أبو شفة",
-      "developer": "Tamatem Inc.",
-      "url": "https://play.google.com/store/apps/details?id=co.tamatem.awadcar&hl=en&gl=JO",
-      "artwork": "https://play-lh.googleusercontent.com/ZDXGtNGc0ZNj3yQCS4V9KRZ44YwGHGbnmNkroFEAyvcxz1MSFB_iLlamyq6yTTweHw",
+      "id": "com.miniclip.footballstrike",
+      "name": "Football Strike: Online Soccer",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.footballstrike&hl=en&gl=JO",
+      "artwork": "https://play-lh.googleusercontent.com/QfFRLz_-JzxMFJzKyJQQpqQWQyw2f2VQLlEsr14R6SqvNe99Rdli-Qcki1MTK8Bh078",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-14T09:49:22.000Z",
+      "releaseDate": "2026-01-26T09:50:47.000Z",
       "genres": [
-        "Racing"
+        "Sports"
       ],
       "country": "JO"
     },
@@ -1196,6 +1182,20 @@
       "country": "JO"
     },
     {
+      "id": "co.tamatem.awadcar",
+      "name": "لعبة ملك التوصيل - عوض أبو شفة",
+      "developer": "Tamatem Inc.",
+      "url": "https://play.google.com/store/apps/details?id=co.tamatem.awadcar&hl=en&gl=JO",
+      "artwork": "https://play-lh.googleusercontent.com/ZDXGtNGc0ZNj3yQCS4V9KRZ44YwGHGbnmNkroFEAyvcxz1MSFB_iLlamyq6yTTweHw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-14T09:49:22.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "JO"
+    },
+    {
       "id": "com.devgame.masha.and.bear.pizzeria.games",
       "name": "Masha and the Bear Pizza Maker",
       "developer": "DEVGAME KIDS games",
@@ -1220,20 +1220,6 @@
       "releaseDate": "2026-01-14T08:31:08.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "JO"
-    },
-    {
-      "id": "com.gt.moto.bike.wheelie.stunt.race.game",
-      "name": "Moto Bike Stunt Wheelie Game",
-      "developer": "Game town",
-      "url": "https://play.google.com/store/apps/details?id=com.gt.moto.bike.wheelie.stunt.race.game&hl=en&gl=JO",
-      "artwork": "https://play-lh.googleusercontent.com/joPwuRJCICDqmz3xqbNWd61tbuUih4UXFukU8_uVb1o6rpzIMV4PnUmpkbXd7izozgn68FCAGZWcRGcbjGSI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-15T07:59:08.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "JO"
     },
@@ -1294,20 +1280,6 @@
       "country": "JO"
     },
     {
-      "id": "com.uc.gym.clicker",
-      "name": "Gym Idle Clicker: Fitness Hero",
-      "developer": "Unicorn Studio Official",
-      "url": "https://play.google.com/store/apps/details?id=com.uc.gym.clicker&hl=en&gl=JO",
-      "artwork": "https://play-lh.googleusercontent.com/9uzA6qLx2gFUnbq-gxvn2ZZeTweHsZFGvO1kurRydMEWIpwf9q5ATOPzsg2aGgYuvWM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T03:20:44.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "JO"
-    },
-    {
       "id": "com.gtsy.annoying.punch.game",
       "name": "Annoying Uncle Punch Game",
       "developer": "Game District LLC",
@@ -1336,6 +1308,20 @@
       "country": "JO"
     },
     {
+      "id": "com.uc.gym.clicker",
+      "name": "Gym Idle Clicker: Fitness Hero",
+      "developer": "Unicorn Studio Official",
+      "url": "https://play.google.com/store/apps/details?id=com.uc.gym.clicker&hl=en&gl=JO",
+      "artwork": "https://play-lh.googleusercontent.com/9uzA6qLx2gFUnbq-gxvn2ZZeTweHsZFGvO1kurRydMEWIpwf9q5ATOPzsg2aGgYuvWM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T03:20:44.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "JO"
+    },
+    {
       "id": "com.soccer.score.star",
       "name": "Soccer Superstar",
       "developer": "Real Freestyle Soccer",
@@ -1350,20 +1336,6 @@
       "country": "JO"
     },
     {
-      "id": "com.dvloper.granny",
-      "name": "Granny",
-      "developer": "DVloper",
-      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=JO",
-      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-01T14:35:20.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "JO"
-    },
-    {
       "id": "com.gps.housemakeover.satisfying.clean",
       "name": "House Makeover: ASMR Cleaning",
       "developer": "Mad1 Games",
@@ -1374,6 +1346,20 @@
       "releaseDate": "2026-02-14T17:03:58.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "JO"
+    },
+    {
+      "id": "com.dvloper.granny",
+      "name": "Granny",
+      "developer": "DVloper",
+      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=JO",
+      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-01T14:35:20.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "JO"
     },
@@ -1402,6 +1388,20 @@
       "releaseDate": "2026-02-15T18:47:31.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "JO"
+    },
+    {
+      "id": "com.yalla.yallagames",
+      "name": "Yalla Ludo - Ludo&Jackaroo",
+      "developer": "Aviva Sun",
+      "url": "https://play.google.com/store/apps/details?id=com.yalla.yallagames&hl=en&gl=JO",
+      "artwork": "https://play-lh.googleusercontent.com/p7_G7W7KQO_UO09jAekkwaw4yqEmOQvY6QExD63pPMiK_DVeEPDLacZdXsnvgvXeSuCe",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T08:10:51.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "JO"
     }
