@@ -1,7 +1,7 @@
 {
   "country": "TH",
   "store": "google",
-  "updatedAt": "2026-02-16T13:38:24.131Z",
+  "updatedAt": "2026-02-16T22:14:43.769Z",
   "new": [
     {
       "id": "com.roblox.client",
@@ -76,11 +76,11 @@
       "country": "TH"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "id": "com.xd.xdtglobal.gp",
+      "name": "Heartopia",
+      "developer": "XD Entertainment Co., Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.xd.xdtglobal.gp",
+      "artwork": "https://play-lh.googleusercontent.com/FtZNAkKn4faEpRU4UjtRRUk-aQP5zwiN1Kg4FzAcQBN7S8-PfDo7ODxmjaPlMu3HOFJ6-1WhzXxwKA6q1bOw",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -88,11 +88,11 @@
       "country": "TH"
     },
     {
-      "id": "com.xd.xdtglobal.gp",
-      "name": "Heartopia",
-      "developer": "XD Entertainment Co., Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.xd.xdtglobal.gp",
-      "artwork": "https://play-lh.googleusercontent.com/FtZNAkKn4faEpRU4UjtRRUk-aQP5zwiN1Kg4FzAcQBN7S8-PfDo7ODxmjaPlMu3HOFJ6-1WhzXxwKA6q1bOw",
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -160,6 +160,18 @@
       "country": "TH"
     },
     {
+      "id": "jp.konami.pesam",
+      "name": "eFootball™",
+      "developer": "KONAMI",
+      "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam",
+      "artwork": "https://play-lh.googleusercontent.com/o-iscF0u9uAm9jaems25nNUw3cIgxrzIELVTy-DPKb3CxN0_HLBcaWoeetZca_BBOp_u_NXeyQKz0nJkXiFMkA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "TH"
+    },
+    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
@@ -177,18 +189,6 @@
       "developer": "GARENA INTERNATIONAL I",
       "url": "https://play.google.com/store/apps/details?id=com.dts.freefiremax",
       "artwork": "https://play-lh.googleusercontent.com/ipL9El76Ug50yGguLeoy-BSwKtYz5fI5n9WHCkP6Im8CkUfXQTyzsSjgf5hlmEn5RuRP8yQPC-LOlTKlJLKEv8g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "TH"
-    },
-    {
-      "id": "jp.konami.pesam",
-      "name": "eFootball™",
-      "developer": "KONAMI",
-      "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam",
-      "artwork": "https://play-lh.googleusercontent.com/o-iscF0u9uAm9jaems25nNUw3cIgxrzIELVTy-DPKb3CxN0_HLBcaWoeetZca_BBOp_u_NXeyQKz0nJkXiFMkA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -220,6 +220,18 @@
       "country": "TH"
     },
     {
+      "id": "com.run.tower.defense",
+      "name": "Kingshot",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense",
+      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "TH"
+    },
+    {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -232,11 +244,35 @@
       "country": "TH"
     },
     {
+      "id": "com.xman.sea.gp",
+      "name": "X-Clash",
+      "developer": "Glaciers Game",
+      "url": "https://play.google.com/store/apps/details?id=com.xman.sea.gp",
+      "artwork": "https://play-lh.googleusercontent.com/2aBMjFus8vuWyFxAmxRMjDOt4TH5w7Zq6xmtMAxDRYa8bJNrnNsI8wdsSnrtPPkDKKts",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "TH"
+    },
+    {
       "id": "com.gismart.guitar",
       "name": "Real Guitar - Music Band Game",
       "developer": "Gismart",
       "url": "https://play.google.com/store/apps/details?id=com.gismart.guitar",
       "artwork": "https://play-lh.googleusercontent.com/S8tizQoHxOGRrmzNTuoD8lQhZfcnEj342g8do_lICHLrpjddW8MOhy8txsuWQ7uhSIQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "TH"
+    },
+    {
+      "id": "com.mojang.minecrafttrialpe",
+      "name": "Minecraft Trial",
+      "developer": "Mojang",
+      "url": "https://play.google.com/store/apps/details?id=com.mojang.minecrafttrialpe",
+      "artwork": "https://play-lh.googleusercontent.com/DJexP6PO8dL06XvNrjG7plb7SW_SaxuNamO80ab512JA71lBEBUnaJCaZzlqWVrrlEiG",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -261,42 +297,6 @@
       "developer": "HIGAME Studio",
       "url": "https://play.google.com/store/apps/details?id=com.higame.annoying.tricky.story.puzzle.game",
       "artwork": "https://play-lh.googleusercontent.com/c4GeGD2LgyBEKA6vUalFLxcbhS5rxsqrriNbKUErdyE4ZoxlLaksRGjMtsOHdnjrBrE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "TH"
-    },
-    {
-      "id": "com.mojang.minecrafttrialpe",
-      "name": "Minecraft Trial",
-      "developer": "Mojang",
-      "url": "https://play.google.com/store/apps/details?id=com.mojang.minecrafttrialpe",
-      "artwork": "https://play-lh.googleusercontent.com/DJexP6PO8dL06XvNrjG7plb7SW_SaxuNamO80ab512JA71lBEBUnaJCaZzlqWVrrlEiG",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "TH"
-    },
-    {
-      "id": "com.xman.sea.gp",
-      "name": "X-Clash",
-      "developer": "Glaciers Game",
-      "url": "https://play.google.com/store/apps/details?id=com.xman.sea.gp",
-      "artwork": "https://play-lh.googleusercontent.com/2aBMjFus8vuWyFxAmxRMjDOt4TH5w7Zq6xmtMAxDRYa8bJNrnNsI8wdsSnrtPPkDKKts",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "TH"
-    },
-    {
-      "id": "com.run.tower.defense",
-      "name": "Kingshot",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense",
-      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -460,18 +460,6 @@
       "country": "TH"
     },
     {
-      "id": "com.pazugames.avatarworld",
-      "name": "Avatar World ®",
-      "developer": "Pazu Games",
-      "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld",
-      "artwork": "https://play-lh.googleusercontent.com/LnX6GD073ysfflkl2jX8NBcDxdG6ZV8xBkbo985dJgR2v2xdsKD6nIA-EtIl2cFwfHTPKaraLh4U4uq7iH1b",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "TH"
-    },
-    {
       "id": "com.higame.brain.twist.tricky.puzzle",
       "name": "Prison Puzzle: Brain Twist",
       "developer": "HIGAME LTD.",
@@ -484,11 +472,11 @@
       "country": "TH"
     },
     {
-      "id": "com.tencent.ig",
-      "name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig",
-      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
+      "id": "com.pazugames.avatarworld",
+      "name": "Avatar World ®",
+      "developer": "Pazu Games",
+      "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld",
+      "artwork": "https://play-lh.googleusercontent.com/LnX6GD073ysfflkl2jX8NBcDxdG6ZV8xBkbo985dJgR2v2xdsKD6nIA-EtIl2cFwfHTPKaraLh4U4uq7iH1b",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -501,6 +489,18 @@
       "developer": "Kolb Apps",
       "url": "https://play.google.com/store/apps/details?id=br.com.rodrigokolb.realdrum",
       "artwork": "https://play-lh.googleusercontent.com/A32tc8f0mo23wYkdY8Aax8mpJScTAI-rIELt9VgyULdpPLq4_GPMkT17YOSdkLw--w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "TH"
+    },
+    {
+      "id": "com.tencent.ig",
+      "name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig",
+      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -678,11 +678,11 @@
       "country": "TH"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "id": "com.xd.xdtglobal.gp",
+      "name": "Heartopia",
+      "developer": "XD Entertainment Co., Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.xd.xdtglobal.gp",
+      "artwork": "https://play-lh.googleusercontent.com/FtZNAkKn4faEpRU4UjtRRUk-aQP5zwiN1Kg4FzAcQBN7S8-PfDo7ODxmjaPlMu3HOFJ6-1WhzXxwKA6q1bOw",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -690,11 +690,11 @@
       "country": "TH"
     },
     {
-      "id": "com.xd.xdtglobal.gp",
-      "name": "Heartopia",
-      "developer": "XD Entertainment Co., Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.xd.xdtglobal.gp",
-      "artwork": "https://play-lh.googleusercontent.com/FtZNAkKn4faEpRU4UjtRRUk-aQP5zwiN1Kg4FzAcQBN7S8-PfDo7ODxmjaPlMu3HOFJ6-1WhzXxwKA6q1bOw",
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -762,6 +762,18 @@
       "country": "TH"
     },
     {
+      "id": "jp.konami.pesam",
+      "name": "eFootball™",
+      "developer": "KONAMI",
+      "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam",
+      "artwork": "https://play-lh.googleusercontent.com/o-iscF0u9uAm9jaems25nNUw3cIgxrzIELVTy-DPKb3CxN0_HLBcaWoeetZca_BBOp_u_NXeyQKz0nJkXiFMkA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "TH"
+    },
+    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
@@ -779,18 +791,6 @@
       "developer": "GARENA INTERNATIONAL I",
       "url": "https://play.google.com/store/apps/details?id=com.dts.freefiremax",
       "artwork": "https://play-lh.googleusercontent.com/ipL9El76Ug50yGguLeoy-BSwKtYz5fI5n9WHCkP6Im8CkUfXQTyzsSjgf5hlmEn5RuRP8yQPC-LOlTKlJLKEv8g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "TH"
-    },
-    {
-      "id": "jp.konami.pesam",
-      "name": "eFootball™",
-      "developer": "KONAMI",
-      "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam",
-      "artwork": "https://play-lh.googleusercontent.com/o-iscF0u9uAm9jaems25nNUw3cIgxrzIELVTy-DPKb3CxN0_HLBcaWoeetZca_BBOp_u_NXeyQKz0nJkXiFMkA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -822,6 +822,18 @@
       "country": "TH"
     },
     {
+      "id": "com.run.tower.defense",
+      "name": "Kingshot",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense",
+      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "TH"
+    },
+    {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -834,11 +846,35 @@
       "country": "TH"
     },
     {
+      "id": "com.xman.sea.gp",
+      "name": "X-Clash",
+      "developer": "Glaciers Game",
+      "url": "https://play.google.com/store/apps/details?id=com.xman.sea.gp",
+      "artwork": "https://play-lh.googleusercontent.com/2aBMjFus8vuWyFxAmxRMjDOt4TH5w7Zq6xmtMAxDRYa8bJNrnNsI8wdsSnrtPPkDKKts",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "TH"
+    },
+    {
       "id": "com.gismart.guitar",
       "name": "Real Guitar - Music Band Game",
       "developer": "Gismart",
       "url": "https://play.google.com/store/apps/details?id=com.gismart.guitar",
       "artwork": "https://play-lh.googleusercontent.com/S8tizQoHxOGRrmzNTuoD8lQhZfcnEj342g8do_lICHLrpjddW8MOhy8txsuWQ7uhSIQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "TH"
+    },
+    {
+      "id": "com.mojang.minecrafttrialpe",
+      "name": "Minecraft Trial",
+      "developer": "Mojang",
+      "url": "https://play.google.com/store/apps/details?id=com.mojang.minecrafttrialpe",
+      "artwork": "https://play-lh.googleusercontent.com/DJexP6PO8dL06XvNrjG7plb7SW_SaxuNamO80ab512JA71lBEBUnaJCaZzlqWVrrlEiG",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -863,42 +899,6 @@
       "developer": "HIGAME Studio",
       "url": "https://play.google.com/store/apps/details?id=com.higame.annoying.tricky.story.puzzle.game",
       "artwork": "https://play-lh.googleusercontent.com/c4GeGD2LgyBEKA6vUalFLxcbhS5rxsqrriNbKUErdyE4ZoxlLaksRGjMtsOHdnjrBrE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "TH"
-    },
-    {
-      "id": "com.mojang.minecrafttrialpe",
-      "name": "Minecraft Trial",
-      "developer": "Mojang",
-      "url": "https://play.google.com/store/apps/details?id=com.mojang.minecrafttrialpe",
-      "artwork": "https://play-lh.googleusercontent.com/DJexP6PO8dL06XvNrjG7plb7SW_SaxuNamO80ab512JA71lBEBUnaJCaZzlqWVrrlEiG",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "TH"
-    },
-    {
-      "id": "com.xman.sea.gp",
-      "name": "X-Clash",
-      "developer": "Glaciers Game",
-      "url": "https://play.google.com/store/apps/details?id=com.xman.sea.gp",
-      "artwork": "https://play-lh.googleusercontent.com/2aBMjFus8vuWyFxAmxRMjDOt4TH5w7Zq6xmtMAxDRYa8bJNrnNsI8wdsSnrtPPkDKKts",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "TH"
-    },
-    {
-      "id": "com.run.tower.defense",
-      "name": "Kingshot",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense",
-      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1062,18 +1062,6 @@
       "country": "TH"
     },
     {
-      "id": "com.pazugames.avatarworld",
-      "name": "Avatar World ®",
-      "developer": "Pazu Games",
-      "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld",
-      "artwork": "https://play-lh.googleusercontent.com/LnX6GD073ysfflkl2jX8NBcDxdG6ZV8xBkbo985dJgR2v2xdsKD6nIA-EtIl2cFwfHTPKaraLh4U4uq7iH1b",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "TH"
-    },
-    {
       "id": "com.higame.brain.twist.tricky.puzzle",
       "name": "Prison Puzzle: Brain Twist",
       "developer": "HIGAME LTD.",
@@ -1086,11 +1074,11 @@
       "country": "TH"
     },
     {
-      "id": "com.tencent.ig",
-      "name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig",
-      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
+      "id": "com.pazugames.avatarworld",
+      "name": "Avatar World ®",
+      "developer": "Pazu Games",
+      "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld",
+      "artwork": "https://play-lh.googleusercontent.com/LnX6GD073ysfflkl2jX8NBcDxdG6ZV8xBkbo985dJgR2v2xdsKD6nIA-EtIl2cFwfHTPKaraLh4U4uq7iH1b",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1103,6 +1091,18 @@
       "developer": "Kolb Apps",
       "url": "https://play.google.com/store/apps/details?id=br.com.rodrigokolb.realdrum",
       "artwork": "https://play-lh.googleusercontent.com/A32tc8f0mo23wYkdY8Aax8mpJScTAI-rIELt9VgyULdpPLq4_GPMkT17YOSdkLw--w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "TH"
+    },
+    {
+      "id": "com.tencent.ig",
+      "name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig",
+      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
