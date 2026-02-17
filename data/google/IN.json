@@ -1,8 +1,22 @@
 {
   "country": "IN",
   "store": "google",
-  "updatedAt": "2026-02-17T07:15:48.393Z",
+  "updatedAt": "2026-02-17T19:57:24.007Z",
   "new": [
+    {
+      "id": "com.chess",
+      "name": "Chess - Play and Learn Online",
+      "developer": "Chess.com",
+      "url": "https://play.google.com/store/apps/details?id=com.chess&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/Ei1bbH4KaioRqxTiT-8OPcp8TpoO3x8AC7kBXzu6cM8CESzrCq1IgJPnFn7Od2i_26P1t-Z2jPoDXYzqvOSKrkQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T10:37:51.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "IN"
+    },
     {
       "id": "com.WalkTalk.FlightMaster",
       "name": "Epic Plane Evolution",
@@ -28,20 +42,6 @@
       "releaseDate": "2026-02-16T15:15:25.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.chess",
-      "name": "Chess - Play and Learn Online",
-      "developer": "Chess.com",
-      "url": "https://play.google.com/store/apps/details?id=com.chess&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/Ei1bbH4KaioRqxTiT-8OPcp8TpoO3x8AC7kBXzu6cM8CESzrCq1IgJPnFn7Od2i_26P1t-Z2jPoDXYzqvOSKrkQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T15:08:01.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "IN"
     },
@@ -126,6 +126,20 @@
       "releaseDate": "2026-02-13T13:58:57.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T10:53:41.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "IN"
     },
@@ -688,20 +702,6 @@
         "Casual"
       ],
       "country": "IN"
-    },
-    {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T19:50:09.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "IN"
     }
   ],
   "updated": [
@@ -902,6 +902,20 @@
       "country": "IN"
     },
     {
+      "id": "com.highbrowinteractive.truck.masters.india.highway.driving.simulator.game",
+      "name": "Truck Masters: India Simulator",
+      "developer": "Highbrow Interactive",
+      "url": "https://play.google.com/store/apps/details?id=com.highbrowinteractive.truck.masters.india.highway.driving.simulator.game&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/nmAKBLjInkBBVtyZW7ChitHDd4repJoAhcCnsTLXwhaTreJhIEU87aPlw7Q5qx1HjVFN",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T12:07:38.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "IN"
+    },
+    {
       "id": "com.gt.moto.bike.wheelie.stunt.race.game",
       "name": "Bike Wheelie Stunt Master Game",
       "developer": "Game town",
@@ -930,20 +944,6 @@
       "country": "IN"
     },
     {
-      "id": "com.highbrowinteractive.truck.masters.india.highway.driving.simulator.game",
-      "name": "Truck Masters: India Simulator",
-      "developer": "Highbrow Interactive",
-      "url": "https://play.google.com/store/apps/details?id=com.highbrowinteractive.truck.masters.india.highway.driving.simulator.game&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/nmAKBLjInkBBVtyZW7ChitHDd4repJoAhcCnsTLXwhaTreJhIEU87aPlw7Q5qx1HjVFN",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T12:07:38.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "IN"
-    },
-    {
       "id": "com.idle.chop",
       "name": "Idle Chop: Lumber Empire",
       "developer": "robuminer",
@@ -952,20 +952,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-01-28T12:05:45.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.king.candycrushsaga",
-      "name": "Candy Crush Saga",
-      "developer": "King",
-      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/TLUeelx8wcpEzf3hoqeLxPs3ai1tdGtAZTIFkNqy3gbDp1NPpNFTOzSFJDvZ9narFS0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T15:57:40.000Z",
       "genres": [
         "Casual"
       ],
@@ -982,6 +968,20 @@
       "releaseDate": "2026-02-12T11:27:15.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.king.candycrushsaga",
+      "name": "Candy Crush Saga",
+      "developer": "King",
+      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/TLUeelx8wcpEzf3hoqeLxPs3ai1tdGtAZTIFkNqy3gbDp1NPpNFTOzSFJDvZ9narFS0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T15:57:40.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "IN"
     },
@@ -1056,20 +1056,6 @@
       "country": "IN"
     },
     {
-      "id": "com.ANGamingStudio.IndianVehiclesSimulator3d",
-      "name": "Indian Vehicles Simulator 3d",
-      "developer": "AN Gaming Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.ANGamingStudio.IndianVehiclesSimulator3d&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/CISTqawO405MXHMOHXo1C4MxhZ4LUVwjZyucbo0nGinvSJvRuePueJJfD2sNLo30vX8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-13T16:59:33.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "IN"
-    },
-    {
       "id": "com.snake.io.slither.worms",
       "name": "Snake Lite® - Worm Snake Game",
       "developer": "Hippo Lab",
@@ -1084,16 +1070,16 @@
       "country": "IN"
     },
     {
-      "id": "com.samishceo.slfloary",
-      "name": "777 Slots Glory",
-      "developer": "Let's Find X Int'l",
-      "url": "https://play.google.com/store/apps/details?id=com.samishceo.slfloary&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/UNGxQLhAQGhZXxWJsIC9-oEvQqgpYXJk2UhrsWm-HUefAYMJSQCG1450V2rFioLFo-lmzeNKTQNBgaAUygP59A",
+      "id": "com.ANGamingStudio.IndianVehiclesSimulator3d",
+      "name": "Indian Vehicles Simulator 3d",
+      "developer": "AN Gaming Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.ANGamingStudio.IndianVehiclesSimulator3d&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/CISTqawO405MXHMOHXo1C4MxhZ4LUVwjZyucbo0nGinvSJvRuePueJJfD2sNLo30vX8",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-11T10:00:15.000Z",
+      "releaseDate": "2026-01-13T16:59:33.000Z",
       "genres": [
-        "Casual"
+        "Simulation"
       ],
       "country": "IN"
     },
@@ -1112,16 +1098,16 @@
       "country": "IN"
     },
     {
-      "id": "com.vicenter.stickman.ragdoll.dismounting",
-      "name": "Ragdoll Turbo Dismount",
-      "developer": "Prime1 Lab LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.vicenter.stickman.ragdoll.dismounting&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/-m3LeDwTsdEWtSsc9cni1kIrJ2pneSoq6sNPw_23aJgmpIDGeLP1vqcVDp5Y9nfT6Q",
+      "id": "com.nautilus.realcricket",
+      "name": "Real Cricket™",
+      "developer": "KRAFTON, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.nautilus.realcricket&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/jSv6ZBqavvM1O6FXERCwh_bOkXKdYs1NCrr09yYMr7KpC1SJqRSoTvV5pXCbBkt1V-xvS4pwaneYMTBeOWaPxg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-17T09:05:42.000Z",
+      "releaseDate": "2026-02-04T12:07:50.000Z",
       "genres": [
-        "Simulation"
+        "Sports"
       ],
       "country": "IN"
     },
@@ -1140,20 +1126,6 @@
       "country": "IN"
     },
     {
-      "id": "com.nautilus.realcricket",
-      "name": "Real Cricket™",
-      "developer": "KRAFTON, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.nautilus.realcricket&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/jSv6ZBqavvM1O6FXERCwh_bOkXKdYs1NCrr09yYMr7KpC1SJqRSoTvV5pXCbBkt1V-xvS4pwaneYMTBeOWaPxg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T12:07:50.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "IN"
-    },
-    {
       "id": "io.voodoo.paper2",
       "name": "Paper.io 2",
       "developer": "VOODOO",
@@ -1164,6 +1136,20 @@
       "releaseDate": "2026-02-03T19:50:09.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.vicenter.stickman.ragdoll.dismounting",
+      "name": "Ragdoll Turbo Dismount",
+      "developer": "Prime1 Lab LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.vicenter.stickman.ragdoll.dismounting&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/-m3LeDwTsdEWtSsc9cni1kIrJ2pneSoq6sNPw_23aJgmpIDGeLP1vqcVDp5Y9nfT6Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-17T09:05:42.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "IN"
     },
@@ -1266,20 +1252,6 @@
       "country": "IN"
     },
     {
-      "id": "com.trending.tik.tap.game.challenge",
-      "name": "Tik Tap Challenge",
-      "developer": "XGame Global",
-      "url": "https://play.google.com/store/apps/details?id=com.trending.tik.tap.game.challenge&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/EhmwEMtalQ_DwWkWlkGkNB1LPgvNHcBDTmN5u6M6Z8Y3Dufk647Rlo0d9hPUeIgNoSKRWS0_XPb6ZPfgBT8k",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-16T11:49:19.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "IN"
-    },
-    {
       "id": "com.lighthouse.freeplay.ind",
       "name": "Last light",
       "developer": "Dinosaur-Games",
@@ -1288,6 +1260,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-11T09:45:21.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.trending.tik.tap.game.challenge",
+      "name": "Tik Tap Challenge",
+      "developer": "XGame Global",
+      "url": "https://play.google.com/store/apps/details?id=com.trending.tik.tap.game.challenge&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/EhmwEMtalQ_DwWkWlkGkNB1LPgvNHcBDTmN5u6M6Z8Y3Dufk647Rlo0d9hPUeIgNoSKRWS0_XPb6ZPfgBT8k",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-16T11:49:19.000Z",
       "genres": [
         "Casual"
       ],
@@ -1308,20 +1294,6 @@
       "country": "IN"
     },
     {
-      "id": "com.openmygame.games.android.jigsaw.solitaire.puzzle",
-      "name": "Cardscapes: Jigsaw Puzzle",
-      "developer": "Malpa Games",
-      "url": "https://play.google.com/store/apps/details?id=com.openmygame.games.android.jigsaw.solitaire.puzzle&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/vf8KzfHG1J7oCp9O-FoSNKMc-Gzjnhw4_7su1RsB4pdF6JARn3vy-xqhwqyj3nowJmdrN-HI0dHfg5vnMJc_ro8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T15:59:15.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "IN"
-    },
-    {
       "id": "com.brain.puzzle.tricky.test.annoying.quest",
       "name": "Brain Puzzle: Tricky Test",
       "developer": "SLEEK CHARM LIMITED",
@@ -1330,6 +1302,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-09T10:29:02.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.openmygame.games.android.jigsaw.solitaire.puzzle",
+      "name": "Cardscapes: Jigsaw Puzzle",
+      "developer": "Malpa Games",
+      "url": "https://play.google.com/store/apps/details?id=com.openmygame.games.android.jigsaw.solitaire.puzzle&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/vf8KzfHG1J7oCp9O-FoSNKMc-Gzjnhw4_7su1RsB4pdF6JARn3vy-xqhwqyj3nowJmdrN-HI0dHfg5vnMJc_ro8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T15:59:15.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1402,6 +1388,20 @@
       "releaseDate": "2026-02-05T10:10:06.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.chess",
+      "name": "Chess - Play and Learn Online",
+      "developer": "Chess.com",
+      "url": "https://play.google.com/store/apps/details?id=com.chess&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/Ei1bbH4KaioRqxTiT-8OPcp8TpoO3x8AC7kBXzu6cM8CESzrCq1IgJPnFn7Od2i_26P1t-Z2jPoDXYzqvOSKrkQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T10:37:51.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "IN"
     }
