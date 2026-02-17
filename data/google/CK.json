@@ -1,8 +1,22 @@
 {
   "country": "CK",
   "store": "google",
-  "updatedAt": "2026-02-16T17:02:45.198Z",
+  "updatedAt": "2026-02-17T02:53:31.009Z",
   "new": [
+    {
+      "id": "com.WalkTalk.FlightMaster",
+      "name": "Epic Plane Evolution",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.WalkTalk.FlightMaster&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/xC6Ky_Utjy9ULs1N8cKED99IXdp0o0gFy6k8aXuPat6rmxxQrNkHqe9HKFfsogK3kQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T00:20:51.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "CK"
+    },
     {
       "id": "com.outfit7.mytalkingtom2",
       "name": "My Talking Tom 2: Pet Game",
@@ -354,20 +368,6 @@
       "country": "CK"
     },
     {
-      "id": "com.miniclip.carrom",
-      "name": "Carrom Pool: Disc Game",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.carrom&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/J01HmnDl9u2G-qHEdYsKmoPtuxbxEZQU4TZIczlGneGArCcn4tqFcsji3P2aK7hQEej_",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T15:59:29.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "CK"
-    },
-    {
       "id": "com.oakever.tiletrip",
       "name": "Tile Explorer - Triple Match",
       "developer": "Oakever Games",
@@ -536,6 +536,20 @@
       "country": "CK"
     },
     {
+      "id": "com.v09.real.moto.bike.driving.racing.city.open.world",
+      "name": "Real Moto Driving Racing World",
+      "developer": "Racing Games - Make it for fun",
+      "url": "https://play.google.com/store/apps/details?id=com.v09.real.moto.bike.driving.racing.city.open.world&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/xQMaF79AUezz7GlAjqG9FkUvtSQhnCXekrURxT1bWP8cxXJhhYq9WPUS1gc3LKvxQg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T10:15:47.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "CK"
+    },
+    {
       "id": "com.youmusic.magictiles",
       "name": "Magic Tiles 3™ - Piano Game",
       "developer": "AMANOTES PTE. LTD.",
@@ -688,20 +702,6 @@
         "Racing"
       ],
       "country": "CK"
-    },
-    {
-      "id": "com.JindoBlu.OfflineGames",
-      "name": "Offline Games - No Wifi Games",
-      "developer": "JindoBlu",
-      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.OfflineGames&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/UoBeMWwIeHSxGAx1EhmvWrG1lkzlG78UByGwEkEhRlp40udqC0hHJeRTl266g9aG-A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T13:18:19.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "CK"
     }
   ],
   "updated": [
@@ -832,20 +832,6 @@
       "country": "CK"
     },
     {
-      "id": "com.dts.freefiremax",
-      "name": "Free Fire MAX x JUJUTSU KAISEN",
-      "developer": "GARENA INTERNATIONAL I",
-      "url": "https://play.google.com/store/apps/details?id=com.dts.freefiremax&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/ipL9El76Ug50yGguLeoy-BSwKtYz5fI5n9WHCkP6Im8CkUfXQTyzsSjgf5hlmEn5RuRP8yQPC-LOlTKlJLKEv8g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-09T06:52:43.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "CK"
-    },
-    {
       "id": "com.ta.strike.ops",
       "name": "FPS Strike Ops : Modern Arena",
       "developer": "FPS Shooter & Action Game",
@@ -856,6 +842,20 @@
       "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "CK"
+    },
+    {
+      "id": "com.dts.freefiremax",
+      "name": "Free Fire MAX x JUJUTSU KAISEN",
+      "developer": "GARENA INTERNATIONAL I",
+      "url": "https://play.google.com/store/apps/details?id=com.dts.freefiremax&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/ipL9El76Ug50yGguLeoy-BSwKtYz5fI5n9WHCkP6Im8CkUfXQTyzsSjgf5hlmEn5RuRP8yQPC-LOlTKlJLKEv8g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-09T06:52:43.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "CK"
     },
@@ -902,16 +902,16 @@
       "country": "CK"
     },
     {
-      "id": "com.mobile.legends",
-      "name": "Mobile Legends: Bang Bang",
-      "developer": "MOONTON",
-      "url": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/Op7v9XdsyxjrKImMD5RLyiLRCAHs3DMQFANwfsuMTw1hq0lH4j8tOqD3Fd7zyr4ixmC0xoqqRkQDBjAd46NsFQ",
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-07T03:26:33.000Z",
+      "releaseDate": "2026-02-13T10:53:41.000Z",
       "genres": [
-        "Action"
+        "Arcade"
       ],
       "country": "CK"
     },
@@ -924,34 +924,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-03T19:50:09.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "CK"
-    },
-    {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "CK"
-    },
-    {
-      "id": "io.voodoo.holeio",
-      "name": "Hole.io",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T10:53:41.000Z",
       "genres": [
         "Arcade"
       ],
@@ -972,6 +944,34 @@
       "country": "CK"
     },
     {
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "CK"
+    },
+    {
+      "id": "com.mobile.legends",
+      "name": "Mobile Legends: Bang Bang",
+      "developer": "MOONTON",
+      "url": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/Op7v9XdsyxjrKImMD5RLyiLRCAHs3DMQFANwfsuMTw1hq0lH4j8tOqD3Fd7zyr4ixmC0xoqqRkQDBjAd46NsFQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-07T03:26:33.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "CK"
+    },
+    {
       "id": "com.ea.gp.fifamobile",
       "name": "EA SPORTS FC™ Mobile Soccer 26",
       "developer": "ELECTRONIC ARTS",
@@ -982,6 +982,20 @@
       "releaseDate": "2026-02-03T01:41:34.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "CK"
+    },
+    {
+      "id": "com.tencent.ig",
+      "name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-29T01:31:07.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "CK"
     },
@@ -1014,16 +1028,16 @@
       "country": "CK"
     },
     {
-      "id": "com.tencent.ig",
-      "name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
+      "id": "com.outfit7.mytalkingangela2",
+      "name": "My Talking Angela 2",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-29T01:31:07.000Z",
+      "releaseDate": "2026-02-16T14:20:52.000Z",
       "genres": [
-        "Action"
+        "Casual"
       ],
       "country": "CK"
     },
@@ -1042,16 +1056,16 @@
       "country": "CK"
     },
     {
-      "id": "com.outfit7.mytalkingangela2",
-      "name": "My Talking Angela 2",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
+      "id": "com.craftsman.go.craft",
+      "name": "Craftsman Pro: Building Craft",
+      "developer": "StarGame14",
+      "url": "https://play.google.com/store/apps/details?id=com.craftsman.go.craft&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/bEp6u92JPR8Xu4tuVMie5zvfWMKuziWotOULNRl7TgIocaoQvqV4FJj60u-ePT7CaRiR85JoTlNhbExeCcJeOVc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-16T14:20:52.000Z",
+      "releaseDate": "2026-02-12T13:48:29.000Z",
       "genres": [
-        "Casual"
+        "Simulation"
       ],
       "country": "CK"
     },
@@ -1112,48 +1126,6 @@
       "country": "CK"
     },
     {
-      "id": "com.rubygames.assassin",
-      "name": "Hunter Assassin",
-      "developer": "Ruby Games AS",
-      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-08T14:09:08.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "CK"
-    },
-    {
-      "id": "com.craftsman.go.craft",
-      "name": "Craftsman Pro: Building Craft",
-      "developer": "StarGame14",
-      "url": "https://play.google.com/store/apps/details?id=com.craftsman.go.craft&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/bEp6u92JPR8Xu4tuVMie5zvfWMKuziWotOULNRl7TgIocaoQvqV4FJj60u-ePT7CaRiR85JoTlNhbExeCcJeOVc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T13:48:29.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "CK"
-    },
-    {
-      "id": "com.flightsimulator.airplane3d.airportsimulator.airplane.flying",
-      "name": "Flight Simulator Airplane Game",
-      "developer": "HiveMind Games Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.flightsimulator.airplane3d.airportsimulator.airplane.flying&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/pIbpgw4g7bQIe6LWkHM1HUvmxG6RUw6SwAam31yRJ20V2QlJ_6adBrLcy0O2iUPiGHk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T13:38:43.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "CK"
-    },
-    {
       "id": "com.gtsy.annoying.punch.game",
       "name": "Annoying Uncle Punch Game",
       "developer": "Game District LLC",
@@ -1164,34 +1136,6 @@
       "releaseDate": "2026-01-23T15:38:31.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "CK"
-    },
-    {
-      "id": "com.dreamgames.royalkingdom",
-      "name": "Royal Kingdom",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T13:58:57.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CK"
-    },
-    {
-      "id": "com.miniclip.eightballpool",
-      "name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T16:37:18.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "CK"
     },
@@ -1210,16 +1154,44 @@
       "country": "CK"
     },
     {
-      "id": "com.Rohit.IndianBikes",
-      "name": "Indian Bikes Driving 3D",
-      "developer": "Rohit Gaming Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.Rohit.IndianBikes&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/HToouNPMRBSTbHD1swPV3nNx2BCPkquQnJHYFTEcjcmt5MbEEEBJrpeWDh7FZ8YssXw",
+      "id": "com.rubygames.assassin",
+      "name": "Hunter Assassin",
+      "developer": "Ruby Games AS",
+      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T16:47:32.000Z",
+      "releaseDate": "2026-02-08T14:09:08.000Z",
       "genres": [
-        "Simulation"
+        "Action"
+      ],
+      "country": "CK"
+    },
+    {
+      "id": "com.miniclip.eightballpool",
+      "name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T16:37:18.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "CK"
+    },
+    {
+      "id": "com.dreamgames.royalkingdom",
+      "name": "Royal Kingdom",
+      "developer": "Dream Games, Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T13:58:57.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "CK"
     },
@@ -1238,44 +1210,16 @@
       "country": "CK"
     },
     {
-      "id": "com.aim.racing",
-      "name": "Extreme Car Driving Simulator",
-      "developer": "AxesInMotion Racing",
-      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/6NEtpPjWbslnt7WzHb4A1sYM6GiX_VdIhA6O9gAvJcf-GlmnEkfMQwPzAD7xTSLV_5M",
+      "id": "com.flightsimulator.airplane3d.airportsimulator.airplane.flying",
+      "name": "Flight Simulator Airplane Game",
+      "developer": "HiveMind Games Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.flightsimulator.airplane3d.airportsimulator.airplane.flying&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/pIbpgw4g7bQIe6LWkHM1HUvmxG6RUw6SwAam31yRJ20V2QlJ_6adBrLcy0O2iUPiGHk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T16:50:44.000Z",
+      "releaseDate": "2026-02-16T13:38:43.000Z",
       "genres": [
-        "Racing"
-      ],
-      "country": "CK"
-    },
-    {
-      "id": "com.trending.tik.tap.game.challenge",
-      "name": "Tik Tap Challenge",
-      "developer": "XGame Global",
-      "url": "https://play.google.com/store/apps/details?id=com.trending.tik.tap.game.challenge&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/EhmwEMtalQ_DwWkWlkGkNB1LPgvNHcBDTmN5u6M6Z8Y3Dufk647Rlo0d9hPUeIgNoSKRWS0_XPb6ZPfgBT8k",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-16T11:49:19.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "CK"
-    },
-    {
-      "id": "com.skgames.trafficrider",
-      "name": "Traffic Rider",
-      "developer": "skgames",
-      "url": "https://play.google.com/store/apps/details?id=com.skgames.trafficrider&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/590AflDt-hW2t85Cit_ODJPJdRiMMRn2cSF0vYNfsBpjm895x1zDy0npbD7IlDCvmNvI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-08T14:58:29.000Z",
-      "genres": [
-        "Racing"
+        "Simulation"
       ],
       "country": "CK"
     },
@@ -1294,28 +1238,14 @@
       "country": "CK"
     },
     {
-      "id": "com.rioo.runnersubway",
-      "name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/hZsC5eP05OC3HeGuOVivBgsCTQZIqkm-6rViFTNuimz_wtxOtZIEM0zLodtkw1QZLg",
+      "id": "com.trending.tik.tap.game.challenge",
+      "name": "Tik Tap Challenge",
+      "developer": "XGame Global",
+      "url": "https://play.google.com/store/apps/details?id=com.trending.tik.tap.game.challenge&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/EhmwEMtalQ_DwWkWlkGkNB1LPgvNHcBDTmN5u6M6Z8Y3Dufk647Rlo0d9hPUeIgNoSKRWS0_XPb6ZPfgBT8k",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-27T01:29:03.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "CK"
-    },
-    {
-      "id": "com.outfit7.mytalkingtomfriends",
-      "name": "My Talking Tom Friends",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/WY69uGwaQPUx5vS9bxF3sm4mc9N1ZzvVHVqLrZOycExHb6m8A2v5hGoroTRjih1a_d4Y",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T13:03:47.000Z",
+      "releaseDate": "2025-12-16T11:49:19.000Z",
       "genres": [
         "Casual"
       ],
@@ -1336,6 +1266,62 @@
       "country": "CK"
     },
     {
+      "id": "com.skgames.trafficrider",
+      "name": "Traffic Rider",
+      "developer": "skgames",
+      "url": "https://play.google.com/store/apps/details?id=com.skgames.trafficrider&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/590AflDt-hW2t85Cit_ODJPJdRiMMRn2cSF0vYNfsBpjm895x1zDy0npbD7IlDCvmNvI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-08T14:58:29.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "CK"
+    },
+    {
+      "id": "com.aim.racing",
+      "name": "Extreme Car Driving Simulator",
+      "developer": "AxesInMotion Racing",
+      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/6NEtpPjWbslnt7WzHb4A1sYM6GiX_VdIhA6O9gAvJcf-GlmnEkfMQwPzAD7xTSLV_5M",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T16:50:44.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "CK"
+    },
+    {
+      "id": "com.outfit7.mytalkingtomfriends",
+      "name": "My Talking Tom Friends",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/WY69uGwaQPUx5vS9bxF3sm4mc9N1ZzvVHVqLrZOycExHb6m8A2v5hGoroTRjih1a_d4Y",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T13:03:47.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "CK"
+    },
+    {
+      "id": "com.Rohit.IndianBikes",
+      "name": "Indian Bikes Driving 3D",
+      "developer": "Rohit Gaming Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.Rohit.IndianBikes&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/HToouNPMRBSTbHD1swPV3nNx2BCPkquQnJHYFTEcjcmt5MbEEEBJrpeWDh7FZ8YssXw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T16:47:32.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "CK"
+    },
+    {
       "id": "com.xgame.VehicleDriving3D",
       "name": "Real Driving: Vehicle & Park",
       "developer": "XGAME STUDIO",
@@ -1346,20 +1332,6 @@
       "releaseDate": "2026-01-23T06:55:58.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "CK"
-    },
-    {
-      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
-      "name": "Agent Shooter - Shooting Game",
-      "developer": "Rebel Actions",
-      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-16T06:00:02.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "CK"
     },
@@ -1378,6 +1350,34 @@
       "country": "CK"
     },
     {
+      "id": "gg.sunday.dog.escape.puzzle",
+      "name": "Dog Escape: Cute Pet Care Life",
+      "developer": "Sunday.gg",
+      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T17:17:41.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "CK"
+    },
+    {
+      "id": "com.rioo.runnersubway",
+      "name": "Subway Princess Runner",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/hZsC5eP05OC3HeGuOVivBgsCTQZIqkm-6rViFTNuimz_wtxOtZIEM0zLodtkw1QZLg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T01:29:03.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "CK"
+    },
+    {
       "id": "com.dino.race.master",
       "name": "Car Race",
       "developer": "iKame Games - Zego Studio",
@@ -1392,16 +1392,16 @@
       "country": "CK"
     },
     {
-      "id": "gg.sunday.dog.escape.puzzle",
-      "name": "Dog Escape: Cute Pet Care Life",
-      "developer": "Sunday.gg",
-      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle&hl=en&gl=CK",
-      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
+      "id": "com.pazugames.avatarworld",
+      "name": "Avatar World ®",
+      "developer": "Pazu Games",
+      "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld&hl=en&gl=CK",
+      "artwork": "https://play-lh.googleusercontent.com/LnX6GD073ysfflkl2jX8NBcDxdG6ZV8xBkbo985dJgR2v2xdsKD6nIA-EtIl2cFwfHTPKaraLh4U4uq7iH1b",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T17:17:41.000Z",
+      "releaseDate": "2026-02-12T17:27:50.000Z",
       "genres": [
-        "Simulation"
+        "Role Playing"
       ],
       "country": "CK"
     }
