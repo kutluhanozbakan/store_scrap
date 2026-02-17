@@ -1,7 +1,7 @@
 {
   "country": "SC",
   "store": "google",
-  "updatedAt": "2026-02-17T11:52:22.298Z",
+  "updatedAt": "2026-02-17T22:39:35.482Z",
   "new": [
     {
       "id": "games.burny.associations.word.puzzle",
@@ -168,6 +168,20 @@
       "releaseDate": "2026-02-13T10:53:41.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "SC"
+    },
+    {
+      "id": "com.gp.pilot.simulator.airplanegames",
+      "name": "Pilot Simulator: Airplane Game",
+      "developer": "GamePark",
+      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T10:51:12.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "SC"
     },
@@ -536,6 +550,20 @@
       "country": "SC"
     },
     {
+      "id": "com.wn.hairtattoo",
+      "name": "Hair Tattoo: Barber Shop Game",
+      "developer": "CASUAL AZUR GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.wn.hairtattoo&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/kXNZHWWzkmo8zj1-006EZwgwzJx82z8FZ3yWIuon6NCEO4FtbXYRUTDaCVSDi-tbug",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T11:20:15.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "SC"
+    },
+    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -546,6 +574,20 @@
       "releaseDate": "2026-02-11T11:09:54.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "SC"
+    },
+    {
+      "id": "com.innersloth.spacemafia",
+      "name": "Among Us",
+      "developer": "Innersloth LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T19:56:21.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "SC"
     },
@@ -660,48 +702,6 @@
         "Action"
       ],
       "country": "SC"
-    },
-    {
-      "id": "com.craft.city.blockbuilder.pro",
-      "name": "Craft Explore: Block Builder",
-      "developer": "Appsgrooves",
-      "url": "https://play.google.com/store/apps/details?id=com.craft.city.blockbuilder.pro&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/YFHDvFUFlCreDkvR1NRPr1KkeF3OdKCZPVmSLzPXs96jHbAxUf4LjFOaWA0WkmTdIK4A2K2G8ZnnKeLimAFM2Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T12:12:25.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "SC"
-    },
-    {
-      "id": "com.wilds.craft.mysticland.explore",
-      "name": "Block Craft 3D: Realm Builder",
-      "developer": "Metagame.Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.wilds.craft.mysticland.explore&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/atgEBnDex2iZ3zknB3N5c4tBxJwT8NMrWTp0NXY7rYxk6DkDksRNddCm4E_832TI0w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T10:54:34.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "SC"
-    },
-    {
-      "id": "com.hyperkani.trialbike",
-      "name": "Stunt Bike Extreme",
-      "developer": "Hyperkani",
-      "url": "https://play.google.com/store/apps/details?id=com.hyperkani.trialbike&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/NRovxU1rnnI2BzDw989gmkSb8DOnEmgybKJysHKE4-5WSWonNXFwGJGDXMppfxHBkI4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T05:25:41.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "SC"
     }
   ],
   "updated": [
@@ -804,20 +804,6 @@
       "country": "SC"
     },
     {
-      "id": "water.sort.color.puzzle.offline.games",
-      "name": "Water Sort! Color Sort Puzzle",
-      "developer": "Bobodoo Game",
-      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/FGKE522gd5FND6fnX-_GdhSe9eoU0IqSBJ3gV8nUEYnOTMubjov8cvlC2FQXMgbb29NA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T14:06:14.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "SC"
-    },
-    {
       "id": "com.football.soccer.league",
       "name": "Football League 2026",
       "developer": "MOBILE SOCCER",
@@ -828,6 +814,20 @@
       "releaseDate": "2026-02-11T12:25:49.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "SC"
+    },
+    {
+      "id": "water.sort.color.puzzle.offline.games",
+      "name": "Water Sort! Color Sort Puzzle",
+      "developer": "Bobodoo Game",
+      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/FGKE522gd5FND6fnX-_GdhSe9eoU0IqSBJ3gV8nUEYnOTMubjov8cvlC2FQXMgbb29NA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T14:06:14.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "SC"
     },
@@ -888,20 +888,6 @@
       "country": "SC"
     },
     {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T11:27:15.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "SC"
-    },
-    {
       "id": "com.gamebp.screw3d",
       "name": "Happy Screw Trip 3D: ASMR",
       "developer": "AlphaPlay Games",
@@ -912,6 +898,20 @@
       "releaseDate": "2026-02-11T13:30:26.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "SC"
+    },
+    {
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T11:27:15.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "SC"
     },
@@ -958,20 +958,6 @@
       "country": "SC"
     },
     {
-      "id": "com.advant.streamer",
-      "name": "Lamar - Idle Vlogger",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T15:44:02.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "SC"
-    },
-    {
       "id": "com.firsttouchgames.dls7",
       "name": "Dream League Soccer 2026",
       "developer": "First Touch Games Ltd.",
@@ -986,16 +972,16 @@
       "country": "SC"
     },
     {
-      "id": "io.voodoo.holeio",
-      "name": "Hole.io",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "id": "com.advant.streamer",
+      "name": "Lamar - Idle Vlogger",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T10:53:41.000Z",
+      "releaseDate": "2026-02-13T15:44:02.000Z",
       "genres": [
-        "Arcade"
+        "Simulation"
       ],
       "country": "SC"
     },
@@ -1014,6 +1000,20 @@
       "country": "SC"
     },
     {
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T10:53:41.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "SC"
+    },
+    {
       "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
       "name": "Agent Shooter - Shooting Game",
       "developer": "Rebel Actions",
@@ -1024,6 +1024,34 @@
       "releaseDate": "2026-01-16T06:00:02.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "SC"
+    },
+    {
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T15:03:56.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "SC"
+    },
+    {
+      "id": "com.playrix.township",
+      "name": "Township",
+      "developer": "Playrix",
+      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T16:33:15.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "SC"
     },
@@ -1070,6 +1098,20 @@
       "country": "SC"
     },
     {
+      "id": "com.robtopx.geometryjumplite",
+      "name": "Geometry Dash Lite",
+      "developer": "RobTop Games",
+      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T14:03:50.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "SC"
+    },
+    {
       "id": "com.aim.racing",
       "name": "Extreme Car Driving Simulator",
       "developer": "AxesInMotion Racing",
@@ -1080,20 +1122,6 @@
       "releaseDate": "2026-02-11T16:50:44.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "SC"
-    },
-    {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T15:03:56.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "SC"
     },
@@ -1154,20 +1182,6 @@
       "country": "SC"
     },
     {
-      "id": "com.robtopx.geometryjumplite",
-      "name": "Geometry Dash Lite",
-      "developer": "RobTop Games",
-      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T14:03:50.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "SC"
-    },
-    {
       "id": "com.mergegames.gossipharbor",
       "name": "Gossip Harbor®: Merge & Story",
       "developer": "Microfun Limited",
@@ -1178,20 +1192,6 @@
       "releaseDate": "2026-02-10T12:20:43.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "SC"
-    },
-    {
-      "id": "com.innersloth.spacemafia",
-      "name": "Among Us",
-      "developer": "Innersloth LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-10T22:11:03.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "SC"
     },
@@ -1210,20 +1210,6 @@
       "country": "SC"
     },
     {
-      "id": "com.playrix.township",
-      "name": "Township",
-      "developer": "Playrix",
-      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T16:33:15.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "SC"
-    },
-    {
       "id": "com.xgame.trafficmoto",
       "name": "Moto Race Go",
       "developer": "XGAME STUDIO",
@@ -1234,6 +1220,34 @@
       "releaseDate": "2026-02-06T16:09:55.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "SC"
+    },
+    {
+      "id": "com.innersloth.spacemafia",
+      "name": "Among Us",
+      "developer": "Innersloth LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T19:56:21.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "SC"
+    },
+    {
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "SC"
     },
@@ -1266,6 +1280,20 @@
       "country": "SC"
     },
     {
+      "id": "com.wood.block.sudoku.puzzle.bm",
+      "name": "Block Crush!",
+      "developer": "Wonderful  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T13:05:41.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "SC"
+    },
+    {
       "id": "com.DazadGame.LocalWarfareRePortable",
       "name": "Local Warfare Re: Portable",
       "developer": "Dazad",
@@ -1280,16 +1308,30 @@
       "country": "SC"
     },
     {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "id": "hang.man.word.guessing.games",
+      "name": "Hangman Words:Two Player Games",
+      "developer": "Kerun Games",
+      "url": "https://play.google.com/store/apps/details?id=hang.man.word.guessing.games&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/3vU01hZIomX95xALi7bH1l2OEHFLZYvYsEx0OIjUS1FIPNrIua56phuSd8Fy4Yg9mMM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "releaseDate": "2025-12-17T07:42:09.000Z",
       "genres": [
-        "Sports"
+        "Word"
+      ],
+      "country": "SC"
+    },
+    {
+      "id": "com.fingersoft.hcr2",
+      "name": "Hill Climb Racing 2",
+      "developer": "Fingersoft",
+      "url": "https://play.google.com/store/apps/details?id=com.fingersoft.hcr2&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/UGKh6u0gA0GLh39qG4kXKK3Vu3FEAUEdXWAK55pjLTGiJI2vLQVHzIPP6CVo_ZP0dw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T07:43:47.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "SC"
     },
@@ -1302,6 +1344,34 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-03T16:48:28.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "SC"
+    },
+    {
+      "id": "com.youmusic.magictiles",
+      "name": "Magic Tiles 3™ - Piano Game",
+      "developer": "AMANOTES PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T09:38:01.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "SC"
+    },
+    {
+      "id": "com.rush.xtreme.sports",
+      "name": "RUSH: Xtreme",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.rush.xtreme.sports&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/9G5Qe9rlbCNdRD-PrK5bn5s9v0ApdtR-d-Tog_sOyWoYT4tecoPhEBjX_23Qeyzluae5_9A1YG8rCpHfLzyXig",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T21:04:23.000Z",
       "genres": [
         "Racing"
       ],
@@ -1322,48 +1392,6 @@
       "country": "SC"
     },
     {
-      "id": "com.wood.block.sudoku.puzzle.bm",
-      "name": "Block Crush!",
-      "developer": "Wonderful  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T13:05:41.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "SC"
-    },
-    {
-      "id": "com.rush.xtreme.sports",
-      "name": "RUSH: Xtreme",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.rush.xtreme.sports&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/9G5Qe9rlbCNdRD-PrK5bn5s9v0ApdtR-d-Tog_sOyWoYT4tecoPhEBjX_23Qeyzluae5_9A1YG8rCpHfLzyXig",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T21:04:23.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "SC"
-    },
-    {
-      "id": "com.playgendary.kickthebuddy",
-      "name": "Kick the Buddy－Fun Action Game",
-      "developer": "Playgendary Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.playgendary.kickthebuddy&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/4zT9waZhwrqSCMVFBXCi7jSzjMRP9LMdR4ZylVTd4KRRBy0aK79-IZvQWawRTSb-CLE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T14:04:33.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "SC"
-    },
-    {
       "id": "com.playrix.gardenscapes",
       "name": "Gardenscapes",
       "developer": "Playrix",
@@ -1374,34 +1402,6 @@
       "releaseDate": "2026-02-16T09:34:52.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "SC"
-    },
-    {
-      "id": "com.zuuks.bus.simulator.ultimate",
-      "name": "Bus Simulator : Ultimate",
-      "developer": "Zuuks Games",
-      "url": "https://play.google.com/store/apps/details?id=com.zuuks.bus.simulator.ultimate&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/vs4nOeJ_kPDLImyOuf07ZOmZv0_6zRjY7uBStFCQpPLFYl40Bk7OrsTAqK9RQZd8doQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T16:38:33.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "SC"
-    },
-    {
-      "id": "com.youmusic.magictiles",
-      "name": "Magic Tiles 3™ - Piano Game",
-      "developer": "AMANOTES PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T09:38:01.000Z",
-      "genres": [
-        "Music"
       ],
       "country": "SC"
     }
