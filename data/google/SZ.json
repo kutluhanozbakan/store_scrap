@@ -1,7 +1,7 @@
 {
   "country": "SZ",
   "store": "google",
-  "updatedAt": "2026-02-17T13:12:43.759Z",
+  "updatedAt": "2026-02-17T23:03:33.870Z",
   "new": [
     {
       "id": "com.fxroyale.app",
@@ -140,20 +140,6 @@
       "releaseDate": "2026-02-13T13:03:47.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "SZ"
-    },
-    {
-      "id": "love.journey.episode.luv",
-      "name": "LUV: Interactive Adult Game XX",
-      "developer": "Afivad Limited",
-      "url": "https://play.google.com/store/apps/details?id=love.journey.episode.luv&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/S7ZUMG50B0pD3PEp3uemBIDNNrFakWVU2Z0kVcREXLMwXk_7BoOqdTjua8mDesYhvGk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T10:59:01.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "SZ"
     },
@@ -452,6 +438,20 @@
       "country": "SZ"
     },
     {
+      "id": "com.rkc.city.bus.driving",
+      "name": "Mini Bus Driving Van Simulator",
+      "developer": "RK Tech Creations",
+      "url": "https://play.google.com/store/apps/details?id=com.rkc.city.bus.driving&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/FDSpI95R6TJIswMZEHqrguLlXGbTj9cU4sI_cNlN4U_hEBlu52v7-Y2dvUIWsn_L-vVv8wp8jVhdE8UEC_SkTQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T07:54:51.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "SZ"
+    },
+    {
       "id": "com.hyperkani.trialbike",
       "name": "Stunt Bike Extreme",
       "developer": "Hyperkani",
@@ -620,20 +620,6 @@
       "country": "SZ"
     },
     {
-      "id": "com.miniclip.realsniper",
-      "name": "Pure Sniper: Gun Shooter Games",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.realsniper&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/D3NtyLCIKLg2VR4hUNyGVgBWICfHj5kkKL6mxGB0n4wLKMGdvhibY66VFPd7aSOR1TI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T21:05:43.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "SZ"
-    },
-    {
       "id": "com.soccer.score.star",
       "name": "Soccer Superstar",
       "developer": "Real Freestyle Soccer",
@@ -702,6 +688,20 @@
         "Sports"
       ],
       "country": "SZ"
+    },
+    {
+      "id": "com.heatherglade.idleguy",
+      "name": "Idle Guy: Life Simulator games",
+      "developer": "Heatherglade Publishing",
+      "url": "https://play.google.com/store/apps/details?id=com.heatherglade.idleguy&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/2YspjBbD5n1LtuXBCwRsi5Dx_qaFn9EC25iHh8PcX1_yanUPIWI2HoKId2M4wGmuWOui",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T08:35:23.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "SZ"
     }
   ],
   "updated": [
@@ -748,20 +748,6 @@
       "country": "SZ"
     },
     {
-      "id": "europe.truck.simulator2",
-      "name": "Truckers of Europe 2",
-      "developer": "Wanda Software",
-      "url": "https://play.google.com/store/apps/details?id=europe.truck.simulator2&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/tS6pdPz6GKrP87gOTTPcBDFMJFd2RsD4ngkl92pqEQp6nkHRIPU30BRM7wB6l5_VaOw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2024-01-11T13:20:11.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "SZ"
-    },
-    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -776,20 +762,6 @@
       "country": "SZ"
     },
     {
-      "id": "org.ppsspp.ppsspp",
-      "name": "PPSSPP - PSP emulator",
-      "developer": "Henrik Rydgård",
-      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-07-14T10:46:02.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "SZ"
-    },
-    {
       "id": "com.taprun.fruitmanialine",
       "name": "Fruit Fancy",
       "developer": "Tap Run",
@@ -800,6 +772,34 @@
       "releaseDate": "2026-02-14T08:41:11.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "SZ"
+    },
+    {
+      "id": "europe.truck.simulator2",
+      "name": "Truckers of Europe 2",
+      "developer": "Wanda Software",
+      "url": "https://play.google.com/store/apps/details?id=europe.truck.simulator2&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/tS6pdPz6GKrP87gOTTPcBDFMJFd2RsD4ngkl92pqEQp6nkHRIPU30BRM7wB6l5_VaOw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2024-01-11T13:20:11.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "SZ"
+    },
+    {
+      "id": "org.ppsspp.ppsspp",
+      "name": "PPSSPP - PSP emulator",
+      "developer": "Henrik Rydgård",
+      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-07-14T10:46:02.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "SZ"
     },
@@ -874,16 +874,16 @@
       "country": "SZ"
     },
     {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "id": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
+      "name": "Ramp Car Games: GT Car Stunts",
+      "developer": "Fun Drive Games",
+      "url": "https://play.google.com/store/apps/details?id=com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/AkcgFr9M2qfIcp1fkrQS8Ny6Ludis4_fBO0_VvfdWLJtrRpu0O-2T1v4mn0b1t59yA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "releaseDate": "2026-02-11T11:35:46.000Z",
       "genres": [
-        "Adventure"
+        "Strategy"
       ],
       "country": "SZ"
     },
@@ -902,16 +902,16 @@
       "country": "SZ"
     },
     {
-      "id": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
-      "name": "Ramp Car Games: GT Car Stunts",
-      "developer": "Fun Drive Games",
-      "url": "https://play.google.com/store/apps/details?id=com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/AkcgFr9M2qfIcp1fkrQS8Ny6Ludis4_fBO0_VvfdWLJtrRpu0O-2T1v4mn0b1t59yA",
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T11:35:46.000Z",
+      "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
-        "Strategy"
+        "Adventure"
       ],
       "country": "SZ"
     },
@@ -926,20 +926,6 @@
       "releaseDate": "2026-02-03T09:39:56.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "SZ"
-    },
-    {
-      "id": "ball.sort.puzzle.color.bubble.games.magic",
-      "name": "Ball Sort Magic - Puzzle Game",
-      "developer": "Passion Fruit Joy",
-      "url": "https://play.google.com/store/apps/details?id=ball.sort.puzzle.color.bubble.games.magic&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/2LFoNpVRsnkG8xrDMUN5y-ZZymdRwjIfeYXHdBirrVW_kkqtAO1FPYVWpf42mZ_XIg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-22T11:16:52.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "SZ"
     },
@@ -972,6 +958,20 @@
       "country": "SZ"
     },
     {
+      "id": "ball.sort.puzzle.color.bubble.games.magic",
+      "name": "Ball Sort Magic - Puzzle Game",
+      "developer": "Passion Fruit Joy",
+      "url": "https://play.google.com/store/apps/details?id=ball.sort.puzzle.color.bubble.games.magic&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/2LFoNpVRsnkG8xrDMUN5y-ZZymdRwjIfeYXHdBirrVW_kkqtAO1FPYVWpf42mZ_XIg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-22T11:16:52.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "SZ"
+    },
+    {
       "id": "net.apex_designs.payback2",
       "name": "Payback 2 - The Battle Sandbox",
       "developer": "Apex Designs Games LLP",
@@ -982,76 +982,6 @@
       "releaseDate": "2025-08-27T16:01:25.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "SZ"
-    },
-    {
-      "id": "com.dino.race.master",
-      "name": "Car Race",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-09T02:55:19.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "SZ"
-    },
-    {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "SZ"
-    },
-    {
-      "id": "com.refuelgames.rally",
-      "name": "Rally Fury - Extreme Racing",
-      "developer": "Refuel Games Pty Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.refuelgames.rally&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/UVjsYY6tnVq2qqtuz0BexvhIA080C-pfWalPy3Py4GD4nE-dt_mAZxuAOVgEod3teLU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-18T01:24:07.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "SZ"
-    },
-    {
-      "id": "com.combineinc.streetracing.driftthreeD",
-      "name": "Street Racing 3D",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.combineinc.streetracing.driftthreeD&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/nM3nHVAK1oJIcU5BpjQMowaOuru_RNXwAb1y-BP6BGEwWTiAZvWrwPzMhrSfKzaGAHAf",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-27T09:42:57.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "SZ"
-    },
-    {
-      "id": "com.ffgames.racingincar2",
-      "name": "Racing in Car 2",
-      "developer": "ckgames",
-      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-19T14:55:06.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "SZ"
     },
@@ -1070,6 +1000,62 @@
       "country": "SZ"
     },
     {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "SZ"
+    },
+    {
+      "id": "com.combineinc.streetracing.driftthreeD",
+      "name": "Street Racing 3D",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.combineinc.streetracing.driftthreeD&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/nM3nHVAK1oJIcU5BpjQMowaOuru_RNXwAb1y-BP6BGEwWTiAZvWrwPzMhrSfKzaGAHAf",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-27T09:42:57.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "SZ"
+    },
+    {
+      "id": "com.refuelgames.rally",
+      "name": "Rally Fury - Extreme Racing",
+      "developer": "Refuel Games Pty Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.refuelgames.rally&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/UVjsYY6tnVq2qqtuz0BexvhIA080C-pfWalPy3Py4GD4nE-dt_mAZxuAOVgEod3teLU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-18T01:24:07.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "SZ"
+    },
+    {
+      "id": "com.dino.race.master",
+      "name": "Car Race",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-09T02:55:19.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "SZ"
+    },
+    {
       "id": "com.gamovation.tileclub",
       "name": "Tile Club - Match Puzzle Game",
       "developer": "GamoVation",
@@ -1080,6 +1066,34 @@
       "releaseDate": "2026-01-07T10:41:36.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "SZ"
+    },
+    {
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-19T14:55:06.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "SZ"
+    },
+    {
+      "id": "com.mobilegame.wordsearch",
+      "name": "Word Search",
+      "developer": "Italic Games",
+      "url": "https://play.google.com/store/apps/details?id=com.mobilegame.wordsearch&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/18iWga9Jdi0H3TwbJqnG31GHAWGzz_3HvUk50e031JjYViA_YH3CQ3EVwmBwyFYthEo",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-27T07:11:26.000Z",
+      "genres": [
+        "Word"
       ],
       "country": "SZ"
     },
@@ -1098,20 +1112,6 @@
       "country": "SZ"
     },
     {
-      "id": "com.aim.racing",
-      "name": "Extreme Car Driving Simulator",
-      "developer": "AxesInMotion Racing",
-      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/6NEtpPjWbslnt7WzHb4A1sYM6GiX_VdIhA6O9gAvJcf-GlmnEkfMQwPzAD7xTSLV_5M",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T16:50:44.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "SZ"
-    },
-    {
       "id": "com.bettergames.truck.drivingschool.simulator",
       "name": "Truck Games - Driving School",
       "developer": "Better Games Studio Pty Ltd",
@@ -1122,6 +1122,20 @@
       "releaseDate": "2026-01-07T07:45:50.000Z",
       "genres": [
         "Strategy"
+      ],
+      "country": "SZ"
+    },
+    {
+      "id": "com.aim.racing",
+      "name": "Extreme Car Driving Simulator",
+      "developer": "AxesInMotion Racing",
+      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/6NEtpPjWbslnt7WzHb4A1sYM6GiX_VdIhA6O9gAvJcf-GlmnEkfMQwPzAD7xTSLV_5M",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T16:50:44.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "SZ"
     },
@@ -1154,30 +1168,16 @@
       "country": "SZ"
     },
     {
-      "id": "com.mobilegame.wordsearch",
-      "name": "Word Search",
-      "developer": "Italic Games",
-      "url": "https://play.google.com/store/apps/details?id=com.mobilegame.wordsearch&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/18iWga9Jdi0H3TwbJqnG31GHAWGzz_3HvUk50e031JjYViA_YH3CQ3EVwmBwyFYthEo",
+      "id": "funvent.tilepark",
+      "name": "Tile Park",
+      "developer": "Funvent Studios DMCC",
+      "url": "https://play.google.com/store/apps/details?id=funvent.tilepark&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/xIcIeb1IJWDSJbAzuE6O9n1-g6U-lxkTKCHUijzZpCgv6wX8qPz82OIW7MZSyVnSFQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-27T07:11:26.000Z",
+      "releaseDate": "2026-02-15T04:20:18.000Z",
       "genres": [
-        "Word"
-      ],
-      "country": "SZ"
-    },
-    {
-      "id": "com.igs.bus.simulator.bus.games",
-      "name": "Bus Simulator - 3D Bus Games",
-      "developer": "Innovative Gaming Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.igs.bus.simulator.bus.games&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/7wvk5zJNI--xrIkJlKZbuL9ixMHezfYPM8ajL2RyHR8ZL5FZbs_BdmzpULRtXAUxf48",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-18T17:53:55.000Z",
-      "genres": [
-        "Role Playing"
+        "Puzzle"
       ],
       "country": "SZ"
     },
@@ -1196,6 +1196,20 @@
       "country": "SZ"
     },
     {
+      "id": "com.igs.bus.simulator.bus.games",
+      "name": "Bus Simulator - 3D Bus Games",
+      "developer": "Innovative Gaming Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.igs.bus.simulator.bus.games&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/7wvk5zJNI--xrIkJlKZbuL9ixMHezfYPM8ajL2RyHR8ZL5FZbs_BdmzpULRtXAUxf48",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-18T17:53:55.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "SZ"
+    },
+    {
       "id": "piano.game.music.beat.tiles",
       "name": "Piano Beat: Music Game",
       "developer": "Dream Tiles Piano Game Studio",
@@ -1206,20 +1220,6 @@
       "releaseDate": "2026-01-13T08:06:33.000Z",
       "genres": [
         "Music"
-      ],
-      "country": "SZ"
-    },
-    {
-      "id": "funvent.tilepark",
-      "name": "Tile Park",
-      "developer": "Funvent Studios DMCC",
-      "url": "https://play.google.com/store/apps/details?id=funvent.tilepark&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/xIcIeb1IJWDSJbAzuE6O9n1-g6U-lxkTKCHUijzZpCgv6wX8qPz82OIW7MZSyVnSFQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-15T04:20:18.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "SZ"
     },
@@ -1252,6 +1252,20 @@
       "country": "SZ"
     },
     {
+      "id": "com.niceteen.games.dtbam",
+      "name": "Deal To Be A Millionaire",
+      "developer": "Niceteen Games",
+      "url": "https://play.google.com/store/apps/details?id=com.niceteen.games.dtbam&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/5v9wntAn0mAdCgowe8zSjV_FFs8aSwy3RnOZp-6OgJf3AL_REut7vXbbTGnqXQkWTng",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T10:48:14.000Z",
+      "genres": [
+        "Trivia"
+      ],
+      "country": "SZ"
+    },
+    {
       "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
       "name": "Agent Shooter - Shooting Game",
       "developer": "Rebel Actions",
@@ -1262,6 +1276,34 @@
       "releaseDate": "2026-01-16T06:00:02.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "SZ"
+    },
+    {
+      "id": "com.outfit7.mytalkingtomfree",
+      "name": "My Talking Tom",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T13:07:30.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "SZ"
+    },
+    {
+      "id": "com.ansangha.drdriving",
+      "name": "Dr. Driving",
+      "developer": "SUD Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-25T07:34:27.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "SZ"
     },
@@ -1322,6 +1364,20 @@
       "country": "SZ"
     },
     {
+      "id": "com.sbg.car.driving.game.openworld.car.game",
+      "name": "Advance Car Offline Game",
+      "developer": "ShadowByte Games",
+      "url": "https://play.google.com/store/apps/details?id=com.sbg.car.driving.game.openworld.car.game&hl=en&gl=SZ",
+      "artwork": "https://play-lh.googleusercontent.com/YcbxViIEGrNEB4g_6KoiNWAi_PTZjv9g4entt5XucBkWXUZcPekZy1i-H7en1NzEsys",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T05:26:30.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "SZ"
+    },
+    {
       "id": "com.fingersoft.hillclimb",
       "name": "Hill Climb Racing",
       "developer": "Fingersoft",
@@ -1336,20 +1392,6 @@
       "country": "SZ"
     },
     {
-      "id": "com.niceteen.games.dtbam",
-      "name": "Deal To Be A Millionaire",
-      "developer": "Niceteen Games",
-      "url": "https://play.google.com/store/apps/details?id=com.niceteen.games.dtbam&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/5v9wntAn0mAdCgowe8zSjV_FFs8aSwy3RnOZp-6OgJf3AL_REut7vXbbTGnqXQkWTng",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T10:48:14.000Z",
-      "genres": [
-        "Trivia"
-      ],
-      "country": "SZ"
-    },
-    {
       "id": "water.sort.color.puzzle.game.liquid",
       "name": "Color Sort: Ball Sort Bubble",
       "developer": "BitEpoch",
@@ -1360,48 +1402,6 @@
       "releaseDate": "2025-07-15T06:34:13.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "SZ"
-    },
-    {
-      "id": "com.outfit7.mytalkingtomfree",
-      "name": "My Talking Tom",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T13:07:30.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "SZ"
-    },
-    {
-      "id": "com.ansangha.drdriving",
-      "name": "Dr. Driving",
-      "developer": "SUD Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-08-25T07:34:27.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "SZ"
-    },
-    {
-      "id": "com.sbg.car.driving.game.openworld.car.game",
-      "name": "Advance Car Offline Game",
-      "developer": "ShadowByte Games",
-      "url": "https://play.google.com/store/apps/details?id=com.sbg.car.driving.game.openworld.car.game&hl=en&gl=SZ",
-      "artwork": "https://play-lh.googleusercontent.com/YcbxViIEGrNEB4g_6KoiNWAi_PTZjv9g4entt5XucBkWXUZcPekZy1i-H7en1NzEsys",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T05:26:30.000Z",
-      "genres": [
-        "Strategy"
       ],
       "country": "SZ"
     }

@@ -1,7 +1,7 @@
 {
   "country": "SR",
   "store": "google",
-  "updatedAt": "2026-02-17T11:53:16.115Z",
+  "updatedAt": "2026-02-17T23:03:14.937Z",
   "new": [
     {
       "id": "com.fxroyale.app",
@@ -424,6 +424,20 @@
       "country": "SR"
     },
     {
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T15:11:48.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "SR"
+    },
+    {
       "id": "com.playgendary.kickthebuddy",
       "name": "Kick the Buddy－Fun Action Game",
       "developer": "Playgendary Limited",
@@ -476,6 +490,20 @@
       "releaseDate": "2026-02-11T11:09:54.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "SR"
+    },
+    {
+      "id": "com.innersloth.spacemafia",
+      "name": "Among Us",
+      "developer": "Innersloth LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T19:56:21.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "SR"
     },
@@ -674,34 +702,6 @@
         "Strategy"
       ],
       "country": "SR"
-    },
-    {
-      "id": "com.gameloft.android.ANMP.GloftA8HM",
-      "name": "Asphalt 8 - Car Racing Game",
-      "developer": "Gameloft SE",
-      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/y1J3-OrqJIlezTtaung2sPOnHY9wS2hdJh26ADkwcc3kdZy4DTGyv94IN_YRvdKy0y4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T10:10:06.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "SR"
-    },
-    {
-      "id": "com.adventure.piano.kpopstar",
-      "name": "Music Piano 2: KPop Star",
-      "developer": "HyperMusic",
-      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T11:38:17.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "SR"
     }
   ],
   "updated": [
@@ -776,20 +776,6 @@
       "country": "SR"
     },
     {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "SR"
-    },
-    {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -804,6 +790,20 @@
       "country": "SR"
     },
     {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "SR"
+    },
+    {
       "id": "com.tencent.ig",
       "name": "PUBG MOBILE",
       "developer": "Level Infinite",
@@ -814,6 +814,20 @@
       "releaseDate": "2025-12-29T01:31:07.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "SR"
+    },
+    {
+      "id": "com.gameloft.android.ANMP.GloftA8HM",
+      "name": "Asphalt 8 - Car Racing Game",
+      "developer": "Gameloft SE",
+      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/y1J3-OrqJIlezTtaung2sPOnHY9wS2hdJh26ADkwcc3kdZy4DTGyv94IN_YRvdKy0y4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T10:10:06.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "SR"
     },
@@ -846,20 +860,6 @@
       "country": "SR"
     },
     {
-      "id": "com.gameloft.android.ANMP.GloftA8HM",
-      "name": "Asphalt 8 - Car Racing Game",
-      "developer": "Gameloft SE",
-      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/y1J3-OrqJIlezTtaung2sPOnHY9wS2hdJh26ADkwcc3kdZy4DTGyv94IN_YRvdKy0y4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T10:10:06.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "SR"
-    },
-    {
       "id": "com.football.soccer.league",
       "name": "Football League 2026",
       "developer": "MOBILE SOCCER",
@@ -888,20 +888,6 @@
       "country": "SR"
     },
     {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast: Wonders",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T15:11:54.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "SR"
-    },
-    {
       "id": "com.PlayMax.playergames",
       "name": "Stickman Party 234 MiniGames",
       "developer": "PlayMax Game Studio",
@@ -912,6 +898,20 @@
       "releaseDate": "2025-10-22T00:32:35.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "SR"
+    },
+    {
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast: Wonders",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T15:11:54.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "SR"
     },
@@ -930,6 +930,20 @@
       "country": "SR"
     },
     {
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T10:53:41.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "SR"
+    },
+    {
       "id": "com.aim.racing",
       "name": "Extreme Car Driving Simulator",
       "developer": "AxesInMotion Racing",
@@ -944,16 +958,16 @@
       "country": "SR"
     },
     {
-      "id": "io.voodoo.holeio",
-      "name": "Hole.io",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "id": "com.xgame.trafficmoto",
+      "name": "Moto Race Go",
+      "developer": "XGAME STUDIO",
+      "url": "https://play.google.com/store/apps/details?id=com.xgame.trafficmoto&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/X5q2eJtpNzipVALIJ3UTihiEUxMS3xssI_gzrOZaYv6B6XmGGbyiIcD1gsWuan-YSBbd",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T10:53:41.000Z",
+      "releaseDate": "2026-02-06T16:09:55.000Z",
       "genres": [
-        "Arcade"
+        "Racing"
       ],
       "country": "SR"
     },
@@ -986,62 +1000,6 @@
       "country": "SR"
     },
     {
-      "id": "com.LinkedSquad.SchoolBoyRunaway",
-      "name": "SCHOOLBOY RUNAWAY - STEALTH",
-      "developer": "Linked Squad",
-      "url": "https://play.google.com/store/apps/details?id=com.LinkedSquad.SchoolBoyRunaway&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/aeQ9le0YHrdLlPODSyYW9BnSZVR8gaQZH8hlRz9ksMX_hnzzMdw95Fo1zta4Lc726vQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-10T10:08:50.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "SR"
-    },
-    {
-      "id": "com.mishi.antistress.relief.relaxing.calming.games",
-      "name": "Antistress: Relaxing Toy Games",
-      "developer": "Mishi Games Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.mishi.antistress.relief.relaxing.calming.games&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/DQA0HX8wZs34-lAxWWg-OfTt8Ss1FsdpGthQrILOImhNmc_FWMR6noahmRirJjlm7YE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-18T03:32:12.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "SR"
-    },
-    {
-      "id": "com.xgame.trafficmoto",
-      "name": "Moto Race Go",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.xgame.trafficmoto&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/X5q2eJtpNzipVALIJ3UTihiEUxMS3xssI_gzrOZaYv6B6XmGGbyiIcD1gsWuan-YSBbd",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T16:09:55.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "SR"
-    },
-    {
-      "id": "com.alien.shooter.galaxy.attack",
-      "name": "Galaxy Attack: Shooting Game",
-      "developer": "1SOFT",
-      "url": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/0VU1tELbaW2f8vgJYqW_RyZF6DrWY177bYFPt8oXT5esZzFl4V2c39zWlxhDWKo5Mtc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T08:30:35.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "SR"
-    },
-    {
       "id": "com.candle.car_master",
       "name": "extreme car race master games",
       "developer": "XGAME STUDIO",
@@ -1056,14 +1014,14 @@
       "country": "SR"
     },
     {
-      "id": "com.cliffs.pro.cell.building.crazy.clever.craft",
-      "name": "Block Crazy Robo World Craft",
-      "developer": "Prokids Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.cliffs.pro.cell.building.crazy.clever.craft&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/K3ncdCrbnHb-Po_gNuiJldSG7lfczGR0ZdFs3zoV28yTqPnzWQh07l2xI3rgMiIPsA",
+      "id": "com.mishi.antistress.relief.relaxing.calming.games",
+      "name": "Antistress: Relaxing Toy Games",
+      "developer": "Mishi Games Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.mishi.antistress.relief.relaxing.calming.games&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/DQA0HX8wZs34-lAxWWg-OfTt8Ss1FsdpGthQrILOImhNmc_FWMR6noahmRirJjlm7YE",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-14T16:42:23.000Z",
+      "releaseDate": "2025-11-18T03:32:12.000Z",
       "genres": [
         "Simulation"
       ],
@@ -1084,16 +1042,44 @@
       "country": "SR"
     },
     {
-      "id": "com.gtsy.annoying.punch.game",
-      "name": "Annoying Uncle Punch Game",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
+      "id": "com.cliffs.pro.cell.building.crazy.clever.craft",
+      "name": "Block Crazy Robo World Craft",
+      "developer": "Prokids Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.cliffs.pro.cell.building.crazy.clever.craft&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/K3ncdCrbnHb-Po_gNuiJldSG7lfczGR0ZdFs3zoV28yTqPnzWQh07l2xI3rgMiIPsA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T15:38:31.000Z",
+      "releaseDate": "2026-02-14T16:42:23.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "SR"
+    },
+    {
+      "id": "com.alien.shooter.galaxy.attack",
+      "name": "Galaxy Attack: Shooting Game",
+      "developer": "1SOFT",
+      "url": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/0VU1tELbaW2f8vgJYqW_RyZF6DrWY177bYFPt8oXT5esZzFl4V2c39zWlxhDWKo5Mtc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T08:30:35.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "SR"
+    },
+    {
+      "id": "com.LinkedSquad.SchoolBoyRunaway",
+      "name": "SCHOOLBOY RUNAWAY - STEALTH",
+      "developer": "Linked Squad",
+      "url": "https://play.google.com/store/apps/details?id=com.LinkedSquad.SchoolBoyRunaway&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/aeQ9le0YHrdLlPODSyYW9BnSZVR8gaQZH8hlRz9ksMX_hnzzMdw95Fo1zta4Lc726vQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-10T10:08:50.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "SR"
     },
@@ -1112,6 +1098,20 @@
       "country": "SR"
     },
     {
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T15:38:31.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "SR"
+    },
+    {
       "id": "com.outfit7.mytalkingtom2",
       "name": "My Talking Tom 2: Pet Game",
       "developer": "Outfit7 Limited",
@@ -1122,34 +1122,6 @@
       "releaseDate": "2026-02-16T15:15:25.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "SR"
-    },
-    {
-      "id": "com.tocaboca.tocalifeworld",
-      "name": "Toca Boca World",
-      "developer": "Toca Boca",
-      "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/UHryL-7W2yoA92NAfKpwoPIaW9N1u1hhTCtGkppyafgRfpKSYMS3bnoPmouHk1F0X5sHeoStf3cbD7_yCYBU4w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T10:51:42.000Z",
-      "genres": [
-        "Educational"
-      ],
-      "country": "SR"
-    },
-    {
-      "id": "com.wilds.craft.mysticland.explore",
-      "name": "Block Craft 3D: Realm Builder",
-      "developer": "Metagame.Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.wilds.craft.mysticland.explore&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/atgEBnDex2iZ3zknB3N5c4tBxJwT8NMrWTp0NXY7rYxk6DkDksRNddCm4E_832TI0w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T10:54:34.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "SR"
     },
@@ -1168,6 +1140,34 @@
       "country": "SR"
     },
     {
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T15:03:56.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "SR"
+    },
+    {
+      "id": "com.wilds.craft.mysticland.explore",
+      "name": "Block Craft 3D: Realm Builder",
+      "developer": "Metagame.Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.wilds.craft.mysticland.explore&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/atgEBnDex2iZ3zknB3N5c4tBxJwT8NMrWTp0NXY7rYxk6DkDksRNddCm4E_832TI0w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T10:54:34.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "SR"
+    },
+    {
       "id": "com.sprunki.mod.horror.incredibox.monster.beats.music.game",
       "name": "Sprunki Beat: Full Mod Music",
       "developer": "Gotstar Studio",
@@ -1182,16 +1182,16 @@
       "country": "SR"
     },
     {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "id": "com.tocaboca.tocalifeworld",
+      "name": "Toca Boca World",
+      "developer": "Toca Boca",
+      "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/UHryL-7W2yoA92NAfKpwoPIaW9N1u1hhTCtGkppyafgRfpKSYMS3bnoPmouHk1F0X5sHeoStf3cbD7_yCYBU4w",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-10T15:03:56.000Z",
+      "releaseDate": "2026-02-12T10:51:42.000Z",
       "genres": [
-        "Arcade"
+        "Educational"
       ],
       "country": "SR"
     },
@@ -1210,20 +1210,6 @@
       "country": "SR"
     },
     {
-      "id": "com.moonfrog.ludo.club",
-      "name": "Ludo Club - Fun Dice Game",
-      "developer": "Moonfrog",
-      "url": "https://play.google.com/store/apps/details?id=com.moonfrog.ludo.club&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/mYXRvkAN-NgcdiJu1owpVtGPYKyAZTo1AaIflJ7qlkLDBtpkBw2W_bytIwg9I5m4826f",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-15T14:59:18.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "SR"
-    },
-    {
       "id": "com.gt.moto.bike.wheelie.stunt.race.game",
       "name": "Moto Bike Stunt Wheelie Game",
       "developer": "Game town",
@@ -1234,20 +1220,6 @@
       "releaseDate": "2026-01-15T07:59:08.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "SR"
-    },
-    {
-      "id": "com.game.fashion.magic.princess.dressup",
-      "name": "Magic Fashion: Doll Dressup",
-      "developer": "XGame Global",
-      "url": "https://play.google.com/store/apps/details?id=com.game.fashion.magic.princess.dressup&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/cwEmmKCuHBPWBOUjClAaJnDrr4eiz1gq7bHp7EczWo-7qw6acqtfHDSPyJHDXaNaRH6p7yirMkgH9DMKvO-_kg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T10:30:36.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "SR"
     },
@@ -1266,6 +1238,34 @@
       "country": "SR"
     },
     {
+      "id": "com.moonfrog.ludo.club",
+      "name": "Ludo Club - Fun Dice Game",
+      "developer": "Moonfrog",
+      "url": "https://play.google.com/store/apps/details?id=com.moonfrog.ludo.club&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/mYXRvkAN-NgcdiJu1owpVtGPYKyAZTo1AaIflJ7qlkLDBtpkBw2W_bytIwg9I5m4826f",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-15T14:59:18.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "SR"
+    },
+    {
+      "id": "com.game.fashion.magic.princess.dressup",
+      "name": "Magic Fashion: Doll Dressup",
+      "developer": "XGame Global",
+      "url": "https://play.google.com/store/apps/details?id=com.game.fashion.magic.princess.dressup&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/cwEmmKCuHBPWBOUjClAaJnDrr4eiz1gq7bHp7EczWo-7qw6acqtfHDSPyJHDXaNaRH6p7yirMkgH9DMKvO-_kg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T10:30:36.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "SR"
+    },
+    {
       "id": "com.miniclip.eightballpool",
       "name": "8 Ball Pool",
       "developer": "Miniclip.com",
@@ -1276,34 +1276,6 @@
       "releaseDate": "2026-02-09T16:37:18.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "SR"
-    },
-    {
-      "id": "com.robtopx.geometryjumplite",
-      "name": "Geometry Dash Lite",
-      "developer": "RobTop Games",
-      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T14:03:50.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "SR"
-    },
-    {
-      "id": "and.lihuhu.tilesinhole",
-      "name": "Tiles in Hole: Black Hole",
-      "developer": "LIHUHU PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=and.lihuhu.tilesinhole&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/9CudkmeL679fmfHzPaVJ1nRJbcV6zWfXPcrfj-OwJld17-kbqFJ_RinoH6l6eZh8aRM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T05:05:48.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "SR"
     },
@@ -1322,6 +1294,62 @@
       "country": "SR"
     },
     {
+      "id": "com.dts.freefiremax",
+      "name": "Free Fire MAX x JUJUTSU KAISEN",
+      "developer": "GARENA INTERNATIONAL I",
+      "url": "https://play.google.com/store/apps/details?id=com.dts.freefiremax&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/ipL9El76Ug50yGguLeoy-BSwKtYz5fI5n9WHCkP6Im8CkUfXQTyzsSjgf5hlmEn5RuRP8yQPC-LOlTKlJLKEv8g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-09T06:52:43.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "SR"
+    },
+    {
+      "id": "and.lihuhu.tilesinhole",
+      "name": "Tiles in Hole: Black Hole",
+      "developer": "LIHUHU PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=and.lihuhu.tilesinhole&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/9CudkmeL679fmfHzPaVJ1nRJbcV6zWfXPcrfj-OwJld17-kbqFJ_RinoH6l6eZh8aRM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T05:05:48.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "SR"
+    },
+    {
+      "id": "com.fxroyale.app",
+      "name": "Trading Arena-Crypto Simulator",
+      "developer": "Edusystems OU",
+      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T21:13:51.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "SR"
+    },
+    {
+      "id": "com.netease.newspike",
+      "name": "Blood Strike - FPS for all",
+      "developer": "NetEase Games",
+      "url": "https://play.google.com/store/apps/details?id=com.netease.newspike&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/Oj3ystjWEwuox4DLkOsrEAGG0vRNFuFrL8WTrgztdHYoJhsoDvprQQZNArxqveuu48yB4sWmXLOOKSiJQruv",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T02:20:54.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "SR"
+    },
+    {
       "id": "com.dvloper.granny",
       "name": "Granny",
       "developer": "DVloper",
@@ -1330,20 +1358,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2025-12-01T14:35:20.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "SR"
-    },
-    {
-      "id": "com.butchersgames.sniperhero3d",
-      "name": "Sniper Assassin: Killing games",
-      "developer": "Deli ventures",
-      "url": "https://play.google.com/store/apps/details?id=com.butchersgames.sniperhero3d&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/jzXKdcayYhg_Er4ceFdbc6LS5FRfnA73WFS7qU812U2ML1gdfqCrgZCDDAW1MHBSZc5LeMBJRFd4WMrb5zzugA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-06T11:07:42.000Z",
       "genres": [
         "Arcade"
       ],
@@ -1364,44 +1378,30 @@
       "country": "SR"
     },
     {
-      "id": "com.netease.newspike",
-      "name": "Blood Strike - FPS for all",
-      "developer": "NetEase Games",
-      "url": "https://play.google.com/store/apps/details?id=com.netease.newspike&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/Oj3ystjWEwuox4DLkOsrEAGG0vRNFuFrL8WTrgztdHYoJhsoDvprQQZNArxqveuu48yB4sWmXLOOKSiJQruv",
+      "id": "com.robtopx.geometryjumplite",
+      "name": "Geometry Dash Lite",
+      "developer": "RobTop Games",
+      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T02:20:54.000Z",
+      "releaseDate": "2026-01-30T14:03:50.000Z",
       "genres": [
-        "Action"
+        "Arcade"
       ],
       "country": "SR"
     },
     {
-      "id": "com.puzzlegames.puzzlebrickslegend",
-      "name": "Color Block: Combo Blast",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.puzzlebrickslegend&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
+      "id": "com.adventure.piano.kpopstar",
+      "name": "Music Piano 2: KPop Star",
+      "developer": "HyperMusic",
+      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=SR",
+      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T09:36:13.000Z",
+      "releaseDate": "2026-02-04T11:38:17.000Z",
       "genres": [
-        "Puzzle"
-      ],
-      "country": "SR"
-    },
-    {
-      "id": "com.dts.freefiremax",
-      "name": "Free Fire MAX x JUJUTSU KAISEN",
-      "developer": "GARENA INTERNATIONAL I",
-      "url": "https://play.google.com/store/apps/details?id=com.dts.freefiremax&hl=en&gl=SR",
-      "artwork": "https://play-lh.googleusercontent.com/ipL9El76Ug50yGguLeoy-BSwKtYz5fI5n9WHCkP6Im8CkUfXQTyzsSjgf5hlmEn5RuRP8yQPC-LOlTKlJLKEv8g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-09T06:52:43.000Z",
-      "genres": [
-        "Action"
+        "Casual"
       ],
       "country": "SR"
     }
