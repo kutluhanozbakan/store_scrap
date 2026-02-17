@@ -1,7 +1,7 @@
 {
   "country": "MA",
   "store": "google",
-  "updatedAt": "2026-02-17T09:03:47.607Z",
+  "updatedAt": "2026-02-17T20:50:46.700Z",
   "new": [
     {
       "id": "com.amelosinteractive.snake",
@@ -26,6 +26,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-16T22:50:29.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.fxroyale.app",
+      "name": "Trading Arena-Crypto Simulator",
+      "developer": "Edusystems OU",
+      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T21:13:51.000Z",
       "genres": [
         "Simulation"
       ],
@@ -126,20 +140,6 @@
       "releaseDate": "2026-02-14T16:12:35.000Z",
       "genres": [
         "Role Playing"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.playspare.supermarket.store.simulator",
-      "name": "My Supermarket Simulator 3D®",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.playspare.supermarket.store.simulator&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/_3bSch4-OCdqN3MbOWC6J_qNtWoj2LpZ8Dk792MHfnixByQ_7tmhf_BQ0inbdCPg6g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T17:51:32.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "MA"
     },
@@ -662,6 +662,20 @@
       "country": "MA"
     },
     {
+      "id": "com.outfit7.mytalkingtomfree",
+      "name": "My Talking Tom",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T13:07:30.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MA"
+    },
+    {
       "id": "com.adventure.piano.kpopstar",
       "name": "Music Piano 2: KPop Star",
       "developer": "HyperMusic",
@@ -686,20 +700,6 @@
       "releaseDate": "2026-02-04T09:07:24.000Z",
       "genres": [
         "Role Playing"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.dts.freefireth",
-      "name": "Free Fire: Lost Treasure",
-      "developer": "GARENA INTERNATIONAL I",
-      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/VxqoBX9loIqsESn5OPhXDLLYw8YFAlLJX3TJUb7ovyIQdRRWwGuG3jD9konTZAeWzd8VlVTDt8fkJ8BAEU4ZHQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T06:43:26.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "MA"
     }
@@ -972,20 +972,6 @@
       "country": "MA"
     },
     {
-      "id": "com.outfit7.mytalkingtom2",
-      "name": "My Talking Tom 2: Pet Game",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T15:15:25.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MA"
-    },
-    {
       "id": "com.ansangha.drdriving",
       "name": "Dr. Driving",
       "developer": "SUD Inc.",
@@ -996,6 +982,20 @@
       "releaseDate": "2025-08-25T07:34:27.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.outfit7.mytalkingtom2",
+      "name": "My Talking Tom 2: Pet Game",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T15:15:25.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "MA"
     },
@@ -1014,20 +1014,6 @@
       "country": "MA"
     },
     {
-      "id": "com.dvloper.granny",
-      "name": "Granny",
-      "developer": "DVloper",
-      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-01T14:35:20.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "MA"
-    },
-    {
       "id": "com.unept.leveldevil",
       "name": "Level Devil - NOT A Troll Game",
       "developer": "Poki",
@@ -1038,6 +1024,20 @@
       "releaseDate": "2026-02-03T14:49:51.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.dvloper.granny",
+      "name": "Granny",
+      "developer": "DVloper",
+      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-01T14:35:20.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "MA"
     },
@@ -1056,6 +1056,20 @@
       "country": "MA"
     },
     {
+      "id": "com.netease.newspikeme",
+      "name": "Blood Strike Max",
+      "developer": "Stellar Gate Games",
+      "url": "https://play.google.com/store/apps/details?id=com.netease.newspikeme&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/Lv1XpRDOaNmxZPWkix0FVyfaLYeNnVwZEUGl9QGwY_tu36xgUbQXNtpYWrMBpib7e-JonRYUjl2GnjKr0rftgw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T14:24:41.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "MA"
+    },
+    {
       "id": "com.media720.games2020.two.player.offline.games",
       "name": "2 Player Games Offline - 1234",
       "developer": "Fun Offline Games",
@@ -1066,20 +1080,6 @@
       "releaseDate": "2026-02-05T18:17:10.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
-      "name": "Agent Shooter - Shooting Game",
-      "developer": "Rebel Actions",
-      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-16T06:00:02.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "MA"
     },
@@ -1098,6 +1098,20 @@
       "country": "MA"
     },
     {
+      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
+      "name": "Agent Shooter - Shooting Game",
+      "developer": "Rebel Actions",
+      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-16T06:00:02.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "MA"
+    },
+    {
       "id": "com.outfit7.mytalkingangela2",
       "name": "My Talking Angela 2",
       "developer": "Outfit7 Limited",
@@ -1108,20 +1122,6 @@
       "releaseDate": "2026-02-16T14:20:52.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.netease.newspikeme",
-      "name": "Blood Strike Max",
-      "developer": "Stellar Gate Games",
-      "url": "https://play.google.com/store/apps/details?id=com.netease.newspikeme&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/Lv1XpRDOaNmxZPWkix0FVyfaLYeNnVwZEUGl9QGwY_tu36xgUbQXNtpYWrMBpib7e-JonRYUjl2GnjKr0rftgw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T14:24:41.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "MA"
     },
@@ -1140,20 +1140,6 @@
       "country": "MA"
     },
     {
-      "id": "com.MadOut.BIG",
-      "name": "MadOut 2: Grand Auto Racing",
-      "developer": "MadOut Games LLC FZ",
-      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/HJLezpPCQUwo776Z-cBH1nU2H7h8k5SOVOyqJMK_GyebUuosZ6eEXT8qeWlRJ4gGOINU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-07T06:39:12.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "MA"
-    },
-    {
       "id": "com.ta.strike.ops",
       "name": "FPS Strike Ops : Modern Arena",
       "developer": "FPS Shooter & Action Game",
@@ -1164,6 +1150,20 @@
       "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.MadOut.BIG",
+      "name": "MadOut 2: Grand Auto Racing",
+      "developer": "MadOut Games LLC FZ",
+      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/HJLezpPCQUwo776Z-cBH1nU2H7h8k5SOVOyqJMK_GyebUuosZ6eEXT8qeWlRJ4gGOINU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-07T06:39:12.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "MA"
     },
@@ -1182,20 +1182,6 @@
       "country": "MA"
     },
     {
-      "id": "com.fungames.blockcraft",
-      "name": "Block Craft 3D：Building Game",
-      "developer": "Wildlife Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/n37lIFSnvlxFSzdIEhCCLdP5DTLPye2pykbhj490_LHKQaRHQ_Ae7PhaBaUFU3qdiyM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:36:06.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "MA"
-    },
-    {
       "id": "io.voodoo.paper2",
       "name": "Paper.io 2",
       "developer": "VOODOO",
@@ -1204,6 +1190,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-03T19:50:09.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.fungames.blockcraft",
+      "name": "Block Craft 3D：Building Game",
+      "developer": "Wildlife Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/n37lIFSnvlxFSzdIEhCCLdP5DTLPye2pykbhj490_LHKQaRHQ_Ae7PhaBaUFU3qdiyM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T15:36:06.000Z",
       "genres": [
         "Arcade"
       ],
@@ -1224,6 +1224,20 @@
       "country": "MA"
     },
     {
+      "id": "com.run.tower.defense",
+      "name": "Kingshot",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T09:09:20.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "MA"
+    },
+    {
       "id": "com.miniclip.footballstrike",
       "name": "Football Strike: Online Soccer",
       "developer": "Miniclip.com",
@@ -1232,34 +1246,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-01-26T09:50:47.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.devgame.masha.and.bear.pizzeria.games",
-      "name": "Masha and the Bear Pizza Maker",
-      "developer": "DEVGAME KIDS games",
-      "url": "https://play.google.com/store/apps/details?id=com.devgame.masha.and.bear.pizzeria.games&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/oZv-3Ob4JdeQLXQFmC-bTePxjfNU7PYRcuQe-tnUPLvbL1MdeWv-X1U6bF5SApbpKO6hfW2GsQPZsnxSVnG9",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T09:07:24.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.gt.moto.bike.wheelie.stunt.race.game",
-      "name": "Moto Bike Stunt Wheelie Game",
-      "developer": "Game town",
-      "url": "https://play.google.com/store/apps/details?id=com.gt.moto.bike.wheelie.stunt.race.game&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/joPwuRJCICDqmz3xqbNWd61tbuUih4UXFukU8_uVb1o6rpzIMV4PnUmpkbXd7izozgn68FCAGZWcRGcbjGSI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-15T07:59:08.000Z",
       "genres": [
         "Sports"
       ],
@@ -1280,16 +1266,16 @@
       "country": "MA"
     },
     {
-      "id": "com.vicenter.stickman.ragdoll.dismounting",
-      "name": "Ragdoll Turbo Dismount",
-      "developer": "Prime1 Lab LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.vicenter.stickman.ragdoll.dismounting&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/-m3LeDwTsdEWtSsc9cni1kIrJ2pneSoq6sNPw_23aJgmpIDGeLP1vqcVDp5Y9nfT6Q",
+      "id": "com.gt.moto.bike.wheelie.stunt.race.game",
+      "name": "Moto Bike Stunt Wheelie Game",
+      "developer": "Game town",
+      "url": "https://play.google.com/store/apps/details?id=com.gt.moto.bike.wheelie.stunt.race.game&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/joPwuRJCICDqmz3xqbNWd61tbuUih4UXFukU8_uVb1o6rpzIMV4PnUmpkbXd7izozgn68FCAGZWcRGcbjGSI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-17T09:05:42.000Z",
+      "releaseDate": "2026-01-15T07:59:08.000Z",
       "genres": [
-        "Simulation"
+        "Sports"
       ],
       "country": "MA"
     },
@@ -1308,6 +1294,34 @@
       "country": "MA"
     },
     {
+      "id": "com.devgame.masha.and.bear.pizzeria.games",
+      "name": "Masha and the Bear Pizza Maker",
+      "developer": "DEVGAME KIDS games",
+      "url": "https://play.google.com/store/apps/details?id=com.devgame.masha.and.bear.pizzeria.games&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/oZv-3Ob4JdeQLXQFmC-bTePxjfNU7PYRcuQe-tnUPLvbL1MdeWv-X1U6bF5SApbpKO6hfW2GsQPZsnxSVnG9",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T09:07:24.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.vicenter.stickman.ragdoll.dismounting",
+      "name": "Ragdoll Turbo Dismount",
+      "developer": "Prime1 Lab LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.vicenter.stickman.ragdoll.dismounting&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/-m3LeDwTsdEWtSsc9cni1kIrJ2pneSoq6sNPw_23aJgmpIDGeLP1vqcVDp5Y9nfT6Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-17T09:05:42.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MA"
+    },
+    {
       "id": "io.voodoo.holeio",
       "name": "Hole.io",
       "developer": "VOODOO",
@@ -1322,30 +1336,16 @@
       "country": "MA"
     },
     {
-      "id": "com.run.tower.defense",
-      "name": "Kingshot",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
+      "id": "com.hfa.us.car.dive.simulator.offline",
+      "name": "US Car Drive Simulator offline",
+      "developer": "Health fitness app",
+      "url": "https://play.google.com/store/apps/details?id=com.hfa.us.car.dive.simulator.offline&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/kpHffkd8WNExya_ZqQ6-ympDLZBKc_4xbfMRD5WsBNZnQaL5fbSCBmRO4qZFPny_BLPwqbhg90OGDH44OIU15Q",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T09:09:20.000Z",
+      "releaseDate": "2026-02-03T07:34:49.000Z",
       "genres": [
         "Strategy"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.masomo.headball2",
-      "name": "Head Ball 2 - Foot en Ligne",
-      "developer": "Masomo Gaming",
-      "url": "https://play.google.com/store/apps/details?id=com.masomo.headball2&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/7t4GRbuVmvUKzo-2dkt7ccygoFjc2zX3_jVLr6fIXAiJmHLdQvdfbhbKbS8awRekm9vL",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T08:18:39.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "MA"
     },
@@ -1364,16 +1364,16 @@
       "country": "MA"
     },
     {
-      "id": "com.hfa.us.car.dive.simulator.offline",
-      "name": "US Car Drive Simulator offline",
-      "developer": "Health fitness app",
-      "url": "https://play.google.com/store/apps/details?id=com.hfa.us.car.dive.simulator.offline&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/kpHffkd8WNExya_ZqQ6-ympDLZBKc_4xbfMRD5WsBNZnQaL5fbSCBmRO4qZFPny_BLPwqbhg90OGDH44OIU15Q",
+      "id": "com.masomo.headball2",
+      "name": "Head Ball 2 - Foot en Ligne",
+      "developer": "Masomo Gaming",
+      "url": "https://play.google.com/store/apps/details?id=com.masomo.headball2&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/7t4GRbuVmvUKzo-2dkt7ccygoFjc2zX3_jVLr6fIXAiJmHLdQvdfbhbKbS8awRekm9vL",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T07:34:49.000Z",
+      "releaseDate": "2026-02-12T08:18:39.000Z",
       "genres": [
-        "Strategy"
+        "Sports"
       ],
       "country": "MA"
     },
