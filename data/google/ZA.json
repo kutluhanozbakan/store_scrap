@@ -1,8 +1,64 @@
 {
   "country": "ZA",
   "store": "google",
-  "updatedAt": "2026-02-18T00:57:21.793Z",
+  "updatedAt": "2026-02-18T15:09:46.148Z",
   "new": [
+    {
+      "id": "com.gamovation.chessclubpilot",
+      "name": "Chess - Offline Board Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.chessclubpilot&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/e3YeRDmaHxppJ8-StfxFjbeenX9qSiCmM1dfQ-fd5-IL8Q8DumcNHZXhGTzF6aWP2A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T14:20:12.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.miniclip.eightballpool",
+      "name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T11:45:50.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.wn.hairtattoo",
+      "name": "Hair Tattoo: Barber Shop Game",
+      "developer": "CASUAL AZUR GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.wn.hairtattoo&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/kXNZHWWzkmo8zj1-006EZwgwzJx82z8FZ3yWIuon6NCEO4FtbXYRUTDaCVSDi-tbug",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T08:12:12.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.imangi.templerun2",
+      "name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T14:25:25.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "ZA"
+    },
     {
       "id": "games.joker.drop.poly",
       "name": "Drop Balls - Plink Balls",
@@ -47,7 +103,7 @@
     },
     {
       "id": "com.outfit7.mytalkingtom2",
-      "name": "My Talking Tom 2: Pet Game",
+      "name": "My Talking Tom 2",
       "developer": "Outfit7 Limited",
       "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=ZA",
       "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
@@ -270,6 +326,34 @@
       "country": "ZA"
     },
     {
+      "id": "com.wood.block.sudoku.puzzle.bm",
+      "name": "Block Crush!",
+      "developer": "Wonderful  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T13:05:41.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.trophygames.truckmanager",
+      "name": "Truck Manager - 2026",
+      "developer": "Xombat Development - Airline manager games",
+      "url": "https://play.google.com/store/apps/details?id=com.trophygames.truckmanager&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/He7qU9QUyAi1YytGfzXuGKFRKv_BQ2oAjWA4Foa77-lqEx2iOOdABfwQuGdCOjsls9M",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T12:48:18.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "ZA"
+    },
+    {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -368,20 +452,6 @@
       "country": "ZA"
     },
     {
-      "id": "com.starplay.spider.fighter.openworld",
-      "name": "Spider Fighter 3: Action Game",
-      "developer": "Starplay FZCO",
-      "url": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter.openworld&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/HGJGoIR7ZpHDMhRuaYJz_M5k8L0DCwXPcSBDGt217ye4o40LSaXTPHI-XIyiPbRw7g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T12:36:13.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "ZA"
-    },
-    {
       "id": "com.football.soccer.league",
       "name": "Football League 2026",
       "developer": "MOBILE SOCCER",
@@ -396,20 +466,6 @@
       "country": "ZA"
     },
     {
-      "id": "com.wn.hairtattoo",
-      "name": "Hair Tattoo: Barber Shop Game",
-      "developer": "CASUAL AZUR GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.wn.hairtattoo&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/kXNZHWWzkmo8zj1-006EZwgwzJx82z8FZ3yWIuon6NCEO4FtbXYRUTDaCVSDi-tbug",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T11:20:15.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "ZA"
-    },
-    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -420,6 +476,20 @@
       "releaseDate": "2026-02-11T11:09:54.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.red.sortingstore.android",
+      "name": "Water Match™- ASMR Water Sort",
+      "developer": "Youyoutang Technology",
+      "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T07:52:03.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "ZA"
     },
@@ -488,20 +558,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-09T18:40:32.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.miniclip.eightballpool",
-      "name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T16:37:18.000Z",
       "genres": [
         "Sports"
       ],
@@ -582,7 +638,7 @@
       "name": "MadOut 2: Grand Auto Racing",
       "developer": "MadOut Games LLC FZ",
       "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/HJLezpPCQUwo776Z-cBH1nU2H7h8k5SOVOyqJMK_GyebUuosZ6eEXT8qeWlRJ4gGOINU",
+      "artwork": "https://play-lh.googleusercontent.com/a6mEbkdGPhITywMJGgrewJX7ShNXUEZ9PeVO-A2QhqGdW-QhVVmjn11n6Tg9GqVh3-o",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-07T06:39:12.000Z",
@@ -646,79 +702,9 @@
         "Sports"
       ],
       "country": "ZA"
-    },
-    {
-      "id": "com.gameloft.android.ANMP.GloftA8HM",
-      "name": "Asphalt 8 - Car Racing Game",
-      "developer": "Gameloft SE",
-      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/y1J3-OrqJIlezTtaung2sPOnHY9wS2hdJh26ADkwcc3kdZy4DTGyv94IN_YRvdKy0y4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T10:10:06.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "games.joker.spadesclub",
-      "name": "Plinko Online - Real Win x1000",
-      "developer": "Joker Game",
-      "url": "https://play.google.com/store/apps/details?id=games.joker.spadesclub&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/ArWgE2Qg8dG2ebLUmSjyVahnZ4XxETY962YAk76MPhFKFkHIrxZfPQ2bMZ9j0CHB-WC-yR9NVhRuHkYUT_z-uA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T13:55:07.000Z",
-      "genres": [
-        "Card"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.adventure.piano.kpopstar",
-      "name": "Music Piano 2: KPop Star",
-      "developer": "HyperMusic",
-      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T11:38:17.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.sh.minibusdrivingsimulator",
-      "name": "City Van Driving Game Offline",
-      "developer": "Simulator Hub 2022",
-      "url": "https://play.google.com/store/apps/details?id=com.sh.minibusdrivingsimulator&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/PLp-_L0iJV49QYTYoJcwOAvyPudaJqpzq3reGeUKf9kheD375B03bEZvh0XNpC00N4E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T10:48:19.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "ZA"
     }
   ],
   "updated": [
-    {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T11:09:54.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "ZA"
-    },
     {
       "id": "com.qrgame.puzzlefarm",
       "name": "Puzzle Farm",
@@ -744,6 +730,20 @@
       "releaseDate": "2026-02-16T21:13:51.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T11:09:54.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "ZA"
     },
@@ -776,34 +776,6 @@
       "country": "ZA"
     },
     {
-      "id": "com.firsttouchgames.dls7",
-      "name": "Dream League Soccer 2026",
-      "developer": "First Touch Games Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T17:30:32.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T17:29:32.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "ZA"
-    },
-    {
       "id": "funvent.tilepark",
       "name": "Tile Park",
       "developer": "Funvent Studios DMCC",
@@ -814,6 +786,20 @@
       "releaseDate": "2026-02-15T04:20:18.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.firsttouchgames.dls7",
+      "name": "Dream League Soccer 2026",
+      "developer": "First Touch Games Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T17:30:32.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "ZA"
     },
@@ -832,16 +818,16 @@
       "country": "ZA"
     },
     {
-      "id": "com.ction.playergames",
-      "name": "2 3 4 Player Mini Games",
-      "developer": "Better World Games",
-      "url": "https://play.google.com/store/apps/details?id=com.ction.playergames&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/vHuenuu1GqX1BwDaYX86dsbQlmA7vCO0PEdgdXlCEZP5x2_R3pZo0xcI9Mkdn4UW7NA",
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-28T20:16:32.000Z",
+      "releaseDate": "2026-02-12T17:29:32.000Z",
       "genres": [
-        "Simulation"
+        "Adventure"
       ],
       "country": "ZA"
     },
@@ -860,6 +846,20 @@
       "country": "ZA"
     },
     {
+      "id": "com.ction.playergames",
+      "name": "2 3 4 Player Mini Games",
+      "developer": "Better World Games",
+      "url": "https://play.google.com/store/apps/details?id=com.ction.playergames&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/vHuenuu1GqX1BwDaYX86dsbQlmA7vCO0PEdgdXlCEZP5x2_R3pZo0xcI9Mkdn4UW7NA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-28T20:16:32.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "ZA"
+    },
+    {
       "id": "com.ta.strike.ops",
       "name": "FPS Strike Ops : Modern Arena",
       "developer": "FPS Shooter & Action Game",
@@ -870,20 +870,6 @@
       "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "ZA"
     },
@@ -902,20 +888,6 @@
       "country": "ZA"
     },
     {
-      "id": "com.activision.callofduty.shooter",
-      "name": "Call of Duty®: Mobile",
-      "developer": "Activision Publishing, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/cfGSXkDwxa1jW3TlhhkDJBN16-1_KEtEDhnILPcs9rXcC25g14XY6MRGCtlXHFHs0g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T23:03:57.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "ZA"
-    },
-    {
       "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
       "name": "Shoot Bubble - Pop Bubbles",
       "developer": "IVYGAMES",
@@ -926,6 +898,20 @@
       "releaseDate": "2026-02-06T02:18:35.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "ZA"
     },
@@ -944,86 +930,16 @@
       "country": "ZA"
     },
     {
-      "id": "com.fgol.HungrySharkEvolution",
-      "name": "Hungry Shark Evolution",
-      "developer": "Ubisoft Entertainment",
-      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
+      "id": "com.activision.callofduty.shooter",
+      "name": "Call of Duty®: Mobile",
+      "developer": "Activision Publishing, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/cfGSXkDwxa1jW3TlhhkDJBN16-1_KEtEDhnILPcs9rXcC25g14XY6MRGCtlXHFHs0g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-09T02:24:08.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.king.candycrushsaga",
-      "name": "Candy Crush Saga",
-      "developer": "King",
-      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T15:57:40.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.vicenter.stickman.ragdoll.dismounting",
-      "name": "Ragdoll Turbo Dismount",
-      "developer": "Prime1 Lab LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.vicenter.stickman.ragdoll.dismounting&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/-m3LeDwTsdEWtSsc9cni1kIrJ2pneSoq6sNPw_23aJgmpIDGeLP1vqcVDp5Y9nfT6Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-17T09:05:42.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "org.ppsspp.ppsspp",
-      "name": "PPSSPP - PSP emulator",
-      "developer": "Henrik Rydgård",
-      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-07-14T10:46:02.000Z",
+      "releaseDate": "2026-02-05T23:03:57.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T00:38:27.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "ZA"
     },
@@ -1042,16 +958,30 @@
       "country": "ZA"
     },
     {
-      "id": "com.advant.streamer",
-      "name": "Lamar - Idle Vlogger",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/xT4-Jd79HjNHpDHboXZQ7KzzXr3cSVq8qJ4JI5YlUiOTtN3XgPdNqNP34cqJcVnIImPO",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T15:44:02.000Z",
+      "releaseDate": "2026-02-12T00:38:27.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.fgol.HungrySharkEvolution",
+      "name": "Hungry Shark Evolution",
+      "developer": "Ubisoft Entertainment",
+      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T02:24:08.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "ZA"
     },
@@ -1070,14 +1000,56 @@
       "country": "ZA"
     },
     {
-      "id": "com.WandaSoftware.TruckersofEurope3",
-      "name": "Truckers of Europe 3",
-      "developer": "Wanda Software",
-      "url": "https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/FwKtLtLulWDsEawc5dOelxZyvzTQK6gEZUmqLkpEIlVJjiyPtikvwpWEkSrsgREt9yCg",
+      "id": "com.king.candycrushsaga",
+      "name": "Candy Crush Saga",
+      "developer": "King",
+      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-11-26T09:09:22.000Z",
+      "releaseDate": "2026-02-13T15:57:40.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "org.ppsspp.ppsspp",
+      "name": "PPSSPP - PSP emulator",
+      "developer": "Henrik Rydgård",
+      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-07-14T10:46:02.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.advant.streamer",
+      "name": "Lamar - Idle Vlogger",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T15:44:02.000Z",
       "genres": [
         "Simulation"
       ],
@@ -1098,170 +1070,44 @@
       "country": "ZA"
     },
     {
-      "id": "net.apex_designs.payback2",
-      "name": "Payback 2 - The Battle Sandbox",
-      "developer": "Apex Designs Games LLP",
-      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
+      "id": "com.vicenter.stickman.ragdoll.dismounting",
+      "name": "Ragdoll Turbo Dismount",
+      "developer": "Prime1 Lab LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.vicenter.stickman.ragdoll.dismounting&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/-m3LeDwTsdEWtSsc9cni1kIrJ2pneSoq6sNPw_23aJgmpIDGeLP1vqcVDp5Y9nfT6Q",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-08-27T16:01:25.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.outfit7.mytalkingangela2",
-      "name": "My Talking Angela 2",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T14:20:52.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.gameloft.android.ANMP.GloftA8HM",
-      "name": "Asphalt 8 - Car Racing Game",
-      "developer": "Gameloft SE",
-      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/y1J3-OrqJIlezTtaung2sPOnHY9wS2hdJh26ADkwcc3kdZy4DTGyv94IN_YRvdKy0y4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T10:10:06.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.outfit7.mytalkingtom2",
-      "name": "My Talking Tom 2: Pet Game",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T15:15:25.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.olzhas.carparking.multyplayer",
-      "name": "Car Parking Multiplayer",
-      "developer": "olzhass",
-      "url": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/86cQqI_vflAIckhMPWltYthLFh4YnemCi5hXm0VCQe4Lbj346-jH3r6uy3lsQtpO9A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-17T11:37:40.000Z",
+      "releaseDate": "2025-12-17T09:05:42.000Z",
       "genres": [
         "Simulation"
       ],
       "country": "ZA"
     },
     {
-      "id": "com.rioo.runnersubway",
-      "name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
+      "id": "com.clearblast.android",
+      "name": "Clear Blast",
+      "developer": "Golden Game Matrix",
+      "url": "https://play.google.com/store/apps/details?id=com.clearblast.android&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/VedZFj6WvEcZk6K5saudyOXVtB_neGxey7wGlGRIVAPAIwGqSuxBAfyizBPJD6HwaX2Aw67JNjeEFw2NR1QFbg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-27T01:29:03.000Z",
+      "releaseDate": "2026-01-07T10:28:25.000Z",
       "genres": [
         "Arcade"
       ],
       "country": "ZA"
     },
     {
-      "id": "com.higame.annoying.tricky.story.puzzle.game",
-      "name": "Tricky Prank: Brain Quest",
-      "developer": "HIGAME Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.higame.annoying.tricky.story.puzzle.game&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/c4GeGD2LgyBEKA6vUalFLxcbhS5rxsqrriNbKUErdyE4ZoxlLaksRGjMtsOHdnjrBrE",
+      "id": "com.WandaSoftware.TruckersofEurope3",
+      "name": "Truckers of Europe 3",
+      "developer": "Wanda Software",
+      "url": "https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/FwKtLtLulWDsEawc5dOelxZyvzTQK6gEZUmqLkpEIlVJjiyPtikvwpWEkSrsgREt9yCg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-26T11:11:09.000Z",
+      "releaseDate": "2025-11-26T09:09:22.000Z",
       "genres": [
-        "Puzzle"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "slots.pcg.casino.games.free.android",
-      "name": "Cash Frenzy™ - Casino Slots",
-      "developer": "SpinX Games Limited",
-      "url": "https://play.google.com/store/apps/details?id=slots.pcg.casino.games.free.android&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/sU8DvqTKPhBjccxhmxeWKCUHAyGsXz7wgjqP_yv4OjAQkCU-UZOkDRotSNAxuBYLMgE-zoQC1mRdAqs-ueyMFw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T06:45:30.000Z",
-      "genres": [
-        "Casino"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.grand.launcher",
-      "name": "Grand Mobile: RP Open World",
-      "developer": "Dynamic Technologies TOO",
-      "url": "https://play.google.com/store/apps/details?id=com.grand.launcher&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/EBfB-66PKQDaQvrq_cpFp1evl3pyqmKx1z0arqV8vaoRwMLZa4pgXfv9qHF9LOEp4niU6t1paRySkGkETvGd8A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T19:54:44.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.sh.minibusdrivingsimulator",
-      "name": "City Van Driving Game Offline",
-      "developer": "Simulator Hub 2022",
-      "url": "https://play.google.com/store/apps/details?id=com.sh.minibusdrivingsimulator&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/PLp-_L0iJV49QYTYoJcwOAvyPudaJqpzq3reGeUKf9kheD375B03bEZvh0XNpC00N4E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T10:48:19.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.outfit7.mytalkingangelafree",
-      "name": "My Talking Angela",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/rdMpsc5VkkG4JGHIFqNREbWBzXxkZBHN7ZA86DqcZEMmtwWy58NLVDuqWgoG2XCAu4Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-10T11:12:26.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.aim.racing",
-      "name": "Extreme Car Driving Simulator",
-      "developer": "AxesInMotion Racing",
-      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/6NEtpPjWbslnt7WzHb4A1sYM6GiX_VdIhA6O9gAvJcf-GlmnEkfMQwPzAD7xTSLV_5M",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T16:50:44.000Z",
-      "genres": [
-        "Racing"
+        "Simulation"
       ],
       "country": "ZA"
     },
@@ -1280,86 +1126,16 @@
       "country": "ZA"
     },
     {
-      "id": "com.wn.hairtattoo",
-      "name": "Hair Tattoo: Barber Shop Game",
-      "developer": "CASUAL AZUR GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.wn.hairtattoo&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/kXNZHWWzkmo8zj1-006EZwgwzJx82z8FZ3yWIuon6NCEO4FtbXYRUTDaCVSDi-tbug",
+      "id": "net.apex_designs.payback2",
+      "name": "Payback 2 - The Battle Sandbox",
+      "developer": "Apex Designs Games LLP",
+      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T11:20:15.000Z",
+      "releaseDate": "2025-08-27T16:01:25.000Z",
       "genres": [
-        "Simulation"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.imangi.templerun2",
-      "name": "Temple Run 2: Endless Escape",
-      "developer": "Imangi Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-19T12:00:17.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.niceteen.games.dtbam",
-      "name": "Deal To Be A Millionaire",
-      "developer": "Niceteen Games",
-      "url": "https://play.google.com/store/apps/details?id=com.niceteen.games.dtbam&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/5v9wntAn0mAdCgowe8zSjV_FFs8aSwy3RnOZp-6OgJf3AL_REut7vXbbTGnqXQkWTng",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T10:48:14.000Z",
-      "genres": [
-        "Trivia"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.soccer.score.star",
-      "name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:32:33.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.foosegames.brasiltuning2",
-      "name": "Brasil Tuning 2",
-      "developer": "Virtua Games - Jogo de Moto e Carro - Bike Games",
-      "url": "https://play.google.com/store/apps/details?id=com.foosegames.brasiltuning2&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/QZa5R5tuWOlZUpI_zd13Qp4iauazbqHWxZkYp2t48emxOMh1jWktFX2iQc3vY7ARoGw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-01T15:23:53.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.bettergames.truck.drivingschool.simulator",
-      "name": "Truck Games - Driving School",
-      "developer": "Better Games Studio Pty Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.bettergames.truck.drivingschool.simulator&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/WiHAkl3Qhw2GrZf-angvlDNRPhSG_nkLmwZ_xT8QuN5TC69eGT-kHDjy3xZWyqTPuQc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-07T07:45:50.000Z",
-      "genres": [
-        "Strategy"
+        "Arcade"
       ],
       "country": "ZA"
     },
@@ -1378,30 +1154,254 @@
       "country": "ZA"
     },
     {
-      "id": "com.refuelgames.rally",
-      "name": "Rally Fury - Extreme Racing",
-      "developer": "Refuel Games Pty Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.refuelgames.rally&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/UVjsYY6tnVq2qqtuz0BexvhIA080C-pfWalPy3Py4GD4nE-dt_mAZxuAOVgEod3teLU",
+      "id": "com.niceteen.games.dtbam",
+      "name": "Deal To Be A Millionaire",
+      "developer": "Niceteen Games",
+      "url": "https://play.google.com/store/apps/details?id=com.niceteen.games.dtbam&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/5v9wntAn0mAdCgowe8zSjV_FFs8aSwy3RnOZp-6OgJf3AL_REut7vXbbTGnqXQkWTng",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-18T01:24:07.000Z",
+      "releaseDate": "2026-02-09T10:48:14.000Z",
+      "genres": [
+        "Trivia"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.gameloft.android.ANMP.GloftA8HM",
+      "name": "Asphalt 8 - Car Racing Game",
+      "developer": "Gameloft SE",
+      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/y1J3-OrqJIlezTtaung2sPOnHY9wS2hdJh26ADkwcc3kdZy4DTGyv94IN_YRvdKy0y4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T10:10:06.000Z",
       "genres": [
         "Racing"
       ],
       "country": "ZA"
     },
     {
-      "id": "com.clearblast.android",
-      "name": "Clear Blast",
-      "developer": "Golden Game Matrix",
-      "url": "https://play.google.com/store/apps/details?id=com.clearblast.android&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/VedZFj6WvEcZk6K5saudyOXVtB_neGxey7wGlGRIVAPAIwGqSuxBAfyizBPJD6HwaX2Aw67JNjeEFw2NR1QFbg",
+      "id": "casino.free.slots.slot.machines",
+      "name": "Slots 777 - Slot Machine Games",
+      "developer": "TINYSOFT - slots, slot machines & casino games",
+      "url": "https://play.google.com/store/apps/details?id=casino.free.slots.slot.machines&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/engQZhOc5z90yp_sZTqdDQAmwTc-iBetbHu4S3IbO7FT-VUzGtdG6KEzrTY17iS3rfs",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-07T10:28:25.000Z",
+      "releaseDate": "2026-01-28T16:01:09.000Z",
+      "genres": [
+        "Casino"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.outfit7.mytalkingtom2",
+      "name": "My Talking Tom 2",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T15:15:25.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.outfit7.mytalkingangelafree",
+      "name": "My Talking Angela",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/rdMpsc5VkkG4JGHIFqNREbWBzXxkZBHN7ZA86DqcZEMmtwWy58NLVDuqWgoG2XCAu4Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-10T11:12:26.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.outfit7.mytalkingangela2",
+      "name": "My Talking Angela 2",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T14:20:52.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.grand.launcher",
+      "name": "Grand Mobile: RP Open World",
+      "developer": "Dynamic Technologies TOO",
+      "url": "https://play.google.com/store/apps/details?id=com.grand.launcher&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/EBfB-66PKQDaQvrq_cpFp1evl3pyqmKx1z0arqV8vaoRwMLZa4pgXfv9qHF9LOEp4niU6t1paRySkGkETvGd8A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T19:54:44.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "slots.pcg.casino.games.free.android",
+      "name": "Cash Frenzy™ - Casino Slots",
+      "developer": "SpinX Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=slots.pcg.casino.games.free.android&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/sU8DvqTKPhBjccxhmxeWKCUHAyGsXz7wgjqP_yv4OjAQkCU-UZOkDRotSNAxuBYLMgE-zoQC1mRdAqs-ueyMFw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T06:45:30.000Z",
+      "genres": [
+        "Casino"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.olzhas.carparking.multyplayer",
+      "name": "Car Parking Multiplayer",
+      "developer": "olzhass",
+      "url": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/86cQqI_vflAIckhMPWltYthLFh4YnemCi5hXm0VCQe4Lbj346-jH3r6uy3lsQtpO9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-17T11:37:40.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.higame.annoying.tricky.story.puzzle.game",
+      "name": "Tricky Prank: Brain Quest",
+      "developer": "HIGAME Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.higame.annoying.tricky.story.puzzle.game&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/c4GeGD2LgyBEKA6vUalFLxcbhS5rxsqrriNbKUErdyE4ZoxlLaksRGjMtsOHdnjrBrE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-26T11:11:09.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.bettergames.truck.drivingschool.simulator",
+      "name": "Truck Games - Driving School",
+      "developer": "Better Games Studio Pty Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.bettergames.truck.drivingschool.simulator&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/WiHAkl3Qhw2GrZf-angvlDNRPhSG_nkLmwZ_xT8QuN5TC69eGT-kHDjy3xZWyqTPuQc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-07T07:45:50.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.aim.racing",
+      "name": "Extreme Car Driving Simulator",
+      "developer": "AxesInMotion Racing",
+      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/6NEtpPjWbslnt7WzHb4A1sYM6GiX_VdIhA6O9gAvJcf-GlmnEkfMQwPzAD7xTSLV_5M",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T16:50:44.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.imangi.templerun2",
+      "name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T14:25:25.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.sh.minibusdrivingsimulator",
+      "name": "City Van Driving Game Offline",
+      "developer": "Simulator Hub 2022",
+      "url": "https://play.google.com/store/apps/details?id=com.sh.minibusdrivingsimulator&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/PLp-_L0iJV49QYTYoJcwOAvyPudaJqpzq3reGeUKf9kheD375B03bEZvh0XNpC00N4E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T10:48:19.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.rioo.runnersubway",
+      "name": "Subway Princess Runner",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T01:29:03.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.casino.slots.bingo.poker.free.jackpot.spins",
+      "name": "Lucky Spin Slot Casino",
+      "developer": "C.C.T Games",
+      "url": "https://play.google.com/store/apps/details?id=com.casino.slots.bingo.poker.free.jackpot.spins&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/j0_XEEFANnxp8SBQdfCrIdP_bhtsQEGBQ7SfOYjKv665Y6Hcqq8jwijDVrBrYa6qJSc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-15T08:31:33.000Z",
+      "genres": [
+        "Casino"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "games.joker.plinko.space.galaxy.party",
+      "name": "Plinko Space - Play and Win",
+      "developer": "Joker Game",
+      "url": "https://play.google.com/store/apps/details?id=games.joker.plinko.space.galaxy.party&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/LCX2kuwvHB2r76fTL1hWFMRtVdD3u6ujnZw1ACQpREcxOAtnbXamb-YZbd8aFA4g6uix",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T12:02:08.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.xgame.VehicleDriving3D",
+      "name": "Real Driving: Vehicle & Park",
+      "developer": "XGAME STUDIO",
+      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T06:55:58.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "ZA"
     }
