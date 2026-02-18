@@ -1,8 +1,22 @@
 {
   "country": "AT",
   "store": "google",
-  "updatedAt": "2026-02-17T15:10:34.039Z",
+  "updatedAt": "2026-02-18T00:58:36.628Z",
   "new": [
+    {
+      "id": "com.grandgames.magicsort",
+      "name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort&hl=en&gl=AT",
+      "artwork": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T18:59:47.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "AT"
+    },
     {
       "id": "com.loomgames.pixelflow",
       "name": "Pixel Flow!",
@@ -592,6 +606,20 @@
       "country": "AT"
     },
     {
+      "id": "com.innersloth.spacemafia",
+      "name": "Among Us",
+      "developer": "Innersloth LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=AT",
+      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T19:56:21.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "AT"
+    },
+    {
       "id": "io.supercent.linkedcubic",
       "name": "Snake Clash!",
       "developer": "Supercent, Inc.",
@@ -674,51 +702,9 @@
         "Puzzle"
       ],
       "country": "AT"
-    },
-    {
-      "id": "com.bunbunstudio.magicblocktiles",
-      "name": "Music Piano 7: Rush Song Games",
-      "developer": "Melodya Muses",
-      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=AT",
-      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T11:15:17.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "AT"
-    },
-    {
-      "id": "com.youmusic.magictiles",
-      "name": "Magic Tiles 3™ - Piano Game",
-      "developer": "AMANOTES PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=AT",
-      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T09:38:01.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "AT"
     }
   ],
   "updated": [
-    {
-      "id": "com.wood.block.sudoku.puzzle.bm",
-      "name": "Block Crush!",
-      "developer": "Wonderful  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=AT",
-      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T13:05:41.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "AT"
-    },
     {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
@@ -730,6 +716,20 @@
       "releaseDate": "2026-02-11T11:09:54.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "AT"
+    },
+    {
+      "id": "com.wood.block.sudoku.puzzle.bm",
+      "name": "Block Crush!",
+      "developer": "Wonderful  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=AT",
+      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T13:05:41.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "AT"
     },
@@ -846,6 +846,20 @@
       "country": "AT"
     },
     {
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=AT",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T15:11:48.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "AT"
+    },
+    {
       "id": "com.playrix.township",
       "name": "Township",
       "developer": "Playrix",
@@ -888,16 +902,16 @@
       "country": "AT"
     },
     {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=AT",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "id": "com.red.arrows.android",
+      "name": "Arrowscapes™ - Arrows Puzzle",
+      "developer": "Beijing Youyoutang Technology Co.,ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.red.arrows.android&hl=en&gl=AT",
+      "artwork": "https://play-lh.googleusercontent.com/sLclRCwg48GnYDGbqUFSDXXUDtx1VwFhKy0eNadH3EUn5DccgwDn1GFSwJXV0RrIQNQq",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T15:11:48.000Z",
+      "releaseDate": "2026-02-12T04:02:08.000Z",
       "genres": [
-        "Puzzle"
+        "Casual"
       ],
       "country": "AT"
     },
@@ -958,20 +972,6 @@
       "country": "AT"
     },
     {
-      "id": "com.red.arrows.android",
-      "name": "Arrowscapes™ - Arrows Puzzle",
-      "developer": "Beijing Youyoutang Technology Co.,ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.red.arrows.android&hl=en&gl=AT",
-      "artwork": "https://play-lh.googleusercontent.com/sLclRCwg48GnYDGbqUFSDXXUDtx1VwFhKy0eNadH3EUn5DccgwDn1GFSwJXV0RrIQNQq",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T04:02:08.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "AT"
-    },
-    {
       "id": "io.supercent.linkedcubic",
       "name": "Snake Clash!",
       "developer": "Supercent, Inc.",
@@ -982,6 +982,20 @@
       "releaseDate": "2026-02-10T15:03:56.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "AT"
+    },
+    {
+      "id": "in.playsimple.wordsearch",
+      "name": "Word Search Explorer",
+      "developer": "PlaySimple Games",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=AT",
+      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T13:00:15.000Z",
+      "genres": [
+        "Word"
       ],
       "country": "AT"
     },
@@ -1038,20 +1052,6 @@
       "releaseDate": "2026-02-12T00:38:27.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "AT"
-    },
-    {
-      "id": "in.playsimple.wordsearch",
-      "name": "Word Search Explorer",
-      "developer": "PlaySimple Games",
-      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=AT",
-      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T13:00:15.000Z",
-      "genres": [
-        "Word"
       ],
       "country": "AT"
     },
@@ -1126,6 +1126,20 @@
       "country": "AT"
     },
     {
+      "id": "com.youmusic.magictiles",
+      "name": "Magic Tiles 3™ - Piano Game",
+      "developer": "AMANOTES PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=AT",
+      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T09:38:01.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "AT"
+    },
+    {
       "id": "com.innersloth.spacemafia",
       "name": "Among Us",
       "developer": "Innersloth LLC",
@@ -1133,7 +1147,7 @@
       "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-10T22:11:03.000Z",
+      "releaseDate": "2026-02-10T19:56:21.000Z",
       "genres": [
         "Action"
       ],
@@ -1168,16 +1182,16 @@
       "country": "AT"
     },
     {
-      "id": "com.youmusic.magictiles",
-      "name": "Magic Tiles 3™ - Piano Game",
-      "developer": "AMANOTES PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=AT",
-      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=AT",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-10T09:38:01.000Z",
+      "releaseDate": "2026-02-12T11:27:15.000Z",
       "genres": [
-        "Music"
+        "Arcade"
       ],
       "country": "AT"
     },
@@ -1224,6 +1238,20 @@
       "country": "AT"
     },
     {
+      "id": "com.playrix.homescapes",
+      "name": "Homescapes",
+      "developer": "Playrix",
+      "url": "https://play.google.com/store/apps/details?id=com.playrix.homescapes&hl=en&gl=AT",
+      "artwork": "https://play-lh.googleusercontent.com/HWVNuIGO3NfdVBCmw_rQGTfINA7pdoedynIZbC8TcoNKvd-aAkzk7XboE0zDZE0_CF8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T15:51:51.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "AT"
+    },
+    {
       "id": "com.monopoly.dream.idle.king",
       "name": "Top Tycoon: Coin Theme Empire",
       "developer": "BeheFun Games Limited",
@@ -1245,7 +1273,7 @@
       "artwork": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-09T21:56:11.000Z",
+      "releaseDate": "2026-02-17T18:59:47.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1280,34 +1308,6 @@
       "country": "AT"
     },
     {
-      "id": "com.playrix.homescapes",
-      "name": "Homescapes",
-      "developer": "Playrix",
-      "url": "https://play.google.com/store/apps/details?id=com.playrix.homescapes&hl=en&gl=AT",
-      "artwork": "https://play-lh.googleusercontent.com/HWVNuIGO3NfdVBCmw_rQGTfINA7pdoedynIZbC8TcoNKvd-aAkzk7XboE0zDZE0_CF8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T15:51:51.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "AT"
-    },
-    {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=AT",
-      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T11:27:15.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "AT"
-    },
-    {
       "id": "com.CrazyGames.SpaceWaves",
       "name": "Space Waves",
       "developer": "CrazyGames.com",
@@ -1336,6 +1336,20 @@
       "country": "AT"
     },
     {
+      "id": "com.scopely.monopolygo",
+      "name": "MONOPOLY GO!",
+      "developer": "Scopely",
+      "url": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo&hl=en&gl=AT",
+      "artwork": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T18:57:52.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "AT"
+    },
+    {
       "id": "com.playstrom.dop4",
       "name": "DOP 4: Draw One Part",
       "developer": "SayGames Ltd",
@@ -1350,58 +1364,44 @@
       "country": "AT"
     },
     {
-      "id": "com.carswande.spran",
-      "name": "Truck Sprint 3D-Swing Racing",
-      "developer": "GuonianGame",
-      "url": "https://play.google.com/store/apps/details?id=com.carswande.spran&hl=en&gl=AT",
-      "artwork": "https://play-lh.googleusercontent.com/N_6BkdeVrisCXq0C90NLFvpicFMb9KPP4H4GHM04FFftc4dzTp-DDd9tJEWE0EPhtLbw",
+      "id": "com.fun.lastwar.gp",
+      "name": "Last War:Survival Game",
+      "developer": "FUNFLY PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp&hl=en&gl=AT",
+      "artwork": "https://play-lh.googleusercontent.com/2sOxb_s3uan-AmiF_XRh_K2yqRrmVeuzHAqtYCrwrFP-s1u_FMKo1NtlPz0kdn0qQUH8",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T03:34:03.000Z",
+      "releaseDate": "2026-02-10T14:20:17.000Z",
       "genres": [
-        "Arcade"
+        "Strategy"
       ],
       "country": "AT"
     },
     {
-      "id": "com.playrix.gardenscapes",
-      "name": "Gardenscapes",
-      "developer": "Playrix",
-      "url": "https://play.google.com/store/apps/details?id=com.playrix.gardenscapes&hl=en&gl=AT",
-      "artwork": "https://play-lh.googleusercontent.com/SffnlIy-_lnakKGEko_-Y8qdOpPen3on0kAI_cs_HOLpB8jKz5lh0rUR7MAt1mv6ow",
+      "id": "com.pixel.art.coloring.color.number",
+      "name": "Happy Color®: Color by Number",
+      "developer": "X-FLOW",
+      "url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&hl=en&gl=AT",
+      "artwork": "https://play-lh.googleusercontent.com/paB5-2s6q3uXd3nRE0-2QzCLeLklmemDepD0_Erald5YQUazuiOhMvJ8giFluMAX0w",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-16T09:34:52.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "AT"
-    },
-    {
-      "id": "com.fc.goods.sort.matching.puzzle.triplemaster",
-      "name": "Goods Puzzle: Sort Challenge™",
-      "developer": "FALCON GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.fc.goods.sort.matching.puzzle.triplemaster&hl=en&gl=AT",
-      "artwork": "https://play-lh.googleusercontent.com/F4r_imTe0hKKnVfrOUxbS8oumI6LpU-UgFbOW0VHoYQ_FnrcXq0p3QRR96u5wNANm2A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T11:00:30.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "AT"
-    },
-    {
-      "id": "com.scopely.monopolygo",
-      "name": "MONOPOLY GO!",
-      "developer": "Scopely",
-      "url": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo&hl=en&gl=AT",
-      "artwork": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T18:57:52.000Z",
+      "releaseDate": "2026-01-20T07:32:35.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "AT"
+    },
+    {
+      "id": "com.higame.annoying.tricky.story.puzzle.game",
+      "name": "Tricky Prank: Brain Quest",
+      "developer": "HIGAME Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.higame.annoying.tricky.story.puzzle.game&hl=en&gl=AT",
+      "artwork": "https://play-lh.googleusercontent.com/c4GeGD2LgyBEKA6vUalFLxcbhS5rxsqrriNbKUErdyE4ZoxlLaksRGjMtsOHdnjrBrE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-26T11:11:09.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "AT"
     }
