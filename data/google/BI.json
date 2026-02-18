@@ -1,8 +1,22 @@
 {
   "country": "BI",
   "store": "google",
-  "updatedAt": "2026-02-17T16:09:56.839Z",
+  "updatedAt": "2026-02-18T03:42:56.354Z",
   "new": [
+    {
+      "id": "com.gamincat.jigsolitaire",
+      "name": "Jigsolitaire",
+      "developer": "Gamincat",
+      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T01:36:26.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "BI"
+    },
     {
       "id": "com.gg.highway.racing.car.rider",
       "name": "Real Highway Car Racing Games",
@@ -204,7 +218,7 @@
       "name": "Mahjong Solitaire-Match Master",
       "developer": "Flyfox Games",
       "url": "https://play.google.com/store/apps/details?id=mahjong.solitaire.puzzle.game&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/SHEAcL1kgtW75vrs8UqR1In0tvWt4Qct5L4PmpzKZiG6MTlmstXnA4eFUEhi3IjcD_0d",
+      "artwork": "https://play-lh.googleusercontent.com/TNH1ccMzYeRRbmRH7GpMogirn9R7IJFl1nYhRj5BskZ-8SpP2ozp4zOAh3a-oXOYtSE",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-12T19:39:40.000Z",
@@ -418,20 +432,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-09T09:50:00.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "BI"
-    },
-    {
-      "id": "com.gamincat.jigsolitaire",
-      "name": "Jigsolitaire",
-      "developer": "Gamincat",
-      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T08:53:04.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -748,6 +748,20 @@
       "country": "BI"
     },
     {
+      "id": "io.yarsa.games.ludo",
+      "name": "Ludo",
+      "developer": "Yarsa Games",
+      "url": "https://play.google.com/store/apps/details?id=io.yarsa.games.ludo&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/GP8H9ZbM-FWke-U-N9lGIRVqHX6l4ULTqVpilCKgicIw42D1qEVinQO0_KsFAIft1OEh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-15T07:52:10.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "BI"
+    },
+    {
       "id": "com.hungrystudio.mahjong",
       "name": "Double Tile!",
       "developer": "HungryStudio",
@@ -762,30 +776,16 @@
       "country": "BI"
     },
     {
-      "id": "com.ffgames.racingincar2",
-      "name": "Racing in Car 2",
-      "developer": "ckgames",
-      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "id": "com.ansangha.drdriving",
+      "name": "Dr. Driving",
+      "developer": "SUD Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-19T14:55:06.000Z",
+      "releaseDate": "2025-08-25T07:34:27.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "BI"
-    },
-    {
-      "id": "io.yarsa.games.ludo",
-      "name": "Ludo",
-      "developer": "Yarsa Games",
-      "url": "https://play.google.com/store/apps/details?id=io.yarsa.games.ludo&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/GP8H9ZbM-FWke-U-N9lGIRVqHX6l4ULTqVpilCKgicIw42D1qEVinQO0_KsFAIft1OEh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-15T07:52:10.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "BI"
     },
@@ -804,14 +804,14 @@
       "country": "BI"
     },
     {
-      "id": "com.ansangha.drdriving",
-      "name": "Dr. Driving",
-      "developer": "SUD Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-08-25T07:34:27.000Z",
+      "releaseDate": "2025-12-19T14:55:06.000Z",
       "genres": [
         "Racing"
       ],
@@ -884,20 +884,6 @@
       "releaseDate": "2026-01-30T10:25:35.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "BI"
-    },
-    {
-      "id": "org.ppsspp.ppsspp",
-      "name": "PPSSPP - PSP emulator",
-      "developer": "Henrik Rydgård",
-      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-07-14T10:46:02.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "BI"
     },
@@ -986,6 +972,20 @@
       "country": "BI"
     },
     {
+      "id": "org.ppsspp.ppsspp",
+      "name": "PPSSPP - PSP emulator",
+      "developer": "Henrik Rydgård",
+      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-07-14T10:46:02.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "BI"
+    },
+    {
       "id": "com.ludo.master.hippo",
       "name": "Ludo Master™ - Ludo Board Game",
       "developer": "Hippo Lab",
@@ -1010,20 +1010,6 @@
       "releaseDate": "2026-02-03T01:41:34.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "BI"
-    },
-    {
-      "id": "com.xgame.trafficmoto",
-      "name": "Moto Race Go",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.xgame.trafficmoto&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/X5q2eJtpNzipVALIJ3UTihiEUxMS3xssI_gzrOZaYv6B6XmGGbyiIcD1gsWuan-YSBbd",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T16:09:55.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "BI"
     },
@@ -1084,6 +1070,20 @@
       "country": "BI"
     },
     {
+      "id": "com.xgame.trafficmoto",
+      "name": "Moto Race Go",
+      "developer": "XGAME STUDIO",
+      "url": "https://play.google.com/store/apps/details?id=com.xgame.trafficmoto&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/X5q2eJtpNzipVALIJ3UTihiEUxMS3xssI_gzrOZaYv6B6XmGGbyiIcD1gsWuan-YSBbd",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:09:55.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "BI"
+    },
+    {
       "id": "com.tohsoft.arashi.ninja.shadow",
       "name": "Ninja warrior: legend of adven",
       "developer": "TOH Games",
@@ -1094,20 +1094,6 @@
       "releaseDate": "2025-07-17T03:10:56.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "BI"
-    },
-    {
-      "id": "com.puzzlegamesclassic.puzzlegame",
-      "name": "Puzzle Game",
-      "developer": "Block Puzzle Games 2018",
-      "url": "https://play.google.com/store/apps/details?id=com.puzzlegamesclassic.puzzlegame&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/HfuesTiHqmFhcF_4rBN5NOuqIQlVcbZ_-boo-Yj1DMtiKLkwm8aLlTRU04Flg5mIh2M",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-27T12:13:41.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "BI"
     },
@@ -1168,20 +1154,6 @@
       "country": "BI"
     },
     {
-      "id": "ludo.dice.board.games",
-      "name": "Ludo Boss - Multiplayer Game",
-      "developer": "Pipi Chick Studio",
-      "url": "https://play.google.com/store/apps/details?id=ludo.dice.board.games&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/55GQjmA9yzVmnkgkVijtUWtf4Rapy1nSYz0VWiFJ0MWLl1dM9BapUUzyBc28e8ksXDM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-23T07:23:21.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "BI"
-    },
-    {
       "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
       "name": "Agent Shooter - Shooting Game",
       "developer": "Rebel Actions",
@@ -1234,6 +1206,20 @@
       "releaseDate": "2026-01-29T21:05:43.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "BI"
+    },
+    {
+      "id": "com.puzzlegamesclassic.puzzlegame",
+      "name": "Puzzle Game",
+      "developer": "Block Puzzle Games 2018",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzlegamesclassic.puzzlegame&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/HfuesTiHqmFhcF_4rBN5NOuqIQlVcbZ_-boo-Yj1DMtiKLkwm8aLlTRU04Flg5mIh2M",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-27T12:13:41.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "BI"
     },
@@ -1344,6 +1330,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2025-10-15T12:26:55.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "BI"
+    },
+    {
+      "id": "ludo.dice.board.games",
+      "name": "Ludo Boss - Multiplayer Game",
+      "developer": "Pipi Chick Studio",
+      "url": "https://play.google.com/store/apps/details?id=ludo.dice.board.games&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/55GQjmA9yzVmnkgkVijtUWtf4Rapy1nSYz0VWiFJ0MWLl1dM9BapUUzyBc28e8ksXDM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-23T07:23:21.000Z",
       "genres": [
         "Board"
       ],
