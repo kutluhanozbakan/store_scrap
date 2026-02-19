@@ -1,7 +1,7 @@
 {
   "country": "BO",
   "store": "google",
-  "updatedAt": "2026-02-18T17:21:16.565Z",
+  "updatedAt": "2026-02-19T06:04:34.223Z",
   "new": [
     {
       "id": "com.vitastudio.mahjong",
@@ -238,6 +238,20 @@
       "releaseDate": "2026-02-13T15:44:02.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "BO"
+    },
+    {
+      "id": "com.fungames.blockcraft",
+      "name": "Block Craft 3D：Building Game",
+      "developer": "Wildlife Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/D7LHWiJ6sgrFU6JCBbatL5sXGtw7QCtQ7OymdNQbg6DWPQdmEpvtTr4nFXKelA0CWA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T12:53:14.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "BO"
     },
@@ -508,6 +522,20 @@
       "country": "BO"
     },
     {
+      "id": "com.termggb.beimei",
+      "name": "Titan War",
+      "developer": "Glacier entertainment",
+      "url": "https://play.google.com/store/apps/details?id=com.termggb.beimei&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/DT58m6oXUzjcmqkOxrDpC0I2RZvNPhIWQtXPtKCcF9BEwJ2FrTU3lbLNyeFVDXajn8c5RCcpLAdcxbELrwae8g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T04:23:51.000Z",
+      "genres": [
+        "Card"
+      ],
+      "country": "BO"
+    },
+    {
       "id": "com.innersloth.spacemafia",
       "name": "Among Us",
       "developer": "Innersloth LLC",
@@ -588,20 +616,6 @@
       "releaseDate": "2026-02-10T03:23:32.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "BO"
-    },
-    {
-      "id": "fi.twomenandadog.zombiecatchers",
-      "name": "Zombie Catchers : Hunt & sell",
-      "developer": "Deca Games",
-      "url": "https://play.google.com/store/apps/details?id=fi.twomenandadog.zombiecatchers&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/voHkJov0A6_3rSeZqX1D85KtKQ8pbyInBfsTq5VCUbBok_asWHn1bszJXLg0WYd3dj0Y",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T15:53:43.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "BO"
     },
@@ -688,20 +702,6 @@
         "Arcade"
       ],
       "country": "BO"
-    },
-    {
-      "id": "com.paurau.MakeHer",
-      "name": "Move People",
-      "developer": "Supersonic Studios LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.paurau.MakeHer&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/9LKFZ7zWDIF68RKb8_-tSBk5gNu0mmUK8iMba5s6Rm0la-6q5Wvv4f8eukakO9x-yLE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-08T00:59:28.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "BO"
     }
   ],
   "updated": [
@@ -776,20 +776,6 @@
       "country": "BO"
     },
     {
-      "id": "com.ea.game.pvzfree_row",
-      "name": "Plants vs. Zombies™",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.game.pvzfree_row&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/hO7716hh7NCcFauJedDclX-R3Zh9JmbSs8AUU6TP2edGVILlZM7gmyt_8WPCZELiPQA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-15T07:00:21.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "BO"
-    },
-    {
       "id": "com.vectorunit.purple.googleplay",
       "name": "Beach Buggy Racing",
       "developer": "Vector Unit",
@@ -800,6 +786,20 @@
       "releaseDate": "2025-09-22T21:58:50.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "BO"
+    },
+    {
+      "id": "com.ea.game.pvzfree_row",
+      "name": "Plants vs. Zombies™",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.game.pvzfree_row&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/hO7716hh7NCcFauJedDclX-R3Zh9JmbSs8AUU6TP2edGVILlZM7gmyt_8WPCZELiPQA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-15T07:00:21.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "BO"
     },
@@ -832,6 +832,48 @@
       "country": "BO"
     },
     {
+      "id": "com.geck.piano.cattiles.edm",
+      "name": "Piano Beat: Rush Tiles",
+      "developer": "Geckolor Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.geck.piano.cattiles.edm&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/hL4KteyfX56_XCH12a7_bSrxSY1b_s9Vs43b6VnwinkCsrKfusj_kZRzDmPnS-VE1g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T14:27:34.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "BO"
+    },
+    {
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T15:03:56.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "BO"
+    },
+    {
+      "id": "com.adventure.piano.kpopstar",
+      "name": "Music Piano 2: KPop Star",
+      "developer": "HyperMusic",
+      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T11:38:17.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "BO"
+    },
+    {
       "id": "com.advant.streamer",
       "name": "Lamar - Idle Vlogger",
       "developer": "CrazyLabs LTD",
@@ -842,20 +884,6 @@
       "releaseDate": "2026-02-13T15:44:02.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "BO"
-    },
-    {
-      "id": "puzzle.snakes.puzzle.slithereat.gaming",
-      "name": "Snake Puzzle: Slither to Eat",
-      "developer": "Brave HK Limited",
-      "url": "https://play.google.com/store/apps/details?id=puzzle.snakes.puzzle.slithereat.gaming&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/BPmtnHqdOT3BPoya3WYneYUzcDOkYM0wyfSh-197KPQM3l-mnZvDDK-cnCD0UY21tSw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-15T15:35:36.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "BO"
     },
@@ -874,16 +902,16 @@
       "country": "BO"
     },
     {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "id": "puzzle.snakes.puzzle.slithereat.gaming",
+      "name": "Snake Puzzle: Slither to Eat",
+      "developer": "Brave HK Limited",
+      "url": "https://play.google.com/store/apps/details?id=puzzle.snakes.puzzle.slithereat.gaming&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/BPmtnHqdOT3BPoya3WYneYUzcDOkYM0wyfSh-197KPQM3l-mnZvDDK-cnCD0UY21tSw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-10T15:03:56.000Z",
+      "releaseDate": "2026-02-15T15:35:36.000Z",
       "genres": [
-        "Arcade"
+        "Puzzle"
       ],
       "country": "BO"
     },
@@ -916,20 +944,6 @@
       "country": "BO"
     },
     {
-      "id": "com.adventure.piano.kpopstar",
-      "name": "Music Piano 2: KPop Star",
-      "developer": "HyperMusic",
-      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T11:38:17.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "BO"
-    },
-    {
       "id": "me.pou.app",
       "name": "Pou",
       "developer": "Zakeh",
@@ -938,20 +952,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2025-10-08T09:01:34.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "BO"
-    },
-    {
-      "id": "com.geck.piano.cattiles.edm",
-      "name": "Piano Beat: Rush Tiles",
-      "developer": "Geckolor Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.geck.piano.cattiles.edm&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/hL4KteyfX56_XCH12a7_bSrxSY1b_s9Vs43b6VnwinkCsrKfusj_kZRzDmPnS-VE1g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T14:27:34.000Z",
       "genres": [
         "Casual"
       ],
@@ -986,20 +986,6 @@
       "country": "BO"
     },
     {
-      "id": "com.blockgamesstudio.blockworld3d",
-      "name": "Block World 3D: Craft & Build",
-      "developer": "Funburstgame LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T09:17:30.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "BO"
-    },
-    {
       "id": "com.sprunki.mod.horror.incredibox.monster.beats.music.game",
       "name": "Sprunki Beat: Full Mod Music",
       "developer": "Gotstar Studio",
@@ -1014,6 +1000,20 @@
       "country": "BO"
     },
     {
+      "id": "com.blockgamesstudio.blockworld3d",
+      "name": "Block World 3D: Craft & Build",
+      "developer": "Funburstgame LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T09:17:30.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "BO"
+    },
+    {
       "id": "pt.cosmicode.imposter",
       "name": "Imposter Up - Who is the Spy?",
       "developer": "Cosmicode",
@@ -1024,20 +1024,6 @@
       "releaseDate": "2026-02-16T16:45:21.000Z",
       "genres": [
         "Word"
-      ],
-      "country": "BO"
-    },
-    {
-      "id": "com.netease.newspike",
-      "name": "Blood Strike - FPS for all",
-      "developer": "NetEase Games",
-      "url": "https://play.google.com/store/apps/details?id=com.netease.newspike&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/Oj3ystjWEwuox4DLkOsrEAGG0vRNFuFrL8WTrgztdHYoJhsoDvprQQZNArxqveuu48yB4sWmXLOOKSiJQruv",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T02:20:54.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "BO"
     },
@@ -1070,6 +1056,34 @@
       "country": "BO"
     },
     {
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T11:27:15.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "BO"
+    },
+    {
+      "id": "com.netease.newspike",
+      "name": "Blood Strike - FPS for all",
+      "developer": "NetEase Games",
+      "url": "https://play.google.com/store/apps/details?id=com.netease.newspike&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/Oj3ystjWEwuox4DLkOsrEAGG0vRNFuFrL8WTrgztdHYoJhsoDvprQQZNArxqveuu48yB4sWmXLOOKSiJQruv",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T02:20:54.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "BO"
+    },
+    {
       "id": "cz.gdmt.AnnelidsDemo",
       "name": "Annelids: Online battle",
       "developer": "Michal Srb",
@@ -1080,34 +1094,6 @@
       "releaseDate": "2025-04-15T09:29:46.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "BO"
-    },
-    {
-      "id": "com.supercell.clashroyale",
-      "name": "Clash Royale",
-      "developer": "Supercell",
-      "url": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/gnSC6s8-6Tjc4uhvDW7nfrSJxpbhllzYhgX8y374N1LYvWBStn2YhozS9XXaz1T_Pi2q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T10:59:35.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "BO"
-    },
-    {
-      "id": "com.vicenter.stickman.ragdoll.dismounting",
-      "name": "Ragdoll Turbo Dismount",
-      "developer": "Prime1 Lab LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.vicenter.stickman.ragdoll.dismounting&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/-m3LeDwTsdEWtSsc9cni1kIrJ2pneSoq6sNPw_23aJgmpIDGeLP1vqcVDp5Y9nfT6Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-17T09:05:42.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "BO"
     },
@@ -1140,20 +1126,6 @@
       "country": "BO"
     },
     {
-      "id": "com.robtopx.geometryjumplite",
-      "name": "Geometry Dash Lite",
-      "developer": "RobTop Games",
-      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T14:03:50.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "BO"
-    },
-    {
       "id": "gg.sunday.dog.escape.puzzle",
       "name": "Dog Escape: Cute Pet Care Life",
       "developer": "Sunday.gg",
@@ -1168,16 +1140,44 @@
       "country": "BO"
     },
     {
-      "id": "com.fungames.blockcraft",
-      "name": "Block Craft 3D：Building Game",
-      "developer": "Wildlife Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/D7LHWiJ6sgrFU6JCBbatL5sXGtw7QCtQ7OymdNQbg6DWPQdmEpvtTr4nFXKelA0CWA",
+      "id": "com.robtopx.geometryjumplite",
+      "name": "Geometry Dash Lite",
+      "developer": "RobTop Games",
+      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-29T15:36:06.000Z",
+      "releaseDate": "2026-01-30T14:03:50.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "BO"
+    },
+    {
+      "id": "com.supercell.clashroyale",
+      "name": "Clash Royale",
+      "developer": "Supercell",
+      "url": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/gnSC6s8-6Tjc4uhvDW7nfrSJxpbhllzYhgX8y374N1LYvWBStn2YhozS9XXaz1T_Pi2q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T10:59:35.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "BO"
+    },
+    {
+      "id": "com.magic.cyber.piano.tiles.edm.musicgames",
+      "name": "Pop Piano: Music Games",
+      "developer": "Cobby Labs",
+      "url": "https://play.google.com/store/apps/details?id=com.magic.cyber.piano.tiles.edm.musicgames&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/11xNmRHrdqkAEJCotsiisr47VaK4Q4CMeJHkungv4S18mijkBXFDOiESYel8hvLl9Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T14:18:37.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "BO"
     },
@@ -1196,34 +1196,6 @@
       "country": "BO"
     },
     {
-      "id": "net.mobigame.zombietsunami",
-      "name": "Zombie Tsunami",
-      "developer": "Mobigame SAS",
-      "url": "https://play.google.com/store/apps/details?id=net.mobigame.zombietsunami&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/y2v9w4KjUe4djmd3yYgj2_XrDIt_D9JO2c2NkYdxtYyE6cGl21JgU4aMqTEcoQzQorLD",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T11:46:45.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "BO"
-    },
-    {
-      "id": "com.wilds.craft.mysticland.explore",
-      "name": "Block Craft 3D: Realm Builder",
-      "developer": "Metagame.Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.wilds.craft.mysticland.explore&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/atgEBnDex2iZ3zknB3N5c4tBxJwT8NMrWTp0NXY7rYxk6DkDksRNddCm4E_832TI0w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T10:54:34.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "BO"
-    },
-    {
       "id": "com.charmquest.dec",
       "name": "Crystal Flow Sort",
       "developer": "Gisler Giudu",
@@ -1234,6 +1206,20 @@
       "releaseDate": "2026-01-28T12:59:54.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "BO"
+    },
+    {
+      "id": "net.mobigame.zombietsunami",
+      "name": "Zombie Tsunami",
+      "developer": "Mobigame SAS",
+      "url": "https://play.google.com/store/apps/details?id=net.mobigame.zombietsunami&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/y2v9w4KjUe4djmd3yYgj2_XrDIt_D9JO2c2NkYdxtYyE6cGl21JgU4aMqTEcoQzQorLD",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T11:46:45.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "BO"
     },
@@ -1252,28 +1238,14 @@
       "country": "BO"
     },
     {
-      "id": "com.media720.games2020.two.player.offline.games",
-      "name": "2 Player Games Offline - 1234",
-      "developer": "Fun Offline Games",
-      "url": "https://play.google.com/store/apps/details?id=com.media720.games2020.two.player.offline.games&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/T39i7aWPxL0dlvVak3IXPV59qCQnVMFLNbU5ULEmPvkiKr6mmUle7bsL59VvxScAbQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T18:17:10.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "BO"
-    },
-    {
-      "id": "com.magic.cyber.piano.tiles.edm.musicgames",
-      "name": "Pop Piano: Music Games",
+      "id": "com.rolling.hop.dancing.cats.tiles.musicgames",
+      "name": "Dancing Cats 2: Music Games",
       "developer": "Cobby Labs",
-      "url": "https://play.google.com/store/apps/details?id=com.magic.cyber.piano.tiles.edm.musicgames&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/11xNmRHrdqkAEJCotsiisr47VaK4Q4CMeJHkungv4S18mijkBXFDOiESYel8hvLl9Q",
+      "url": "https://play.google.com/store/apps/details?id=com.rolling.hop.dancing.cats.tiles.musicgames&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/gT89HMPUb-VdmIe-7BQk78PHD859D28TGTdP8Nzm505cBFbVhegvEyfLWDz4jPe2yA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-10T14:18:37.000Z",
+      "releaseDate": "2026-01-13T08:44:54.000Z",
       "genres": [
         "Music"
       ],
@@ -1294,30 +1266,16 @@
       "country": "BO"
     },
     {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
+      "id": "com.fungames.blockcraft",
+      "name": "Block Craft 3D：Building Game",
+      "developer": "Wildlife Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/D7LHWiJ6sgrFU6JCBbatL5sXGtw7QCtQ7OymdNQbg6DWPQdmEpvtTr4nFXKelA0CWA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-12T11:27:15.000Z",
+      "releaseDate": "2026-02-13T12:53:14.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "BO"
-    },
-    {
-      "id": "com.football.soccer.league",
-      "name": "Football League 2026",
-      "developer": "MOBILE SOCCER",
-      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T12:25:49.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "BO"
     },
@@ -1336,30 +1294,58 @@
       "country": "BO"
     },
     {
-      "id": "com.stickman.warriors.stickwarriors.dragon.shadow.fight",
-      "name": "Stickman Warriors",
-      "developer": "SkySoft Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.stickman.warriors.stickwarriors.dragon.shadow.fight&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/a2DozS4mRCoidrx6P_05X7uJlL0h192PzpYbeUNRA_4azyMyRUTemgDMKTFfita0Og",
+      "id": "com.wilds.craft.mysticland.explore",
+      "name": "Block Craft 3D: Realm Builder",
+      "developer": "Metagame.Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.wilds.craft.mysticland.explore&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/atgEBnDex2iZ3zknB3N5c4tBxJwT8NMrWTp0NXY7rYxk6DkDksRNddCm4E_832TI0w",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-12T11:11:56.000Z",
+      "releaseDate": "2026-02-09T10:54:34.000Z",
       "genres": [
-        "Action"
+        "Simulation"
       ],
       "country": "BO"
     },
     {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "id": "com.football.soccer.league",
+      "name": "Football League 2026",
+      "developer": "MOBILE SOCCER",
+      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "releaseDate": "2026-02-11T12:25:49.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "BO"
+    },
+    {
+      "id": "com.media720.games2020.two.player.offline.games",
+      "name": "2 Player Games Offline - 1234",
+      "developer": "Fun Offline Games",
+      "url": "https://play.google.com/store/apps/details?id=com.media720.games2020.two.player.offline.games&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/T39i7aWPxL0dlvVak3IXPV59qCQnVMFLNbU5ULEmPvkiKr6mmUle7bsL59VvxScAbQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T18:17:10.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "BO"
+    },
+    {
+      "id": "com.youmusic.magictiles",
+      "name": "Magic Tiles 3™ - Piano Game",
+      "developer": "AMANOTES PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T09:38:01.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "BO"
     },
@@ -1378,16 +1364,30 @@
       "country": "BO"
     },
     {
-      "id": "com.rolling.hop.dancing.cats.tiles.musicgames",
-      "name": "Dancing Cats 2: Music Games",
-      "developer": "Cobby Labs",
-      "url": "https://play.google.com/store/apps/details?id=com.rolling.hop.dancing.cats.tiles.musicgames&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/gT89HMPUb-VdmIe-7BQk78PHD859D28TGTdP8Nzm505cBFbVhegvEyfLWDz4jPe2yA",
+      "id": "com.vicenter.stickman.ragdoll.dismounting",
+      "name": "Ragdoll Turbo Dismount",
+      "developer": "Prime1 Lab LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.vicenter.stickman.ragdoll.dismounting&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/-m3LeDwTsdEWtSsc9cni1kIrJ2pneSoq6sNPw_23aJgmpIDGeLP1vqcVDp5Y9nfT6Q",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-13T08:44:54.000Z",
+      "releaseDate": "2025-12-17T09:05:42.000Z",
       "genres": [
-        "Music"
+        "Simulation"
+      ],
+      "country": "BO"
+    },
+    {
+      "id": "com.stickman.warriors.stickwarriors.dragon.shadow.fight",
+      "name": "Stickman Warriors",
+      "developer": "SkySoft Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.stickman.warriors.stickwarriors.dragon.shadow.fight&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/a2DozS4mRCoidrx6P_05X7uJlL0h192PzpYbeUNRA_4azyMyRUTemgDMKTFfita0Og",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T11:11:56.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "BO"
     },
