@@ -1,7 +1,7 @@
 {
   "country": "HK",
   "store": "google",
-  "updatedAt": "2026-02-20T09:48:24.478Z",
+  "updatedAt": "2026-02-20T19:53:54.643Z",
   "new": [
     {
       "id": "com.digitalextremes.warframemobile",
@@ -9,6 +9,18 @@
       "developer": "Digital Extremes",
       "url": "https://play.google.com/store/apps/details?id=com.digitalextremes.warframemobile",
       "artwork": "https://play-lh.googleusercontent.com/C2FSzPBDTKdDKAVmwCOr9CBvJ6j2toa_bfp8utKGbrWVAuDSHgeMdIzqWzK3rwRUyeY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
+      "id": "com.hxh.survivor",
+      "name": "HUNTER×HUNTER NEN×SURVIVOR",
+      "developer": "株式会社ブシロード",
+      "url": "https://play.google.com/store/apps/details?id=com.hxh.survivor",
+      "artwork": "https://play-lh.googleusercontent.com/7rZs7DNswLJDE1dcAdy-N56lZWOcSrHZNf1RB92oAgV29OzE6nnlL7RvOc5F50hAbSm1Ig_C0431NUQ0QxNUAUI",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -64,18 +76,6 @@
       "country": "HK"
     },
     {
-      "id": "com.hxh.survivor",
-      "name": "HUNTER×HUNTER NEN×SURVIVOR",
-      "developer": "株式会社ブシロード",
-      "url": "https://play.google.com/store/apps/details?id=com.hxh.survivor",
-      "artwork": "https://play-lh.googleusercontent.com/7rZs7DNswLJDE1dcAdy-N56lZWOcSrHZNf1RB92oAgV29OzE6nnlL7RvOc5F50hAbSm1Ig_C0431NUQ0QxNUAUI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
       "id": "com.roblox.client",
       "name": "Roblox",
       "developer": "Roblox Corporation",
@@ -88,11 +88,11 @@
       "country": "HK"
     },
     {
-      "id": "com.igg.android.doomsdaylastsurvivors",
-      "name": "Doomsday × Attack on Titan",
-      "developer": "IGG.COM",
-      "url": "https://play.google.com/store/apps/details?id=com.igg.android.doomsdaylastsurvivors",
-      "artwork": "https://play-lh.googleusercontent.com/wngGl0_berJUjFqtIfJmRRrMUWjx66_BfvT2IvWAGBRQQ0pKglMekxJ5n7CXYjmiWnMSHbWYZNOqvvMQUJxs",
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong",
+      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -100,11 +100,11 @@
       "country": "HK"
     },
     {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong",
-      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
+      "id": "com.igg.android.doomsdaylastsurvivors",
+      "name": "Doomsday × Attack on Titan",
+      "developer": "IGG.COM",
+      "url": "https://play.google.com/store/apps/details?id=com.igg.android.doomsdaylastsurvivors",
+      "artwork": "https://play-lh.googleusercontent.com/wngGl0_berJUjFqtIfJmRRrMUWjx66_BfvT2IvWAGBRQQ0pKglMekxJ5n7CXYjmiWnMSHbWYZNOqvvMQUJxs",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -148,18 +148,6 @@
       "country": "HK"
     },
     {
-      "id": "com.fooniemagus.doodiranch",
-      "name": "DoodiRanch",
-      "developer": "Foonie Magus Pte Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.fooniemagus.doodiranch",
-      "artwork": "https://play-lh.googleusercontent.com/BhpgreTSnotNxfOJAhRgjwkfJOZLr5wlOGtWIbRgPU4NmB2guJqT9icIViQegKLIzYfoNswleJPQhBgbB41-3g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
       "id": "com.nebula.mahjongtile",
       "name": "Mahjong Blast: Wonders",
       "developer": "Nebula  Studio",
@@ -196,6 +184,42 @@
       "country": "HK"
     },
     {
+      "id": "com.fooniemagus.doodiranch",
+      "name": "DoodiRanch",
+      "developer": "Foonie Magus Pte Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.fooniemagus.doodiranch",
+      "artwork": "https://play-lh.googleusercontent.com/BhpgreTSnotNxfOJAhRgjwkfJOZLr5wlOGtWIbRgPU4NmB2guJqT9icIViQegKLIzYfoNswleJPQhBgbB41-3g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
+      "id": "com.fatmerge.global",
+      "name": "Tasty Travels: Merge Game",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global",
+      "artwork": "https://play-lh.googleusercontent.com/eBK_Zz3fVbQFReaVyFJbj7VsJcUilWtdY6iEezlI5uULMPG_uLc6bTGgDR3uxrqKOlTI2HIefLl4R7khU13n6g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
+      "id": "com.fun.lastwar.gp",
+      "name": "Last War:Survival Game",
+      "developer": "FUNFLY PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp",
+      "artwork": "https://play-lh.googleusercontent.com/2sOxb_s3uan-AmiF_XRh_K2yqRrmVeuzHAqtYCrwrFP-s1u_FMKo1NtlPz0kdn0qQUH8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
       "id": "com.gof.global",
       "name": "Whiteout Survival",
       "developer": "Century Games PTE. LTD.",
@@ -220,35 +244,11 @@
       "country": "HK"
     },
     {
-      "id": "com.fun.lastwar.gp",
-      "name": "Last War:Survival Game",
-      "developer": "FUNFLY PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp",
-      "artwork": "https://play-lh.googleusercontent.com/2sOxb_s3uan-AmiF_XRh_K2yqRrmVeuzHAqtYCrwrFP-s1u_FMKo1NtlPz0kdn0qQUH8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
       "id": "tw.sonet.magiaexedra",
       "name": "魔法少女小圓 Magia Exedra",
       "developer": "SO-NET ENTERTAINMENT TAIWAN LIMITED",
       "url": "https://play.google.com/store/apps/details?id=tw.sonet.magiaexedra",
       "artwork": "https://play-lh.googleusercontent.com/aCdwcnQx71qiSx5XF0zer3NyAj99BbwUlK2mogwuo4KGMKQ7LPbbMm4UxZsAjNQUuGAid38vY7a_XzO4iHHd",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
-      "id": "com.fatmerge.global",
-      "name": "Tasty Travels: Merge Game",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global",
-      "artwork": "https://play-lh.googleusercontent.com/eBK_Zz3fVbQFReaVyFJbj7VsJcUilWtdY6iEezlI5uULMPG_uLc6bTGgDR3uxrqKOlTI2HIefLl4R7khU13n6g",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -268,35 +268,11 @@
       "country": "HK"
     },
     {
-      "id": "com.netease.eggypartyhmt",
-      "name": "蛋仔派對",
-      "developer": "EnvoyGames",
-      "url": "https://play.google.com/store/apps/details?id=com.netease.eggypartyhmt",
-      "artwork": "https://play-lh.googleusercontent.com/sRPGpxFSw-2b4OUSlmxIktSq0MsEmcnGCkntFhPDM9uodHhKKd7a-jRdPcR6ayvpx85tl8cNJ6iuNk7h1sftOg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
-      "id": "com.rolling.hop.dancing.cats.tiles.musicgames",
-      "name": "Dancing Cats 2: Music Games",
-      "developer": "Cobby Labs",
-      "url": "https://play.google.com/store/apps/details?id=com.rolling.hop.dancing.cats.tiles.musicgames",
-      "artwork": "https://play-lh.googleusercontent.com/gT89HMPUb-VdmIe-7BQk78PHD859D28TGTdP8Nzm505cBFbVhegvEyfLWDz4jPe2yA",
+      "id": "com.mergegames.gossipharbor",
+      "name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor",
+      "artwork": "https://play-lh.googleusercontent.com/xVIGbuFosD3kQ4D9iyRQGFjEy5stL8NODkfdeZ-o73q-APh-XKaHo2nMseGc1FeB138H3TeEoI0ew9Wca5-iJA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -316,6 +292,18 @@
       "country": "HK"
     },
     {
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
       "id": "com.youmusic.magictiles",
       "name": "Magic Tiles 3™ - Piano Game",
       "developer": "AMANOTES PTE. LTD.",
@@ -328,11 +316,11 @@
       "country": "HK"
     },
     {
-      "id": "com.mergegames.gossipharbor",
-      "name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor",
-      "artwork": "https://play-lh.googleusercontent.com/xVIGbuFosD3kQ4D9iyRQGFjEy5stL8NODkfdeZ-o73q-APh-XKaHo2nMseGc1FeB138H3TeEoI0ew9Wca5-iJA",
+      "id": "com.rolling.hop.dancing.cats.tiles.musicgames",
+      "name": "Dancing Cats 2: Music Games",
+      "developer": "Cobby Labs",
+      "url": "https://play.google.com/store/apps/details?id=com.rolling.hop.dancing.cats.tiles.musicgames",
+      "artwork": "https://play-lh.googleusercontent.com/gT89HMPUb-VdmIe-7BQk78PHD859D28TGTdP8Nzm505cBFbVhegvEyfLWDz4jPe2yA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -340,11 +328,11 @@
       "country": "HK"
     },
     {
-      "id": "io.voodoo.holeio",
-      "name": "Hole.io",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio",
-      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "id": "com.netease.eggypartyhmt",
+      "name": "蛋仔派對",
+      "developer": "EnvoyGames",
+      "url": "https://play.google.com/store/apps/details?id=com.netease.eggypartyhmt",
+      "artwork": "https://play-lh.googleusercontent.com/sRPGpxFSw-2b4OUSlmxIktSq0MsEmcnGCkntFhPDM9uodHhKKd7a-jRdPcR6ayvpx85tl8cNJ6iuNk7h1sftOg",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -357,6 +345,18 @@
       "developer": "Youyoutang Technology",
       "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android",
       "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -388,18 +388,6 @@
       "country": "HK"
     },
     {
-      "id": "cats.tap.dacing.games.free",
-      "name": "Cat Beats - Tiles Music Games",
-      "developer": "Runyou",
-      "url": "https://play.google.com/store/apps/details?id=cats.tap.dacing.games.free",
-      "artwork": "https://play-lh.googleusercontent.com/Q9mZ5_QBvUcQM_xKmtVKdcsa-i8ooDI26bda_sgt8y6ZYaLlTBU-QZzP6WXUU8EQwN36CkVXjyZkRYHzkonT",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
       "id": "com.xman.tw.gp",
       "name": "超能戰爭",
       "developer": "Glaciers Game",
@@ -424,11 +412,11 @@
       "country": "HK"
     },
     {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
-      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
+      "id": "cats.tap.dacing.games.free",
+      "name": "Cat Beats - Tiles Music Games",
+      "developer": "Runyou",
+      "url": "https://play.google.com/store/apps/details?id=cats.tap.dacing.games.free",
+      "artwork": "https://play-lh.googleusercontent.com/Q9mZ5_QBvUcQM_xKmtVKdcsa-i8ooDI26bda_sgt8y6ZYaLlTBU-QZzP6WXUU8EQwN36CkVXjyZkRYHzkonT",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -436,11 +424,11 @@
       "country": "HK"
     },
     {
-      "id": "com.levelinfinite.sgameGlobal",
-      "name": "Honor of Kings",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal",
-      "artwork": "https://play-lh.googleusercontent.com/hEm5NVeEv7UfFJaK8GZdfWe7p3DB_VvYx57qIEHbR0tMV_NToziH0Vbgd6CxLiWF-iURpAe-jsC_UGUDt0diPQ",
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -460,11 +448,11 @@
       "country": "HK"
     },
     {
-      "id": "com.gdapp.mjlafree",
-      "name": "Let's Mahjong in 70's HK Style",
-      "developer": "Greenery",
-      "url": "https://play.google.com/store/apps/details?id=com.gdapp.mjlafree",
-      "artwork": "https://play-lh.googleusercontent.com/gcB1EDpqJkHDvqgvAXFC1fakGz7O7NFuCKtc9AEubk_6B2V-XcPJmFHV4wFkztNoLw",
+      "id": "com.levelinfinite.sgameGlobal",
+      "name": "Honor of Kings",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal",
+      "artwork": "https://play-lh.googleusercontent.com/hEm5NVeEv7UfFJaK8GZdfWe7p3DB_VvYx57qIEHbR0tMV_NToziH0Vbgd6CxLiWF-iURpAe-jsC_UGUDt0diPQ",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -484,35 +472,23 @@
       "country": "HK"
     },
     {
+      "id": "com.gdapp.mjlafree",
+      "name": "Let's Mahjong in 70's HK Style",
+      "developer": "Greenery",
+      "url": "https://play.google.com/store/apps/details?id=com.gdapp.mjlafree",
+      "artwork": "https://play-lh.googleusercontent.com/gcB1EDpqJkHDvqgvAXFC1fakGz7O7NFuCKtc9AEubk_6B2V-XcPJmFHV4wFkztNoLw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
       "id": "com.proxima.dfm",
       "name": "Delta Force",
       "developer": "Level Infinite",
       "url": "https://play.google.com/store/apps/details?id=com.proxima.dfm",
       "artwork": "https://play-lh.googleusercontent.com/oLgL7u-F5_q_gdqiPgtQbEZZk-0Mmn6fGP15VbwHiNO3lIcpsc_RzDYhUG8XynBxltU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
-      "id": "com.xd.xdtglobal.gp",
-      "name": "Heartopia",
-      "developer": "XD Entertainment Co., Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.xd.xdtglobal.gp",
-      "artwork": "https://play-lh.googleusercontent.com/FtZNAkKn4faEpRU4UjtRRUk-aQP5zwiN1Kg4FzAcQBN7S8-PfDo7ODxmjaPlMu3HOFJ6-1WhzXxwKA6q1bOw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
-      "id": "com.brain.logic.joygame",
-      "name": "Brain Puzzle 2: Logic Twist",
-      "developer": "JoyGame Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.brain.logic.joygame",
-      "artwork": "https://play-lh.googleusercontent.com/q19v_2ZYEOdWOt6ABAVCl10zHrft5qkChjAwxtByGKxJxE3gNULQGf3BwsCYVJk4Jbhf",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -532,11 +508,11 @@
       "country": "HK"
     },
     {
-      "id": "com.gryphline.endfield.gp",
-      "name": "Arknights: Endfield",
-      "developer": "GRYPHLINE",
-      "url": "https://play.google.com/store/apps/details?id=com.gryphline.endfield.gp",
-      "artwork": "https://play-lh.googleusercontent.com/l6FVNa293RykBWy88TqEhUakIcGSC8bRygSnKOBgztln48JX-WzMWnrBAETrKZsxDNC4HhwCsvfle_UI7rBE",
+      "id": "com.brain.logic.joygame",
+      "name": "Brain Puzzle 2: Logic Twist",
+      "developer": "JoyGame Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.brain.logic.joygame",
+      "artwork": "https://play-lh.googleusercontent.com/q19v_2ZYEOdWOt6ABAVCl10zHrft5qkChjAwxtByGKxJxE3gNULQGf3BwsCYVJk4Jbhf",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -556,6 +532,30 @@
       "country": "HK"
     },
     {
+      "id": "com.gryphline.endfield.gp",
+      "name": "Arknights: Endfield",
+      "developer": "GRYPHLINE",
+      "url": "https://play.google.com/store/apps/details?id=com.gryphline.endfield.gp",
+      "artwork": "https://play-lh.googleusercontent.com/l6FVNa293RykBWy88TqEhUakIcGSC8bRygSnKOBgztln48JX-WzMWnrBAETrKZsxDNC4HhwCsvfle_UI7rBE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
+      "id": "com.xd.xdtglobal.gp",
+      "name": "Heartopia",
+      "developer": "XD Entertainment Co., Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.xd.xdtglobal.gp",
+      "artwork": "https://play-lh.googleusercontent.com/FtZNAkKn4faEpRU4UjtRRUk-aQP5zwiN1Kg4FzAcQBN7S8-PfDo7ODxmjaPlMu3HOFJ6-1WhzXxwKA6q1bOw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
       "id": "com.game.supernaturalsquad",
       "name": "Tomb Busters",
       "developer": "Giant Game",
@@ -568,11 +568,11 @@
       "country": "HK"
     },
     {
-      "id": "com.supercell.brawlstars",
-      "name": "Brawl Stars",
-      "developer": "Supercell",
-      "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
-      "artwork": "https://play-lh.googleusercontent.com/tYB_jWhdJuauLSPJ7LVj_5dUq6g_eQwj2wPNG9jFN78zKbDqMNfnEU2fUGiDQtYAy0yHn4SMnaF0lhanJpm0",
+      "id": "com.funfizz.palmon.gp",
+      "name": "Palmon: Survival",
+      "developer": "LILITH TECHNOLOGY HONG KONG LIMITED",
+      "url": "https://play.google.com/store/apps/details?id=com.funfizz.palmon.gp",
+      "artwork": "https://play-lh.googleusercontent.com/xVXBoNLrYaXKICCaVkIuTMePhoYd9UcBAxEWxqn93od36tmAkzrnq0CteBRkwUr2rHs",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -592,11 +592,11 @@
       "country": "HK"
     },
     {
-      "id": "easy.sudoku.puzzle.solver.free",
-      "name": "Sudoku - Classic Sudoku Puzzle",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=easy.sudoku.puzzle.solver.free",
-      "artwork": "https://play-lh.googleusercontent.com/hYLElG0RAgn60XE6cfgsPPW_JB63PEVWvDtvhipAGvTpxBX5YgLGt3UXvnJ_kRwKhnE",
+      "id": "com.neowizgames.game.browndust2",
+      "name": "BrownDust2 - Full Burst RPG",
+      "developer": "NEOWIZ",
+      "url": "https://play.google.com/store/apps/details?id=com.neowizgames.game.browndust2",
+      "artwork": "https://play-lh.googleusercontent.com/53m__YR_K7NkKwolTgHfdkX0CNtWzLFrCHDtZ-bAuwDxuWZy2CBcAIDneLCI5IlUITpPpEccbrlHkNEaIZAa4g",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -618,6 +618,18 @@
       "country": "HK"
     },
     {
+      "id": "com.hxh.survivor",
+      "name": "HUNTER×HUNTER NEN×SURVIVOR",
+      "developer": "株式会社ブシロード",
+      "url": "https://play.google.com/store/apps/details?id=com.hxh.survivor",
+      "artwork": "https://play-lh.googleusercontent.com/7rZs7DNswLJDE1dcAdy-N56lZWOcSrHZNf1RB92oAgV29OzE6nnlL7RvOc5F50hAbSm1Ig_C0431NUQ0QxNUAUI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
       "id": "com.block.juggle",
       "name": "Block Blast!",
       "developer": "HungryStudio",
@@ -666,18 +678,6 @@
       "country": "HK"
     },
     {
-      "id": "com.hxh.survivor",
-      "name": "HUNTER×HUNTER NEN×SURVIVOR",
-      "developer": "株式会社ブシロード",
-      "url": "https://play.google.com/store/apps/details?id=com.hxh.survivor",
-      "artwork": "https://play-lh.googleusercontent.com/7rZs7DNswLJDE1dcAdy-N56lZWOcSrHZNf1RB92oAgV29OzE6nnlL7RvOc5F50hAbSm1Ig_C0431NUQ0QxNUAUI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
       "id": "com.roblox.client",
       "name": "Roblox",
       "developer": "Roblox Corporation",
@@ -690,11 +690,11 @@
       "country": "HK"
     },
     {
-      "id": "com.igg.android.doomsdaylastsurvivors",
-      "name": "Doomsday × Attack on Titan",
-      "developer": "IGG.COM",
-      "url": "https://play.google.com/store/apps/details?id=com.igg.android.doomsdaylastsurvivors",
-      "artwork": "https://play-lh.googleusercontent.com/wngGl0_berJUjFqtIfJmRRrMUWjx66_BfvT2IvWAGBRQQ0pKglMekxJ5n7CXYjmiWnMSHbWYZNOqvvMQUJxs",
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong",
+      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -702,11 +702,11 @@
       "country": "HK"
     },
     {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong",
-      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
+      "id": "com.igg.android.doomsdaylastsurvivors",
+      "name": "Doomsday × Attack on Titan",
+      "developer": "IGG.COM",
+      "url": "https://play.google.com/store/apps/details?id=com.igg.android.doomsdaylastsurvivors",
+      "artwork": "https://play-lh.googleusercontent.com/wngGl0_berJUjFqtIfJmRRrMUWjx66_BfvT2IvWAGBRQQ0pKglMekxJ5n7CXYjmiWnMSHbWYZNOqvvMQUJxs",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -750,18 +750,6 @@
       "country": "HK"
     },
     {
-      "id": "com.fooniemagus.doodiranch",
-      "name": "DoodiRanch",
-      "developer": "Foonie Magus Pte Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.fooniemagus.doodiranch",
-      "artwork": "https://play-lh.googleusercontent.com/BhpgreTSnotNxfOJAhRgjwkfJOZLr5wlOGtWIbRgPU4NmB2guJqT9icIViQegKLIzYfoNswleJPQhBgbB41-3g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
       "id": "com.nebula.mahjongtile",
       "name": "Mahjong Blast: Wonders",
       "developer": "Nebula  Studio",
@@ -798,6 +786,42 @@
       "country": "HK"
     },
     {
+      "id": "com.fooniemagus.doodiranch",
+      "name": "DoodiRanch",
+      "developer": "Foonie Magus Pte Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.fooniemagus.doodiranch",
+      "artwork": "https://play-lh.googleusercontent.com/BhpgreTSnotNxfOJAhRgjwkfJOZLr5wlOGtWIbRgPU4NmB2guJqT9icIViQegKLIzYfoNswleJPQhBgbB41-3g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
+      "id": "com.fatmerge.global",
+      "name": "Tasty Travels: Merge Game",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global",
+      "artwork": "https://play-lh.googleusercontent.com/eBK_Zz3fVbQFReaVyFJbj7VsJcUilWtdY6iEezlI5uULMPG_uLc6bTGgDR3uxrqKOlTI2HIefLl4R7khU13n6g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
+      "id": "com.fun.lastwar.gp",
+      "name": "Last War:Survival Game",
+      "developer": "FUNFLY PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp",
+      "artwork": "https://play-lh.googleusercontent.com/2sOxb_s3uan-AmiF_XRh_K2yqRrmVeuzHAqtYCrwrFP-s1u_FMKo1NtlPz0kdn0qQUH8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
       "id": "com.gof.global",
       "name": "Whiteout Survival",
       "developer": "Century Games PTE. LTD.",
@@ -822,35 +846,11 @@
       "country": "HK"
     },
     {
-      "id": "com.fun.lastwar.gp",
-      "name": "Last War:Survival Game",
-      "developer": "FUNFLY PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp",
-      "artwork": "https://play-lh.googleusercontent.com/2sOxb_s3uan-AmiF_XRh_K2yqRrmVeuzHAqtYCrwrFP-s1u_FMKo1NtlPz0kdn0qQUH8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
       "id": "tw.sonet.magiaexedra",
       "name": "魔法少女小圓 Magia Exedra",
       "developer": "SO-NET ENTERTAINMENT TAIWAN LIMITED",
       "url": "https://play.google.com/store/apps/details?id=tw.sonet.magiaexedra",
       "artwork": "https://play-lh.googleusercontent.com/aCdwcnQx71qiSx5XF0zer3NyAj99BbwUlK2mogwuo4KGMKQ7LPbbMm4UxZsAjNQUuGAid38vY7a_XzO4iHHd",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
-      "id": "com.fatmerge.global",
-      "name": "Tasty Travels: Merge Game",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global",
-      "artwork": "https://play-lh.googleusercontent.com/eBK_Zz3fVbQFReaVyFJbj7VsJcUilWtdY6iEezlI5uULMPG_uLc6bTGgDR3uxrqKOlTI2HIefLl4R7khU13n6g",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -870,35 +870,11 @@
       "country": "HK"
     },
     {
-      "id": "com.netease.eggypartyhmt",
-      "name": "蛋仔派對",
-      "developer": "EnvoyGames",
-      "url": "https://play.google.com/store/apps/details?id=com.netease.eggypartyhmt",
-      "artwork": "https://play-lh.googleusercontent.com/sRPGpxFSw-2b4OUSlmxIktSq0MsEmcnGCkntFhPDM9uodHhKKd7a-jRdPcR6ayvpx85tl8cNJ6iuNk7h1sftOg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
-      "id": "com.rolling.hop.dancing.cats.tiles.musicgames",
-      "name": "Dancing Cats 2: Music Games",
-      "developer": "Cobby Labs",
-      "url": "https://play.google.com/store/apps/details?id=com.rolling.hop.dancing.cats.tiles.musicgames",
-      "artwork": "https://play-lh.googleusercontent.com/gT89HMPUb-VdmIe-7BQk78PHD859D28TGTdP8Nzm505cBFbVhegvEyfLWDz4jPe2yA",
+      "id": "com.mergegames.gossipharbor",
+      "name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor",
+      "artwork": "https://play-lh.googleusercontent.com/xVIGbuFosD3kQ4D9iyRQGFjEy5stL8NODkfdeZ-o73q-APh-XKaHo2nMseGc1FeB138H3TeEoI0ew9Wca5-iJA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -918,6 +894,18 @@
       "country": "HK"
     },
     {
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
       "id": "com.youmusic.magictiles",
       "name": "Magic Tiles 3™ - Piano Game",
       "developer": "AMANOTES PTE. LTD.",
@@ -930,11 +918,11 @@
       "country": "HK"
     },
     {
-      "id": "com.mergegames.gossipharbor",
-      "name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor",
-      "artwork": "https://play-lh.googleusercontent.com/xVIGbuFosD3kQ4D9iyRQGFjEy5stL8NODkfdeZ-o73q-APh-XKaHo2nMseGc1FeB138H3TeEoI0ew9Wca5-iJA",
+      "id": "com.rolling.hop.dancing.cats.tiles.musicgames",
+      "name": "Dancing Cats 2: Music Games",
+      "developer": "Cobby Labs",
+      "url": "https://play.google.com/store/apps/details?id=com.rolling.hop.dancing.cats.tiles.musicgames",
+      "artwork": "https://play-lh.googleusercontent.com/gT89HMPUb-VdmIe-7BQk78PHD859D28TGTdP8Nzm505cBFbVhegvEyfLWDz4jPe2yA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -942,11 +930,11 @@
       "country": "HK"
     },
     {
-      "id": "io.voodoo.holeio",
-      "name": "Hole.io",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio",
-      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "id": "com.netease.eggypartyhmt",
+      "name": "蛋仔派對",
+      "developer": "EnvoyGames",
+      "url": "https://play.google.com/store/apps/details?id=com.netease.eggypartyhmt",
+      "artwork": "https://play-lh.googleusercontent.com/sRPGpxFSw-2b4OUSlmxIktSq0MsEmcnGCkntFhPDM9uodHhKKd7a-jRdPcR6ayvpx85tl8cNJ6iuNk7h1sftOg",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -959,6 +947,18 @@
       "developer": "Youyoutang Technology",
       "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android",
       "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -990,18 +990,6 @@
       "country": "HK"
     },
     {
-      "id": "cats.tap.dacing.games.free",
-      "name": "Cat Beats - Tiles Music Games",
-      "developer": "Runyou",
-      "url": "https://play.google.com/store/apps/details?id=cats.tap.dacing.games.free",
-      "artwork": "https://play-lh.googleusercontent.com/Q9mZ5_QBvUcQM_xKmtVKdcsa-i8ooDI26bda_sgt8y6ZYaLlTBU-QZzP6WXUU8EQwN36CkVXjyZkRYHzkonT",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
       "id": "com.xman.tw.gp",
       "name": "超能戰爭",
       "developer": "Glaciers Game",
@@ -1026,11 +1014,11 @@
       "country": "HK"
     },
     {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
-      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
+      "id": "cats.tap.dacing.games.free",
+      "name": "Cat Beats - Tiles Music Games",
+      "developer": "Runyou",
+      "url": "https://play.google.com/store/apps/details?id=cats.tap.dacing.games.free",
+      "artwork": "https://play-lh.googleusercontent.com/Q9mZ5_QBvUcQM_xKmtVKdcsa-i8ooDI26bda_sgt8y6ZYaLlTBU-QZzP6WXUU8EQwN36CkVXjyZkRYHzkonT",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1038,11 +1026,11 @@
       "country": "HK"
     },
     {
-      "id": "com.levelinfinite.sgameGlobal",
-      "name": "Honor of Kings",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal",
-      "artwork": "https://play-lh.googleusercontent.com/hEm5NVeEv7UfFJaK8GZdfWe7p3DB_VvYx57qIEHbR0tMV_NToziH0Vbgd6CxLiWF-iURpAe-jsC_UGUDt0diPQ",
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1062,11 +1050,11 @@
       "country": "HK"
     },
     {
-      "id": "com.gdapp.mjlafree",
-      "name": "Let's Mahjong in 70's HK Style",
-      "developer": "Greenery",
-      "url": "https://play.google.com/store/apps/details?id=com.gdapp.mjlafree",
-      "artwork": "https://play-lh.googleusercontent.com/gcB1EDpqJkHDvqgvAXFC1fakGz7O7NFuCKtc9AEubk_6B2V-XcPJmFHV4wFkztNoLw",
+      "id": "com.levelinfinite.sgameGlobal",
+      "name": "Honor of Kings",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal",
+      "artwork": "https://play-lh.googleusercontent.com/hEm5NVeEv7UfFJaK8GZdfWe7p3DB_VvYx57qIEHbR0tMV_NToziH0Vbgd6CxLiWF-iURpAe-jsC_UGUDt0diPQ",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1086,35 +1074,23 @@
       "country": "HK"
     },
     {
+      "id": "com.gdapp.mjlafree",
+      "name": "Let's Mahjong in 70's HK Style",
+      "developer": "Greenery",
+      "url": "https://play.google.com/store/apps/details?id=com.gdapp.mjlafree",
+      "artwork": "https://play-lh.googleusercontent.com/gcB1EDpqJkHDvqgvAXFC1fakGz7O7NFuCKtc9AEubk_6B2V-XcPJmFHV4wFkztNoLw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
       "id": "com.proxima.dfm",
       "name": "Delta Force",
       "developer": "Level Infinite",
       "url": "https://play.google.com/store/apps/details?id=com.proxima.dfm",
       "artwork": "https://play-lh.googleusercontent.com/oLgL7u-F5_q_gdqiPgtQbEZZk-0Mmn6fGP15VbwHiNO3lIcpsc_RzDYhUG8XynBxltU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
-      "id": "com.xd.xdtglobal.gp",
-      "name": "Heartopia",
-      "developer": "XD Entertainment Co., Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.xd.xdtglobal.gp",
-      "artwork": "https://play-lh.googleusercontent.com/FtZNAkKn4faEpRU4UjtRRUk-aQP5zwiN1Kg4FzAcQBN7S8-PfDo7ODxmjaPlMu3HOFJ6-1WhzXxwKA6q1bOw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "HK"
-    },
-    {
-      "id": "com.brain.logic.joygame",
-      "name": "Brain Puzzle 2: Logic Twist",
-      "developer": "JoyGame Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.brain.logic.joygame",
-      "artwork": "https://play-lh.googleusercontent.com/q19v_2ZYEOdWOt6ABAVCl10zHrft5qkChjAwxtByGKxJxE3gNULQGf3BwsCYVJk4Jbhf",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1134,11 +1110,11 @@
       "country": "HK"
     },
     {
-      "id": "com.gryphline.endfield.gp",
-      "name": "Arknights: Endfield",
-      "developer": "GRYPHLINE",
-      "url": "https://play.google.com/store/apps/details?id=com.gryphline.endfield.gp",
-      "artwork": "https://play-lh.googleusercontent.com/l6FVNa293RykBWy88TqEhUakIcGSC8bRygSnKOBgztln48JX-WzMWnrBAETrKZsxDNC4HhwCsvfle_UI7rBE",
+      "id": "com.brain.logic.joygame",
+      "name": "Brain Puzzle 2: Logic Twist",
+      "developer": "JoyGame Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.brain.logic.joygame",
+      "artwork": "https://play-lh.googleusercontent.com/q19v_2ZYEOdWOt6ABAVCl10zHrft5qkChjAwxtByGKxJxE3gNULQGf3BwsCYVJk4Jbhf",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1158,6 +1134,30 @@
       "country": "HK"
     },
     {
+      "id": "com.gryphline.endfield.gp",
+      "name": "Arknights: Endfield",
+      "developer": "GRYPHLINE",
+      "url": "https://play.google.com/store/apps/details?id=com.gryphline.endfield.gp",
+      "artwork": "https://play-lh.googleusercontent.com/l6FVNa293RykBWy88TqEhUakIcGSC8bRygSnKOBgztln48JX-WzMWnrBAETrKZsxDNC4HhwCsvfle_UI7rBE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
+      "id": "com.xd.xdtglobal.gp",
+      "name": "Heartopia",
+      "developer": "XD Entertainment Co., Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.xd.xdtglobal.gp",
+      "artwork": "https://play-lh.googleusercontent.com/FtZNAkKn4faEpRU4UjtRRUk-aQP5zwiN1Kg4FzAcQBN7S8-PfDo7ODxmjaPlMu3HOFJ6-1WhzXxwKA6q1bOw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "HK"
+    },
+    {
       "id": "com.game.supernaturalsquad",
       "name": "Tomb Busters",
       "developer": "Giant Game",
@@ -1170,11 +1170,11 @@
       "country": "HK"
     },
     {
-      "id": "com.supercell.brawlstars",
-      "name": "Brawl Stars",
-      "developer": "Supercell",
-      "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
-      "artwork": "https://play-lh.googleusercontent.com/tYB_jWhdJuauLSPJ7LVj_5dUq6g_eQwj2wPNG9jFN78zKbDqMNfnEU2fUGiDQtYAy0yHn4SMnaF0lhanJpm0",
+      "id": "com.funfizz.palmon.gp",
+      "name": "Palmon: Survival",
+      "developer": "LILITH TECHNOLOGY HONG KONG LIMITED",
+      "url": "https://play.google.com/store/apps/details?id=com.funfizz.palmon.gp",
+      "artwork": "https://play-lh.googleusercontent.com/xVXBoNLrYaXKICCaVkIuTMePhoYd9UcBAxEWxqn93od36tmAkzrnq0CteBRkwUr2rHs",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1194,11 +1194,11 @@
       "country": "HK"
     },
     {
-      "id": "easy.sudoku.puzzle.solver.free",
-      "name": "Sudoku - Classic Sudoku Puzzle",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=easy.sudoku.puzzle.solver.free",
-      "artwork": "https://play-lh.googleusercontent.com/hYLElG0RAgn60XE6cfgsPPW_JB63PEVWvDtvhipAGvTpxBX5YgLGt3UXvnJ_kRwKhnE",
+      "id": "com.neowizgames.game.browndust2",
+      "name": "BrownDust2 - Full Burst RPG",
+      "developer": "NEOWIZ",
+      "url": "https://play.google.com/store/apps/details?id=com.neowizgames.game.browndust2",
+      "artwork": "https://play-lh.googleusercontent.com/53m__YR_K7NkKwolTgHfdkX0CNtWzLFrCHDtZ-bAuwDxuWZy2CBcAIDneLCI5IlUITpPpEccbrlHkNEaIZAa4g",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
