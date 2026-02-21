@@ -1,8 +1,22 @@
 {
   "country": "BD",
   "store": "google",
-  "updatedAt": "2026-02-21T17:47:06.910Z",
+  "updatedAt": "2026-02-21T23:50:35.436Z",
   "new": [
+    {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T19:40:10.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "BD"
+    },
     {
       "id": "com.openmygame.games.android.jigsaw.solitaire.puzzle",
       "name": "Cardscapes: Jigsaw Puzzle",
@@ -116,6 +130,20 @@
       "country": "BD"
     },
     {
+      "id": "com.sg.wedding.dressup.makeup.games",
+      "name": "Fashion Makeover Wedding Games",
+      "developer": "Play Wizard",
+      "url": "https://play.google.com/store/apps/details?id=com.sg.wedding.dressup.makeup.games&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/SGW_gJvCKeaPoXeq1zsO8QtohzaR2I7b2ovqebw9Jc-McsNem1Vh2cP2n3VrFwMOmzY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T12:13:04.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "BD"
+    },
+    {
       "id": "com.creations.runnergame",
       "name": "Kooply Run™: Play and Create!",
       "developer": "KOOPLY",
@@ -126,20 +154,6 @@
       "releaseDate": "2026-02-18T05:40:23.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "BD"
-    },
-    {
-      "id": "com.rabarain.esmastery",
-      "name": "KG999Brain Mastery",
-      "developer": "Sopdap",
-      "url": "https://play.google.com/store/apps/details?id=com.rabarain.esmastery&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/iHSZPAoXRWXaESbbOR-wurb1F13Rz9rKqv4_m8Vxud7XKEm-bAS9STrVEycKswzrfnkDVdMwHGwwH7gBDtWi2Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T15:48:11.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "BD"
     },
@@ -336,20 +350,6 @@
       "releaseDate": "2026-02-13T02:20:54.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "BD"
-    },
-    {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T17:29:32.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "BD"
     },
@@ -706,20 +706,6 @@
   ],
   "updated": [
     {
-      "id": "com.dts.freefireth",
-      "name": "Free Fire: Lost Treasure",
-      "developer": "GARENA INTERNATIONAL I",
-      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/VxqoBX9loIqsESn5OPhXDLLYw8YFAlLJX3TJUb7ovyIQdRRWwGuG3jD9konTZAeWzd8VlVTDt8fkJ8BAEU4ZHQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T06:43:26.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "BD"
-    },
-    {
       "id": "com.ludo.king",
       "name": "Ludo King®",
       "developer": "Gametion",
@@ -730,6 +716,20 @@
       "releaseDate": "2026-02-13T09:46:13.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "BD"
+    },
+    {
+      "id": "com.dts.freefireth",
+      "name": "Free Fire: Lost Treasure",
+      "developer": "GARENA INTERNATIONAL I",
+      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/VxqoBX9loIqsESn5OPhXDLLYw8YFAlLJX3TJUb7ovyIQdRRWwGuG3jD9konTZAeWzd8VlVTDt8fkJ8BAEU4ZHQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T06:43:26.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "BD"
     },
@@ -776,20 +776,6 @@
       "country": "BD"
     },
     {
-      "id": "com.imangi.templerun2",
-      "name": "Temple Run 2: Endless Escape",
-      "developer": "Imangi Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T14:25:25.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "BD"
-    },
-    {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -804,20 +790,6 @@
       "country": "BD"
     },
     {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "BD"
-    },
-    {
       "id": "com.miniclip.cricketleague",
       "name": "Cricket League: Multiplayer",
       "developer": "Miniclip.com",
@@ -828,6 +800,34 @@
       "releaseDate": "2025-11-26T14:49:52.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "BD"
+    },
+    {
+      "id": "com.imangi.templerun2",
+      "name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T14:25:25.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "BD"
+    },
+    {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "BD"
     },
@@ -860,20 +860,6 @@
       "country": "BD"
     },
     {
-      "id": "com.openmygame.games.android.jigsaw.solitaire.puzzle",
-      "name": "Cardscapes: Jigsaw Puzzle",
-      "developer": "Malpa Games",
-      "url": "https://play.google.com/store/apps/details?id=com.openmygame.games.android.jigsaw.solitaire.puzzle&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/vf8KzfHG1J7oCp9O-FoSNKMc-Gzjnhw4_7su1RsB4pdF6JARn3vy-xqhwqyj3nowJmdrN-HI0dHfg5vnMJc_ro8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T16:43:57.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "BD"
-    },
-    {
       "id": "com.wildspike.wormszone",
       "name": "Worms Zone .io - Hungry Snake",
       "developer": "CASUAL AZUR GAMES",
@@ -884,6 +870,20 @@
       "releaseDate": "2026-02-10T11:39:50.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "BD"
+    },
+    {
+      "id": "com.openmygame.games.android.jigsaw.solitaire.puzzle",
+      "name": "Cardscapes: Jigsaw Puzzle",
+      "developer": "Malpa Games",
+      "url": "https://play.google.com/store/apps/details?id=com.openmygame.games.android.jigsaw.solitaire.puzzle&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/vf8KzfHG1J7oCp9O-FoSNKMc-Gzjnhw4_7su1RsB4pdF6JARn3vy-xqhwqyj3nowJmdrN-HI0dHfg5vnMJc_ro8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T16:43:57.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "BD"
     },
@@ -916,6 +916,20 @@
       "country": "BD"
     },
     {
+      "id": "com.vincentb.MobControl",
+      "name": "Mob Control",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T11:45:44.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "BD"
+    },
+    {
       "id": "com.bubbleshooter.popbubbles.collectcards",
       "name": "Bubble Shooter",
       "developer": "IVYGAMES",
@@ -944,20 +958,6 @@
       "country": "BD"
     },
     {
-      "id": "com.fingersoft.hillclimb",
-      "name": "Hill Climb Racing",
-      "developer": "Fingersoft",
-      "url": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/N0UxhBVUmx8s7y3F7Kqre2AcpXyPDKAp8nHjiPPoOONc_sfugHCYMjBpbUKCMlK_XUs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T07:31:13.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "BD"
-    },
-    {
       "id": "com.outfit7.mytalkingtom2",
       "name": "My Talking Tom 2",
       "developer": "Outfit7 Limited",
@@ -968,6 +968,20 @@
       "releaseDate": "2026-02-20T11:25:29.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "BD"
+    },
+    {
+      "id": "com.fingersoft.hillclimb",
+      "name": "Hill Climb Racing",
+      "developer": "Fingersoft",
+      "url": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/N0UxhBVUmx8s7y3F7Kqre2AcpXyPDKAp8nHjiPPoOONc_sfugHCYMjBpbUKCMlK_XUs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T07:31:13.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "BD"
     },
@@ -986,20 +1000,6 @@
       "country": "BD"
     },
     {
-      "id": "com.vincentb.MobControl",
-      "name": "Mob Control",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T11:45:44.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "BD"
-    },
-    {
       "id": "com.maleo.bussimulatorid",
       "name": "Bus Simulator Indonesia",
       "developer": "Maleo",
@@ -1008,6 +1008,34 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2025-08-13T02:16:23.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "BD"
+    },
+    {
+      "id": "com.tencent.ig",
+      "name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-29T01:31:07.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "BD"
+    },
+    {
+      "id": "com.xgame.VehicleDriving3D",
+      "name": "Real Driving: Vehicle & Park",
+      "developer": "XGAME STUDIO",
+      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T06:55:58.000Z",
       "genres": [
         "Simulation"
       ],
@@ -1070,16 +1098,16 @@
       "country": "BD"
     },
     {
-      "id": "com.tencent.ig",
-      "name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
+      "id": "com.carrace2.master3d.racing",
+      "name": "Car Racing Master 3D",
+      "developer": "Monster Game Studio - OneSoft",
+      "url": "https://play.google.com/store/apps/details?id=com.carrace2.master3d.racing&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/BlzC2CsO8qhpfdtWZ3Ql1Zg53PwuNZjZA0kT7UivsEdKi0sleOWPGDIJoBp2_YmXJz4",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-29T01:31:07.000Z",
+      "releaseDate": "2025-12-26T01:45:26.000Z",
       "genres": [
-        "Action"
+        "Racing"
       ],
       "country": "BD"
     },
@@ -1098,30 +1126,30 @@
       "country": "BD"
     },
     {
-      "id": "com.xgame.VehicleDriving3D",
-      "name": "Real Driving: Vehicle & Park",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
+      "id": "com.bettergames.truck.drivingschool.simulator",
+      "name": "Truck Games - Driving School",
+      "developer": "Better Games Studio Pty Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.bettergames.truck.drivingschool.simulator&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/WiHAkl3Qhw2GrZf-angvlDNRPhSG_nkLmwZ_xT8QuN5TC69eGT-kHDjy3xZWyqTPuQc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T06:55:58.000Z",
+      "releaseDate": "2026-01-07T07:45:50.000Z",
       "genres": [
-        "Simulation"
+        "Strategy"
       ],
       "country": "BD"
     },
     {
-      "id": "com.carrace2.master3d.racing",
-      "name": "Car Racing Master 3D",
-      "developer": "Monster Game Studio - OneSoft",
-      "url": "https://play.google.com/store/apps/details?id=com.carrace2.master3d.racing&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/BlzC2CsO8qhpfdtWZ3Ql1Zg53PwuNZjZA0kT7UivsEdKi0sleOWPGDIJoBp2_YmXJz4",
+      "id": "com.nautilus.realcricket",
+      "name": "Real Cricket: Sports Games",
+      "developer": "KRAFTON, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.nautilus.realcricket&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/nYHKTq7yrjP69pvG2Jy3o1DSutm4MrbqAMCMhzhCTjpL1CmRwFNc7t6SD7m25dvpqrYosFX05P3oCEUUL3Kl8A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-26T01:45:26.000Z",
+      "releaseDate": "2026-02-04T12:07:50.000Z",
       "genres": [
-        "Racing"
+        "Sports"
       ],
       "country": "BD"
     },
@@ -1140,20 +1168,6 @@
       "country": "BD"
     },
     {
-      "id": "com.bettergames.truck.drivingschool.simulator",
-      "name": "Truck Games - Driving School",
-      "developer": "Better Games Studio Pty Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.bettergames.truck.drivingschool.simulator&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/WiHAkl3Qhw2GrZf-angvlDNRPhSG_nkLmwZ_xT8QuN5TC69eGT-kHDjy3xZWyqTPuQc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-07T07:45:50.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "BD"
-    },
-    {
       "id": "com.fgol.HungrySharkEvolution",
       "name": "Hungry Shark Evolution",
       "developer": "Ubisoft Entertainment",
@@ -1168,14 +1182,14 @@
       "country": "BD"
     },
     {
-      "id": "com.nautilus.realcricket",
-      "name": "Real Cricket: Sports Games",
-      "developer": "KRAFTON, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.nautilus.realcricket&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/nYHKTq7yrjP69pvG2Jy3o1DSutm4MrbqAMCMhzhCTjpL1CmRwFNc7t6SD7m25dvpqrYosFX05P3oCEUUL3Kl8A",
+      "id": "com.firsttouchgames.dls7",
+      "name": "Dream League Soccer 2026",
+      "developer": "First Touch Games Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T12:07:50.000Z",
+      "releaseDate": "2026-02-05T17:30:32.000Z",
       "genres": [
         "Sports"
       ],
@@ -1196,16 +1210,16 @@
       "country": "BD"
     },
     {
-      "id": "com.firsttouchgames.dls7",
-      "name": "Dream League Soccer 2026",
-      "developer": "First Touch Games Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
+      "id": "com.homedesign.restore.asmr.games",
+      "name": "Home Makeover: ASMR Game",
+      "developer": "Happy Giggles",
+      "url": "https://play.google.com/store/apps/details?id=com.homedesign.restore.asmr.games&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/5PKuhy9WvL6v-5klhBM60A8uvCylSxNKc-RnOkCMtKToQwZF5o75Bx-Wgx2GDfU14cg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T17:30:32.000Z",
+      "releaseDate": "2026-02-13T14:32:45.000Z",
       "genres": [
-        "Sports"
+        "Casual"
       ],
       "country": "BD"
     },
@@ -1224,20 +1238,6 @@
       "country": "BD"
     },
     {
-      "id": "com.homedesign.restore.asmr.games",
-      "name": "Home Makeover: ASMR Game",
-      "developer": "Happy Giggles",
-      "url": "https://play.google.com/store/apps/details?id=com.homedesign.restore.asmr.games&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/5PKuhy9WvL6v-5klhBM60A8uvCylSxNKc-RnOkCMtKToQwZF5o75Bx-Wgx2GDfU14cg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T14:32:45.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "BD"
-    },
-    {
       "id": "com.alignit.sixteenbead",
       "name": "Bead 16 - Sholo Guti, Bead 12",
       "developer": "AlignIt Games",
@@ -1248,20 +1248,6 @@
       "releaseDate": "2026-02-06T03:23:03.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "BD"
-    },
-    {
-      "id": "com.outfit7.mytalkingangelafree",
-      "name": "My Talking Angela",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/rdMpsc5VkkG4JGHIFqNREbWBzXxkZBHN7ZA86DqcZEMmtwWy58NLVDuqWgoG2XCAu4Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-10T11:12:26.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "BD"
     },
@@ -1280,6 +1266,20 @@
       "country": "BD"
     },
     {
+      "id": "com.gf.busdriving.publictransport.citypassenger.drivinggames",
+      "name": "Bus Simulator : 3D Bus Games",
+      "developer": "GamePark",
+      "url": "https://play.google.com/store/apps/details?id=com.gf.busdriving.publictransport.citypassenger.drivinggames&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/rp9LqQcNwWly8QgjZnDdiK8gSHQyUAHTVzC5DQBFDC-Fm3eHZobtoFTUAlsdRBcatpI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-20T12:05:35.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "BD"
+    },
+    {
       "id": "com.creations.runnergame",
       "name": "Kooply Run™: Play and Create!",
       "developer": "KOOPLY",
@@ -1290,6 +1290,20 @@
       "releaseDate": "2026-02-18T05:40:23.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "BD"
+    },
+    {
+      "id": "com.outfit7.mytalkingangelafree",
+      "name": "My Talking Angela",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/rdMpsc5VkkG4JGHIFqNREbWBzXxkZBHN7ZA86DqcZEMmtwWy58NLVDuqWgoG2XCAu4Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-10T11:12:26.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "BD"
     },
@@ -1308,16 +1322,16 @@
       "country": "BD"
     },
     {
-      "id": "com.gf.busdriving.publictransport.citypassenger.drivinggames",
-      "name": "Bus Simulator : 3D Bus Games",
-      "developer": "GamePark",
-      "url": "https://play.google.com/store/apps/details?id=com.gf.busdriving.publictransport.citypassenger.drivinggames&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/rp9LqQcNwWly8QgjZnDdiK8gSHQyUAHTVzC5DQBFDC-Fm3eHZobtoFTUAlsdRBcatpI",
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-20T12:05:35.000Z",
+      "releaseDate": "2026-02-11T15:11:48.000Z",
       "genres": [
-        "Simulation"
+        "Puzzle"
       ],
       "country": "BD"
     },
@@ -1350,30 +1364,16 @@
       "country": "BD"
     },
     {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "id": "com.king.candycrushsaga",
+      "name": "Candy Crush Saga",
+      "developer": "King",
+      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T15:11:48.000Z",
+      "releaseDate": "2026-02-13T15:57:40.000Z",
       "genres": [
-        "Puzzle"
-      ],
-      "country": "BD"
-    },
-    {
-      "id": "com.gameloft.android.ANMP.GloftA8HM",
-      "name": "Asphalt 8 - Car Racing Game",
-      "developer": "Gameloft SE",
-      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/y1J3-OrqJIlezTtaung2sPOnHY9wS2hdJh26ADkwcc3kdZy4DTGyv94IN_YRvdKy0y4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T10:10:06.000Z",
-      "genres": [
-        "Racing"
+        "Casual"
       ],
       "country": "BD"
     },
@@ -1392,16 +1392,16 @@
       "country": "BD"
     },
     {
-      "id": "com.king.candycrushsaga",
-      "name": "Candy Crush Saga",
-      "developer": "King",
-      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T15:57:40.000Z",
+      "releaseDate": "2026-02-03T01:41:34.000Z",
       "genres": [
-        "Casual"
+        "Sports"
       ],
       "country": "BD"
     }
