@@ -1,8 +1,22 @@
 {
   "country": "NP",
   "store": "google",
-  "updatedAt": "2026-02-21T15:13:17.355Z",
+  "updatedAt": "2026-02-21T21:32:44.310Z",
   "new": [
+    {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T19:40:10.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "NP"
+    },
     {
       "id": "com.openmygame.games.android.jigsaw.solitaire.puzzle",
       "name": "Cardscapes: Jigsaw Puzzle",
@@ -326,20 +340,6 @@
       "country": "NP"
     },
     {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T17:29:32.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "NP"
-    },
-    {
       "id": "com.easygames.race",
       "name": "Race Master 3D: Car Racing",
       "developer": "Beresnev Games",
@@ -350,20 +350,6 @@
       "releaseDate": "2026-02-12T17:26:25.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "NP"
-    },
-    {
-      "id": "com.kitkagames.fallbuddies",
-      "name": "Stumble Guys",
-      "developer": "Scopely",
-      "url": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T13:27:28.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "NP"
     },
@@ -702,6 +688,20 @@
         "Sports"
       ],
       "country": "NP"
+    },
+    {
+      "id": "com.dts.freefireth",
+      "name": "Free Fire: Lost Treasure",
+      "developer": "GARENA INTERNATIONAL I",
+      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/VxqoBX9loIqsESn5OPhXDLLYw8YFAlLJX3TJUb7ovyIQdRRWwGuG3jD9konTZAeWzd8VlVTDt8fkJ8BAEU4ZHQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T06:43:26.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "NP"
     }
   ],
   "updated": [
@@ -755,7 +755,7 @@
       "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-12T17:29:32.000Z",
+      "releaseDate": "2026-02-20T19:40:10.000Z",
       "genres": [
         "Adventure"
       ],
@@ -874,20 +874,6 @@
       "country": "NP"
     },
     {
-      "id": "com.openmygame.games.android.jigsaw.solitaire.puzzle",
-      "name": "Cardscapes: Jigsaw Puzzle",
-      "developer": "Malpa Games",
-      "url": "https://play.google.com/store/apps/details?id=com.openmygame.games.android.jigsaw.solitaire.puzzle&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/vf8KzfHG1J7oCp9O-FoSNKMc-Gzjnhw4_7su1RsB4pdF6JARn3vy-xqhwqyj3nowJmdrN-HI0dHfg5vnMJc_ro8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T16:43:57.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "NP"
-    },
-    {
       "id": "com.tencent.ig",
       "name": "PUBG MOBILE",
       "developer": "Level Infinite",
@@ -912,6 +898,20 @@
       "releaseDate": "2026-02-11T12:25:49.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.openmygame.games.android.jigsaw.solitaire.puzzle",
+      "name": "Cardscapes: Jigsaw Puzzle",
+      "developer": "Malpa Games",
+      "url": "https://play.google.com/store/apps/details?id=com.openmygame.games.android.jigsaw.solitaire.puzzle&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/vf8KzfHG1J7oCp9O-FoSNKMc-Gzjnhw4_7su1RsB4pdF6JARn3vy-xqhwqyj3nowJmdrN-HI0dHfg5vnMJc_ro8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T16:43:57.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "NP"
     },
@@ -1098,62 +1098,6 @@
       "country": "NP"
     },
     {
-      "id": "com.NewFolderGames.TaxiDriver",
-      "name": "I Am Taxi Driver",
-      "developer": "Estoty",
-      "url": "https://play.google.com/store/apps/details?id=com.NewFolderGames.TaxiDriver&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/21NqFTC9lghTZWPSf0UJXIf5Sm0V8KeVWrwTm6fDlnY12kbPZrB27xynucuQm_2Uz5kna0Wjba_VMciQyCsZJg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T18:06:17.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "NP"
-    },
-    {
-      "id": "com.candle.car_master",
-      "name": "extreme car race master games",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.candle.car_master&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/f2FLQWyeI8wlo_yq96nq_NJC3YoDUIMZPv4SpZ7pymvIuBiABXWMWgVTC50C5x0N2zc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T10:21:03.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "NP"
-    },
-    {
-      "id": "com.hyperkani.trialbike",
-      "name": "Stunt Bike Extreme",
-      "developer": "Hyperkani",
-      "url": "https://play.google.com/store/apps/details?id=com.hyperkani.trialbike&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/NRovxU1rnnI2BzDw989gmkSb8DOnEmgybKJysHKE4-5WSWonNXFwGJGDXMppfxHBkI4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T06:24:08.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "NP"
-    },
-    {
-      "id": "com.rioo.runnersubway",
-      "name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T01:29:03.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "NP"
-    },
-    {
       "id": "com.vincentb.MobControl",
       "name": "Mob Control",
       "developer": "VOODOO",
@@ -1168,14 +1112,14 @@
       "country": "NP"
     },
     {
-      "id": "com.fingersoft.hillclimb",
-      "name": "Hill Climb Racing",
-      "developer": "Fingersoft",
-      "url": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/N0UxhBVUmx8s7y3F7Kqre2AcpXyPDKAp8nHjiPPoOONc_sfugHCYMjBpbUKCMlK_XUs",
+      "id": "com.hyperkani.trialbike",
+      "name": "Stunt Bike Extreme",
+      "developer": "Hyperkani",
+      "url": "https://play.google.com/store/apps/details?id=com.hyperkani.trialbike&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/NRovxU1rnnI2BzDw989gmkSb8DOnEmgybKJysHKE4-5WSWonNXFwGJGDXMppfxHBkI4",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-19T07:31:13.000Z",
+      "releaseDate": "2026-02-19T06:24:08.000Z",
       "genres": [
         "Racing"
       ],
@@ -1196,6 +1140,62 @@
       "country": "NP"
     },
     {
+      "id": "com.candle.car_master",
+      "name": "extreme car race master games",
+      "developer": "XGAME STUDIO",
+      "url": "https://play.google.com/store/apps/details?id=com.candle.car_master&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/f2FLQWyeI8wlo_yq96nq_NJC3YoDUIMZPv4SpZ7pymvIuBiABXWMWgVTC50C5x0N2zc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T10:21:03.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.rioo.runnersubway",
+      "name": "Subway Princess Runner",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T01:29:03.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.NewFolderGames.TaxiDriver",
+      "name": "I Am Taxi Driver",
+      "developer": "Estoty",
+      "url": "https://play.google.com/store/apps/details?id=com.NewFolderGames.TaxiDriver&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/21NqFTC9lghTZWPSf0UJXIf5Sm0V8KeVWrwTm6fDlnY12kbPZrB27xynucuQm_2Uz5kna0Wjba_VMciQyCsZJg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T18:06:17.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.fingersoft.hillclimb",
+      "name": "Hill Climb Racing",
+      "developer": "Fingersoft",
+      "url": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/N0UxhBVUmx8s7y3F7Kqre2AcpXyPDKAp8nHjiPPoOONc_sfugHCYMjBpbUKCMlK_XUs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T07:31:13.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "NP"
+    },
+    {
       "id": "com.xgame.trafficmoto",
       "name": "Moto Race Go",
       "developer": "XGAME STUDIO",
@@ -1210,20 +1210,6 @@
       "country": "NP"
     },
     {
-      "id": "com.adventure.piano.musictiles",
-      "name": "Music Piano 5: Demon Piano",
-      "developer": "HyperMusic",
-      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.musictiles&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/QvQHWzQ2AUdSvIu4HpVgg2j_BfiAHD5IDXazFrcm6j9FHG3Q2993oTJBiIL_QK6KrH7m",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-16T15:48:18.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "NP"
-    },
-    {
       "id": "com.maxtoolskin.fffskintool.mynewskins",
       "name": "SkinLab FF Skin & Diamond Tips",
       "developer": "BitRaft Studio",
@@ -1232,6 +1218,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2025-06-26T12:58:06.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.adventure.piano.musictiles",
+      "name": "Music Piano 5: Demon Piano",
+      "developer": "HyperMusic",
+      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.musictiles&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/QvQHWzQ2AUdSvIu4HpVgg2j_BfiAHD5IDXazFrcm6j9FHG3Q2993oTJBiIL_QK6KrH7m",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-16T15:48:18.000Z",
       "genres": [
         "Casual"
       ],
@@ -1280,16 +1280,16 @@
       "country": "NP"
     },
     {
-      "id": "com.dongbasiki.snowrace3d.snowball",
-      "name": "Ice Runner Battle: Snow Race",
-      "developer": "Dongbasiki",
-      "url": "https://play.google.com/store/apps/details?id=com.dongbasiki.snowrace3d.snowball&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/py0ov31CCxo4RLj9qlBrzTFtUoMIXEZP3tyGZNZeJPDj2Jq-nlyBvyn4fVkwtPXapq6-LBEhvK5Kv98vJ5DdDA",
+      "id": "com.bettergames.truck.drivingschool.simulator",
+      "name": "Truck Games - Driving School",
+      "developer": "Better Games Studio Pty Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.bettergames.truck.drivingschool.simulator&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/WiHAkl3Qhw2GrZf-angvlDNRPhSG_nkLmwZ_xT8QuN5TC69eGT-kHDjy3xZWyqTPuQc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-19T12:08:48.000Z",
+      "releaseDate": "2026-01-07T07:45:50.000Z",
       "genres": [
-        "Casual"
+        "Strategy"
       ],
       "country": "NP"
     },
@@ -1322,20 +1322,6 @@
       "country": "NP"
     },
     {
-      "id": "com.bettergames.truck.drivingschool.simulator",
-      "name": "Truck Games - Driving School",
-      "developer": "Better Games Studio Pty Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.bettergames.truck.drivingschool.simulator&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/WiHAkl3Qhw2GrZf-angvlDNRPhSG_nkLmwZ_xT8QuN5TC69eGT-kHDjy3xZWyqTPuQc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-07T07:45:50.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "NP"
-    },
-    {
       "id": "com.skgames.trafficrider",
       "name": "Traffic Rider",
       "developer": "skgames",
@@ -1346,6 +1332,20 @@
       "releaseDate": "2025-12-08T14:58:29.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.dongbasiki.snowrace3d.snowball",
+      "name": "Ice Runner Battle: Snow Race",
+      "developer": "Dongbasiki",
+      "url": "https://play.google.com/store/apps/details?id=com.dongbasiki.snowrace3d.snowball&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/py0ov31CCxo4RLj9qlBrzTFtUoMIXEZP3tyGZNZeJPDj2Jq-nlyBvyn4fVkwtPXapq6-LBEhvK5Kv98vJ5DdDA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-19T12:08:48.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "NP"
     },
