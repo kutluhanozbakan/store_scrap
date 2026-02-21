@@ -1,8 +1,22 @@
 {
   "country": "FI",
   "store": "google",
-  "updatedAt": "2026-02-20T19:22:41.205Z",
+  "updatedAt": "2026-02-21T05:29:06.052Z",
   "new": [
+    {
+      "id": "com.digitalextremes.warframemobile",
+      "name": "Warframe",
+      "developer": "Digital Extremes",
+      "url": "https://play.google.com/store/apps/details?id=com.digitalextremes.warframemobile&hl=en&gl=FI",
+      "artwork": "https://play-lh.googleusercontent.com/C2FSzPBDTKdDKAVmwCOr9CBvJ6j2toa_bfp8utKGbrWVAuDSHgeMdIzqWzK3rwRUyeY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T19:08:48.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "FI"
+    },
     {
       "id": "com.openmygame.games.android.jigsaw.solitaire.puzzle",
       "name": "Cardscapes: Jigsaw Puzzle",
@@ -42,6 +56,20 @@
       "releaseDate": "2026-02-20T14:39:09.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "FI"
+    },
+    {
+      "id": "com.scopely.monopolygo",
+      "name": "MONOPOLY GO!",
+      "developer": "Scopely",
+      "url": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo&hl=en&gl=FI",
+      "artwork": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T20:56:44.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "FI"
     },
@@ -112,20 +140,6 @@
       "releaseDate": "2026-02-18T17:08:57.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "FI"
-    },
-    {
-      "id": "com.digitalextremes.warframemobile",
-      "name": "Warframe",
-      "developer": "Digital Extremes",
-      "url": "https://play.google.com/store/apps/details?id=com.digitalextremes.warframemobile&hl=en&gl=FI",
-      "artwork": "https://play-lh.googleusercontent.com/C2FSzPBDTKdDKAVmwCOr9CBvJ6j2toa_bfp8utKGbrWVAuDSHgeMdIzqWzK3rwRUyeY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T17:06:40.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "FI"
     },
@@ -688,20 +702,6 @@
         "Puzzle"
       ],
       "country": "FI"
-    },
-    {
-      "id": "com.red.sortingstore.android",
-      "name": "Water Match™- ASMR Water Sort",
-      "developer": "Youyoutang Technology",
-      "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android&hl=en&gl=FI",
-      "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T07:52:03.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "FI"
     }
   ],
   "updated": [
@@ -818,6 +818,20 @@
       "country": "FI"
     },
     {
+      "id": "com.loomgames.pixelflow",
+      "name": "Pixel Flow!",
+      "developer": "Loom Games A.Ş.",
+      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=FI",
+      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T13:19:01.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "FI"
+    },
+    {
       "id": "com.fingersoft.hillclimbracing3",
       "name": "Hill Climb Racing 3",
       "developer": "Fingersoft",
@@ -840,20 +854,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-13T13:58:57.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "FI"
-    },
-    {
-      "id": "com.loomgames.pixelflow",
-      "name": "Pixel Flow!",
-      "developer": "Loom Games A.Ş.",
-      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=FI",
-      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T13:19:01.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1014,20 +1014,6 @@
       "country": "FI"
     },
     {
-      "id": "train.ride.master",
-      "name": "Train Ride",
-      "developer": "FLIP Studio",
-      "url": "https://play.google.com/store/apps/details?id=train.ride.master&hl=en&gl=FI",
-      "artwork": "https://play-lh.googleusercontent.com/5FEcVVdJoh0cZ3GcHjhamO2nmKHEdJaKCo_EqTBHATD4vW0UIiY_L1VAw_8e-8E_aBn9AXc8v_5NgWTZZUtdFQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T10:52:55.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "FI"
-    },
-    {
       "id": "com.nebula.mahjongtile",
       "name": "Mahjong Blast: Wonders",
       "developer": "Nebula  Studio",
@@ -1038,6 +1024,20 @@
       "releaseDate": "2026-02-12T15:11:54.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "FI"
+    },
+    {
+      "id": "train.ride.master",
+      "name": "Train Ride",
+      "developer": "FLIP Studio",
+      "url": "https://play.google.com/store/apps/details?id=train.ride.master&hl=en&gl=FI",
+      "artwork": "https://play-lh.googleusercontent.com/5FEcVVdJoh0cZ3GcHjhamO2nmKHEdJaKCo_EqTBHATD4vW0UIiY_L1VAw_8e-8E_aBn9AXc8v_5NgWTZZUtdFQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T10:52:55.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "FI"
     },
@@ -1056,6 +1056,20 @@
       "country": "FI"
     },
     {
+      "id": "com.digitalextremes.warframemobile",
+      "name": "Warframe",
+      "developer": "Digital Extremes",
+      "url": "https://play.google.com/store/apps/details?id=com.digitalextremes.warframemobile&hl=en&gl=FI",
+      "artwork": "https://play-lh.googleusercontent.com/C2FSzPBDTKdDKAVmwCOr9CBvJ6j2toa_bfp8utKGbrWVAuDSHgeMdIzqWzK3rwRUyeY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T19:08:48.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "FI"
+    },
+    {
       "id": "solitaire.patience.card.games.klondike.free",
       "name": "Solitaire - Classic Card Games",
       "developer": "Guru Puzzle Game",
@@ -1070,16 +1084,16 @@
       "country": "FI"
     },
     {
-      "id": "com.digitalextremes.warframemobile",
-      "name": "Warframe",
-      "developer": "Digital Extremes",
-      "url": "https://play.google.com/store/apps/details?id=com.digitalextremes.warframemobile&hl=en&gl=FI",
-      "artwork": "https://play-lh.googleusercontent.com/C2FSzPBDTKdDKAVmwCOr9CBvJ6j2toa_bfp8utKGbrWVAuDSHgeMdIzqWzK3rwRUyeY",
+      "id": "com.grandgames.magicsort",
+      "name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort&hl=en&gl=FI",
+      "artwork": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-18T17:06:40.000Z",
+      "releaseDate": "2026-02-17T18:59:47.000Z",
       "genres": [
-        "Action"
+        "Puzzle"
       ],
       "country": "FI"
     },
@@ -1108,20 +1122,6 @@
       "releaseDate": "2026-01-25T20:35:03.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "FI"
-    },
-    {
-      "id": "com.grandgames.magicsort",
-      "name": "Magic Sort!",
-      "developer": "Grand Games A.Ş.",
-      "url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort&hl=en&gl=FI",
-      "artwork": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T18:59:47.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "FI"
     },
@@ -1308,20 +1308,6 @@
       "country": "FI"
     },
     {
-      "id": "com.tocaboca.tocalifeworld",
-      "name": "Toca Boca World",
-      "developer": "Toca Boca",
-      "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=en&gl=FI",
-      "artwork": "https://play-lh.googleusercontent.com/UHryL-7W2yoA92NAfKpwoPIaW9N1u1hhTCtGkppyafgRfpKSYMS3bnoPmouHk1F0X5sHeoStf3cbD7_yCYBU4w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T14:27:19.000Z",
-      "genres": [
-        "Educational"
-      ],
-      "country": "FI"
-    },
-    {
       "id": "com.rovio.baba",
       "name": "Angry Birds 2",
       "developer": "Rovio Entertainment Oy",
@@ -1336,16 +1322,16 @@
       "country": "FI"
     },
     {
-      "id": "com.kitkagames.fallbuddies",
-      "name": "Stumble Guys",
-      "developer": "Scopely",
-      "url": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies&hl=en&gl=FI",
-      "artwork": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
+      "id": "com.tocaboca.tocalifeworld",
+      "name": "Toca Boca World",
+      "developer": "Toca Boca",
+      "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=en&gl=FI",
+      "artwork": "https://play-lh.googleusercontent.com/UHryL-7W2yoA92NAfKpwoPIaW9N1u1hhTCtGkppyafgRfpKSYMS3bnoPmouHk1F0X5sHeoStf3cbD7_yCYBU4w",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-12T13:27:28.000Z",
+      "releaseDate": "2026-02-18T14:27:19.000Z",
       "genres": [
-        "Action"
+        "Educational"
       ],
       "country": "FI"
     },
@@ -1364,16 +1350,16 @@
       "country": "FI"
     },
     {
-      "id": "com.craft.city.blockbuilder.pro",
-      "name": "Craft Explore: Block Builder",
-      "developer": "Appsgrooves",
-      "url": "https://play.google.com/store/apps/details?id=com.craft.city.blockbuilder.pro&hl=en&gl=FI",
-      "artwork": "https://play-lh.googleusercontent.com/YFHDvFUFlCreDkvR1NRPr1KkeF3OdKCZPVmSLzPXs96jHbAxUf4LjFOaWA0WkmTdIK4A2K2G8ZnnKeLimAFM2Q",
+      "id": "com.kitkagames.fallbuddies",
+      "name": "Stumble Guys",
+      "developer": "Scopely",
+      "url": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies&hl=en&gl=FI",
+      "artwork": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-09T12:12:25.000Z",
+      "releaseDate": "2026-02-12T13:27:28.000Z",
       "genres": [
-        "Simulation"
+        "Action"
       ],
       "country": "FI"
     },
@@ -1388,6 +1374,20 @@
       "releaseDate": "2026-02-11T07:13:48.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "FI"
+    },
+    {
+      "id": "com.craft.city.blockbuilder.pro",
+      "name": "Craft Explore: Block Builder",
+      "developer": "Appsgrooves",
+      "url": "https://play.google.com/store/apps/details?id=com.craft.city.blockbuilder.pro&hl=en&gl=FI",
+      "artwork": "https://play-lh.googleusercontent.com/YFHDvFUFlCreDkvR1NRPr1KkeF3OdKCZPVmSLzPXs96jHbAxUf4LjFOaWA0WkmTdIK4A2K2G8ZnnKeLimAFM2Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T12:12:25.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "FI"
     },
