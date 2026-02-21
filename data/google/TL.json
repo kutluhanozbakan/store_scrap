@@ -1,7 +1,7 @@
 {
   "country": "TL",
   "store": "google",
-  "updatedAt": "2026-02-21T10:12:01.933Z",
+  "updatedAt": "2026-02-21T16:47:20.733Z",
   "new": [
     {
       "id": "com.aim.racing",
@@ -368,6 +368,20 @@
       "country": "TL"
     },
     {
+      "id": "com.playvalve.wsjourney",
+      "name": "Word Search - Word Puzzle Game",
+      "developer": "Bluetile",
+      "url": "https://play.google.com/store/apps/details?id=com.playvalve.wsjourney&hl=en&gl=TL",
+      "artwork": "https://play-lh.googleusercontent.com/buGx7Qx6e_M9DUqiwABScUWx-xgiUSJBURBhivVel8OdVVzqOB2F5V3Nt60Ov8Qudw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T16:54:00.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "TL"
+    },
+    {
       "id": "com.oakever.tiletrip",
       "name": "Tile Explorer - Triple Match",
       "developer": "Oakever Games",
@@ -406,6 +420,20 @@
       "releaseDate": "2026-02-11T06:52:09.000Z",
       "genres": [
         "Music"
+      ],
+      "country": "TL"
+    },
+    {
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=TL",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T15:03:56.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "TL"
     },
@@ -674,34 +702,6 @@
         "Action"
       ],
       "country": "TL"
-    },
-    {
-      "id": "com.soccer.score.star",
-      "name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=TL",
-      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:32:33.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "TL"
-    },
-    {
-      "id": "com.freeplaysultanov.shootit",
-      "name": "Shoot Out: Gun Shooting Games",
-      "developer": "Freeplay Inc",
-      "url": "https://play.google.com/store/apps/details?id=com.freeplaysultanov.shootit&hl=en&gl=TL",
-      "artwork": "https://play-lh.googleusercontent.com/CTsQOaxdnNOeomvRHm9e_-_JWIOoEIzHti1l53cBHNUcgzL07xQMtr6c_NyhYwoapw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T23:00:16.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "TL"
     }
   ],
   "updated": [
@@ -958,20 +958,6 @@
       "country": "TL"
     },
     {
-      "id": "com.taprun.fruitmanialine",
-      "name": "Fruit Fancy",
-      "developer": "Tap Run",
-      "url": "https://play.google.com/store/apps/details?id=com.taprun.fruitmanialine&hl=en&gl=TL",
-      "artwork": "https://play-lh.googleusercontent.com/VbDEx6q27ztXqPF-u6tP4bU2mLRhhEFagEem810vAEPp16dE7sf7guXtmUyYhSCQkJgy",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-14T08:41:11.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "TL"
-    },
-    {
       "id": "com.puzzlegames.puzzlebrickslegend",
       "name": "Color Block: Combo Blast",
       "developer": "Ivy",
@@ -980,6 +966,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-06T09:36:13.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "TL"
+    },
+    {
+      "id": "com.taprun.fruitmanialine",
+      "name": "Fruit Fancy",
+      "developer": "Tap Run",
+      "url": "https://play.google.com/store/apps/details?id=com.taprun.fruitmanialine&hl=en&gl=TL",
+      "artwork": "https://play-lh.googleusercontent.com/VbDEx6q27ztXqPF-u6tP4bU2mLRhhEFagEem810vAEPp16dE7sf7guXtmUyYhSCQkJgy",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-14T08:41:11.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1028,6 +1028,20 @@
       "country": "TL"
     },
     {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=TL",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "TL"
+    },
+    {
       "id": "com.HT93Studio.AnimalConnect",
       "name": "Connect Animal Classic Travel",
       "developer": "HAU SALA GAME COMPANY LIMITED",
@@ -1042,6 +1056,20 @@
       "country": "TL"
     },
     {
+      "id": "piano.game.music.beat.tiles",
+      "name": "Piano Beat: Music Game",
+      "developer": "Dream Tiles Piano Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=piano.game.music.beat.tiles&hl=en&gl=TL",
+      "artwork": "https://play-lh.googleusercontent.com/0Of6bw3wkKRhftwupXVSF0r0FKn-BVFScRpwXPFKZ9jtdeEwU8hHRK8j8hN-mhkrxFCj",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-13T08:06:33.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "TL"
+    },
+    {
       "id": "com.gunner.fps.shooter.id",
       "name": "Gunner FPS Shooter",
       "developer": "FIRE GAME",
@@ -1052,6 +1080,20 @@
       "releaseDate": "2026-01-23T09:37:25.000Z",
       "genres": [
         "Role Playing"
+      ],
+      "country": "TL"
+    },
+    {
+      "id": "com.tohsoft.arashi.ninja.shadow",
+      "name": "Ninja warrior: legend of adven",
+      "developer": "TOH Games",
+      "url": "https://play.google.com/store/apps/details?id=com.tohsoft.arashi.ninja.shadow&hl=en&gl=TL",
+      "artwork": "https://play-lh.googleusercontent.com/Z2XnSlqHWZ6rgOdWJoOJJbIQIqQHcbDsCrF23Oo1ciu878Vnzqn0chW9-Fe04FPI9tGp",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-07-17T03:10:56.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "TL"
     },
@@ -1084,44 +1126,30 @@
       "country": "TL"
     },
     {
-      "id": "piano.game.music.beat.tiles",
-      "name": "Piano Beat: Music Game",
-      "developer": "Dream Tiles Piano Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=piano.game.music.beat.tiles&hl=en&gl=TL",
-      "artwork": "https://play-lh.googleusercontent.com/0Of6bw3wkKRhftwupXVSF0r0FKn-BVFScRpwXPFKZ9jtdeEwU8hHRK8j8hN-mhkrxFCj",
+      "id": "com.ansangha.drdriving",
+      "name": "Dr. Driving",
+      "developer": "SUD Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=TL",
+      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-13T08:06:33.000Z",
+      "releaseDate": "2025-08-25T07:34:27.000Z",
       "genres": [
-        "Music"
+        "Racing"
       ],
       "country": "TL"
     },
     {
-      "id": "com.tohsoft.arashi.ninja.shadow",
-      "name": "Ninja warrior: legend of adven",
-      "developer": "TOH Games",
-      "url": "https://play.google.com/store/apps/details?id=com.tohsoft.arashi.ninja.shadow&hl=en&gl=TL",
-      "artwork": "https://play-lh.googleusercontent.com/Z2XnSlqHWZ6rgOdWJoOJJbIQIqQHcbDsCrF23Oo1ciu878Vnzqn0chW9-Fe04FPI9tGp",
+      "id": "com.gf.minibus.minicoach.game",
+      "name": "Mini Bus Driving Simulator 3D",
+      "developer": "Gamix Fusion",
+      "url": "https://play.google.com/store/apps/details?id=com.gf.minibus.minicoach.game&hl=en&gl=TL",
+      "artwork": "https://play-lh.googleusercontent.com/wGIi3n5FzBM2gL1pbbOlYGrJq-nNV3i_aaKkgCFEGi5HeZsLz8JHkrZYuqkvHjkJiUEt",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-07-17T03:10:56.000Z",
+      "releaseDate": "2025-12-11T08:09:14.000Z",
       "genres": [
-        "Adventure"
-      ],
-      "country": "TL"
-    },
-    {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=TL",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
+        "Simulation"
       ],
       "country": "TL"
     },
@@ -1182,30 +1210,16 @@
       "country": "TL"
     },
     {
-      "id": "com.ansangha.drdriving",
-      "name": "Dr. Driving",
-      "developer": "SUD Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=TL",
-      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=TL",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-08-25T07:34:27.000Z",
+      "releaseDate": "2025-12-19T14:55:06.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "TL"
-    },
-    {
-      "id": "com.gf.minibus.minicoach.game",
-      "name": "Mini Bus Driving Simulator 3D",
-      "developer": "Gamix Fusion",
-      "url": "https://play.google.com/store/apps/details?id=com.gf.minibus.minicoach.game&hl=en&gl=TL",
-      "artwork": "https://play-lh.googleusercontent.com/wGIi3n5FzBM2gL1pbbOlYGrJq-nNV3i_aaKkgCFEGi5HeZsLz8JHkrZYuqkvHjkJiUEt",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-11T08:09:14.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "TL"
     },
@@ -1220,20 +1234,6 @@
       "releaseDate": "2026-01-07T10:21:54.000Z",
       "genres": [
         "Strategy"
-      ],
-      "country": "TL"
-    },
-    {
-      "id": "com.ffgames.racingincar2",
-      "name": "Racing in Car 2",
-      "developer": "ckgames",
-      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=TL",
-      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-19T14:55:06.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "TL"
     },
@@ -1392,16 +1392,16 @@
       "country": "TL"
     },
     {
-      "id": "europe.truck.simulator2",
-      "name": "Truckers of Europe 2",
-      "developer": "Wanda Software",
-      "url": "https://play.google.com/store/apps/details?id=europe.truck.simulator2&hl=en&gl=TL",
-      "artwork": "https://play-lh.googleusercontent.com/tS6pdPz6GKrP87gOTTPcBDFMJFd2RsD4ngkl92pqEQp6nkHRIPU30BRM7wB6l5_VaOw",
+      "id": "com.puzzlegamesclassic.tetris.blockpuzzle",
+      "name": "Block Puzzle",
+      "developer": "Block Puzzle Games 2018",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzlegamesclassic.tetris.blockpuzzle&hl=en&gl=TL",
+      "artwork": "https://play-lh.googleusercontent.com/fVKAggwyTB5AJFRb3PTzQ0zANNCfGKQjro2XIXAajFXB2VgOEfwu7FEUyqLxv61HwA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-19T09:31:02.000Z",
+      "releaseDate": "2025-10-22T09:45:23.000Z",
       "genres": [
-        "Simulation"
+        "Puzzle"
       ],
       "country": "TL"
     }
