@@ -1,8 +1,22 @@
 {
   "country": "MY",
   "store": "google",
-  "updatedAt": "2026-02-21T15:12:32.523Z",
+  "updatedAt": "2026-02-21T20:58:36.176Z",
   "new": [
+    {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=MY",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T19:40:10.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "MY"
+    },
     {
       "id": "com.digitalextremes.warframemobile",
       "name": "Warframe",
@@ -396,20 +410,6 @@
       "country": "MY"
     },
     {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T17:29:32.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "MY"
-    },
-    {
       "id": "com.easygames.race",
       "name": "Race Master 3D: Car Racing",
       "developer": "Beresnev Games",
@@ -727,7 +727,7 @@
       "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-12T17:29:32.000Z",
+      "releaseDate": "2026-02-20T19:40:10.000Z",
       "genres": [
         "Adventure"
       ],
@@ -930,20 +930,6 @@
       "country": "MY"
     },
     {
-      "id": "com.higame.annoying.tricky.story.puzzle.game",
-      "name": "Tricky Prank: Brain Quest",
-      "developer": "HIGAME Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.higame.annoying.tricky.story.puzzle.game&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/c4GeGD2LgyBEKA6vUalFLxcbhS5rxsqrriNbKUErdyE4ZoxlLaksRGjMtsOHdnjrBrE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-26T11:11:09.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MY"
-    },
-    {
       "id": "io.voodoo.paper2",
       "name": "Paper.io 2",
       "developer": "VOODOO",
@@ -958,20 +944,6 @@
       "country": "MY"
     },
     {
-      "id": "com.higame.par.bubble.tea",
-      "name": "BOBA DIY™: Tasty Tea Simulator",
-      "developer": "HIGAME GLOBAL",
-      "url": "https://play.google.com/store/apps/details?id=com.higame.par.bubble.tea&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/OoznpIOtI_BDoppZEc7FGN30eOl9Uov4-SPtkGiKS9qyZ2fe_IhETk3o63YKkxggFIk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-06T14:13:19.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MY"
-    },
-    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
@@ -982,6 +954,34 @@
       "releaseDate": "2026-02-12T00:38:27.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "MY"
+    },
+    {
+      "id": "com.higame.annoying.tricky.story.puzzle.game",
+      "name": "Tricky Prank: Brain Quest",
+      "developer": "HIGAME Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.higame.annoying.tricky.story.puzzle.game&hl=en&gl=MY",
+      "artwork": "https://play-lh.googleusercontent.com/c4GeGD2LgyBEKA6vUalFLxcbhS5rxsqrriNbKUErdyE4ZoxlLaksRGjMtsOHdnjrBrE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-26T11:11:09.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MY"
+    },
+    {
+      "id": "com.higame.par.bubble.tea",
+      "name": "BOBA DIY™: Tasty Tea Simulator",
+      "developer": "HIGAME GLOBAL",
+      "url": "https://play.google.com/store/apps/details?id=com.higame.par.bubble.tea&hl=en&gl=MY",
+      "artwork": "https://play-lh.googleusercontent.com/OoznpIOtI_BDoppZEc7FGN30eOl9Uov4-SPtkGiKS9qyZ2fe_IhETk3o63YKkxggFIk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-06T14:13:19.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "MY"
     },
@@ -1028,20 +1028,6 @@
       "country": "MY"
     },
     {
-      "id": "com.run.tower.defense",
-      "name": "Kingshot",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T09:09:20.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "MY"
-    },
-    {
       "id": "com.tencent.ig",
       "name": "PUBG MOBILE",
       "developer": "Level Infinite",
@@ -1056,6 +1042,20 @@
       "country": "MY"
     },
     {
+      "id": "com.run.tower.defense",
+      "name": "Kingshot",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=MY",
+      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T09:09:20.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "MY"
+    },
+    {
       "id": "com.rolling.hop.dancing.cats.tiles.musicgames",
       "name": "Dancing Cats 2: Music Games",
       "developer": "Cobby Labs",
@@ -1064,48 +1064,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-01-13T08:44:54.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "MY"
-    },
-    {
-      "id": "com.netease.newspike",
-      "name": "Blood Strike - FPS for all",
-      "developer": "NetEase Games",
-      "url": "https://play.google.com/store/apps/details?id=com.netease.newspike&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/Oj3ystjWEwuox4DLkOsrEAGG0vRNFuFrL8WTrgztdHYoJhsoDvprQQZNArxqveuu48yB4sWmXLOOKSiJQruv",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T02:20:54.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "MY"
-    },
-    {
-      "id": "com.blockgamesstudio.blockworld3d",
-      "name": "Block World 3D: Craft & Build",
-      "developer": "Funburstgame LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T09:17:30.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "MY"
-    },
-    {
-      "id": "com.youmusic.magictiles",
-      "name": "Magic Tiles 3™ - Piano Game",
-      "developer": "AMANOTES PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T09:38:01.000Z",
       "genres": [
         "Music"
       ],
@@ -1126,16 +1084,16 @@
       "country": "MY"
     },
     {
-      "id": "com.wildspike.wormszone",
-      "name": "Worms Zone .io - Hungry Snake",
-      "developer": "CASUAL AZUR GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/CAzbHXAoHmFdalAgHDCya19XrpdWtYeATxh2fKQSQcZun3V-2NSs7DJZ1gm5ndxGfg",
+      "id": "com.blockgamesstudio.blockworld3d",
+      "name": "Block World 3D: Craft & Build",
+      "developer": "Funburstgame LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d&hl=en&gl=MY",
+      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-10T11:39:50.000Z",
+      "releaseDate": "2026-02-12T09:17:30.000Z",
       "genres": [
-        "Action"
+        "Arcade"
       ],
       "country": "MY"
     },
@@ -1150,6 +1108,48 @@
       "releaseDate": "2026-02-18T11:45:50.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "MY"
+    },
+    {
+      "id": "com.youmusic.magictiles",
+      "name": "Magic Tiles 3™ - Piano Game",
+      "developer": "AMANOTES PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=MY",
+      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T09:38:01.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "MY"
+    },
+    {
+      "id": "com.wildspike.wormszone",
+      "name": "Worms Zone .io - Hungry Snake",
+      "developer": "CASUAL AZUR GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=MY",
+      "artwork": "https://play-lh.googleusercontent.com/CAzbHXAoHmFdalAgHDCya19XrpdWtYeATxh2fKQSQcZun3V-2NSs7DJZ1gm5ndxGfg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T11:39:50.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "MY"
+    },
+    {
+      "id": "com.netease.newspike",
+      "name": "Blood Strike - FPS for all",
+      "developer": "NetEase Games",
+      "url": "https://play.google.com/store/apps/details?id=com.netease.newspike&hl=en&gl=MY",
+      "artwork": "https://play-lh.googleusercontent.com/Oj3ystjWEwuox4DLkOsrEAGG0vRNFuFrL8WTrgztdHYoJhsoDvprQQZNArxqveuu48yB4sWmXLOOKSiJQruv",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T02:20:54.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "MY"
     },
@@ -1210,20 +1210,6 @@
       "country": "MY"
     },
     {
-      "id": "com.whoyaho.tanghulu",
-      "name": "Tanghulu Master - Mukbang ASMR",
-      "developer": "Whoyaho Corp.",
-      "url": "https://play.google.com/store/apps/details?id=com.whoyaho.tanghulu&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/aUA2ULhVbePpQxyc89HZLnQUd_Dz1vXXo0TwX_g8ms10vWn0gvbFTXQDhZV0bv50uWTq",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T11:09:14.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MY"
-    },
-    {
       "id": "com.pazugames.avatarworld",
       "name": "Avatar World ®",
       "developer": "Pazu Games",
@@ -1238,58 +1224,16 @@
       "country": "MY"
     },
     {
-      "id": "jp.garud.ssimulator",
-      "name": "SAKURA School Simulator",
-      "developer": "GARUSOFT K.K.",
-      "url": "https://play.google.com/store/apps/details?id=jp.garud.ssimulator&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/kE2hDKCtPcpI8nR0UAGZ7x0tHJQXooY-54bMyar5H2G_Y8-1-VxpB111tAqVCxNn8g",
+      "id": "com.whoyaho.tanghulu",
+      "name": "Tanghulu Master - Mukbang ASMR",
+      "developer": "Whoyaho Corp.",
+      "url": "https://play.google.com/store/apps/details?id=com.whoyaho.tanghulu&hl=en&gl=MY",
+      "artwork": "https://play-lh.googleusercontent.com/aUA2ULhVbePpQxyc89HZLnQUd_Dz1vXXo0TwX_g8ms10vWn0gvbFTXQDhZV0bv50uWTq",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-17T11:44:26.000Z",
+      "releaseDate": "2026-02-13T11:09:14.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "MY"
-    },
-    {
-      "id": "com.puzzlegames.puzzlebrickslegend",
-      "name": "Color Block: Combo Blast",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.puzzlebrickslegend&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T09:36:13.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MY"
-    },
-    {
-      "id": "com.football.soccer.league",
-      "name": "Football League 2026",
-      "developer": "MOBILE SOCCER",
-      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T12:25:49.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "MY"
-    },
-    {
-      "id": "com.sprunki.mod.horror.incredibox.monster.beats.music.game",
-      "name": "Sprunki Beat: Full Mod Music",
-      "developer": "Gotstar Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.sprunki.mod.horror.incredibox.monster.beats.music.game&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/O7_TKLHLE3Q0XnE--e5tTXLbJYdfbo7J521cseiShnn4L_a2HnJduwxhKqVjWj4jLg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T14:50:40.000Z",
-      "genres": [
-        "Music"
       ],
       "country": "MY"
     },
@@ -1308,6 +1252,34 @@
       "country": "MY"
     },
     {
+      "id": "jp.garud.ssimulator",
+      "name": "SAKURA School Simulator",
+      "developer": "GARUSOFT K.K.",
+      "url": "https://play.google.com/store/apps/details?id=jp.garud.ssimulator&hl=en&gl=MY",
+      "artwork": "https://play-lh.googleusercontent.com/kE2hDKCtPcpI8nR0UAGZ7x0tHJQXooY-54bMyar5H2G_Y8-1-VxpB111tAqVCxNn8g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T11:44:26.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MY"
+    },
+    {
+      "id": "com.football.soccer.league",
+      "name": "Football League 2026",
+      "developer": "MOBILE SOCCER",
+      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=MY",
+      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T12:25:49.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "MY"
+    },
+    {
       "id": "com.dts.freefiremax",
       "name": "Free Fire MAX: Lost Treasure",
       "developer": "GARENA INTERNATIONAL I",
@@ -1318,6 +1290,34 @@
       "releaseDate": "2026-01-09T06:52:43.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "MY"
+    },
+    {
+      "id": "com.puzzlegames.puzzlebrickslegend",
+      "name": "Color Block: Combo Blast",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.puzzlebrickslegend&hl=en&gl=MY",
+      "artwork": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T09:36:13.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MY"
+    },
+    {
+      "id": "com.sprunki.mod.horror.incredibox.monster.beats.music.game",
+      "name": "Sprunki Beat: Full Mod Music",
+      "developer": "Gotstar Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.sprunki.mod.horror.incredibox.monster.beats.music.game&hl=en&gl=MY",
+      "artwork": "https://play-lh.googleusercontent.com/O7_TKLHLE3Q0XnE--e5tTXLbJYdfbo7J521cseiShnn4L_a2HnJduwxhKqVjWj4jLg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T14:50:40.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "MY"
     },
@@ -1350,20 +1350,6 @@
       "country": "MY"
     },
     {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "MY"
-    },
-    {
       "id": "com.carrace2.master3d.racing",
       "name": "Car Racing Master 3D",
       "developer": "Monster Game Studio - OneSoft",
@@ -1378,30 +1364,44 @@
       "country": "MY"
     },
     {
-      "id": "com.gtsy.annoying.punch.game",
-      "name": "Annoying Uncle Punch Game",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
+      "id": "com.mergegames.gossipharbor",
+      "name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=MY",
+      "artwork": "https://play-lh.googleusercontent.com/xVIGbuFosD3kQ4D9iyRQGFjEy5stL8NODkfdeZ-o73q-APh-XKaHo2nMseGc1FeB138H3TeEoI0ew9Wca5-iJA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T15:38:31.000Z",
+      "releaseDate": "2026-02-10T12:20:43.000Z",
       "genres": [
-        "Simulation"
+        "Puzzle"
       ],
       "country": "MY"
     },
     {
-      "id": "com.JindoBlu.FourPlayers",
-      "name": "1 2 3 4 Player Games - Offline",
-      "developer": "JindoBlu",
-      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.FourPlayers&hl=en&gl=MY",
-      "artwork": "https://play-lh.googleusercontent.com/T1ekib6mm06SnURnCaL0UOJGlzyLgwsda7CxM977oGdmzw1DjoJbcfJhQLGh2TQ1x18C",
+      "id": "com.pixel.art.coloring.color.number",
+      "name": "Happy Color®: Color by Number",
+      "developer": "X-FLOW",
+      "url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&hl=en&gl=MY",
+      "artwork": "https://play-lh.googleusercontent.com/paB5-2s6q3uXd3nRE0-2QzCLeLklmemDepD0_Erald5YQUazuiOhMvJ8giFluMAX0w",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-12T09:09:35.000Z",
+      "releaseDate": "2026-01-20T07:32:35.000Z",
       "genres": [
-        "Arcade"
+        "Board"
+      ],
+      "country": "MY"
+    },
+    {
+      "id": "com.maxtoolskin.fffskintool.mynewskins",
+      "name": "SkinLab FF Skin & Diamond Tips",
+      "developer": "BitRaft Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.maxtoolskin.fffskintool.mynewskins&hl=en&gl=MY",
+      "artwork": "https://play-lh.googleusercontent.com/K4Mu2M2n3HyYaHENpoI9BHoL5F5P_xS7Y_-c-RM4t8KBBhK-Vp1QYfEoVfZzXFyvX00",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-06-26T12:58:06.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "MY"
     }
