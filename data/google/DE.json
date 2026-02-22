@@ -1,7 +1,7 @@
 {
   "country": "DE",
   "store": "google",
-  "updatedAt": "2026-02-22T11:49:57.330Z",
+  "updatedAt": "2026-02-22T19:28:52.515Z",
   "new": [
     {
       "id": "com.roblox.client",
@@ -326,6 +326,20 @@
       "country": "DE"
     },
     {
+      "id": "com.vincentb.MobControl",
+      "name": "Mob Control",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=DE",
+      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T11:45:44.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "DE"
+    },
+    {
       "id": "jp.co.drecom.wizardry.daphne",
       "name": "Wizardry Variants Daphne",
       "developer": "株式会社ドリコム",
@@ -336,6 +350,20 @@
       "releaseDate": "2026-02-17T10:16:53.000Z",
       "genres": [
         "Role Playing"
+      ],
+      "country": "DE"
+    },
+    {
+      "id": "games.burny.associations.word.puzzle",
+      "name": "Associations - Colorwood Game",
+      "developer": "Burny Games",
+      "url": "https://play.google.com/store/apps/details?id=games.burny.associations.word.puzzle&hl=en&gl=DE",
+      "artwork": "https://play-lh.googleusercontent.com/bwNj3Phx8c5VWiXvCYMMcMs3ULNFqockg6BTcirDGbnUig0gSitTidoDQlOzSbl3Zbrd6Vc9Wj2TB9LpItR3Sw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T09:24:26.000Z",
+      "genres": [
+        "Word"
       ],
       "country": "DE"
     },
@@ -674,34 +702,6 @@
         "Casual"
       ],
       "country": "DE"
-    },
-    {
-      "id": "com.fc.goods.sort.matching.puzzle.triplemaster",
-      "name": "Goods Puzzle: Sort Challenge™",
-      "developer": "FALCON GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.fc.goods.sort.matching.puzzle.triplemaster&hl=en&gl=DE",
-      "artwork": "https://play-lh.googleusercontent.com/F4r_imTe0hKKnVfrOUxbS8oumI6LpU-UgFbOW0VHoYQ_FnrcXq0p3QRR96u5wNANm2A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T11:00:30.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "DE"
-    },
-    {
-      "id": "train.ride.master",
-      "name": "Train Ride",
-      "developer": "FLIP Studio",
-      "url": "https://play.google.com/store/apps/details?id=train.ride.master&hl=en&gl=DE",
-      "artwork": "https://play-lh.googleusercontent.com/5FEcVVdJoh0cZ3GcHjhamO2nmKHEdJaKCo_EqTBHATD4vW0UIiY_L1VAw_8e-8E_aBn9AXc8v_5NgWTZZUtdFQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T10:52:55.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "DE"
     }
   ],
   "updated": [
@@ -832,20 +832,6 @@
       "country": "DE"
     },
     {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=DE",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T19:40:10.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "DE"
-    },
-    {
       "id": "com.superplaystudios.disneysolitairedreams",
       "name": "Disney Solitaire",
       "developer": "SuperPlay.",
@@ -856,6 +842,20 @@
       "releaseDate": "2026-02-20T15:36:39.000Z",
       "genres": [
         "Card"
+      ],
+      "country": "DE"
+    },
+    {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=DE",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T19:40:10.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "DE"
     },
@@ -930,20 +930,6 @@
       "country": "DE"
     },
     {
-      "id": "com.funplus.ts.global",
-      "name": "Tiles Survive!",
-      "developer": "FunPlus International AG",
-      "url": "https://play.google.com/store/apps/details?id=com.funplus.ts.global&hl=en&gl=DE",
-      "artwork": "https://play-lh.googleusercontent.com/zckZa4Pytdr9QxK-Xv6XlbJo62tZV4pk3VPLBnuUXzR-pmM5nWWHUbo3MT1Lu9xxIRye",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T15:45:58.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "DE"
-    },
-    {
       "id": "com.grandgames.magicsort",
       "name": "Magic Sort!",
       "developer": "Grand Games A.Ş.",
@@ -954,6 +940,20 @@
       "releaseDate": "2026-02-17T18:59:47.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "DE"
+    },
+    {
+      "id": "com.funplus.ts.global",
+      "name": "Tiles Survive!",
+      "developer": "FunPlus International AG",
+      "url": "https://play.google.com/store/apps/details?id=com.funplus.ts.global&hl=en&gl=DE",
+      "artwork": "https://play-lh.googleusercontent.com/zckZa4Pytdr9QxK-Xv6XlbJo62tZV4pk3VPLBnuUXzR-pmM5nWWHUbo3MT1Lu9xxIRye",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T15:45:58.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "DE"
     },
@@ -986,6 +986,20 @@
       "country": "DE"
     },
     {
+      "id": "find.difference.spot.differences.hidden.puzzle.games.free",
+      "name": "Differences - Find & Spot It",
+      "developer": "Guru Puzzle Game",
+      "url": "https://play.google.com/store/apps/details?id=find.difference.spot.differences.hidden.puzzle.games.free&hl=en&gl=DE",
+      "artwork": "https://play-lh.googleusercontent.com/RI6UJVRVGrNst-Z35o4IXsgkpVpUJNpceFNPLEsy-2nGZGxoedKv0-sNLsU_wX89cfM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T08:33:48.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "DE"
+    },
+    {
       "id": "com.youmusic.magictiles",
       "name": "Magic Tiles 3™ - Piano Game",
       "developer": "AMANOTES PTE. LTD.",
@@ -1000,14 +1014,14 @@
       "country": "DE"
     },
     {
-      "id": "find.difference.spot.differences.hidden.puzzle.games.free",
-      "name": "Differences - Find & Spot It",
-      "developer": "Guru Puzzle Game",
-      "url": "https://play.google.com/store/apps/details?id=find.difference.spot.differences.hidden.puzzle.games.free&hl=en&gl=DE",
-      "artwork": "https://play-lh.googleusercontent.com/RI6UJVRVGrNst-Z35o4IXsgkpVpUJNpceFNPLEsy-2nGZGxoedKv0-sNLsU_wX89cfM",
+      "id": "com.ecffri.arrows",
+      "name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore UG",
+      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=DE",
+      "artwork": "https://play-lh.googleusercontent.com/f3szQ-tBQ5FVtiO2hwnJ6Gg4LbckQ9qKD099oiFqlvDo78uaD85Zn9G4o-W9390XnQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-10T08:33:48.000Z",
+      "releaseDate": "2026-02-10T09:17:02.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1024,20 +1038,6 @@
       "releaseDate": "2026-02-10T15:03:56.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "DE"
-    },
-    {
-      "id": "com.ecffri.arrows",
-      "name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore UG",
-      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=DE",
-      "artwork": "https://play-lh.googleusercontent.com/f3szQ-tBQ5FVtiO2hwnJ6Gg4LbckQ9qKD099oiFqlvDo78uaD85Zn9G4o-W9390XnQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T09:17:02.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "DE"
     },
@@ -1098,20 +1098,6 @@
       "country": "DE"
     },
     {
-      "id": "com.monopoly.dream.idle.king",
-      "name": "Top Tycoon: Coin Theme Empire",
-      "developer": "BeheFun Games Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.monopoly.dream.idle.king&hl=en&gl=DE",
-      "artwork": "https://play-lh.googleusercontent.com/YSofgpw9fVAdL8ARICBntM6H2SchRLC7e-NYczRc-1I_gCQaN8U7y49ikrl3GfUYXW4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-15T14:29:01.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "DE"
-    },
-    {
       "id": "com.red.arrows.android",
       "name": "Arrowscapes™ - Arrows Puzzle",
       "developer": "Beijing Youyoutang Technology Co.,ltd.",
@@ -1122,6 +1108,20 @@
       "releaseDate": "2026-02-12T04:02:08.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "DE"
+    },
+    {
+      "id": "com.monopoly.dream.idle.king",
+      "name": "Top Tycoon: Coin Theme Empire",
+      "developer": "BeheFun Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.monopoly.dream.idle.king&hl=en&gl=DE",
+      "artwork": "https://play-lh.googleusercontent.com/YSofgpw9fVAdL8ARICBntM6H2SchRLC7e-NYczRc-1I_gCQaN8U7y49ikrl3GfUYXW4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-15T14:29:01.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "DE"
     },
@@ -1210,6 +1210,20 @@
       "country": "DE"
     },
     {
+      "id": "com.sled.surfers.game",
+      "name": "Sled Surfers",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game&hl=en&gl=DE",
+      "artwork": "https://play-lh.googleusercontent.com/dtrjuQilrP1js6mDnl7mFPerlmnwUPwhYESlGriPKxwlUhWJ1yQ0r52EIvXrc-S5vqY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T17:36:54.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "DE"
+    },
+    {
       "id": "com.pixel.art.coloring.color.number",
       "name": "Happy Color®: Color by Number",
       "developer": "X-FLOW",
@@ -1234,6 +1248,20 @@
       "releaseDate": "2025-12-29T01:31:07.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "DE"
+    },
+    {
+      "id": "jp.co.goodroid.hyper.hexaaway",
+      "name": "Hexa Away",
+      "developer": "GOODROID,Inc.",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.hexaaway&hl=en&gl=DE",
+      "artwork": "https://play-lh.googleusercontent.com/0brW5ursTxAojhRjh0uPdxCoOK5ViPi9zID7stj_ZlklxwpuNSd7jk7sZCB75Gd92A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T11:26:30.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "DE"
     },
@@ -1266,20 +1294,6 @@
       "country": "DE"
     },
     {
-      "id": "com.sled.surfers.game",
-      "name": "Sled Surfers",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game&hl=en&gl=DE",
-      "artwork": "https://play-lh.googleusercontent.com/dtrjuQilrP1js6mDnl7mFPerlmnwUPwhYESlGriPKxwlUhWJ1yQ0r52EIvXrc-S5vqY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T17:36:54.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "DE"
-    },
-    {
       "id": "solitaire.patience.card.games.klondike.free",
       "name": "Solitaire - Classic Card Games",
       "developer": "Guru Puzzle Game",
@@ -1294,16 +1308,30 @@
       "country": "DE"
     },
     {
-      "id": "jp.co.goodroid.hyper.hexaaway",
-      "name": "Hexa Away",
-      "developer": "GOODROID,Inc.",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.hexaaway&hl=en&gl=DE",
-      "artwork": "https://play-lh.googleusercontent.com/0brW5ursTxAojhRjh0uPdxCoOK5ViPi9zID7stj_ZlklxwpuNSd7jk7sZCB75Gd92A",
+      "id": "com.gamincat.jigsolitaire",
+      "name": "Jigsolitaire",
+      "developer": "Gamincat",
+      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=DE",
+      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-30T11:26:30.000Z",
+      "releaseDate": "2026-02-18T01:36:26.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "DE"
+    },
+    {
+      "id": "com.red.sortingstore.android",
+      "name": "Water Match™- ASMR Water Sort",
+      "developer": "Youyoutang Technology",
+      "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android&hl=en&gl=DE",
+      "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T07:52:03.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "DE"
     },
@@ -1336,20 +1364,6 @@
       "country": "DE"
     },
     {
-      "id": "com.tp.pmu3d",
-      "name": "Pick Me Up 3D: Taxi Game",
-      "developer": "Azur Interactive Games Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.tp.pmu3d&hl=en&gl=DE",
-      "artwork": "https://play-lh.googleusercontent.com/-45mcdAUu8hi22BF8ARH7zR0CO6b7xtLs_rTLtnph_lY06aXryIM-2DYJ4kLqHoKOQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T08:36:05.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "DE"
-    },
-    {
       "id": "com.scopely.monopolygo",
       "name": "MONOPOLY GO!",
       "developer": "Scopely",
@@ -1364,44 +1378,30 @@
       "country": "DE"
     },
     {
-      "id": "com.gamincat.jigsolitaire",
-      "name": "Jigsolitaire",
-      "developer": "Gamincat",
-      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=DE",
-      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
+      "id": "com.tp.pmu3d",
+      "name": "Pick Me Up 3D: Taxi Game",
+      "developer": "Azur Interactive Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.tp.pmu3d&hl=en&gl=DE",
+      "artwork": "https://play-lh.googleusercontent.com/-45mcdAUu8hi22BF8ARH7zR0CO6b7xtLs_rTLtnph_lY06aXryIM-2DYJ4kLqHoKOQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-18T01:36:26.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "DE"
-    },
-    {
-      "id": "com.kayac.breakragdoll",
-      "name": "Ragdoll Break: Let's destroy!",
-      "developer": "KAYAC Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.kayac.breakragdoll&hl=en&gl=DE",
-      "artwork": "https://play-lh.googleusercontent.com/PZVCOncNOW-vQ0oHmQEu3k9qJEPAoDpYZYRIpTPrhnMmuPPxrmPwzTrHupu6IYckjtY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-21T07:59:14.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "DE"
-    },
-    {
-      "id": "com.whalejoy.horrorstory.gp",
-      "name": "Haunted Merge: Horror Story",
-      "developer": "WhaleJoy Game Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.whalejoy.horrorstory.gp&hl=en&gl=DE",
-      "artwork": "https://play-lh.googleusercontent.com/wkdnu8OxzFFCnSZw4QO2DczjcybhyW8GOMDWh4p2NG-qXX10MD3CIZHgL2vK3mWjqg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T11:32:58.000Z",
+      "releaseDate": "2026-02-18T08:36:05.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "DE"
+    },
+    {
+      "id": "jp.co.drecom.wizardry.daphne",
+      "name": "Wizardry Variants Daphne",
+      "developer": "株式会社ドリコム",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.drecom.wizardry.daphne&hl=en&gl=DE",
+      "artwork": "https://play-lh.googleusercontent.com/PQnAqYDPuV9yAMssbBkA5WPt68jaPyA_T4cbEDRjwMidLfxP0sEoH16bSV_5hSOm0ds",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T10:16:53.000Z",
+      "genres": [
+        "Role Playing"
       ],
       "country": "DE"
     }

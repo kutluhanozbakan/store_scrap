@@ -1,7 +1,7 @@
 {
   "country": "FR",
   "store": "google",
-  "updatedAt": "2026-02-22T12:01:39.731Z",
+  "updatedAt": "2026-02-22T19:29:59.120Z",
   "new": [
     {
       "id": "com.amelosinteractive.snake",
@@ -354,6 +354,20 @@
       "country": "FR"
     },
     {
+      "id": "com.vincentb.MobControl",
+      "name": "Mob Control",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T11:45:44.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "FR"
+    },
+    {
       "id": "com.chess",
       "name": "Chess - Play and Learn Online",
       "developer": "Chess.com",
@@ -578,6 +592,20 @@
       "country": "FR"
     },
     {
+      "id": "com.masomo.headball2",
+      "name": "Head Ball 2 - Online Soccer",
+      "developer": "Masomo Gaming",
+      "url": "https://play.google.com/store/apps/details?id=com.masomo.headball2&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/0j0dq4LmRgx4MAqp1q_AsNWAxCsv9ZRd1pmwl0UPAnai9mu5cwlEKTg66vYH9Iv_lWM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T08:18:39.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "FR"
+    },
+    {
       "id": "com.red.arrows.android",
       "name": "Arrowscapes™ - Arrows Puzzle",
       "developer": "Beijing Youyoutang Technology Co.,ltd.",
@@ -672,34 +700,6 @@
       "releaseDate": "2026-02-11T11:00:30.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "FR"
-    },
-    {
-      "id": "com.red.sortingstore.android",
-      "name": "Water Match™- ASMR Water Sort",
-      "developer": "Youyoutang Technology",
-      "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T07:52:03.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "FR"
-    },
-    {
-      "id": "com.yarnartcolorsort.com",
-      "name": "Yarn Art: Color Sort",
-      "developer": "Thalitha",
-      "url": "https://play.google.com/store/apps/details?id=com.yarnartcolorsort.com&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/7hRa__28MaP-zcPIOCsP3wANKT6bqNElwb4FXdTjtSnlmXbwicad3LteM3ktQWNXVb8OEk22ll12I1BDdcAl",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T06:04:21.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "FR"
     }
@@ -818,20 +818,6 @@
       "country": "FR"
     },
     {
-      "id": "com.wood.block.sudoku.puzzle.bm",
-      "name": "Block Crush!",
-      "developer": "Wonderful  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T13:05:41.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "FR"
-    },
-    {
       "id": "com.hitappsgames.wordsolitaire",
       "name": "Solitaire Associations Journey",
       "developer": "Hitapps Games",
@@ -842,6 +828,20 @@
       "releaseDate": "2026-02-19T13:13:38.000Z",
       "genres": [
         "Word"
+      ],
+      "country": "FR"
+    },
+    {
+      "id": "com.wood.block.sudoku.puzzle.bm",
+      "name": "Block Crush!",
+      "developer": "Wonderful  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T13:05:41.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "FR"
     },
@@ -902,20 +902,6 @@
       "country": "FR"
     },
     {
-      "id": "com.SixtyFiveProductions.ShootTheBox",
-      "name": "Shoot the Box: Gun Game",
-      "developer": "Bruh Games Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.SixtyFiveProductions.ShootTheBox&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/IwGOrGeRv2cVGlK-wfIZrmg4YFUDIi8nPojiYq18PH9T1UgoeKG7_Bu2oJxl_CkuvdplYpDbEKMzWTQ1peKhxQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T19:53:31.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "FR"
-    },
-    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
@@ -926,6 +912,20 @@
       "releaseDate": "2026-02-12T00:38:27.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "FR"
+    },
+    {
+      "id": "com.SixtyFiveProductions.ShootTheBox",
+      "name": "Shoot the Box: Gun Game",
+      "developer": "Bruh Games Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.SixtyFiveProductions.ShootTheBox&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/IwGOrGeRv2cVGlK-wfIZrmg4YFUDIi8nPojiYq18PH9T1UgoeKG7_Bu2oJxl_CkuvdplYpDbEKMzWTQ1peKhxQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T19:53:31.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "FR"
     },
@@ -1014,20 +1014,6 @@
       "country": "FR"
     },
     {
-      "id": "com.playstrom.my.sticker.room",
-      "name": "My Sticker Room - Decor Game",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/Z_DSIS6IGl9aSW67rlVKoatQLa8oc8cyiSQZ-jjkKpFc5sBao4dg4cfEhGTq5z7S3A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T14:39:09.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "FR"
-    },
-    {
       "id": "com.screenshake.dominodreams",
       "name": "Domino Dreams™",
       "developer": "SuperPlay.",
@@ -1042,6 +1028,20 @@
       "country": "FR"
     },
     {
+      "id": "com.playstrom.my.sticker.room",
+      "name": "My Sticker Room - Decor Game",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/Z_DSIS6IGl9aSW67rlVKoatQLa8oc8cyiSQZ-jjkKpFc5sBao4dg4cfEhGTq5z7S3A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T14:39:09.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "FR"
+    },
+    {
       "id": "io.supercent.linkedcubic",
       "name": "Snake Clash!",
       "developer": "Supercent, Inc.",
@@ -1052,20 +1052,6 @@
       "releaseDate": "2026-02-10T15:03:56.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "FR"
-    },
-    {
-      "id": "com.bunbunstudio.magicblocktiles",
-      "name": "Music Piano 7: Rush Song Games",
-      "developer": "Melodya Muses",
-      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T11:15:17.000Z",
-      "genres": [
-        "Music"
       ],
       "country": "FR"
     },
@@ -1112,16 +1098,16 @@
       "country": "FR"
     },
     {
-      "id": "com.scopely.monopolygo",
-      "name": "MONOPOLY GO!",
-      "developer": "Scopely",
-      "url": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g",
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-19T20:56:44.000Z",
+      "releaseDate": "2026-02-10T11:15:17.000Z",
       "genres": [
-        "Board"
+        "Music"
       ],
       "country": "FR"
     },
@@ -1140,16 +1126,16 @@
       "country": "FR"
     },
     {
-      "id": "game.bubble.physics.world",
-      "name": "3D Bubble Shoot - ASMR Game",
-      "developer": "TaTa Game Technology Limited",
-      "url": "https://play.google.com/store/apps/details?id=game.bubble.physics.world&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/fGqk06LE-9HoImJBDTvsg0RYbojHYAx9LEbOe4YBITNH-0DR0Qts9yihHinQP0C3IVQNN2BgZVo_Sh4nKlNyfA",
+      "id": "com.scopely.monopolygo",
+      "name": "MONOPOLY GO!",
+      "developer": "Scopely",
+      "url": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-02T08:15:15.000Z",
+      "releaseDate": "2026-02-19T20:56:44.000Z",
       "genres": [
-        "Casual"
+        "Board"
       ],
       "country": "FR"
     },
@@ -1162,6 +1148,34 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-12T02:48:45.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "FR"
+    },
+    {
+      "id": "find.difference.spot.differences.hidden.puzzle.games.free",
+      "name": "Differences - Find & Spot It",
+      "developer": "Guru Puzzle Game",
+      "url": "https://play.google.com/store/apps/details?id=find.difference.spot.differences.hidden.puzzle.games.free&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/RI6UJVRVGrNst-Z35o4IXsgkpVpUJNpceFNPLEsy-2nGZGxoedKv0-sNLsU_wX89cfM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T08:33:48.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "FR"
+    },
+    {
+      "id": "game.bubble.physics.world",
+      "name": "3D Bubble Shoot - ASMR Game",
+      "developer": "TaTa Game Technology Limited",
+      "url": "https://play.google.com/store/apps/details?id=game.bubble.physics.world&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/fGqk06LE-9HoImJBDTvsg0RYbojHYAx9LEbOe4YBITNH-0DR0Qts9yihHinQP0C3IVQNN2BgZVo_Sh4nKlNyfA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T08:15:15.000Z",
       "genres": [
         "Casual"
       ],
@@ -1182,14 +1196,14 @@
       "country": "FR"
     },
     {
-      "id": "find.difference.spot.differences.hidden.puzzle.games.free",
-      "name": "Differences - Find & Spot It",
-      "developer": "Guru Puzzle Game",
-      "url": "https://play.google.com/store/apps/details?id=find.difference.spot.differences.hidden.puzzle.games.free&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/RI6UJVRVGrNst-Z35o4IXsgkpVpUJNpceFNPLEsy-2nGZGxoedKv0-sNLsU_wX89cfM",
+      "id": "com.gamincat.jigsolitaire",
+      "name": "Jigsolitaire",
+      "developer": "Gamincat",
+      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-10T08:33:48.000Z",
+      "releaseDate": "2026-02-18T01:36:26.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1206,20 +1220,6 @@
       "releaseDate": "2026-02-06T18:17:22.000Z",
       "genres": [
         "Trivia"
-      ],
-      "country": "FR"
-    },
-    {
-      "id": "com.tp.pmu3d",
-      "name": "Pick Me Up 3D: Taxi Game",
-      "developer": "Azur Interactive Games Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.tp.pmu3d&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/-45mcdAUu8hi22BF8ARH7zR0CO6b7xtLs_rTLtnph_lY06aXryIM-2DYJ4kLqHoKOQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T08:36:05.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "FR"
     },
@@ -1266,16 +1266,16 @@
       "country": "FR"
     },
     {
-      "id": "com.gamincat.jigsolitaire",
-      "name": "Jigsolitaire",
-      "developer": "Gamincat",
-      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
+      "id": "com.tp.pmu3d",
+      "name": "Pick Me Up 3D: Taxi Game",
+      "developer": "Azur Interactive Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.tp.pmu3d&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/-45mcdAUu8hi22BF8ARH7zR0CO6b7xtLs_rTLtnph_lY06aXryIM-2DYJ4kLqHoKOQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-18T01:36:26.000Z",
+      "releaseDate": "2026-02-18T08:36:05.000Z",
       "genres": [
-        "Puzzle"
+        "Casual"
       ],
       "country": "FR"
     },
@@ -1294,16 +1294,16 @@
       "country": "FR"
     },
     {
-      "id": "com.monopoly.dream.idle.king",
-      "name": "Top Tycoon: Coin Theme Empire",
-      "developer": "BeheFun Games Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.monopoly.dream.idle.king&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/YSofgpw9fVAdL8ARICBntM6H2SchRLC7e-NYczRc-1I_gCQaN8U7y49ikrl3GfUYXW4",
+      "id": "com.funplus.ts.global",
+      "name": "Tiles Survive!",
+      "developer": "FunPlus International AG",
+      "url": "https://play.google.com/store/apps/details?id=com.funplus.ts.global&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/zckZa4Pytdr9QxK-Xv6XlbJo62tZV4pk3VPLBnuUXzR-pmM5nWWHUbo3MT1Lu9xxIRye",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-15T14:29:01.000Z",
+      "releaseDate": "2026-02-03T15:45:58.000Z",
       "genres": [
-        "Simulation"
+        "Strategy"
       ],
       "country": "FR"
     },
@@ -1322,30 +1322,16 @@
       "country": "FR"
     },
     {
-      "id": "gg.sunday.dog.escape.puzzle",
-      "name": "Dog Escape: Cute Pet Care Life",
-      "developer": "Sunday.gg",
-      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
+      "id": "com.monopoly.dream.idle.king",
+      "name": "Top Tycoon: Coin Theme Empire",
+      "developer": "BeheFun Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.monopoly.dream.idle.king&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/YSofgpw9fVAdL8ARICBntM6H2SchRLC7e-NYczRc-1I_gCQaN8U7y49ikrl3GfUYXW4",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T17:46:36.000Z",
+      "releaseDate": "2026-01-15T14:29:01.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "FR"
-    },
-    {
-      "id": "com.funplus.ts.global",
-      "name": "Tiles Survive!",
-      "developer": "FunPlus International AG",
-      "url": "https://play.google.com/store/apps/details?id=com.funplus.ts.global&hl=en&gl=FR",
-      "artwork": "https://play-lh.googleusercontent.com/zckZa4Pytdr9QxK-Xv6XlbJo62tZV4pk3VPLBnuUXzR-pmM5nWWHUbo3MT1Lu9xxIRye",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T15:45:58.000Z",
-      "genres": [
-        "Strategy"
       ],
       "country": "FR"
     },
@@ -1358,6 +1344,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-02T06:43:13.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "FR"
+    },
+    {
+      "id": "gg.sunday.dog.escape.puzzle",
+      "name": "Dog Escape: Cute Pet Care Life",
+      "developer": "Sunday.gg",
+      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle&hl=en&gl=FR",
+      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T17:46:36.000Z",
       "genres": [
         "Simulation"
       ],
