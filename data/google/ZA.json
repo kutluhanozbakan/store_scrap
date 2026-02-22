@@ -1,7 +1,7 @@
 {
   "country": "ZA",
   "store": "google",
-  "updatedAt": "2026-02-22T10:36:49.478Z",
+  "updatedAt": "2026-02-22T17:39:51.385Z",
   "new": [
     {
       "id": "com.roblox.client",
@@ -82,20 +82,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-20T11:25:29.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.playrix.township",
-      "name": "Township",
-      "developer": "Playrix",
-      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T17:54:54.000Z",
       "genres": [
         "Casual"
       ],
@@ -606,20 +592,6 @@
       "country": "ZA"
     },
     {
-      "id": "com.bunbunstudio.magicblocktiles",
-      "name": "Music Piano 7: Rush Song Games",
-      "developer": "Melodya Muses",
-      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T11:15:17.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "ZA"
-    },
-    {
       "id": "com.qrgame.puzzlefarm",
       "name": "Puzzle Farm",
       "developer": "COOLYA",
@@ -702,6 +674,34 @@
         "Casino"
       ],
       "country": "ZA"
+    },
+    {
+      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
+      "name": "Shoot Bubble - Pop Bubbles",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T02:18:35.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.activision.callofduty.shooter",
+      "name": "Call of Duty®: Mobile",
+      "developer": "Activision Publishing, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/cfGSXkDwxa1jW3TlhhkDJBN16-1_KEtEDhnILPcs9rXcC25g14XY6MRGCtlXHFHs0g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T23:03:57.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "ZA"
     }
   ],
   "updated": [
@@ -762,20 +762,6 @@
       "country": "ZA"
     },
     {
-      "id": "com.football.soccer.league",
-      "name": "Football League 2026",
-      "developer": "MOBILE SOCCER",
-      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T12:25:49.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "ZA"
-    },
-    {
       "id": "com.block.juggle",
       "name": "Block Blast!",
       "developer": "HungryStudio",
@@ -786,6 +772,20 @@
       "releaseDate": "2026-02-13T03:44:46.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.football.soccer.league",
+      "name": "Football League 2026",
+      "developer": "MOBILE SOCCER",
+      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T12:25:49.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "ZA"
     },
@@ -846,6 +846,20 @@
       "country": "ZA"
     },
     {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T19:40:10.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "ZA"
+    },
+    {
       "id": "com.clearblast.android",
       "name": "Clear Blast",
       "developer": "Golden Game Matrix",
@@ -902,30 +916,16 @@
       "country": "ZA"
     },
     {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "releaseDate": "2025-10-22T00:32:35.000Z",
       "genres": [
-        "Sports"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T19:40:10.000Z",
-      "genres": [
-        "Adventure"
+        "Arcade"
       ],
       "country": "ZA"
     },
@@ -944,16 +944,16 @@
       "country": "ZA"
     },
     {
-      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
-      "name": "Shoot Bubble - Pop Bubbles",
-      "developer": "IVYGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T02:18:35.000Z",
+      "releaseDate": "2026-02-03T01:41:34.000Z",
       "genres": [
-        "Casual"
+        "Sports"
       ],
       "country": "ZA"
     },
@@ -968,6 +968,20 @@
       "releaseDate": "2026-02-17T14:25:25.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
+      "name": "Shoot Bubble - Pop Bubbles",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T02:18:35.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "ZA"
     },
@@ -1014,6 +1028,20 @@
       "country": "ZA"
     },
     {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "ZA"
+    },
+    {
       "id": "casino.free.slots.slot.machines",
       "name": "Slots 777 - Slot Machine Games",
       "developer": "TINYSOFT - slots, slot machines & casino games",
@@ -1024,20 +1052,6 @@
       "releaseDate": "2026-01-28T16:01:09.000Z",
       "genres": [
         "Casino"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "ZA"
     },
@@ -1056,6 +1070,20 @@
       "country": "ZA"
     },
     {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "ZA"
+    },
+    {
       "id": "com.dsonline.jewelpopper",
       "name": "Jewel popper - Play & Win",
       "developer": "Blazing App Studio",
@@ -1066,20 +1094,6 @@
       "releaseDate": "2026-02-19T11:42:08.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.king.candycrushsaga",
-      "name": "Candy Crush Saga",
-      "developer": "King",
-      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T15:57:40.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "ZA"
     },
@@ -1098,6 +1112,20 @@
       "country": "ZA"
     },
     {
+      "id": "com.king.candycrushsaga",
+      "name": "Candy Crush Saga",
+      "developer": "King",
+      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T15:57:40.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "ZA"
+    },
+    {
       "id": "com.advant.streamer",
       "name": "Lamar - Idle Vlogger",
       "developer": "CrazyLabs LTD",
@@ -1112,16 +1140,16 @@
       "country": "ZA"
     },
     {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
+      "id": "com.playvalve.wsjourney",
+      "name": "Word Search - Word Puzzle Game",
+      "developer": "Bluetile",
+      "url": "https://play.google.com/store/apps/details?id=com.playvalve.wsjourney&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/buGx7Qx6e_M9DUqiwABScUWx-xgiUSJBURBhivVel8OdVVzqOB2F5V3Nt60Ov8Qudw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "releaseDate": "2026-02-11T16:54:00.000Z",
       "genres": [
-        "Arcade"
+        "Word"
       ],
       "country": "ZA"
     },
@@ -1154,34 +1182,6 @@
       "country": "ZA"
     },
     {
-      "id": "com.playvalve.wsjourney",
-      "name": "Word Search - Word Puzzle Game",
-      "developer": "Bluetile",
-      "url": "https://play.google.com/store/apps/details?id=com.playvalve.wsjourney&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/buGx7Qx6e_M9DUqiwABScUWx-xgiUSJBURBhivVel8OdVVzqOB2F5V3Nt60Ov8Qudw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T16:54:00.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "ball.sort.color.puz.game.puzzle",
-      "name": "Ball Sort - Color Puz Game",
-      "developer": "Infinite Joy Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=ball.sort.color.puz.game.puzzle&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/4oeX8CJbwfvyeiz3G9gSDGUku7ilvOJxC3sDaDQGZUyBJKd60F12kxB1fQPE45W1Qgc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T09:39:56.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "ZA"
-    },
-    {
       "id": "com.miniclip.eightballpool",
       "name": "8 Ball Pool",
       "developer": "Miniclip.com",
@@ -1192,6 +1192,20 @@
       "releaseDate": "2026-02-18T11:45:50.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.foosegames.brasiltuning2",
+      "name": "Brasil Tuning 2",
+      "developer": "Virtua Games - Jogo de Moto e Carro - Bike Games",
+      "url": "https://play.google.com/store/apps/details?id=com.foosegames.brasiltuning2&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/QZa5R5tuWOlZUpI_zd13Qp4iauazbqHWxZkYp2t48emxOMh1jWktFX2iQc3vY7ARoGw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-01T15:23:53.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "ZA"
     },
@@ -1210,20 +1224,6 @@
       "country": "ZA"
     },
     {
-      "id": "com.fungames.sniper3d",
-      "name": "Sniper 3D：Gun Shooting Games",
-      "developer": "Wildlife Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.fungames.sniper3d&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/8gHksx7nW7IK09ThtTM_f1Pgjblh5to4-q9pdsJQMb2zxDZ7VnFObxaihhAr-_HBf6E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T13:24:13.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "ZA"
-    },
-    {
       "id": "com.refuelgames.rally",
       "name": "Rally Fury - Extreme Racing",
       "developer": "Refuel Games Pty Ltd",
@@ -1238,6 +1238,20 @@
       "country": "ZA"
     },
     {
+      "id": "com.fungames.sniper3d",
+      "name": "Sniper 3D：Gun Shooting Games",
+      "developer": "Wildlife Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.fungames.sniper3d&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/8gHksx7nW7IK09ThtTM_f1Pgjblh5to4-q9pdsJQMb2zxDZ7VnFObxaihhAr-_HBf6E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T13:24:13.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "ZA"
+    },
+    {
       "id": "com.nordcurrent.canteenhd",
       "name": "Cooking Fever: Restaurant Game",
       "developer": "Nordcurrent Games",
@@ -1248,6 +1262,20 @@
       "releaseDate": "2025-12-09T08:44:47.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.olzhas.carparking.multyplayer",
+      "name": "Car Parking Multiplayer",
+      "developer": "olzhass",
+      "url": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/86cQqI_vflAIckhMPWltYthLFh4YnemCi5hXm0VCQe4Lbj346-jH3r6uy3lsQtpO9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-17T11:37:40.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "ZA"
     },
@@ -1280,30 +1308,16 @@
       "country": "ZA"
     },
     {
-      "id": "com.olzhas.carparking.multyplayer",
-      "name": "Car Parking Multiplayer",
-      "developer": "olzhass",
-      "url": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/86cQqI_vflAIckhMPWltYthLFh4YnemCi5hXm0VCQe4Lbj346-jH3r6uy3lsQtpO9A",
+      "id": "ball.sort.color.puz.game.puzzle",
+      "name": "Ball Sort - Color Puz Game",
+      "developer": "Infinite Joy Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=ball.sort.color.puz.game.puzzle&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/4oeX8CJbwfvyeiz3G9gSDGUku7ilvOJxC3sDaDQGZUyBJKd60F12kxB1fQPE45W1Qgc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-17T11:37:40.000Z",
+      "releaseDate": "2026-02-03T09:39:56.000Z",
       "genres": [
-        "Simulation"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.fgol.HungrySharkEvolution",
-      "name": "Hungry Shark Evolution",
-      "developer": "Ubisoft Entertainment",
-      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T02:24:08.000Z",
-      "genres": [
-        "Arcade"
+        "Puzzle"
       ],
       "country": "ZA"
     },
@@ -1322,34 +1336,6 @@
       "country": "ZA"
     },
     {
-      "id": "com.foosegames.brasiltuning2",
-      "name": "Brasil Tuning 2",
-      "developer": "Virtua Games - Jogo de Moto e Carro - Bike Games",
-      "url": "https://play.google.com/store/apps/details?id=com.foosegames.brasiltuning2&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/QZa5R5tuWOlZUpI_zd13Qp4iauazbqHWxZkYp2t48emxOMh1jWktFX2iQc3vY7ARoGw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-01T15:23:53.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.heartsnet.clickwood.gp",
-      "name": "Click Wood",
-      "developer": "Heartsnet",
-      "url": "https://play.google.com/store/apps/details?id=com.heartsnet.clickwood.gp&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/E9W-APtwIYfSjzZAKaXEvL1iJaJ5SzcDXhaLgGoUhCisAggu6CjDeDluaCZpEGe0SlCgfBhttyM2WXNaGarx",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T09:26:52.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "ZA"
-    },
-    {
       "id": "slots.pcg.casino.games.free.android",
       "name": "Cash Frenzy™ - Casino Slots",
       "developer": "SpinX Games Limited",
@@ -1360,6 +1346,20 @@
       "releaseDate": "2026-02-06T06:45:30.000Z",
       "genres": [
         "Casino"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.fgol.HungrySharkEvolution",
+      "name": "Hungry Shark Evolution",
+      "developer": "Ubisoft Entertainment",
+      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T02:24:08.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "ZA"
     },
@@ -1378,6 +1378,20 @@
       "country": "ZA"
     },
     {
+      "id": "com.heartsnet.clickwood.gp",
+      "name": "Click Wood",
+      "developer": "Heartsnet",
+      "url": "https://play.google.com/store/apps/details?id=com.heartsnet.clickwood.gp&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/E9W-APtwIYfSjzZAKaXEvL1iJaJ5SzcDXhaLgGoUhCisAggu6CjDeDluaCZpEGe0SlCgfBhttyM2WXNaGarx",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T09:26:52.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "ZA"
+    },
+    {
       "id": "com.higame.annoying.tricky.story.puzzle.game",
       "name": "Tricky Prank: Brain Quest",
       "developer": "HIGAME Studio",
@@ -1388,20 +1402,6 @@
       "releaseDate": "2026-01-26T11:11:09.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.chillingo.robberybobfree.android.row",
-      "name": "Robbery Bob - King of Sneak",
-      "developer": "Deca_Games",
-      "url": "https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/H3jfnH0UVoITHIsLUqrK5R-Gsw7_4sfzDdrND-uoZJAGQsYXCu20ccmnZcK74hYyGcY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-23T13:25:32.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "ZA"
     }
