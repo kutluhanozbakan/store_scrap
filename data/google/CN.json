@@ -1,8 +1,22 @@
 {
   "country": "CN",
   "store": "google",
-  "updatedAt": "2026-02-21T18:53:40.976Z",
+  "updatedAt": "2026-02-22T01:11:37.171Z",
   "new": [
+    {
+      "id": "com.F2Games.GBDE",
+      "name": "GoreBox",
+      "developer": "F²Games",
+      "url": "https://play.google.com/store/apps/details?id=com.F2Games.GBDE&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/q4LqkRMQR2ViHS2_BeafVkgWWsRC-pLbvGRQV8jvH71TkbduJj4kNiD8eIpOfP2niQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-21T23:47:07.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "CN"
+    },
     {
       "id": "com.digitalextremes.warframemobile",
       "name": "Warframe",
@@ -688,20 +702,6 @@
         "Simulation"
       ],
       "country": "CN"
-    },
-    {
-      "id": "games.vaveda.militaryoverturn",
-      "name": "Tower War - Tactical Conquest",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=games.vaveda.militaryoverturn&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/7G_QBBufLp71rnqfwEGF9XnF33H5wx-mD9wxpKAJvVXxcc7YCgsT4yxpT7GF7sGprf8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T18:32:37.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "CN"
     }
   ],
   "updated": [
@@ -986,20 +986,6 @@
       "country": "CN"
     },
     {
-      "id": "com.Gaggle.fun.GooseGooseDuck",
-      "name": "Goose Goose Duck",
-      "developer": "Gaggle Studios, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.Gaggle.fun.GooseGooseDuck&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/2l652ZLy6I_sz1hYKEKHxAlIt65gQfXqBSRLF3WCSxj_51_i_xUyxuRxY6r5ionKJHQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T20:25:57.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "CN"
-    },
-    {
       "id": "com.blockgamesstudio.blockworld3d",
       "name": "Block World 3D: Craft & Build",
       "developer": "Funburstgame LTD",
@@ -1010,6 +996,20 @@
       "releaseDate": "2026-02-12T09:17:30.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.Gaggle.fun.GooseGooseDuck",
+      "name": "Goose Goose Duck",
+      "developer": "Gaggle Studios, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.Gaggle.fun.GooseGooseDuck&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/2l652ZLy6I_sz1hYKEKHxAlIt65gQfXqBSRLF3WCSxj_51_i_xUyxuRxY6r5ionKJHQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T20:25:57.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "CN"
     },
