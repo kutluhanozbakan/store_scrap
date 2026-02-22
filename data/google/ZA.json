@@ -1,7 +1,7 @@
 {
   "country": "ZA",
   "store": "google",
-  "updatedAt": "2026-02-22T17:39:51.385Z",
+  "updatedAt": "2026-02-22T23:36:28.895Z",
   "new": [
     {
       "id": "com.roblox.client",
@@ -82,6 +82,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-20T11:25:29.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.playrix.township",
+      "name": "Township",
+      "developer": "Playrix",
+      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T17:54:54.000Z",
       "genres": [
         "Casual"
       ],
@@ -190,7 +204,7 @@
       "name": "MadOut 2: Grand Auto Racing",
       "developer": "MadOut Games LLC FZ",
       "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/a6mEbkdGPhITywMJGgrewJX7ShNXUEZ9PeVO-A2QhqGdW-QhVVmjn11n6Tg9GqVh3-o",
+      "artwork": "https://play-lh.googleusercontent.com/dYeAjuPFJGv-XfIiKEzuR6ACSG-4pBjs31DZcjn_qRoQ2WfMzm5iKFKNLEjGERYQ6Cn-",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-19T07:16:00.000Z",
@@ -592,6 +606,20 @@
       "country": "ZA"
     },
     {
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T11:15:17.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "ZA"
+    },
+    {
       "id": "com.qrgame.puzzlefarm",
       "name": "Puzzle Farm",
       "developer": "COOLYA",
@@ -674,34 +702,6 @@
         "Casino"
       ],
       "country": "ZA"
-    },
-    {
-      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
-      "name": "Shoot Bubble - Pop Bubbles",
-      "developer": "IVYGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T02:18:35.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.activision.callofduty.shooter",
-      "name": "Call of Duty®: Mobile",
-      "developer": "Activision Publishing, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/cfGSXkDwxa1jW3TlhhkDJBN16-1_KEtEDhnILPcs9rXcC25g14XY6MRGCtlXHFHs0g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T23:03:57.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "ZA"
     }
   ],
   "updated": [
@@ -762,20 +762,6 @@
       "country": "ZA"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T03:44:46.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "ZA"
-    },
-    {
       "id": "com.football.soccer.league",
       "name": "Football League 2026",
       "developer": "MOBILE SOCCER",
@@ -786,6 +772,20 @@
       "releaseDate": "2026-02-11T12:25:49.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T03:44:46.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "ZA"
     },
@@ -916,6 +916,20 @@
       "country": "ZA"
     },
     {
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "ZA"
+    },
+    {
       "id": "com.PlayMax.playergames",
       "name": "Stickman Party 234 MiniGames",
       "developer": "PlayMax Game Studio",
@@ -940,20 +954,6 @@
       "releaseDate": "2026-02-12T00:38:27.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "ZA"
     },
@@ -1056,20 +1056,6 @@
       "country": "ZA"
     },
     {
-      "id": "games.joker.drop.poly",
-      "name": "Drop Balls - Plink Balls",
-      "developer": "Joker Game",
-      "url": "https://play.google.com/store/apps/details?id=games.joker.drop.poly&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/85Aj6v6s_BscJyOiU9Bfvuv-v_U8-IPZ9WS3x8e4GHXsUo3hwZmI9IQRCEn2gnwMZuvw1wvkQ_qiMTLpAE4_vg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T13:47:27.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "ZA"
-    },
-    {
       "id": "com.ta.strike.ops",
       "name": "FPS Strike Ops : Modern Arena",
       "developer": "FPS Shooter & Action Game",
@@ -1080,6 +1066,20 @@
       "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "games.joker.drop.poly",
+      "name": "Drop Balls - Plink Balls",
+      "developer": "Joker Game",
+      "url": "https://play.google.com/store/apps/details?id=games.joker.drop.poly&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/85Aj6v6s_BscJyOiU9Bfvuv-v_U8-IPZ9WS3x8e4GHXsUo3hwZmI9IQRCEn2gnwMZuvw1wvkQ_qiMTLpAE4_vg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T13:47:27.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "ZA"
     },
@@ -1196,20 +1196,6 @@
       "country": "ZA"
     },
     {
-      "id": "com.foosegames.brasiltuning2",
-      "name": "Brasil Tuning 2",
-      "developer": "Virtua Games - Jogo de Moto e Carro - Bike Games",
-      "url": "https://play.google.com/store/apps/details?id=com.foosegames.brasiltuning2&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/QZa5R5tuWOlZUpI_zd13Qp4iauazbqHWxZkYp2t48emxOMh1jWktFX2iQc3vY7ARoGw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-01T15:23:53.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "ZA"
-    },
-    {
       "id": "com.gamovation.tileclub",
       "name": "Tile Club - Match Puzzle Game",
       "developer": "GamoVation",
@@ -1220,6 +1206,20 @@
       "releaseDate": "2026-01-07T10:41:36.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.foosegames.brasiltuning2",
+      "name": "Brasil Tuning 2",
+      "developer": "Virtua Games - Jogo de Moto e Carro - Bike Games",
+      "url": "https://play.google.com/store/apps/details?id=com.foosegames.brasiltuning2&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/QZa5R5tuWOlZUpI_zd13Qp4iauazbqHWxZkYp2t48emxOMh1jWktFX2iQc3vY7ARoGw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-01T15:23:53.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "ZA"
     },
@@ -1294,20 +1294,6 @@
       "country": "ZA"
     },
     {
-      "id": "net.peakgames.toonblast",
-      "name": "Toon Blast",
-      "developer": "Peak",
-      "url": "https://play.google.com/store/apps/details?id=net.peakgames.toonblast&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/x9oRbQI97H4tgr83GigLTcLHARlZBkQ4R9z3AHva-P8GeOGoqu4gCKk4MNDzEoRq_RU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T16:16:19.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "ZA"
-    },
-    {
       "id": "ball.sort.color.puz.game.puzzle",
       "name": "Ball Sort - Color Puz Game",
       "developer": "Infinite Joy Ltd.",
@@ -1316,6 +1302,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-03T09:39:56.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "net.peakgames.toonblast",
+      "name": "Toon Blast",
+      "developer": "Peak",
+      "url": "https://play.google.com/store/apps/details?id=net.peakgames.toonblast&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/x9oRbQI97H4tgr83GigLTcLHARlZBkQ4R9z3AHva-P8GeOGoqu4gCKk4MNDzEoRq_RU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T16:16:19.000Z",
       "genres": [
         "Puzzle"
       ],
