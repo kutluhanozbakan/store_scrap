@@ -1,7 +1,7 @@
 {
   "country": "MA",
   "store": "google",
-  "updatedAt": "2026-02-22T14:31:28.931Z",
+  "updatedAt": "2026-02-22T21:11:58.841Z",
   "new": [
     {
       "id": "com.creations.runnergame",
@@ -42,20 +42,6 @@
       "releaseDate": "2026-02-20T19:40:10.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.playspare.supermarket.store.simulator",
-      "name": "My Supermarket Simulator 3D®",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.playspare.supermarket.store.simulator&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/_3bSch4-OCdqN3MbOWC6J_qNtWoj2LpZ8Dk792MHfnixByQ_7tmhf_BQ0inbdCPg6g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T15:04:23.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "MA"
     },
@@ -148,7 +134,7 @@
       "name": "MadOut 2: Grand Auto Racing",
       "developer": "MadOut Games LLC FZ",
       "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/a6mEbkdGPhITywMJGgrewJX7ShNXUEZ9PeVO-A2QhqGdW-QhVVmjn11n6Tg9GqVh3-o",
+      "artwork": "https://play-lh.googleusercontent.com/dYeAjuPFJGv-XfIiKEzuR6ACSG-4pBjs31DZcjn_qRoQ2WfMzm5iKFKNLEjGERYQ6Cn-",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-19T07:16:00.000Z",
@@ -702,6 +688,20 @@
         "Casual"
       ],
       "country": "MA"
+    },
+    {
+      "id": "com.media720.games2020.two.player.offline.games",
+      "name": "2 Player Games Offline - 1234",
+      "developer": "Fun Offline Games",
+      "url": "https://play.google.com/store/apps/details?id=com.media720.games2020.two.player.offline.games&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/T39i7aWPxL0dlvVak3IXPV59qCQnVMFLNbU5ULEmPvkiKr6mmUle7bsL59VvxScAbQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T18:17:10.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "MA"
     }
   ],
   "updated": [
@@ -1140,20 +1140,6 @@
       "country": "MA"
     },
     {
-      "id": "com.fgol.HungrySharkEvolution",
-      "name": "Hungry Shark Evolution",
-      "developer": "Ubisoft Entertainment",
-      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T02:24:08.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "MA"
-    },
-    {
       "id": "com.LinkedSquad.SchoolBoyRunaway",
       "name": "SCHOOLBOY RUNAWAY - STEALTH",
       "developer": "Linked Squad",
@@ -1182,16 +1168,16 @@
       "country": "MA"
     },
     {
-      "id": "com.imangi.templerun2",
-      "name": "Temple Run 2: Endless Escape",
-      "developer": "Imangi Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
+      "id": "com.fgol.HungrySharkEvolution",
+      "name": "Hungry Shark Evolution",
+      "developer": "Ubisoft Entertainment",
+      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-17T14:25:25.000Z",
+      "releaseDate": "2026-02-09T02:24:08.000Z",
       "genres": [
-        "Action"
+        "Arcade"
       ],
       "country": "MA"
     },
@@ -1210,11 +1196,25 @@
       "country": "MA"
     },
     {
+      "id": "com.imangi.templerun2",
+      "name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T14:25:25.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "MA"
+    },
+    {
       "id": "com.MadOut.BIG",
       "name": "MadOut 2: Grand Auto Racing",
       "developer": "MadOut Games LLC FZ",
       "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/a6mEbkdGPhITywMJGgrewJX7ShNXUEZ9PeVO-A2QhqGdW-QhVVmjn11n6Tg9GqVh3-o",
+      "artwork": "https://play-lh.googleusercontent.com/dYeAjuPFJGv-XfIiKEzuR6ACSG-4pBjs31DZcjn_qRoQ2WfMzm5iKFKNLEjGERYQ6Cn-",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-19T07:16:00.000Z",
@@ -1234,34 +1234,6 @@
       "releaseDate": "2026-01-23T14:51:45.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.bunbunstudio.magicblocktiles",
-      "name": "Music Piano 7: Rush Song Games",
-      "developer": "Melodya Muses",
-      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T11:15:17.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.outfit7.mytalkingtom2",
-      "name": "My Talking Tom 2",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T11:25:29.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "MA"
     },
@@ -1294,16 +1266,30 @@
       "country": "MA"
     },
     {
-      "id": "com.ig.supermarket.simulator",
-      "name": "Supermarket Simulator Store",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.ig.supermarket.simulator&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/3qJyMUPDYMZ_iN-xxIs1LZf5aA-3zfbWJmWljHIvIxNG5wwbYvNqdgLkJL6G3TJ3Iw",
+      "id": "com.outfit7.mytalkingtom2",
+      "name": "My Talking Tom 2",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-11-03T09:00:06.000Z",
+      "releaseDate": "2026-02-20T11:25:29.000Z",
       "genres": [
-        "Simulation"
+        "Casual"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T11:15:17.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "MA"
     },
@@ -1322,20 +1308,6 @@
       "country": "MA"
     },
     {
-      "id": "com.id.gun.shooting.games",
-      "name": "Gun Games FPS Shooting Games",
-      "developer": "Interactive Dreams Inc",
-      "url": "https://play.google.com/store/apps/details?id=com.id.gun.shooting.games&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/rGDRjIGiAtxqczCRz1T1_Eytrlmg0rmY4ZHpl5TgCeP7QzGhsvAgj0WVXxY9WvDdQLwJ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T11:59:45.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "MA"
-    },
-    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -1346,6 +1318,34 @@
       "releaseDate": "2026-02-18T15:19:09.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.ig.supermarket.simulator",
+      "name": "Supermarket Simulator Store",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.ig.supermarket.simulator&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/3qJyMUPDYMZ_iN-xxIs1LZf5aA-3zfbWJmWljHIvIxNG5wwbYvNqdgLkJL6G3TJ3Iw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-03T09:00:06.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.id.gun.shooting.games",
+      "name": "Gun Games FPS Shooting Games",
+      "developer": "Interactive Dreams Inc",
+      "url": "https://play.google.com/store/apps/details?id=com.id.gun.shooting.games&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/rGDRjIGiAtxqczCRz1T1_Eytrlmg0rmY4ZHpl5TgCeP7QzGhsvAgj0WVXxY9WvDdQLwJ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T11:59:45.000Z",
+      "genres": [
+        "Role Playing"
       ],
       "country": "MA"
     },
