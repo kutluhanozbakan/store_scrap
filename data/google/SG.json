@@ -1,7 +1,7 @@
 {
   "country": "SG",
   "store": "google",
-  "updatedAt": "2026-02-22T15:56:26.828Z",
+  "updatedAt": "2026-02-22T22:37:11.618Z",
   "new": [
     {
       "id": "com.roblox.client",
@@ -410,6 +410,20 @@
       "country": "SG"
     },
     {
+      "id": "com.readygo.dark.gp",
+      "name": "Dark War Survival",
+      "developer": "Florere Game",
+      "url": "https://play.google.com/store/apps/details?id=com.readygo.dark.gp&hl=en&gl=SG",
+      "artwork": "https://play-lh.googleusercontent.com/tDRSxFkEK59P1UigJ2u7Yy-QKTG-CiTWbztHzMUmfOEnyhEdX_6ilsqgyauDaDjitw8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T14:48:15.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "SG"
+    },
+    {
       "id": "com.wood.block.sudoku.puzzle.bm",
       "name": "Block Crush!",
       "developer": "Wonderful  Studio",
@@ -688,20 +702,6 @@
         "Puzzle"
       ],
       "country": "SG"
-    },
-    {
-      "id": "com.bunbunstudio.magicblocktiles",
-      "name": "Music Piano 7: Rush Song Games",
-      "developer": "Melodya Muses",
-      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=SG",
-      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T11:15:17.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "SG"
     }
   ],
   "updated": [
@@ -748,20 +748,6 @@
       "country": "SG"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=SG",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T03:44:46.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "SG"
-    },
-    {
       "id": "com.roblox.client",
       "name": "Roblox",
       "developer": "Roblox Corporation",
@@ -772,6 +758,20 @@
       "releaseDate": "2026-02-20T19:40:10.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "SG"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=SG",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T03:44:46.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "SG"
     },
@@ -1084,6 +1084,34 @@
       "country": "SG"
     },
     {
+      "id": "com.playrix.township",
+      "name": "Township",
+      "developer": "Playrix",
+      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=SG",
+      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T17:54:54.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "SG"
+    },
+    {
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=SG",
+      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T11:15:17.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "SG"
+    },
+    {
       "id": "com.fun.lastwar.gp",
       "name": "Last War:Survival Game",
       "developer": "FUNFLY PTE. LTD.",
@@ -1112,20 +1140,6 @@
       "country": "SG"
     },
     {
-      "id": "com.bunbunstudio.magicblocktiles",
-      "name": "Music Piano 7: Rush Song Games",
-      "developer": "Melodya Muses",
-      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=SG",
-      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T11:15:17.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "SG"
-    },
-    {
       "id": "com.king.candycrushsaga",
       "name": "Candy Crush Saga",
       "developer": "King",
@@ -1148,20 +1162,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-12T02:48:45.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "SG"
-    },
-    {
-      "id": "com.playrix.township",
-      "name": "Township",
-      "developer": "Playrix",
-      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=SG",
-      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T17:54:54.000Z",
       "genres": [
         "Casual"
       ],
@@ -1238,20 +1238,6 @@
       "country": "SG"
     },
     {
-      "id": "com.fc.goods.sort.matching.puzzle.triplemaster",
-      "name": "Goods Puzzle: Sort Challenge™",
-      "developer": "FALCON GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.fc.goods.sort.matching.puzzle.triplemaster&hl=en&gl=SG",
-      "artwork": "https://play-lh.googleusercontent.com/F4r_imTe0hKKnVfrOUxbS8oumI6LpU-UgFbOW0VHoYQ_FnrcXq0p3QRR96u5wNANm2A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T11:00:30.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "SG"
-    },
-    {
       "id": "com.brain.logic.joygame",
       "name": "Brain Puzzle 2: Logic Twist",
       "developer": "JoyGame Studio",
@@ -1260,6 +1246,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-09T09:12:45.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "SG"
+    },
+    {
+      "id": "com.fc.goods.sort.matching.puzzle.triplemaster",
+      "name": "Goods Puzzle: Sort Challenge™",
+      "developer": "FALCON GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.fc.goods.sort.matching.puzzle.triplemaster&hl=en&gl=SG",
+      "artwork": "https://play-lh.googleusercontent.com/F4r_imTe0hKKnVfrOUxbS8oumI6LpU-UgFbOW0VHoYQ_FnrcXq0p3QRR96u5wNANm2A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T11:00:30.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1308,16 +1308,16 @@
       "country": "SG"
     },
     {
-      "id": "com.chess",
-      "name": "Chess - Play and Learn Online",
-      "developer": "Chess.com",
-      "url": "https://play.google.com/store/apps/details?id=com.chess&hl=en&gl=SG",
-      "artwork": "https://play-lh.googleusercontent.com/a7R5nyeaX8lIEWdBOxjlvbyq9LcFwh3XMvNtBPEKR3LPGgdvgGrec4sJwn8tUaaSkw",
+      "id": "com.openmygame.games.android.jigsaw.solitaire.puzzle",
+      "name": "Cardscapes: Jigsaw Puzzle",
+      "developer": "Malpa Games",
+      "url": "https://play.google.com/store/apps/details?id=com.openmygame.games.android.jigsaw.solitaire.puzzle&hl=en&gl=SG",
+      "artwork": "https://play-lh.googleusercontent.com/vf8KzfHG1J7oCp9O-FoSNKMc-Gzjnhw4_7su1RsB4pdF6JARn3vy-xqhwqyj3nowJmdrN-HI0dHfg5vnMJc_ro8",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-17T10:37:51.000Z",
+      "releaseDate": "2026-02-20T16:43:57.000Z",
       "genres": [
-        "Board"
+        "Puzzle"
       ],
       "country": "SG"
     },
@@ -1336,16 +1336,16 @@
       "country": "SG"
     },
     {
-      "id": "com.vincentb.MobControl",
-      "name": "Mob Control",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=SG",
-      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
+      "id": "com.chess",
+      "name": "Chess - Play and Learn Online",
+      "developer": "Chess.com",
+      "url": "https://play.google.com/store/apps/details?id=com.chess&hl=en&gl=SG",
+      "artwork": "https://play-lh.googleusercontent.com/a7R5nyeaX8lIEWdBOxjlvbyq9LcFwh3XMvNtBPEKR3LPGgdvgGrec4sJwn8tUaaSkw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-17T11:45:44.000Z",
+      "releaseDate": "2026-02-17T10:37:51.000Z",
       "genres": [
-        "Arcade"
+        "Board"
       ],
       "country": "SG"
     },
@@ -1358,6 +1358,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-11T10:52:55.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "SG"
+    },
+    {
+      "id": "com.vincentb.MobControl",
+      "name": "Mob Control",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=SG",
+      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T11:45:44.000Z",
       "genres": [
         "Arcade"
       ],
@@ -1386,20 +1400,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-03T13:34:39.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "SG"
-    },
-    {
-      "id": "com.openmygame.games.android.jigsaw.solitaire.puzzle",
-      "name": "Cardscapes: Jigsaw Puzzle",
-      "developer": "Malpa Games",
-      "url": "https://play.google.com/store/apps/details?id=com.openmygame.games.android.jigsaw.solitaire.puzzle&hl=en&gl=SG",
-      "artwork": "https://play-lh.googleusercontent.com/vf8KzfHG1J7oCp9O-FoSNKMc-Gzjnhw4_7su1RsB4pdF6JARn3vy-xqhwqyj3nowJmdrN-HI0dHfg5vnMJc_ro8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T16:43:57.000Z",
       "genres": [
         "Puzzle"
       ],

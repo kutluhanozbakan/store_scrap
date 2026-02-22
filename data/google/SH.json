@@ -1,7 +1,7 @@
 {
   "country": "SH",
   "store": "google",
-  "updatedAt": "2026-02-22T15:56:26.991Z",
+  "updatedAt": "2026-02-22T22:37:11.055Z",
   "new": [
     {
       "id": "com.flightsimulator.airplane3d.airportsimulator.airplane.flying",
@@ -204,7 +204,7 @@
       "name": "MadOut 2: Grand Auto Racing",
       "developer": "MadOut Games LLC FZ",
       "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=SH",
-      "artwork": "https://play-lh.googleusercontent.com/a6mEbkdGPhITywMJGgrewJX7ShNXUEZ9PeVO-A2QhqGdW-QhVVmjn11n6Tg9GqVh3-o",
+      "artwork": "https://play-lh.googleusercontent.com/dYeAjuPFJGv-XfIiKEzuR6ACSG-4pBjs31DZcjn_qRoQ2WfMzm5iKFKNLEjGERYQ6Cn-",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-19T07:16:00.000Z",
@@ -748,20 +748,6 @@
       "country": "SH"
     },
     {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=SH",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T15:11:48.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "SH"
-    },
-    {
       "id": "com.dts.freefireth",
       "name": "Free Fire x JUJUTSU KAISEN",
       "developer": "GARENA INTERNATIONAL I",
@@ -772,6 +758,20 @@
       "releaseDate": "2026-02-04T06:43:26.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "SH"
+    },
+    {
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=SH",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T15:11:48.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "SH"
     },
@@ -930,20 +930,6 @@
       "country": "SH"
     },
     {
-      "id": "io.voodoo.holeio",
-      "name": "Hole.io",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=SH",
-      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T10:53:41.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "SH"
-    },
-    {
       "id": "com.vincentb.MobControl",
       "name": "Mob Control",
       "developer": "VOODOO",
@@ -972,16 +958,30 @@
       "country": "SH"
     },
     {
-      "id": "com.tencent.ig",
-      "name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=SH",
-      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=SH",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-29T01:31:07.000Z",
+      "releaseDate": "2026-02-13T10:53:41.000Z",
       "genres": [
-        "Action"
+        "Arcade"
+      ],
+      "country": "SH"
+    },
+    {
+      "id": "com.Earthkwak.Platformer",
+      "name": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=en&gl=SH",
+      "artwork": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-26T09:16:49.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "SH"
     },
@@ -1000,16 +1000,16 @@
       "country": "SH"
     },
     {
-      "id": "com.Earthkwak.Platformer",
-      "name": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=en&gl=SH",
-      "artwork": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
+      "id": "com.tencent.ig",
+      "name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=SH",
+      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-11-26T09:16:49.000Z",
+      "releaseDate": "2025-12-29T01:31:07.000Z",
       "genres": [
-        "Adventure"
+        "Action"
       ],
       "country": "SH"
     },
@@ -1084,20 +1084,6 @@
       "country": "SH"
     },
     {
-      "id": "com.soccer.score.star",
-      "name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=SH",
-      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:32:33.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "SH"
-    },
-    {
       "id": "com.blockgamesstudio.blockworld3d",
       "name": "Block World 3D: Craft & Build",
       "developer": "Funburstgame LTD",
@@ -1122,6 +1108,20 @@
       "releaseDate": "2026-01-23T06:55:58.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "SH"
+    },
+    {
+      "id": "com.soccer.score.star",
+      "name": "Soccer Superstar",
+      "developer": "Real Freestyle Soccer",
+      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=SH",
+      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T15:32:33.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "SH"
     },
@@ -1154,20 +1154,6 @@
       "country": "SH"
     },
     {
-      "id": "com.playstrom.my.sticker.room",
-      "name": "My Sticker Room - Decor Game",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=SH",
-      "artwork": "https://play-lh.googleusercontent.com/Z_DSIS6IGl9aSW67rlVKoatQLa8oc8cyiSQZ-jjkKpFc5sBao4dg4cfEhGTq5z7S3A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T14:39:09.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "SH"
-    },
-    {
       "id": "com.uc.gym.clicker",
       "name": "Gym Idle Clicker: Fitness Hero",
       "developer": "Unicorn Studio Official",
@@ -1178,6 +1164,20 @@
       "releaseDate": "2026-02-04T03:20:44.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "SH"
+    },
+    {
+      "id": "com.playstrom.my.sticker.room",
+      "name": "My Sticker Room - Decor Game",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=SH",
+      "artwork": "https://play-lh.googleusercontent.com/Z_DSIS6IGl9aSW67rlVKoatQLa8oc8cyiSQZ-jjkKpFc5sBao4dg4cfEhGTq5z7S3A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T14:39:09.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "SH"
     },
@@ -1210,20 +1210,6 @@
       "country": "SH"
     },
     {
-      "id": "com.firsttouchgames.dls7",
-      "name": "Dream League Soccer 2026",
-      "developer": "First Touch Games Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=SH",
-      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T17:30:32.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "SH"
-    },
-    {
       "id": "com.sh.fidget.toys.mini.relaxing.antistress.games",
       "name": "Mini Relaxing Game- pop it",
       "developer": "Game District LLC",
@@ -1234,6 +1220,20 @@
       "releaseDate": "2026-02-20T09:21:18.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "SH"
+    },
+    {
+      "id": "com.firsttouchgames.dls7",
+      "name": "Dream League Soccer 2026",
+      "developer": "First Touch Games Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=SH",
+      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T17:30:32.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "SH"
     },
@@ -1252,16 +1252,16 @@
       "country": "SH"
     },
     {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast: Wonders",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=SH",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "id": "com.dino.race.master",
+      "name": "Car Race",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=SH",
+      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-12T15:11:54.000Z",
+      "releaseDate": "2026-01-09T02:55:19.000Z",
       "genres": [
-        "Board"
+        "Racing"
       ],
       "country": "SH"
     },
@@ -1276,20 +1276,6 @@
       "releaseDate": "2026-02-05T11:14:24.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "SH"
-    },
-    {
-      "id": "com.dino.race.master",
-      "name": "Car Race",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=SH",
-      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-09T02:55:19.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "SH"
     },
@@ -1322,20 +1308,6 @@
       "country": "SH"
     },
     {
-      "id": "com.rioo.runnersubway",
-      "name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=SH",
-      "artwork": "https://play-lh.googleusercontent.com/hZsC5eP05OC3HeGuOVivBgsCTQZIqkm-6rViFTNuimz_wtxOtZIEM0zLodtkw1QZLg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T01:29:03.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "SH"
-    },
-    {
       "id": "com.outfit7.mytalkingangela2",
       "name": "My Talking Angela 2",
       "developer": "Outfit7 Limited",
@@ -1350,16 +1322,16 @@
       "country": "SH"
     },
     {
-      "id": "com.creations.runnergame",
-      "name": "Kooply Run™: Play and Create!",
-      "developer": "KOOPLY",
-      "url": "https://play.google.com/store/apps/details?id=com.creations.runnergame&hl=en&gl=SH",
-      "artwork": "https://play-lh.googleusercontent.com/gMwKsn2RI__kMbkcH3Ta6JljGJnHdcZaZ_FDpIVUfQXjv9hhoiVLy_WCUQPJI766IQ",
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast: Wonders",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=SH",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-22T10:25:55.000Z",
+      "releaseDate": "2026-02-12T15:11:54.000Z",
       "genres": [
-        "Arcade"
+        "Board"
       ],
       "country": "SH"
     },
@@ -1378,6 +1350,34 @@
       "country": "SH"
     },
     {
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=SH",
+      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T11:15:17.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "SH"
+    },
+    {
+      "id": "com.rioo.runnersubway",
+      "name": "Subway Princess Runner",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=SH",
+      "artwork": "https://play-lh.googleusercontent.com/hZsC5eP05OC3HeGuOVivBgsCTQZIqkm-6rViFTNuimz_wtxOtZIEM0zLodtkw1QZLg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T01:29:03.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "SH"
+    },
+    {
       "id": "com.aim.racing",
       "name": "Extreme Car Driving Simulator",
       "developer": "AxesInMotion Racing",
@@ -1392,16 +1392,16 @@
       "country": "SH"
     },
     {
-      "id": "com.bunbunstudio.magicblocktiles",
-      "name": "Music Piano 7: Rush Song Games",
-      "developer": "Melodya Muses",
-      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=SH",
-      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
+      "id": "com.brain.logic.joygame",
+      "name": "Brain Puzzle 2: Logic Twist",
+      "developer": "JoyGame Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.brain.logic.joygame&hl=en&gl=SH",
+      "artwork": "https://play-lh.googleusercontent.com/q19v_2ZYEOdWOt6ABAVCl10zHrft5qkChjAwxtByGKxJxE3gNULQGf3BwsCYVJk4Jbhf",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-10T11:15:17.000Z",
+      "releaseDate": "2026-02-09T09:12:45.000Z",
       "genres": [
-        "Music"
+        "Puzzle"
       ],
       "country": "SH"
     }
