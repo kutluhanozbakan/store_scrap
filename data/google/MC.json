@@ -1,7 +1,7 @@
 {
   "country": "MC",
   "store": "google",
-  "updatedAt": "2026-02-21T20:39:19.600Z",
+  "updatedAt": "2026-02-22T07:48:21.100Z",
   "new": [
     {
       "id": "com.amelosinteractive.snake",
@@ -662,20 +662,6 @@
       "country": "MC"
     },
     {
-      "id": "com.magic.cyber.piano.tiles.edm.musicgames",
-      "name": "Pop Piano: Music Games",
-      "developer": "Cobby Labs",
-      "url": "https://play.google.com/store/apps/details?id=com.magic.cyber.piano.tiles.edm.musicgames&hl=en&gl=MC",
-      "artwork": "https://play-lh.googleusercontent.com/11xNmRHrdqkAEJCotsiisr47VaK4Q4CMeJHkungv4S18mijkBXFDOiESYel8hvLl9Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T14:18:37.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "MC"
-    },
-    {
       "id": "com.mergegames.gossipharbor",
       "name": "Gossip Harbor®: Merge & Story",
       "developer": "Microfun Limited",
@@ -700,6 +686,20 @@
       "releaseDate": "2026-02-10T11:39:50.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "MC"
+    },
+    {
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=MC",
+      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T11:15:17.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "MC"
     }
@@ -1098,20 +1098,6 @@
       "country": "MC"
     },
     {
-      "id": "com.rubygames.assassin",
-      "name": "Hunter Assassin",
-      "developer": "Ruby Games AS",
-      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=MC",
-      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-08T14:09:08.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "MC"
-    },
-    {
       "id": "com.xgame.VehicleDriving3D",
       "name": "Real Driving: Vehicle & Park",
       "developer": "XGAME STUDIO",
@@ -1154,16 +1140,16 @@
       "country": "MC"
     },
     {
-      "id": "com.uc.gym.clicker",
-      "name": "Gym Idle Clicker: Fitness Hero",
-      "developer": "Unicorn Studio Official",
-      "url": "https://play.google.com/store/apps/details?id=com.uc.gym.clicker&hl=en&gl=MC",
-      "artwork": "https://play-lh.googleusercontent.com/9uzA6qLx2gFUnbq-gxvn2ZZeTweHsZFGvO1kurRydMEWIpwf9q5ATOPzsg2aGgYuvWM",
+      "id": "com.rubygames.assassin",
+      "name": "Hunter Assassin",
+      "developer": "Ruby Games AS",
+      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=MC",
+      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T03:20:44.000Z",
+      "releaseDate": "2026-02-08T14:09:08.000Z",
       "genres": [
-        "Casual"
+        "Action"
       ],
       "country": "MC"
     },
@@ -1178,6 +1164,34 @@
       "releaseDate": "2026-02-03T09:09:20.000Z",
       "genres": [
         "Strategy"
+      ],
+      "country": "MC"
+    },
+    {
+      "id": "com.uc.gym.clicker",
+      "name": "Gym Idle Clicker: Fitness Hero",
+      "developer": "Unicorn Studio Official",
+      "url": "https://play.google.com/store/apps/details?id=com.uc.gym.clicker&hl=en&gl=MC",
+      "artwork": "https://play-lh.googleusercontent.com/9uzA6qLx2gFUnbq-gxvn2ZZeTweHsZFGvO1kurRydMEWIpwf9q5ATOPzsg2aGgYuvWM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T03:20:44.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MC"
+    },
+    {
+      "id": "com.playstrom.my.sticker.room",
+      "name": "My Sticker Room - Decor Game",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=MC",
+      "artwork": "https://play-lh.googleusercontent.com/Z_DSIS6IGl9aSW67rlVKoatQLa8oc8cyiSQZ-jjkKpFc5sBao4dg4cfEhGTq5z7S3A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T14:39:09.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "MC"
     },
@@ -1262,20 +1276,6 @@
       "releaseDate": "2026-02-05T17:30:32.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "MC"
-    },
-    {
-      "id": "com.playstrom.my.sticker.room",
-      "name": "My Sticker Room - Decor Game",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=MC",
-      "artwork": "https://play-lh.googleusercontent.com/Z_DSIS6IGl9aSW67rlVKoatQLa8oc8cyiSQZ-jjkKpFc5sBao4dg4cfEhGTq5z7S3A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T14:39:09.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "MC"
     },
