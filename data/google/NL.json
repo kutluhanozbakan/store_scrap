@@ -1,7 +1,7 @@
 {
   "country": "NL",
   "store": "google",
-  "updatedAt": "2026-02-21T21:32:27.576Z",
+  "updatedAt": "2026-02-22T08:17:03.574Z",
   "new": [
     {
       "id": "com.roblox.client",
@@ -28,6 +28,20 @@
       "releaseDate": "2026-02-20T19:08:48.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "NL"
+    },
+    {
+      "id": "com.loomgames.pixelflow",
+      "name": "Pixel Flow!",
+      "developer": "Loom Games A.Ş.",
+      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T18:03:29.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "NL"
     },
@@ -278,20 +292,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-17T18:59:47.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "NL"
-    },
-    {
-      "id": "com.loomgames.pixelflow",
-      "name": "Pixel Flow!",
-      "developer": "Loom Games A.Ş.",
-      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T13:19:01.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -888,20 +888,6 @@
       "country": "NL"
     },
     {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T15:03:56.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "NL"
-    },
-    {
       "id": "com.superplaystudios.disneysolitairedreams",
       "name": "Disney Solitaire",
       "developer": "SuperPlay.",
@@ -916,16 +902,16 @@
       "country": "NL"
     },
     {
-      "id": "com.loomgames.pixelflow",
-      "name": "Pixel Flow!",
-      "developer": "Loom Games A.Ş.",
-      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-17T13:19:01.000Z",
+      "releaseDate": "2026-02-10T15:03:56.000Z",
       "genres": [
-        "Puzzle"
+        "Arcade"
       ],
       "country": "NL"
     },
@@ -940,6 +926,20 @@
       "releaseDate": "2026-02-12T00:38:27.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "NL"
+    },
+    {
+      "id": "com.loomgames.pixelflow",
+      "name": "Pixel Flow!",
+      "developer": "Loom Games A.Ş.",
+      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T18:03:29.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "NL"
     },
@@ -1084,6 +1084,20 @@
       "country": "NL"
     },
     {
+      "id": "com.robtopx.geometryjumplite",
+      "name": "Geometry Dash Lite",
+      "developer": "RobTop Games",
+      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T14:03:50.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "NL"
+    },
+    {
       "id": "com.fatmerge.global",
       "name": "Tasty Travels: Merge Game",
       "developer": "Century Games PTE. LTD.",
@@ -1122,20 +1136,6 @@
       "releaseDate": "2026-01-15T14:29:01.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "NL"
-    },
-    {
-      "id": "com.robtopx.geometryjumplite",
-      "name": "Geometry Dash Lite",
-      "developer": "RobTop Games",
-      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T14:03:50.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "NL"
     },
@@ -1224,20 +1224,6 @@
       "country": "NL"
     },
     {
-      "id": "com.higame.brain.twist.tricky.puzzle",
-      "name": "Prison Puzzle: Brain Twist",
-      "developer": "HIGAME LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.higame.brain.twist.tricky.puzzle&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/D98i4j50j9-2uH6S0ogm6KKUfq4qyZHo5XLzumjxIpe_Y-CJHSO1Bf4JIY_BDy-HBQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T08:31:29.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "NL"
-    },
-    {
       "id": "com.miniclip.eightballpool",
       "name": "8 Ball Pool",
       "developer": "Miniclip.com",
@@ -1248,6 +1234,34 @@
       "releaseDate": "2026-02-18T11:45:50.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "NL"
+    },
+    {
+      "id": "jp.co.goodroid.hyper.hexaaway",
+      "name": "Hexa Away",
+      "developer": "GOODROID,Inc.",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.hexaaway&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/0brW5ursTxAojhRjh0uPdxCoOK5ViPi9zID7stj_ZlklxwpuNSd7jk7sZCB75Gd92A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T11:26:30.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "NL"
+    },
+    {
+      "id": "com.higame.brain.twist.tricky.puzzle",
+      "name": "Prison Puzzle: Brain Twist",
+      "developer": "HIGAME LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.higame.brain.twist.tricky.puzzle&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/D98i4j50j9-2uH6S0ogm6KKUfq4qyZHo5XLzumjxIpe_Y-CJHSO1Bf4JIY_BDy-HBQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T08:31:29.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "NL"
     },
@@ -1388,20 +1402,6 @@
       "releaseDate": "2026-02-19T12:52:47.000Z",
       "genres": [
         "Word"
-      ],
-      "country": "NL"
-    },
-    {
-      "id": "com.manekigames.fashionqueen",
-      "name": "Fashion Queen: Dress Up Game",
-      "developer": "CASUAL AZUR GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.manekigames.fashionqueen&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/uPvGHouNnmeLdfaYYocxfa-lf9Wne5YJcQm3siQfyLpiskxxOIytQj5kDXrPpKBg12Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T14:44:00.000Z",
-      "genres": [
-        "Role Playing"
       ],
       "country": "NL"
     }

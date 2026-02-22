@@ -1,7 +1,7 @@
 {
   "country": "MV",
   "store": "google",
-  "updatedAt": "2026-02-21T20:58:30.551Z",
+  "updatedAt": "2026-02-22T08:16:19.558Z",
   "new": [
     {
       "id": "com.amelosinteractive.snake",
@@ -210,6 +210,20 @@
       "releaseDate": "2026-02-18T14:27:19.000Z",
       "genres": [
         "Educational"
+      ],
+      "country": "MV"
+    },
+    {
+      "id": "com.gamovation.chessclubpilot",
+      "name": "Chess - Offline Board Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.chessclubpilot&hl=en&gl=MV",
+      "artwork": "https://play-lh.googleusercontent.com/e3YeRDmaHxppJ8-StfxFjbeenX9qSiCmM1dfQ-fd5-IL8Q8DumcNHZXhGTzF6aWP2A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T14:20:12.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "MV"
     },
@@ -620,20 +634,6 @@
       "country": "MV"
     },
     {
-      "id": "beats.color.sing.star.rush",
-      "name": "Magic Level 9 Music Piano Game",
-      "developer": "Beatwave Studio",
-      "url": "https://play.google.com/store/apps/details?id=beats.color.sing.star.rush&hl=en&gl=MV",
-      "artwork": "https://play-lh.googleusercontent.com/uIih37VSDcSfq-Fp2ve2BGmBSLGEVD_AZj1_dI7_GeJLUuHxh-sgNBCIPEt5Axt98T-x",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T03:16:32.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "MV"
-    },
-    {
       "id": "io.supercent.linkedcubic",
       "name": "Snake Clash!",
       "developer": "Supercent, Inc.",
@@ -930,20 +930,6 @@
       "country": "MV"
     },
     {
-      "id": "com.plato.android",
-      "name": "Plato: Fun Multiplayer Games",
-      "developer": "Plato Team Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.plato.android&hl=en&gl=MV",
-      "artwork": "https://play-lh.googleusercontent.com/VA-x0peH3hwLqurEuzcNRc4EqCzRa8ZKA8kiExUbufqGEozBiLTnUSvT3ovdfx5eIA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T16:04:38.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MV"
-    },
-    {
       "id": "io.supercent.linkedcubic",
       "name": "Snake Clash!",
       "developer": "Supercent, Inc.",
@@ -958,14 +944,28 @@
       "country": "MV"
     },
     {
-      "id": "com.robtopx.geometryjumplite",
-      "name": "Geometry Dash Lite",
-      "developer": "RobTop Games",
-      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=MV",
-      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
+      "id": "com.plato.android",
+      "name": "Plato: Fun Multiplayer Games",
+      "developer": "Plato Team Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.plato.android&hl=en&gl=MV",
+      "artwork": "https://play-lh.googleusercontent.com/VA-x0peH3hwLqurEuzcNRc4EqCzRa8ZKA8kiExUbufqGEozBiLTnUSvT3ovdfx5eIA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-30T14:03:50.000Z",
+      "releaseDate": "2026-02-17T16:04:38.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MV"
+    },
+    {
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=MV",
+      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T19:50:09.000Z",
       "genres": [
         "Arcade"
       ],
@@ -986,14 +986,14 @@
       "country": "MV"
     },
     {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=MV",
-      "artwork": "https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE",
+      "id": "com.robtopx.geometryjumplite",
+      "name": "Geometry Dash Lite",
+      "developer": "RobTop Games",
+      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=MV",
+      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T19:50:09.000Z",
+      "releaseDate": "2026-01-30T14:03:50.000Z",
       "genres": [
         "Arcade"
       ],
@@ -1168,6 +1168,20 @@
       "country": "MV"
     },
     {
+      "id": "com.gp.pilot.simulator.airplanegames",
+      "name": "Pilot Simulator: Airplane Game",
+      "developer": "GamePark",
+      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=MV",
+      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T10:51:12.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MV"
+    },
+    {
       "id": "com.aim.racing",
       "name": "Extreme Car Driving Simulator",
       "developer": "AxesInMotion Racing",
@@ -1290,20 +1304,6 @@
       "releaseDate": "2025-11-26T09:16:49.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "MV"
-    },
-    {
-      "id": "com.gp.pilot.simulator.airplanegames",
-      "name": "Pilot Simulator: Airplane Game",
-      "developer": "GamePark",
-      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=MV",
-      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T10:51:12.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "MV"
     },
