@@ -1,8 +1,36 @@
 {
   "country": "PG",
   "store": "google",
-  "updatedAt": "2026-02-23T11:26:51.818Z",
+  "updatedAt": "2026-02-23T23:02:52.343Z",
   "new": [
+    {
+      "id": "com.blazingappstudio.faerie_forest_frenzy",
+      "name": "Forest Match - Earn rewards",
+      "developer": "Blazing App Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.blazingappstudio.faerie_forest_frenzy&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/QqEiDhTdFrOZ870TTuDeaU7-XkAW79fy2ps_RmQM8RRKgTp_iS-AygvQfSdAlAIOSQo",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-23T18:34:10.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "PG"
+    },
+    {
+      "id": "com.gamebrain.hexasort",
+      "name": "Hexa Sort",
+      "developer": "Lion Studios Plus",
+      "url": "https://play.google.com/store/apps/details?id=com.gamebrain.hexasort&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/Fb6LOiEok5OKRnkUqk_AO1fTi7oznCPeftYhZk7bnRwucG91oUWeZ5RoXGx7i5V1CA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-23T10:25:40.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "PG"
+    },
     {
       "id": "com.miniclip.puresoldier",
       "name": "War Sniper: FPS Shooting Game",
@@ -28,20 +56,6 @@
       "releaseDate": "2026-02-20T19:40:10.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "PG"
-    },
-    {
-      "id": "com.gamebrain.hexasort",
-      "name": "Hexa Sort",
-      "developer": "Lion Studios Plus",
-      "url": "https://play.google.com/store/apps/details?id=com.gamebrain.hexasort&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/Fb6LOiEok5OKRnkUqk_AO1fTi7oznCPeftYhZk7bnRwucG91oUWeZ5RoXGx7i5V1CA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T16:46:09.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "PG"
     },
@@ -168,20 +182,6 @@
       "releaseDate": "2026-02-19T11:42:08.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "PG"
-    },
-    {
-      "id": "com.blazingappstudio.faerie_forest_frenzy",
-      "name": "Forest Match - Earn rewards",
-      "developer": "Blazing App Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.blazingappstudio.faerie_forest_frenzy&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/QqEiDhTdFrOZ870TTuDeaU7-XkAW79fy2ps_RmQM8RRKgTp_iS-AygvQfSdAlAIOSQo",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T10:11:42.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "PG"
     },
@@ -755,7 +755,7 @@
       "artwork": "https://play-lh.googleusercontent.com/QqEiDhTdFrOZ870TTuDeaU7-XkAW79fy2ps_RmQM8RRKgTp_iS-AygvQfSdAlAIOSQo",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-19T10:11:42.000Z",
+      "releaseDate": "2026-02-23T18:34:10.000Z",
       "genres": [
         "Casual"
       ],
@@ -776,20 +776,6 @@
       "country": "PG"
     },
     {
-      "id": "com.fxroyale.app",
-      "name": "Trading Arena-Crypto Simulator",
-      "developer": "Edusystems OU",
-      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T21:13:51.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "PG"
-    },
-    {
       "id": "com.blazingappstudio.candy_clash",
       "name": "Candy Sweep Puzzle",
       "developer": "Blazing App Studio",
@@ -800,6 +786,20 @@
       "releaseDate": "2026-02-19T11:56:50.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "PG"
+    },
+    {
+      "id": "com.fxroyale.app",
+      "name": "Trading Arena-Crypto Simulator",
+      "developer": "Edusystems OU",
+      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T21:13:51.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "PG"
     },
@@ -888,20 +888,6 @@
       "country": "PG"
     },
     {
-      "id": "net.apex_designs.payback2",
-      "name": "Payback 2 - The Battle Sandbox",
-      "developer": "Apex Designs Games LLP",
-      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-08-27T16:01:25.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "PG"
-    },
-    {
       "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
       "name": "Shoot Bubble - Pop Bubbles",
       "developer": "IVYGAMES",
@@ -916,16 +902,16 @@
       "country": "PG"
     },
     {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "id": "net.apex_designs.payback2",
+      "name": "Payback 2 - The Battle Sandbox",
+      "developer": "Apex Designs Games LLP",
+      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "releaseDate": "2025-08-27T16:01:25.000Z",
       "genres": [
-        "Adventure"
+        "Arcade"
       ],
       "country": "PG"
     },
@@ -940,6 +926,20 @@
       "releaseDate": "2026-02-06T12:54:50.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "PG"
+    },
+    {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "PG"
     },
@@ -1084,16 +1084,16 @@
       "country": "PG"
     },
     {
-      "id": "piano.game.music.beat.tiles",
-      "name": "Piano Beat: Music Game",
-      "developer": "Dream Tiles Piano Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=piano.game.music.beat.tiles&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/0Of6bw3wkKRhftwupXVSF0r0FKn-BVFScRpwXPFKZ9jtdeEwU8hHRK8j8hN-mhkrxFCj",
+      "id": "gen.tech.keiki.world.learning",
+      "name": "Keiki Learning games for Kids",
+      "developer": "Benipol Limited",
+      "url": "https://play.google.com/store/apps/details?id=gen.tech.keiki.world.learning&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/QGLffhPvC7yRWVS0VIjVyP87Hzxk_2wwxP0TRxyUbfgQFcJxrLgvIdd7LR2qYbEsmAY",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-13T08:06:33.000Z",
+      "releaseDate": "2025-11-20T08:03:42.000Z",
       "genres": [
-        "Music"
+        "Educational"
       ],
       "country": "PG"
     },
@@ -1106,20 +1106,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2025-12-19T14:55:06.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "PG"
-    },
-    {
-      "id": "com.hyperkani.trialbike",
-      "name": "Stunt Bike Extreme",
-      "developer": "Hyperkani",
-      "url": "https://play.google.com/store/apps/details?id=com.hyperkani.trialbike&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/NRovxU1rnnI2BzDw989gmkSb8DOnEmgybKJysHKE4-5WSWonNXFwGJGDXMppfxHBkI4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T06:24:08.000Z",
       "genres": [
         "Racing"
       ],
@@ -1140,58 +1126,16 @@
       "country": "PG"
     },
     {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "id": "piano.game.music.beat.tiles",
+      "name": "Piano Beat: Music Game",
+      "developer": "Dream Tiles Piano Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=piano.game.music.beat.tiles&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/0Of6bw3wkKRhftwupXVSF0r0FKn-BVFScRpwXPFKZ9jtdeEwU8hHRK8j8hN-mhkrxFCj",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "releaseDate": "2026-01-13T08:06:33.000Z",
       "genres": [
-        "Adventure"
-      ],
-      "country": "PG"
-    },
-    {
-      "id": "com.ansangha.drdriving",
-      "name": "Dr. Driving",
-      "developer": "SUD Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-08-25T07:34:27.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "PG"
-    },
-    {
-      "id": "com.wk.trivia.quiz",
-      "name": "Millionaire Quiz: Trivia Games",
-      "developer": "wolfkig",
-      "url": "https://play.google.com/store/apps/details?id=com.wk.trivia.quiz&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/k2iqVRNmARt2LkAiVVg8tcJaWQOoS6u0EZueCD5BWimIYbS1uAg1NLdDNReaLRRG6sA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T08:28:02.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "PG"
-    },
-    {
-      "id": "gen.tech.keiki.world.learning",
-      "name": "Keiki Learning games for Kids",
-      "developer": "Benipol Limited",
-      "url": "https://play.google.com/store/apps/details?id=gen.tech.keiki.world.learning&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/QGLffhPvC7yRWVS0VIjVyP87Hzxk_2wwxP0TRxyUbfgQFcJxrLgvIdd7LR2qYbEsmAY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-20T08:03:42.000Z",
-      "genres": [
-        "Educational"
+        "Music"
       ],
       "country": "PG"
     },
@@ -1210,6 +1154,48 @@
       "country": "PG"
     },
     {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "PG"
+    },
+    {
+      "id": "com.hyperkani.trialbike",
+      "name": "Stunt Bike Extreme",
+      "developer": "Hyperkani",
+      "url": "https://play.google.com/store/apps/details?id=com.hyperkani.trialbike&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/NRovxU1rnnI2BzDw989gmkSb8DOnEmgybKJysHKE4-5WSWonNXFwGJGDXMppfxHBkI4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T06:24:08.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "PG"
+    },
+    {
+      "id": "com.ansangha.drdriving",
+      "name": "Dr. Driving",
+      "developer": "SUD Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-25T07:34:27.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "PG"
+    },
+    {
       "id": "com.ludo.master.hippo.lite",
       "name": "Ludo Master™ Lite - Dice Game",
       "developer": "Hippo Lab",
@@ -1220,6 +1206,20 @@
       "releaseDate": "2025-12-12T09:13:01.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "PG"
+    },
+    {
+      "id": "com.wk.trivia.quiz",
+      "name": "Millionaire Quiz: Trivia Games",
+      "developer": "wolfkig",
+      "url": "https://play.google.com/store/apps/details?id=com.wk.trivia.quiz&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/k2iqVRNmARt2LkAiVVg8tcJaWQOoS6u0EZueCD5BWimIYbS1uAg1NLdDNReaLRRG6sA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T08:28:02.000Z",
+      "genres": [
+        "Word"
       ],
       "country": "PG"
     },
@@ -1252,20 +1252,6 @@
       "country": "PG"
     },
     {
-      "id": "com.vincentb.MobControl",
-      "name": "Mob Control",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T11:45:44.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "PG"
-    },
-    {
       "id": "com.refuelgames.rally",
       "name": "Rally Fury - Extreme Racing",
       "developer": "Refuel Games Pty Ltd",
@@ -1280,16 +1266,16 @@
       "country": "PG"
     },
     {
-      "id": "com.DazadGame.LocalWarfareRePortable",
-      "name": "Local Warfare Re: Portable",
-      "developer": "Dazad",
-      "url": "https://play.google.com/store/apps/details?id=com.DazadGame.LocalWarfareRePortable&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/1yHMFDpg3ZM7p2gPA6d5xkjPOkGY3MHQo7V6ieCbbme7hdHGmed7bZapSfcIc-W3wNk",
+      "id": "com.vincentb.MobControl",
+      "name": "Mob Control",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-19T02:02:25.000Z",
+      "releaseDate": "2026-02-17T11:45:44.000Z",
       "genres": [
-        "Action"
+        "Arcade"
       ],
       "country": "PG"
     },
@@ -1308,20 +1294,6 @@
       "country": "PG"
     },
     {
-      "id": "air.ynfo.stickergo",
-      "name": "Sticker GO!",
-      "developer": "Ganko",
-      "url": "https://play.google.com/store/apps/details?id=air.ynfo.stickergo&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/EWkIO0Mx40HtsawyCBpLzf3tZ4jU69TXhWQqYyWgjLq6-UX4M22EaVZzyOU7JQXVoM4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T14:57:30.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "PG"
-    },
-    {
       "id": "com.adventure.piano.kpopstar",
       "name": "Music Piano 2: KPop Star",
       "developer": "HyperMusic",
@@ -1332,6 +1304,20 @@
       "releaseDate": "2026-02-04T11:38:17.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "PG"
+    },
+    {
+      "id": "com.DazadGame.LocalWarfareRePortable",
+      "name": "Local Warfare Re: Portable",
+      "developer": "Dazad",
+      "url": "https://play.google.com/store/apps/details?id=com.DazadGame.LocalWarfareRePortable&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/1yHMFDpg3ZM7p2gPA6d5xkjPOkGY3MHQo7V6ieCbbme7hdHGmed7bZapSfcIc-W3wNk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-19T02:02:25.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "PG"
     },
@@ -1350,30 +1336,30 @@
       "country": "PG"
     },
     {
-      "id": "com.id.gun.shooting.games",
-      "name": "Gun Games FPS Shooting Games",
-      "developer": "Interactive Dreams Inc",
-      "url": "https://play.google.com/store/apps/details?id=com.id.gun.shooting.games&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/rGDRjIGiAtxqczCRz1T1_Eytrlmg0rmY4ZHpl5TgCeP7QzGhsvAgj0WVXxY9WvDdQLwJ",
+      "id": "air.ynfo.stickergo",
+      "name": "Sticker GO!",
+      "developer": "Ganko",
+      "url": "https://play.google.com/store/apps/details?id=air.ynfo.stickergo&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/EWkIO0Mx40HtsawyCBpLzf3tZ4jU69TXhWQqYyWgjLq6-UX4M22EaVZzyOU7JQXVoM4",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T11:59:45.000Z",
+      "releaseDate": "2026-02-20T14:57:30.000Z",
       "genres": [
-        "Role Playing"
+        "Board"
       ],
       "country": "PG"
     },
     {
-      "id": "com.miniclip.realsniper",
-      "name": "Pure Sniper: Gun Shooter Games",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.realsniper&hl=en&gl=PG",
-      "artwork": "https://play-lh.googleusercontent.com/D3NtyLCIKLg2VR4hUNyGVgBWICfHj5kkKL6mxGB0n4wLKMGdvhibY66VFPd7aSOR1TI",
+      "id": "com.wood.block.sudoku.puzzle.bm",
+      "name": "Block Crush!",
+      "developer": "Wonderful  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-29T21:05:43.000Z",
+      "releaseDate": "2026-02-12T13:05:41.000Z",
       "genres": [
-        "Action"
+        "Puzzle"
       ],
       "country": "PG"
     },
@@ -1402,6 +1388,20 @@
       "releaseDate": "2026-01-28T10:48:46.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "PG"
+    },
+    {
+      "id": "com.id.gun.shooting.games",
+      "name": "Gun Games FPS Shooting Games",
+      "developer": "Interactive Dreams Inc",
+      "url": "https://play.google.com/store/apps/details?id=com.id.gun.shooting.games&hl=en&gl=PG",
+      "artwork": "https://play-lh.googleusercontent.com/rGDRjIGiAtxqczCRz1T1_Eytrlmg0rmY4ZHpl5TgCeP7QzGhsvAgj0WVXxY9WvDdQLwJ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T11:59:45.000Z",
+      "genres": [
+        "Role Playing"
       ],
       "country": "PG"
     }
