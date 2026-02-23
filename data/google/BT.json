@@ -1,8 +1,22 @@
 {
   "country": "BT",
   "store": "google",
-  "updatedAt": "2026-02-22T17:59:49.945Z",
+  "updatedAt": "2026-02-23T02:50:58.442Z",
   "new": [
+    {
+      "id": "net.craftgame.minigame",
+      "name": "Worldsurvival",
+      "developer": "Star12",
+      "url": "https://play.google.com/store/apps/details?id=net.craftgame.minigame&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/1OFeGNKUfkAv58Yr-weOQIrhuGsoqwLOrNdHQHkPc9_3mw-6BKrh5sT1IGaSNTl_tQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-21T19:38:02.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "BT"
+    },
     {
       "id": "com.aim.racing",
       "name": "Extreme Car Driving Simulator",
@@ -78,7 +92,7 @@
       "name": "MadOut 2: Grand Auto Racing",
       "developer": "MadOut Games LLC FZ",
       "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/a6mEbkdGPhITywMJGgrewJX7ShNXUEZ9PeVO-A2QhqGdW-QhVVmjn11n6Tg9GqVh3-o",
+      "artwork": "https://play-lh.googleusercontent.com/dYeAjuPFJGv-XfIiKEzuR6ACSG-4pBjs31DZcjn_qRoQ2WfMzm5iKFKNLEjGERYQ6Cn-",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-19T07:16:00.000Z",
@@ -518,20 +532,6 @@
       "releaseDate": "2026-02-11T12:25:49.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "BT"
-    },
-    {
-      "id": "net.craftgame.minigame",
-      "name": "Worldsurvival",
-      "developer": "Star12",
-      "url": "https://play.google.com/store/apps/details?id=net.craftgame.minigame&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/1OFeGNKUfkAv58Yr-weOQIrhuGsoqwLOrNdHQHkPc9_3mw-6BKrh5sT1IGaSNTl_tQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T10:07:23.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "BT"
     },
@@ -1042,20 +1042,6 @@
       "country": "BT"
     },
     {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T11:27:15.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "BT"
-    },
-    {
       "id": "com.outfit7.mytalkingtom2",
       "name": "My Talking Tom 2",
       "developer": "Outfit7 Limited",
@@ -1066,6 +1052,20 @@
       "releaseDate": "2026-02-20T11:25:29.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "BT"
+    },
+    {
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T11:27:15.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "BT"
     },
@@ -1154,20 +1154,6 @@
       "country": "BT"
     },
     {
-      "id": "com.wilds.craft.mysticland.explore",
-      "name": "Block Craft 3D: Realm Builder",
-      "developer": "Metagame.Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.wilds.craft.mysticland.explore&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/atgEBnDex2iZ3zknB3N5c4tBxJwT8NMrWTp0NXY7rYxk6DkDksRNddCm4E_832TI0w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T10:54:34.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "BT"
-    },
-    {
       "id": "com.youmusic.magictiles",
       "name": "Magic Tiles 3™ - Piano Game",
       "developer": "AMANOTES PTE. LTD.",
@@ -1178,6 +1164,20 @@
       "releaseDate": "2026-02-10T09:38:01.000Z",
       "genres": [
         "Music"
+      ],
+      "country": "BT"
+    },
+    {
+      "id": "com.wilds.craft.mysticland.explore",
+      "name": "Block Craft 3D: Realm Builder",
+      "developer": "Metagame.Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.wilds.craft.mysticland.explore&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/atgEBnDex2iZ3zknB3N5c4tBxJwT8NMrWTp0NXY7rYxk6DkDksRNddCm4E_832TI0w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T10:54:34.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "BT"
     },
