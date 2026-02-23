@@ -1,8 +1,22 @@
 {
   "country": "GU",
   "store": "google",
-  "updatedAt": "2026-02-22T19:50:34.078Z",
+  "updatedAt": "2026-02-23T07:34:38.419Z",
   "new": [
+    {
+      "id": "com.flightsimulator.airplane3d.airportsimulator.airplane.flying",
+      "name": "Flight Simulator Airplane Game",
+      "developer": "HiveMind Games Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.flightsimulator.airplane3d.airportsimulator.airplane.flying&hl=en&gl=GU",
+      "artwork": "https://play-lh.googleusercontent.com/pIbpgw4g7bQIe6LWkHM1HUvmxG6RUw6SwAam31yRJ20V2QlJ_6adBrLcy0O2iUPiGHk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-22T10:30:26.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "GU"
+    },
     {
       "id": "com.creations.runnergame",
       "name": "Kooply Run™: Play and Create!",
@@ -42,20 +56,6 @@
       "releaseDate": "2026-02-20T19:40:10.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "GU"
-    },
-    {
-      "id": "com.digitalextremes.warframemobile",
-      "name": "Warframe",
-      "developer": "Digital Extremes",
-      "url": "https://play.google.com/store/apps/details?id=com.digitalextremes.warframemobile&hl=en&gl=GU",
-      "artwork": "https://play-lh.googleusercontent.com/C2FSzPBDTKdDKAVmwCOr9CBvJ6j2toa_bfp8utKGbrWVAuDSHgeMdIzqWzK3rwRUyeY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T19:08:48.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "GU"
     },
@@ -204,12 +204,26 @@
       "name": "MadOut 2: Grand Auto Racing",
       "developer": "MadOut Games LLC FZ",
       "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=GU",
-      "artwork": "https://play-lh.googleusercontent.com/a6mEbkdGPhITywMJGgrewJX7ShNXUEZ9PeVO-A2QhqGdW-QhVVmjn11n6Tg9GqVh3-o",
+      "artwork": "https://play-lh.googleusercontent.com/dYeAjuPFJGv-XfIiKEzuR6ACSG-4pBjs31DZcjn_qRoQ2WfMzm5iKFKNLEjGERYQ6Cn-",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-19T07:16:00.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "GU"
+    },
+    {
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=GU",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T05:19:01.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "GU"
     },
@@ -688,20 +702,6 @@
         "Music"
       ],
       "country": "GU"
-    },
-    {
-      "id": "com.youmusic.magictiles",
-      "name": "Magic Tiles 3™ - Piano Game",
-      "developer": "AMANOTES PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=GU",
-      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T09:38:01.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "GU"
     }
   ],
   "updated": [
@@ -1000,16 +1000,16 @@
       "country": "GU"
     },
     {
-      "id": "com.tencent.ig",
-      "name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=GU",
-      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=GU",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-29T01:31:07.000Z",
+      "releaseDate": "2026-02-19T05:19:01.000Z",
       "genres": [
-        "Action"
+        "Simulation"
       ],
       "country": "GU"
     },
@@ -1024,6 +1024,34 @@
       "releaseDate": "2025-10-22T00:32:35.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "GU"
+    },
+    {
+      "id": "com.tencent.ig",
+      "name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=GU",
+      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-29T01:31:07.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "GU"
+    },
+    {
+      "id": "com.youmusic.magictiles",
+      "name": "Magic Tiles 3™ - Piano Game",
+      "developer": "AMANOTES PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=GU",
+      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T09:38:01.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "GU"
     },
@@ -1052,34 +1080,6 @@
       "releaseDate": "2026-02-17T14:25:25.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "GU"
-    },
-    {
-      "id": "com.youmusic.magictiles",
-      "name": "Magic Tiles 3™ - Piano Game",
-      "developer": "AMANOTES PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=GU",
-      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T09:38:01.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "GU"
-    },
-    {
-      "id": "com.gtsy.annoying.punch.game",
-      "name": "Annoying Uncle Punch Game",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=GU",
-      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T15:38:31.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "GU"
     },
@@ -1154,16 +1154,30 @@
       "country": "GU"
     },
     {
-      "id": "com.rubygames.assassin",
-      "name": "Hunter Assassin",
-      "developer": "Ruby Games AS",
-      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=GU",
-      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
+      "id": "com.playstrom.my.sticker.room",
+      "name": "My Sticker Room - Decor Game",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=GU",
+      "artwork": "https://play-lh.googleusercontent.com/1h7m141FxhTxNeVWLjyn2yiv9B7Tcjbx28j_7pMa7z2SrBT22scVcrSujQYdo7_lfFg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-08T14:09:08.000Z",
+      "releaseDate": "2026-02-20T14:39:09.000Z",
       "genres": [
-        "Action"
+        "Simulation"
+      ],
+      "country": "GU"
+    },
+    {
+      "id": "com.dvloper.granny",
+      "name": "Granny",
+      "developer": "DVloper",
+      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=GU",
+      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-01T14:35:20.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "GU"
     },
@@ -1196,16 +1210,16 @@
       "country": "GU"
     },
     {
-      "id": "com.playstrom.my.sticker.room",
-      "name": "My Sticker Room - Decor Game",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=GU",
-      "artwork": "https://play-lh.googleusercontent.com/1h7m141FxhTxNeVWLjyn2yiv9B7Tcjbx28j_7pMa7z2SrBT22scVcrSujQYdo7_lfFg",
+      "id": "com.rubygames.assassin",
+      "name": "Hunter Assassin",
+      "developer": "Ruby Games AS",
+      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=GU",
+      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T14:39:09.000Z",
+      "releaseDate": "2026-02-08T14:09:08.000Z",
       "genres": [
-        "Simulation"
+        "Action"
       ],
       "country": "GU"
     },
@@ -1220,20 +1234,6 @@
       "releaseDate": "2026-02-12T13:05:41.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "GU"
-    },
-    {
-      "id": "com.dvloper.granny",
-      "name": "Granny",
-      "developer": "DVloper",
-      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=GU",
-      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-01T14:35:20.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "GU"
     },
@@ -1378,6 +1378,20 @@
       "country": "GU"
     },
     {
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=GU",
+      "artwork": "https://play-lh.googleusercontent.com/TS7t_TvNJ5DbcpmHdafGG24MnnpBPTpAht8byApzmv0WkKruFQiD78gkL2QxnsS4vRM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T11:15:17.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "GU"
+    },
+    {
       "id": "com.fgol.HungrySharkEvolution",
       "name": "Hungry Shark Evolution",
       "developer": "Ubisoft Entertainment",
@@ -1388,20 +1402,6 @@
       "releaseDate": "2026-02-09T02:24:08.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "GU"
-    },
-    {
-      "id": "com.playrix.township",
-      "name": "Township",
-      "developer": "Playrix",
-      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=GU",
-      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T17:54:54.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "GU"
     }
