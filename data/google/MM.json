@@ -1,7 +1,7 @@
 {
   "country": "MM",
   "store": "google",
-  "updatedAt": "2026-02-23T09:31:59.528Z",
+  "updatedAt": "2026-02-23T22:09:48.536Z",
   "new": [
     {
       "id": "net.craftgame.minigame",
@@ -172,6 +172,20 @@
       "country": "MM"
     },
     {
+      "id": "com.supercell.clashofclans",
+      "name": "Clash of Clans",
+      "developer": "Supercell",
+      "url": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/sFmWfYbYp_2ea7VRMTnwd3gjIBrPGXHj_d_ab1_k1q1p2OMk4riGMF1vqxdhONOtTYOt_BVpk7a4AYcKU68LNGQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T15:21:36.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "MM"
+    },
+    {
       "id": "com.grand.launcher",
       "name": "Grand Mobile: RP Open World",
       "developer": "Dynamic Technologies TOO",
@@ -196,20 +210,6 @@
       "releaseDate": "2026-02-18T11:45:50.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "MM"
-    },
-    {
-      "id": "com.NewFolderGames.IAmSecurityAirport",
-      "name": "I Am Airport Security",
-      "developer": "Estoty",
-      "url": "https://play.google.com/store/apps/details?id=com.NewFolderGames.IAmSecurityAirport&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/Q4qy42UYGh8V2j1o8L_ISvZ-daUqhVxptH8N4ktYEB-FmPMLzrH6cj2aZ5VbqBwBLXr5MEmO5tkoa2_J8pqDTA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T15:08:34.000Z",
-      "genres": [
-        "Role Playing"
       ],
       "country": "MM"
     },
@@ -860,20 +860,6 @@
       "country": "MM"
     },
     {
-      "id": "com.xd.xdtglobal.gp",
-      "name": "Heartopia",
-      "developer": "XD Entertainment Co., Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.xd.xdtglobal.gp&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/FtZNAkKn4faEpRU4UjtRRUk-aQP5zwiN1Kg4FzAcQBN7S8-PfDo7ODxmjaPlMu3HOFJ6-1WhzXxwKA6q1bOw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-26T09:52:39.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MM"
-    },
-    {
       "id": "com.sdashjlksda.tru5hsd",
       "name": "Nat Kbzzz",
       "developer": "Blaze Co.",
@@ -884,6 +870,20 @@
       "releaseDate": "2026-01-28T03:31:23.000Z",
       "genres": [
         "Strategy"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.xd.xdtglobal.gp",
+      "name": "Heartopia",
+      "developer": "XD Entertainment Co., Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.xd.xdtglobal.gp&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/FtZNAkKn4faEpRU4UjtRRUk-aQP5zwiN1Kg4FzAcQBN7S8-PfDo7ODxmjaPlMu3HOFJ6-1WhzXxwKA6q1bOw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-26T09:52:39.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "MM"
     },
@@ -916,20 +916,6 @@
       "country": "MM"
     },
     {
-      "id": "com.vincentb.MobControl",
-      "name": "Mob Control",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T11:45:44.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "MM"
-    },
-    {
       "id": "com.ta.strike.ops",
       "name": "FPS Strike Ops : Modern Arena",
       "developer": "FPS Shooter & Action Game",
@@ -940,6 +926,20 @@
       "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.vincentb.MobControl",
+      "name": "Mob Control",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T11:45:44.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "MM"
     },
@@ -972,20 +972,6 @@
       "country": "MM"
     },
     {
-      "id": "com.techplay.suksesbersama",
-      "name": "Bubble Shooter Rush",
-      "developer": "Sukses Bertekno",
-      "url": "https://play.google.com/store/apps/details?id=com.techplay.suksesbersama&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/Ihldhh2x0O-l_lZ1du9l5uKklsTQ88WGM3X4hjYYCs8hGmvbaOwSPkfhvC5jBbmXvnUgouv_GJyZiQuELevls3s",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-22T06:03:53.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "MM"
-    },
-    {
       "id": "com.crazy.mastercraft.block.game",
       "name": "Master minecraft mcpe mod",
       "developer": "Ali Abbas",
@@ -996,6 +982,20 @@
       "releaseDate": "2026-01-12T12:32:45.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.techplay.suksesbersama",
+      "name": "Bubble Shooter Rush",
+      "developer": "Sukses Bertekno",
+      "url": "https://play.google.com/store/apps/details?id=com.techplay.suksesbersama&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/Ihldhh2x0O-l_lZ1du9l5uKklsTQ88WGM3X4hjYYCs8hGmvbaOwSPkfhvC5jBbmXvnUgouv_GJyZiQuELevls3s",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-22T06:03:53.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "MM"
     },
@@ -1028,16 +1028,16 @@
       "country": "MM"
     },
     {
-      "id": "com.snake.io.slither.worms",
-      "name": "Snake Lite® - Worm Snake Game",
-      "developer": "Hippo Lab",
-      "url": "https://play.google.com/store/apps/details?id=com.snake.io.slither.worms&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/unaCabpPBNL2HiMCyjCIO81ab1XGJU2ZnNYOdobeg60bEfc8zoIcudRA10SjJlSHkQ",
+      "id": "jp.garud.ssimulator",
+      "name": "SAKURA School Simulator",
+      "developer": "GARUSOFT K.K.",
+      "url": "https://play.google.com/store/apps/details?id=jp.garud.ssimulator&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/kE2hDKCtPcpI8nR0UAGZ7x0tHJQXooY-54bMyar5H2G_Y8-1-VxpB111tAqVCxNn8g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-08T09:51:08.000Z",
+      "releaseDate": "2026-02-17T11:44:26.000Z",
       "genres": [
-        "Action"
+        "Simulation"
       ],
       "country": "MM"
     },
@@ -1056,20 +1056,6 @@
       "country": "MM"
     },
     {
-      "id": "jp.garud.ssimulator",
-      "name": "SAKURA School Simulator",
-      "developer": "GARUSOFT K.K.",
-      "url": "https://play.google.com/store/apps/details?id=jp.garud.ssimulator&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/kE2hDKCtPcpI8nR0UAGZ7x0tHJQXooY-54bMyar5H2G_Y8-1-VxpB111tAqVCxNn8g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T11:44:26.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MM"
-    },
-    {
       "id": "com.king.candycrushsaga",
       "name": "Candy Crush Saga",
       "developer": "King",
@@ -1080,6 +1066,20 @@
       "releaseDate": "2026-02-13T15:57:40.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.snake.io.slither.worms",
+      "name": "Snake Lite® - Worm Snake Game",
+      "developer": "Hippo Lab",
+      "url": "https://play.google.com/store/apps/details?id=com.snake.io.slither.worms&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/unaCabpPBNL2HiMCyjCIO81ab1XGJU2ZnNYOdobeg60bEfc8zoIcudRA10SjJlSHkQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-08T09:51:08.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "MM"
     },
@@ -1098,20 +1098,6 @@
       "country": "MM"
     },
     {
-      "id": "com.matteljv.uno",
-      "name": "UNO!™",
-      "developer": "Mattel163 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.matteljv.uno&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/yAn20u0xsnzgIKZTaFGgkPnEOV1LPKh00_rEccAnQeljyXDESWneIl9C28c7JT-petqf7AD_ZlIIDMrYah7p",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T09:29:49.000Z",
-      "genres": [
-        "Card"
-      ],
-      "country": "MM"
-    },
-    {
       "id": "com.bettergames.truck.drivingschool.simulator",
       "name": "Truck Games - Driving School",
       "developer": "Better Games Studio Pty Ltd",
@@ -1122,6 +1108,20 @@
       "releaseDate": "2026-01-07T07:45:50.000Z",
       "genres": [
         "Strategy"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.matteljv.uno",
+      "name": "UNO!™",
+      "developer": "Mattel163 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.matteljv.uno&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/yAn20u0xsnzgIKZTaFGgkPnEOV1LPKh00_rEccAnQeljyXDESWneIl9C28c7JT-petqf7AD_ZlIIDMrYah7p",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T09:29:49.000Z",
+      "genres": [
+        "Card"
       ],
       "country": "MM"
     },
@@ -1196,20 +1196,6 @@
       "country": "MM"
     },
     {
-      "id": "com.chillingo.robberybobfree.android.row",
-      "name": "Robbery Bob - King of Sneak",
-      "developer": "Deca_Games",
-      "url": "https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/H3jfnH0UVoITHIsLUqrK5R-Gsw7_4sfzDdrND-uoZJAGQsYXCu20ccmnZcK74hYyGcY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-23T13:25:32.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "MM"
-    },
-    {
       "id": "com.media720.games2020",
       "name": "Offline Games No WiFi internet",
       "developer": "Fun Offline Games",
@@ -1220,6 +1206,20 @@
       "releaseDate": "2026-01-29T19:00:49.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.chillingo.robberybobfree.android.row",
+      "name": "Robbery Bob - King of Sneak",
+      "developer": "Deca_Games",
+      "url": "https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/H3jfnH0UVoITHIsLUqrK5R-Gsw7_4sfzDdrND-uoZJAGQsYXCu20ccmnZcK74hYyGcY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-23T13:25:32.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "MM"
     },
@@ -1266,20 +1266,6 @@
       "country": "MM"
     },
     {
-      "id": "com.soccer.score.star",
-      "name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:32:33.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "MM"
-    },
-    {
       "id": "com.outfit7.mytalkingtomfriends",
       "name": "My Talking Tom Friends",
       "developer": "Outfit7 Limited",
@@ -1290,6 +1276,20 @@
       "releaseDate": "2026-02-13T13:03:47.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.soccer.score.star",
+      "name": "Soccer Superstar",
+      "developer": "Real Freestyle Soccer",
+      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T15:32:33.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "MM"
     },
@@ -1350,6 +1350,20 @@
       "country": "MM"
     },
     {
+      "id": "net.craftgame.minigame",
+      "name": "Worldsurvival",
+      "developer": "Star12",
+      "url": "https://play.google.com/store/apps/details?id=net.craftgame.minigame&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/1OFeGNKUfkAv58Yr-weOQIrhuGsoqwLOrNdHQHkPc9_3mw-6BKrh5sT1IGaSNTl_tQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-21T19:38:02.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MM"
+    },
+    {
       "id": "piano.game.music.beat.tiles",
       "name": "Piano Beat: Music Game",
       "developer": "Dream Tiles Piano Game Studio",
@@ -1378,30 +1392,16 @@
       "country": "MM"
     },
     {
-      "id": "com.lskj.playstar",
-      "name": "playstar",
-      "developer": "Arcade Forge",
-      "url": "https://play.google.com/store/apps/details?id=com.lskj.playstar&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/h66l_rgzLlMHWDKjHR6YKK_wvd4Oh0MnPKnC9yLqA_8Bdn77zWbfIBexIDL_fDUh-1U",
+      "id": "com.ig.moto.racing",
+      "name": "Moto Rider, Bike Racing Game",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.ig.moto.racing&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/2E-3SXkVyyUzgOclua8zduFIYb0p6dg6tZM_bs49VXCS90hxme7eaoT1BsbHZUfLUnI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-21T09:02:48.000Z",
+      "releaseDate": "2025-10-30T06:47:25.000Z",
       "genres": [
-        "Casual"
-      ],
-      "country": "MM"
-    },
-    {
-      "id": "com.gamovation.tileclub",
-      "name": "Tile Club - Match Puzzle Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-07T10:41:36.000Z",
-      "genres": [
-        "Puzzle"
+        "Racing"
       ],
       "country": "MM"
     }
