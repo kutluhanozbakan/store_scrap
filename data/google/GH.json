@@ -1,8 +1,22 @@
 {
   "country": "GH",
   "store": "google",
-  "updatedAt": "2026-02-26T13:16:31.599Z",
+  "updatedAt": "2026-02-26T23:18:10.900Z",
   "new": [
+    {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=GH",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T21:16:50.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "GH"
+    },
     {
       "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
       "name": "Agent Shooter - Shooting Game",
@@ -98,20 +112,6 @@
       "releaseDate": "2026-02-24T09:05:46.000Z",
       "genres": [
         "Strategy"
-      ],
-      "country": "GH"
-    },
-    {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=GH",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T19:40:10.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "GH"
     },
@@ -256,6 +256,20 @@
       "country": "GH"
     },
     {
+      "id": "com.zams.car.parking.game",
+      "name": "Prado Parking Game: Car Games",
+      "developer": "Zamsolutions",
+      "url": "https://play.google.com/store/apps/details?id=com.zams.car.parking.game&hl=en&gl=GH",
+      "artwork": "https://play-lh.googleusercontent.com/cn2Nwf-s0dzhRf-3XsFeV46-pYVhsx1FR6Pwwrot9GomqObP6-WYTbDYFAvk0Zg-Sw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T13:09:31.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "GH"
+    },
+    {
       "id": "com.grand.launcher",
       "name": "Grand Mobile: RP Open World",
       "developer": "Dynamic Technologies TOO",
@@ -266,20 +280,6 @@
       "releaseDate": "2026-02-18T12:32:59.000Z",
       "genres": [
         "Role Playing"
-      ],
-      "country": "GH"
-    },
-    {
-      "id": "com.ludo.craze.online.superstar.dice.multiplayer",
-      "name": "Ludo Online Dice Board Game",
-      "developer": "Tiffany Apps",
-      "url": "https://play.google.com/store/apps/details?id=com.ludo.craze.online.superstar.dice.multiplayer&hl=en&gl=GH",
-      "artwork": "https://play-lh.googleusercontent.com/X-Cjk926thg0AhN9Ii_t12hLjG9rAZL96vInN1RkfPCE9e2pblC9JoChKY-LPOCB8oI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T11:47:47.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "GH"
     },
@@ -832,34 +832,6 @@
       "country": "GH"
     },
     {
-      "id": "com.imangi.templerun2",
-      "name": "Temple Run 2: Endless Escape",
-      "developer": "Imangi Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=GH",
-      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T14:25:25.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "GH"
-    },
-    {
-      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
-      "name": "Agent Shooter - Shooting Game",
-      "developer": "Rebel Actions",
-      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=GH",
-      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T10:48:15.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "GH"
-    },
-    {
       "id": "com.playvalve.wsjourney",
       "name": "Word Search - Word Puzzle Game",
       "developer": "Bluetile",
@@ -870,6 +842,20 @@
       "releaseDate": "2026-02-11T16:54:00.000Z",
       "genres": [
         "Word"
+      ],
+      "country": "GH"
+    },
+    {
+      "id": "com.imangi.templerun2",
+      "name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=GH",
+      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T14:25:25.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "GH"
     },
@@ -916,16 +902,16 @@
       "country": "GH"
     },
     {
-      "id": "com.igoldtech.streetchaser",
-      "name": "Street Chaser",
-      "developer": "iGold Technologies Private Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.igoldtech.streetchaser&hl=en&gl=GH",
-      "artwork": "https://play-lh.googleusercontent.com/BFyWSNUxrWOZ8yNnWiuoQNjF8-jYrFVzYKkLAusvB0qwW5Np9lspRLA3de38fnPC2jo",
+      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
+      "name": "Agent Shooter - Shooting Game",
+      "developer": "Rebel Actions",
+      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=GH",
+      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-07T20:50:24.000Z",
+      "releaseDate": "2026-02-26T10:48:15.000Z",
       "genres": [
-        "Adventure"
+        "Action"
       ],
       "country": "GH"
     },
@@ -944,16 +930,16 @@
       "country": "GH"
     },
     {
-      "id": "games.joker.bird.road",
-      "name": "Chicken Cross - Sky Road 2",
-      "developer": "Joker Game",
-      "url": "https://play.google.com/store/apps/details?id=games.joker.bird.road&hl=en&gl=GH",
-      "artwork": "https://play-lh.googleusercontent.com/pKG0559wj0hF1fEcPKByHiW-86ITkzS0VVm2aNamD75xe0Qc1hUdgg8Ur7XNy7uTI9hSfEqxcNHr76KS1HayZns",
+      "id": "com.igoldtech.streetchaser",
+      "name": "Street Chaser",
+      "developer": "iGold Technologies Private Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.igoldtech.streetchaser&hl=en&gl=GH",
+      "artwork": "https://play-lh.googleusercontent.com/BFyWSNUxrWOZ8yNnWiuoQNjF8-jYrFVzYKkLAusvB0qwW5Np9lspRLA3de38fnPC2jo",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-14T06:48:03.000Z",
+      "releaseDate": "2025-10-07T20:50:24.000Z",
       "genres": [
-        "Casual"
+        "Adventure"
       ],
       "country": "GH"
     },
@@ -972,16 +958,16 @@
       "country": "GH"
     },
     {
-      "id": "com.pridespins.gh",
-      "name": "PrideSpins",
-      "developer": "PrideSpins",
-      "url": "https://play.google.com/store/apps/details?id=com.pridespins.gh&hl=en&gl=GH",
-      "artwork": "https://play-lh.googleusercontent.com/WaIdzTef1ubfPEIyMZyotyOt5Q9RWOwugGRltlgyv8PNTRcdw2tmWKQSW2DqDJ-SdORNE0mQlIjdDzNDkknylw",
+      "id": "games.joker.bird.road",
+      "name": "Chicken Cross - Sky Road 2",
+      "developer": "Joker Game",
+      "url": "https://play.google.com/store/apps/details?id=games.joker.bird.road&hl=en&gl=GH",
+      "artwork": "https://play-lh.googleusercontent.com/pKG0559wj0hF1fEcPKByHiW-86ITkzS0VVm2aNamD75xe0Qc1hUdgg8Ur7XNy7uTI9hSfEqxcNHr76KS1HayZns",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T15:19:22.000Z",
+      "releaseDate": "2026-02-14T06:48:03.000Z",
       "genres": [
-        "Casino"
+        "Casual"
       ],
       "country": "GH"
     },
@@ -1000,6 +986,20 @@
       "country": "GH"
     },
     {
+      "id": "com.pridespins.gh",
+      "name": "PrideSpins",
+      "developer": "PrideSpins",
+      "url": "https://play.google.com/store/apps/details?id=com.pridespins.gh&hl=en&gl=GH",
+      "artwork": "https://play-lh.googleusercontent.com/WaIdzTef1ubfPEIyMZyotyOt5Q9RWOwugGRltlgyv8PNTRcdw2tmWKQSW2DqDJ-SdORNE0mQlIjdDzNDkknylw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T15:19:22.000Z",
+      "genres": [
+        "Casino"
+      ],
+      "country": "GH"
+    },
+    {
       "id": "games.joker.drop.poly",
       "name": "Drop Balls - Plink Balls",
       "developer": "Joker Game",
@@ -1008,6 +1008,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-17T13:47:27.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "GH"
+    },
+    {
+      "id": "com.core.biggame.marble.android",
+      "name": "Marble Match Origin",
+      "developer": "LeisureLab Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.core.biggame.marble.android&hl=en&gl=GH",
+      "artwork": "https://play-lh.googleusercontent.com/7n2SG17uCxeJbpjA5ELLCGjDrHpUGLUsc7iiH-fISlaSBvEwAbhGxbz3Wy-GLYPDVm4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-21T09:31:15.000Z",
       "genres": [
         "Casual"
       ],
@@ -1028,34 +1042,6 @@
       "country": "GH"
     },
     {
-      "id": "com.core.biggame.marble.android",
-      "name": "Marble Match Origin",
-      "developer": "LeisureLab Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.core.biggame.marble.android&hl=en&gl=GH",
-      "artwork": "https://play-lh.googleusercontent.com/7n2SG17uCxeJbpjA5ELLCGjDrHpUGLUsc7iiH-fISlaSBvEwAbhGxbz3Wy-GLYPDVm4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-21T09:31:15.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "GH"
-    },
-    {
-      "id": "com.outfit7.mytalkingangelafree",
-      "name": "My Talking Angela",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=en&gl=GH",
-      "artwork": "https://play-lh.googleusercontent.com/rdMpsc5VkkG4JGHIFqNREbWBzXxkZBHN7ZA86DqcZEMmtwWy58NLVDuqWgoG2XCAu4Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T13:56:11.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "GH"
-    },
-    {
       "id": "com.miniclip.eightballpool",
       "name": "8 Ball Pool",
       "developer": "Miniclip.com",
@@ -1070,16 +1056,16 @@
       "country": "GH"
     },
     {
-      "id": "jp.konami.pesam",
-      "name": "eFootball™",
-      "developer": "KONAMI",
-      "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=en&gl=GH",
-      "artwork": "https://play-lh.googleusercontent.com/o-iscF0u9uAm9jaems25nNUw3cIgxrzIELVTy-DPKb3CxN0_HLBcaWoeetZca_BBOp_u_NXeyQKz0nJkXiFMkA",
+      "id": "com.outfit7.mytalkingangelafree",
+      "name": "My Talking Angela",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=en&gl=GH",
+      "artwork": "https://play-lh.googleusercontent.com/rdMpsc5VkkG4JGHIFqNREbWBzXxkZBHN7ZA86DqcZEMmtwWy58NLVDuqWgoG2XCAu4Q",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T01:25:55.000Z",
+      "releaseDate": "2026-02-25T13:56:11.000Z",
       "genres": [
-        "Sports"
+        "Casual"
       ],
       "country": "GH"
     },
@@ -1140,6 +1126,20 @@
       "country": "GH"
     },
     {
+      "id": "jp.konami.pesam",
+      "name": "eFootball™",
+      "developer": "KONAMI",
+      "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=en&gl=GH",
+      "artwork": "https://play-lh.googleusercontent.com/o-iscF0u9uAm9jaems25nNUw3cIgxrzIELVTy-DPKb3CxN0_HLBcaWoeetZca_BBOp_u_NXeyQKz0nJkXiFMkA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T01:25:55.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "GH"
+    },
+    {
       "id": "com.firsttouchgames.story",
       "name": "Score! Hero",
       "developer": "First Touch Games Ltd.",
@@ -1182,6 +1182,20 @@
       "country": "GH"
     },
     {
+      "id": "com.adventure.piano.kpopstar",
+      "name": "Music Piano 2: KPop Star",
+      "developer": "HyperMusic",
+      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=GH",
+      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T11:38:17.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "GH"
+    },
+    {
       "id": "com.ansangha.drdriving",
       "name": "Dr. Driving",
       "developer": "SUD Inc.",
@@ -1210,34 +1224,6 @@
       "country": "GH"
     },
     {
-      "id": "com.adventure.piano.kpopstar",
-      "name": "Music Piano 2: KPop Star",
-      "developer": "HyperMusic",
-      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=GH",
-      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T11:38:17.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "GH"
-    },
-    {
-      "id": "com.mergegames.gossipharbor",
-      "name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=GH",
-      "artwork": "https://play-lh.googleusercontent.com/xVIGbuFosD3kQ4D9iyRQGFjEy5stL8NODkfdeZ-o73q-APh-XKaHo2nMseGc1FeB138H3TeEoI0ew9Wca5-iJA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T12:20:43.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "GH"
-    },
-    {
       "id": "com.xgame.VehicleDriving3D",
       "name": "Real Driving: Vehicle & Park",
       "developer": "XGAME STUDIO",
@@ -1252,16 +1238,16 @@
       "country": "GH"
     },
     {
-      "id": "com.ffgames.racingincar2",
-      "name": "Racing in Car 2",
-      "developer": "ckgames",
-      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=GH",
-      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "id": "com.mergegames.gossipharbor",
+      "name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=GH",
+      "artwork": "https://play-lh.googleusercontent.com/xVIGbuFosD3kQ4D9iyRQGFjEy5stL8NODkfdeZ-o73q-APh-XKaHo2nMseGc1FeB138H3TeEoI0ew9Wca5-iJA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-19T14:55:06.000Z",
+      "releaseDate": "2026-02-10T12:20:43.000Z",
       "genres": [
-        "Racing"
+        "Puzzle"
       ],
       "country": "GH"
     },
@@ -1294,20 +1280,6 @@
       "country": "GH"
     },
     {
-      "id": "com.soccer.score.star",
-      "name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=GH",
-      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:32:33.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "GH"
-    },
-    {
       "id": "europe.truck.simulator2",
       "name": "Truckers of Europe 2",
       "developer": "Wanda Software",
@@ -1322,16 +1294,16 @@
       "country": "GH"
     },
     {
-      "id": "com.gg.karate.fighting.game",
-      "name": "Kung Fu Game - Fighting Games",
-      "developer": "Offline Games Gallery",
-      "url": "https://play.google.com/store/apps/details?id=com.gg.karate.fighting.game&hl=en&gl=GH",
-      "artwork": "https://play-lh.googleusercontent.com/fbVfb62Wlj6IOvDaZx6jBMrSAgkk64_OmYsLV641mzv8tkT6TzVgmDLsNx0ndMO-1G4",
+      "id": "com.soccer.score.star",
+      "name": "Soccer Superstar",
+      "developer": "Real Freestyle Soccer",
+      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=GH",
+      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-22T11:10:53.000Z",
+      "releaseDate": "2026-01-29T15:32:33.000Z",
       "genres": [
-        "Action"
+        "Sports"
       ],
       "country": "GH"
     },
@@ -1350,20 +1322,6 @@
       "country": "GH"
     },
     {
-      "id": "com.aag.world.football.league",
-      "name": "FSL24 : Football Soccer League",
-      "developer": "Action Arena Games",
-      "url": "https://play.google.com/store/apps/details?id=com.aag.world.football.league&hl=en&gl=GH",
-      "artwork": "https://play-lh.googleusercontent.com/rdWGBvSuKAWMMln6xefaOcc16w6ICRFu_4z93Nj53QDbEfQfYUD2aAIst0T7X8v9nQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T18:40:32.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "GH"
-    },
-    {
       "id": "com.hyperkani.trialbike",
       "name": "Stunt Bike Extreme",
       "developer": "Hyperkani",
@@ -1378,16 +1336,30 @@
       "country": "GH"
     },
     {
-      "id": "com.grand.launcher",
-      "name": "Grand Mobile: RP Open World",
-      "developer": "Dynamic Technologies TOO",
-      "url": "https://play.google.com/store/apps/details?id=com.grand.launcher&hl=en&gl=GH",
-      "artwork": "https://play-lh.googleusercontent.com/EBfB-66PKQDaQvrq_cpFp1evl3pyqmKx1z0arqV8vaoRwMLZa4pgXfv9qHF9LOEp4niU6t1paRySkGkETvGd8A",
+      "id": "com.gg.karate.fighting.game",
+      "name": "Kung Fu Game - Fighting Games",
+      "developer": "Offline Games Gallery",
+      "url": "https://play.google.com/store/apps/details?id=com.gg.karate.fighting.game&hl=en&gl=GH",
+      "artwork": "https://play-lh.googleusercontent.com/fbVfb62Wlj6IOvDaZx6jBMrSAgkk64_OmYsLV641mzv8tkT6TzVgmDLsNx0ndMO-1G4",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-18T12:32:59.000Z",
+      "releaseDate": "2025-12-22T11:10:53.000Z",
       "genres": [
-        "Role Playing"
+        "Action"
+      ],
+      "country": "GH"
+    },
+    {
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=GH",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-19T14:55:06.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "GH"
     },
@@ -1402,6 +1374,34 @@
       "releaseDate": "2026-02-19T10:07:09.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "GH"
+    },
+    {
+      "id": "com.aag.world.football.league",
+      "name": "FSL24 : Football Soccer League",
+      "developer": "Action Arena Games",
+      "url": "https://play.google.com/store/apps/details?id=com.aag.world.football.league&hl=en&gl=GH",
+      "artwork": "https://play-lh.googleusercontent.com/rdWGBvSuKAWMMln6xefaOcc16w6ICRFu_4z93Nj53QDbEfQfYUD2aAIst0T7X8v9nQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T18:40:32.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "GH"
+    },
+    {
+      "id": "com.ludo.king",
+      "name": "Ludo King®",
+      "developer": "Gametion",
+      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=GH",
+      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T09:46:13.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "GH"
     }
