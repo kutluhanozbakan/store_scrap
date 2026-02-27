@@ -1,8 +1,50 @@
 {
   "country": "PA",
   "store": "google",
-  "updatedAt": "2026-02-26T18:07:54.408Z",
+  "updatedAt": "2026-02-27T06:06:12.947Z",
   "new": [
+    {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=PA",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T21:16:50.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "PA"
+    },
+    {
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast: Wonders",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=PA",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T16:42:28.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "PA"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=PA",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T16:38:38.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "PA"
+    },
     {
       "id": "pt.cosmicode.imposter",
       "name": "Imposter Up - Who is the Spy?",
@@ -42,20 +84,6 @@
       "releaseDate": "2026-02-25T16:07:46.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "PA"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=PA",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T15:42:09.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "PA"
     },
@@ -270,20 +298,6 @@
       "country": "PA"
     },
     {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=PA",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T19:40:10.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "PA"
-    },
-    {
       "id": "gg.sunday.dog.escape.puzzle",
       "name": "Dog Escape: Cute Pet Care Life",
       "developer": "Sunday.gg",
@@ -322,20 +336,6 @@
       "releaseDate": "2026-02-20T15:02:37.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "PA"
-    },
-    {
-      "id": "com.playstrom.my.sticker.room",
-      "name": "My Sticker Room - Decor Game",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=PA",
-      "artwork": "https://play-lh.googleusercontent.com/Z_DSIS6IGl9aSW67rlVKoatQLa8oc8cyiSQZ-jjkKpFc5sBao4dg4cfEhGTq5z7S3A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T14:39:09.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "PA"
     },
@@ -634,14 +634,14 @@
       "country": "PA"
     },
     {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast: Wonders",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=PA",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "id": "com.bigcake.android.classicdominoes",
+      "name": "Classic Dominoes: Dominos Game",
+      "developer": "Big Cake",
+      "url": "https://play.google.com/store/apps/details?id=com.bigcake.android.classicdominoes&hl=en&gl=PA",
+      "artwork": "https://play-lh.googleusercontent.com/T7j-JUA3WVw7Eh06hIWaA1CQARpNkPpSfkoOQc9R3DVK284ywWRuJPU-ZVl7t0yzb8Q",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-12T15:11:54.000Z",
+      "releaseDate": "2026-02-12T11:07:21.000Z",
       "genres": [
         "Board"
       ],
@@ -713,7 +713,7 @@
       "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T19:40:10.000Z",
+      "releaseDate": "2026-02-26T21:16:50.000Z",
       "genres": [
         "Adventure"
       ],
@@ -762,16 +762,16 @@
       "country": "PA"
     },
     {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=PA",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "id": "com.yoyaworld.sparkle",
+      "name": "YoYa Sparkle: Style Pop",
+      "developer": "YoYa World",
+      "url": "https://play.google.com/store/apps/details?id=com.yoyaworld.sparkle&hl=en&gl=PA",
+      "artwork": "https://play-lh.googleusercontent.com/p8-BaCjUpkQpVNEZmtMdBOlNI7VKwtAzlGRuN2lHqZByjb5QAcR7iNrOpTr6b63zEB3KajI0C29ZP6ZP_t-cEg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-12T00:38:27.000Z",
+      "releaseDate": "2026-02-09T12:29:13.000Z",
       "genres": [
-        "Simulation"
+        "Casual"
       ],
       "country": "PA"
     },
@@ -783,9 +783,23 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-25T15:42:09.000Z",
+      "releaseDate": "2026-02-26T16:38:38.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "PA"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=PA",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T00:38:27.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "PA"
     },
@@ -818,34 +832,6 @@
       "country": "PA"
     },
     {
-      "id": "com.music.ball.hop.tiles.beat.dancing.game",
-      "name": "Music Ballz Hop",
-      "developer": "SAMFEN LIMITED",
-      "url": "https://play.google.com/store/apps/details?id=com.music.ball.hop.tiles.beat.dancing.game&hl=en&gl=PA",
-      "artwork": "https://play-lh.googleusercontent.com/A1w2gXMyvfoDsjRze6F1kfgMk1omtWWboFEez8rkZfI9OVGBv1ffBphf6Q0kM0zLKQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T12:02:35.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "PA"
-    },
-    {
-      "id": "com.yoyaworld.sparkle",
-      "name": "YoYa Sparkle: Style Pop",
-      "developer": "YoYa World",
-      "url": "https://play.google.com/store/apps/details?id=com.yoyaworld.sparkle&hl=en&gl=PA",
-      "artwork": "https://play-lh.googleusercontent.com/p8-BaCjUpkQpVNEZmtMdBOlNI7VKwtAzlGRuN2lHqZByjb5QAcR7iNrOpTr6b63zEB3KajI0C29ZP6ZP_t-cEg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T12:29:13.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "PA"
-    },
-    {
       "id": "com.candyroom.clubcraft",
       "name": "School Party Craft",
       "developer": "Candy Room Games & RabbitCo",
@@ -856,6 +842,20 @@
       "releaseDate": "2026-01-28T21:11:32.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "PA"
+    },
+    {
+      "id": "com.music.ball.hop.tiles.beat.dancing.game",
+      "name": "Music Ballz Hop",
+      "developer": "SAMFEN LIMITED",
+      "url": "https://play.google.com/store/apps/details?id=com.music.ball.hop.tiles.beat.dancing.game&hl=en&gl=PA",
+      "artwork": "https://play-lh.googleusercontent.com/A1w2gXMyvfoDsjRze6F1kfgMk1omtWWboFEez8rkZfI9OVGBv1ffBphf6Q0kM0zLKQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T12:02:35.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "PA"
     },
@@ -902,20 +902,6 @@
       "country": "PA"
     },
     {
-      "id": "pt.cosmicode.imposter",
-      "name": "Imposter Up - Who is the Spy?",
-      "developer": "Cosmicode",
-      "url": "https://play.google.com/store/apps/details?id=pt.cosmicode.imposter&hl=en&gl=PA",
-      "artwork": "https://play-lh.googleusercontent.com/vG_rEgkLiN6I5tCj8EQxhEw4dktXFrlPAb736d6t050ZFRZ16F3mj9D_o2RNX-qKYRl_VVeAdkgr7_B8z81Z6g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T14:56:09.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "PA"
-    },
-    {
       "id": "com.PlayMax.playergames",
       "name": "Stickman Party 234 MiniGames",
       "developer": "PlayMax Game Studio",
@@ -926,6 +912,20 @@
       "releaseDate": "2025-10-22T00:32:35.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "PA"
+    },
+    {
+      "id": "pt.cosmicode.imposter",
+      "name": "Imposter Up - Who is the Spy?",
+      "developer": "Cosmicode",
+      "url": "https://play.google.com/store/apps/details?id=pt.cosmicode.imposter&hl=en&gl=PA",
+      "artwork": "https://play-lh.googleusercontent.com/vG_rEgkLiN6I5tCj8EQxhEw4dktXFrlPAb736d6t050ZFRZ16F3mj9D_o2RNX-qKYRl_VVeAdkgr7_B8z81Z6g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T14:56:09.000Z",
+      "genres": [
+        "Word"
       ],
       "country": "PA"
     },
@@ -944,20 +944,6 @@
       "country": "PA"
     },
     {
-      "id": "com.craft.city.blockbuilder.pro",
-      "name": "Craft Explore: Block Builder",
-      "developer": "Appsgrooves",
-      "url": "https://play.google.com/store/apps/details?id=com.craft.city.blockbuilder.pro&hl=en&gl=PA",
-      "artwork": "https://play-lh.googleusercontent.com/YFHDvFUFlCreDkvR1NRPr1KkeF3OdKCZPVmSLzPXs96jHbAxUf4LjFOaWA0WkmTdIK4A2K2G8ZnnKeLimAFM2Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T12:12:25.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "PA"
-    },
-    {
       "id": "com.media720.games2020",
       "name": "Offline Games No WiFi internet",
       "developer": "Fun Offline Games",
@@ -968,6 +954,20 @@
       "releaseDate": "2026-01-29T19:00:49.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "PA"
+    },
+    {
+      "id": "com.craft.city.blockbuilder.pro",
+      "name": "Craft Explore: Block Builder",
+      "developer": "Appsgrooves",
+      "url": "https://play.google.com/store/apps/details?id=com.craft.city.blockbuilder.pro&hl=en&gl=PA",
+      "artwork": "https://play-lh.googleusercontent.com/YFHDvFUFlCreDkvR1NRPr1KkeF3OdKCZPVmSLzPXs96jHbAxUf4LjFOaWA0WkmTdIK4A2K2G8ZnnKeLimAFM2Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T12:12:25.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "PA"
     },
@@ -1014,20 +1014,6 @@
       "country": "PA"
     },
     {
-      "id": "me.pou.app",
-      "name": "Pou",
-      "developer": "Zakeh",
-      "url": "https://play.google.com/store/apps/details?id=me.pou.app&hl=en&gl=PA",
-      "artwork": "https://play-lh.googleusercontent.com/xToRFw-mqA18HtizgutV0K1IouakfR8iJ3PW75u-1n1oxbP7hVfBMlgHWIwuUYKKS_s",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-08T09:01:34.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "PA"
-    },
-    {
       "id": "in.playsimple.wordsearch",
       "name": "Word Search Explorer",
       "developer": "PlaySimple Games",
@@ -1042,16 +1028,16 @@
       "country": "PA"
     },
     {
-      "id": "com.robtopx.geometryjumplite",
-      "name": "Geometry Dash Lite",
-      "developer": "RobTop Games",
-      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=PA",
-      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
+      "id": "me.pou.app",
+      "name": "Pou",
+      "developer": "Zakeh",
+      "url": "https://play.google.com/store/apps/details?id=me.pou.app&hl=en&gl=PA",
+      "artwork": "https://play-lh.googleusercontent.com/xToRFw-mqA18HtizgutV0K1IouakfR8iJ3PW75u-1n1oxbP7hVfBMlgHWIwuUYKKS_s",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-30T14:03:50.000Z",
+      "releaseDate": "2025-10-08T09:01:34.000Z",
       "genres": [
-        "Arcade"
+        "Casual"
       ],
       "country": "PA"
     },
@@ -1066,6 +1052,20 @@
       "releaseDate": "2026-02-18T19:19:24.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "PA"
+    },
+    {
+      "id": "com.robtopx.geometryjumplite",
+      "name": "Geometry Dash Lite",
+      "developer": "RobTop Games",
+      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=PA",
+      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T14:03:50.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "PA"
     },
@@ -1126,6 +1126,20 @@
       "country": "PA"
     },
     {
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast: Wonders",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=PA",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T16:42:28.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "PA"
+    },
+    {
       "id": "com.playgendary.kickthebuddy",
       "name": "Kick the Buddy－Fun Action Game",
       "developer": "Playgendary Limited",
@@ -1136,20 +1150,6 @@
       "releaseDate": "2026-02-11T14:04:33.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "PA"
-    },
-    {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast: Wonders",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=PA",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T15:11:54.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "PA"
     },
@@ -1224,6 +1224,20 @@
       "country": "PA"
     },
     {
+      "id": "com.mmircil.cnb2",
+      "name": "Crafting and Building",
+      "developer": "GeneRe",
+      "url": "https://play.google.com/store/apps/details?id=com.mmircil.cnb2&hl=en&gl=PA",
+      "artwork": "https://play-lh.googleusercontent.com/MdlAVHNAfIuMHJA6y7vJXINGeJ9wSxIG3dT7CAlZZ5fS3EEUS8_R57O0TJDN0vbmjEo",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-23T18:55:46.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "PA"
+    },
+    {
       "id": "com.outfit7.mytalkingtom2",
       "name": "My Talking Tom 2: Pet Game",
       "developer": "Outfit7 Limited",
@@ -1252,20 +1266,6 @@
       "country": "PA"
     },
     {
-      "id": "com.mmircil.cnb2",
-      "name": "Crafting and Building",
-      "developer": "GeneRe",
-      "url": "https://play.google.com/store/apps/details?id=com.mmircil.cnb2&hl=en&gl=PA",
-      "artwork": "https://play-lh.googleusercontent.com/MdlAVHNAfIuMHJA6y7vJXINGeJ9wSxIG3dT7CAlZZ5fS3EEUS8_R57O0TJDN0vbmjEo",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-23T18:55:46.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "PA"
-    },
-    {
       "id": "com.trending.tik.tap.game.challenge",
       "name": "Tik Tap Challenge",
       "developer": "XGame Global",
@@ -1276,6 +1276,20 @@
       "releaseDate": "2025-12-16T11:49:19.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "PA"
+    },
+    {
+      "id": "com.superbinogo.jungleboyadventure",
+      "name": "Super Bino Go:Adventure Jungle",
+      "developer": "1SOFT",
+      "url": "https://play.google.com/store/apps/details?id=com.superbinogo.jungleboyadventure&hl=en&gl=PA",
+      "artwork": "https://play-lh.googleusercontent.com/8vAg805Hbqbg8TWgyqwNRN2JRAO2hNjn-xFeBNESKeDtSmq-2f6SP-eaW7WpgSOI9No",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-13T02:49:30.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "PA"
     },
@@ -1294,16 +1308,16 @@
       "country": "PA"
     },
     {
-      "id": "com.superbinogo.jungleboyadventure",
-      "name": "Super Bino Go:Adventure Jungle",
-      "developer": "1SOFT",
-      "url": "https://play.google.com/store/apps/details?id=com.superbinogo.jungleboyadventure&hl=en&gl=PA",
-      "artwork": "https://play-lh.googleusercontent.com/8vAg805Hbqbg8TWgyqwNRN2JRAO2hNjn-xFeBNESKeDtSmq-2f6SP-eaW7WpgSOI9No",
+      "id": "com.crazylabs.fashion.squad",
+      "name": "Glow Fashion Idol",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.crazylabs.fashion.squad&hl=en&gl=PA",
+      "artwork": "https://play-lh.googleusercontent.com/8Uya--tuIfw1h-Y3q-EtAHlZPLOkZEG0zqygzjJ8I0wcy-pNerpzrh6xhZVuVm32puo",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-13T02:49:30.000Z",
+      "releaseDate": "2026-02-17T12:27:26.000Z",
       "genres": [
-        "Adventure"
+        "Casual"
       ],
       "country": "PA"
     },
@@ -1350,20 +1364,6 @@
       "country": "PA"
     },
     {
-      "id": "com.bunbunstudio.magicblocktiles",
-      "name": "Music Piano 7: Rush Song Games",
-      "developer": "Melodya Muses",
-      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=PA",
-      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T01:15:33.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "PA"
-    },
-    {
       "id": "com.heartsnet.clickwood.gp",
       "name": "Click Wood",
       "developer": "Heartsnet",
@@ -1378,16 +1378,16 @@
       "country": "PA"
     },
     {
-      "id": "com.crazylabs.fashion.squad",
-      "name": "Glow Fashion Idol",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.crazylabs.fashion.squad&hl=en&gl=PA",
-      "artwork": "https://play-lh.googleusercontent.com/8Uya--tuIfw1h-Y3q-EtAHlZPLOkZEG0zqygzjJ8I0wcy-pNerpzrh6xhZVuVm32puo",
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=PA",
+      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-17T12:27:26.000Z",
+      "releaseDate": "2026-02-25T01:15:33.000Z",
       "genres": [
-        "Casual"
+        "Music"
       ],
       "country": "PA"
     },

@@ -1,8 +1,36 @@
 {
   "country": "NP",
   "store": "google",
-  "updatedAt": "2026-02-26T17:19:03.581Z",
+  "updatedAt": "2026-02-27T06:05:55.511Z",
   "new": [
+    {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T21:16:50.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T16:38:38.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "NP"
+    },
     {
       "id": "com.rubygames.assassin",
       "name": "Hunter Assassin",
@@ -42,20 +70,6 @@
       "releaseDate": "2026-02-26T10:48:15.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "NP"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T15:42:09.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "NP"
     },
@@ -280,20 +294,6 @@
       "releaseDate": "2026-02-23T08:13:54.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "NP"
-    },
-    {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T19:40:10.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "NP"
     },
@@ -755,9 +755,23 @@
       "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T19:40:10.000Z",
+      "releaseDate": "2026-02-26T21:16:50.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.mobile.legends",
+      "name": "Mobile Legends: Bang Bang",
+      "developer": "MOONTON",
+      "url": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/Op7v9XdsyxjrKImMD5RLyiLRCAHs3DMQFANwfsuMTw1hq0lH4j8tOqD3Fd7zyr4ixmC0xoqqRkQDBjAd46NsFQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-07T03:26:33.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "NP"
     },
@@ -776,14 +790,14 @@
       "country": "NP"
     },
     {
-      "id": "com.mobile.legends",
-      "name": "Mobile Legends: Bang Bang",
-      "developer": "MOONTON",
-      "url": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/Op7v9XdsyxjrKImMD5RLyiLRCAHs3DMQFANwfsuMTw1hq0lH4j8tOqD3Fd7zyr4ixmC0xoqqRkQDBjAd46NsFQ",
+      "id": "com.imangi.templerun2",
+      "name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-07T03:26:33.000Z",
+      "releaseDate": "2026-02-17T14:25:25.000Z",
       "genres": [
         "Action"
       ],
@@ -818,14 +832,14 @@
       "country": "NP"
     },
     {
-      "id": "com.imangi.templerun2",
-      "name": "Temple Run 2: Endless Escape",
-      "developer": "Imangi Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
+      "id": "com.dts.freefiremax",
+      "name": "Free Fire MAX: Lost Treasure",
+      "developer": "GARENA INTERNATIONAL I",
+      "url": "https://play.google.com/store/apps/details?id=com.dts.freefiremax&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/uVRjDZ9q6OBIYE2ASYcl0wyBUFOgXsex5XnzS1BA7YP-CbVYCTEY3kD_t3zFP63W7W6SYesGEMgbbgG9Onn7",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-17T14:25:25.000Z",
+      "releaseDate": "2026-01-09T06:52:43.000Z",
       "genres": [
         "Action"
       ],
@@ -846,16 +860,16 @@
       "country": "NP"
     },
     {
-      "id": "com.dts.freefiremax",
-      "name": "Free Fire MAX: Lost Treasure",
-      "developer": "GARENA INTERNATIONAL I",
-      "url": "https://play.google.com/store/apps/details?id=com.dts.freefiremax&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/uVRjDZ9q6OBIYE2ASYcl0wyBUFOgXsex5XnzS1BA7YP-CbVYCTEY3kD_t3zFP63W7W6SYesGEMgbbgG9Onn7",
+      "id": "com.football.soccer.league",
+      "name": "Football League 2026",
+      "developer": "MOBILE SOCCER",
+      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-09T06:52:43.000Z",
+      "releaseDate": "2026-02-11T12:25:49.000Z",
       "genres": [
-        "Action"
+        "Sports"
       ],
       "country": "NP"
     },
@@ -870,20 +884,6 @@
       "releaseDate": "2026-01-09T02:55:19.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "NP"
-    },
-    {
-      "id": "com.football.soccer.league",
-      "name": "Football League 2026",
-      "developer": "MOBILE SOCCER",
-      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T12:25:49.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "NP"
     },
@@ -954,6 +954,20 @@
       "releaseDate": "2026-02-20T11:25:29.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "NP"
     },
@@ -1042,20 +1056,6 @@
       "country": "NP"
     },
     {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "NP"
-    },
-    {
       "id": "com.maxtoolskin.fffskintool.mynewskins",
       "name": "SkinLab FF Skin & Diamond Tips",
       "developer": "BitRaft Studio",
@@ -1066,6 +1066,20 @@
       "releaseDate": "2025-06-26T12:58:06.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.wildspike.wormszone",
+      "name": "Worms Zone .io - Hungry Snake",
+      "developer": "CASUAL AZUR GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/_3HpCRk6_njK_LIknzcmgILuo6PGD-sH-fGs6UZFM3MrBzYULVr3M0cpfWahEH34Zmw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T11:39:50.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "NP"
     },
@@ -1084,20 +1098,6 @@
       "country": "NP"
     },
     {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "NP"
-    },
-    {
       "id": "com.vincentb.MobControl",
       "name": "Mob Control",
       "developer": "VOODOO",
@@ -1108,6 +1108,20 @@
       "releaseDate": "2026-02-24T17:04:13.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "NP"
     },
@@ -1182,20 +1196,6 @@
       "country": "NP"
     },
     {
-      "id": "com.wildspike.wormszone",
-      "name": "Worms Zone .io - Hungry Snake",
-      "developer": "CASUAL AZUR GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/_3HpCRk6_njK_LIknzcmgILuo6PGD-sH-fGs6UZFM3MrBzYULVr3M0cpfWahEH34Zmw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T11:39:50.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "NP"
-    },
-    {
       "id": "com.media720.games2020",
       "name": "Offline Games No WiFi internet",
       "developer": "Fun Offline Games",
@@ -1210,14 +1210,14 @@
       "country": "NP"
     },
     {
-      "id": "com.zuuks.truck.simulator.ultimate",
-      "name": "Truck Simulator : Ultimate",
+      "id": "com.zuuks.bus.simulator.ultimate",
+      "name": "Bus Simulator : Ultimate",
       "developer": "Zuuks Games",
-      "url": "https://play.google.com/store/apps/details?id=com.zuuks.truck.simulator.ultimate&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/JoSjpnw113F0re_89aZ8pwLwrgrJ7x4I_VLVgP82GV_pY1513fR5QfJCGzpPFnmws2I",
+      "url": "https://play.google.com/store/apps/details?id=com.zuuks.bus.simulator.ultimate&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/vs4nOeJ_kPDLImyOuf07ZOmZv0_6zRjY7uBStFCQpPLFYl40Bk7OrsTAqK9RQZd8doQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-28T16:49:37.000Z",
+      "releaseDate": "2026-01-28T16:38:33.000Z",
       "genres": [
         "Simulation"
       ],
@@ -1238,6 +1238,20 @@
       "country": "NP"
     },
     {
+      "id": "com.zuuks.truck.simulator.ultimate",
+      "name": "Truck Simulator : Ultimate",
+      "developer": "Zuuks Games",
+      "url": "https://play.google.com/store/apps/details?id=com.zuuks.truck.simulator.ultimate&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/JoSjpnw113F0re_89aZ8pwLwrgrJ7x4I_VLVgP82GV_pY1513fR5QfJCGzpPFnmws2I",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T16:49:37.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "NP"
+    },
+    {
       "id": "com.callbreak.hippo",
       "name": "Callbreak Master - Card Game",
       "developer": "Hippo Lab",
@@ -1248,6 +1262,20 @@
       "releaseDate": "2026-02-06T02:16:37.000Z",
       "genres": [
         "Card"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T05:19:01.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "NP"
     },
@@ -1294,6 +1322,20 @@
       "country": "NP"
     },
     {
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "NP"
+    },
+    {
       "id": "com.openmygame.games.android.jigsaw.solitaire.puzzle",
       "name": "Cardscapes: Jigsaw Puzzle",
       "developer": "Malpa Games",
@@ -1304,20 +1346,6 @@
       "releaseDate": "2026-02-20T16:43:57.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "NP"
-    },
-    {
-      "id": "com.zuuks.bus.simulator.ultimate",
-      "name": "Bus Simulator : Ultimate",
-      "developer": "Zuuks Games",
-      "url": "https://play.google.com/store/apps/details?id=com.zuuks.bus.simulator.ultimate&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/vs4nOeJ_kPDLImyOuf07ZOmZv0_6zRjY7uBStFCQpPLFYl40Bk7OrsTAqK9RQZd8doQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T16:38:33.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "NP"
     },
@@ -1336,6 +1364,34 @@
       "country": "NP"
     },
     {
+      "id": "com.matteljv.uno",
+      "name": "UNO!™",
+      "developer": "Mattel163 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.matteljv.uno&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/yAn20u0xsnzgIKZTaFGgkPnEOV1LPKh00_rEccAnQeljyXDESWneIl9C28c7JT-petqf7AD_ZlIIDMrYah7p",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T09:29:49.000Z",
+      "genres": [
+        "Card"
+      ],
+      "country": "NP"
+    },
+    {
+      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
+      "name": "Shoot Bubble - Pop Bubbles",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=NP",
+      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T02:18:35.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "NP"
+    },
+    {
       "id": "io.yarsa.games.ludo",
       "name": "Ludo",
       "developer": "Yarsa Games",
@@ -1346,62 +1402,6 @@
       "releaseDate": "2026-02-24T08:41:19.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "NP"
-    },
-    {
-      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
-      "name": "Agent Shooter - Shooting Game",
-      "developer": "Rebel Actions",
-      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T10:48:15.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "NP"
-    },
-    {
-      "id": "com.gtsy.annoying.punch.game",
-      "name": "Annoying Uncle Punch Game",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T05:19:01.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "NP"
-    },
-    {
-      "id": "com.gt.moto.bike.wheelie.stunt.race.game",
-      "name": "Moto Bike Stunt Wheelie Game",
-      "developer": "Game town",
-      "url": "https://play.google.com/store/apps/details?id=com.gt.moto.bike.wheelie.stunt.race.game&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/joPwuRJCICDqmz3xqbNWd61tbuUih4UXFukU8_uVb1o6rpzIMV4PnUmpkbXd7izozgn68FCAGZWcRGcbjGSI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-15T07:59:08.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "NP"
-    },
-    {
-      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
-      "name": "Fashion Glow: Model & Style",
-      "developer": "Dress Up Games for Girls",
-      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=NP",
-      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-14T08:31:08.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "NP"
     }
