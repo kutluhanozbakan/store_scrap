@@ -1,8 +1,22 @@
 {
   "country": "MZ",
   "store": "google",
-  "updatedAt": "2026-02-27T15:52:56.850Z",
+  "updatedAt": "2026-02-27T23:02:49.441Z",
   "new": [
+    {
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T15:37:40.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "MZ"
+    },
     {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
@@ -102,6 +116,20 @@
       "country": "MZ"
     },
     {
+      "id": "com.outfit7.mytalkingtomfree",
+      "name": "My Talking Tom",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T11:55:53.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MZ"
+    },
+    {
       "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
       "name": "Agent Shooter - Shooting Game",
       "developer": "Rebel Actions",
@@ -168,20 +196,6 @@
       "releaseDate": "2026-02-24T16:45:20.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "MZ"
-    },
-    {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T13:28:52.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "MZ"
     },
@@ -688,20 +702,6 @@
         "Puzzle"
       ],
       "country": "MZ"
-    },
-    {
-      "id": "com.hfa.us.car.dive.simulator.offline",
-      "name": "US Car Drive Simulator offline",
-      "developer": "Health fitness app",
-      "url": "https://play.google.com/store/apps/details?id=com.hfa.us.car.dive.simulator.offline&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/kpHffkd8WNExya_ZqQ6-ympDLZBKc_4xbfMRD5WsBNZnQaL5fbSCBmRO4qZFPny_BLPwqbhg90OGDH44OIU15Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T07:34:49.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "MZ"
     }
   ],
   "updated": [
@@ -776,20 +776,6 @@
       "country": "MZ"
     },
     {
-      "id": "com.dts.freefireth",
-      "name": "Free Fire: Lost Treasure",
-      "developer": "GARENA INTERNATIONAL I",
-      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/VxqoBX9loIqsESn5OPhXDLLYw8YFAlLJX3TJUb7ovyIQdRRWwGuG3jD9konTZAeWzd8VlVTDt8fkJ8BAEU4ZHQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T06:43:26.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "MZ"
-    },
-    {
       "id": "ball.sort.color.puz.game.puzzle",
       "name": "Ball Sort - Color Puz Game",
       "developer": "Infinite Joy Ltd.",
@@ -800,6 +786,34 @@
       "releaseDate": "2026-02-03T09:39:56.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "MZ"
+    },
+    {
+      "id": "games.joker.bird.road",
+      "name": "Chicken Cross - Sky Road 2",
+      "developer": "Joker Game",
+      "url": "https://play.google.com/store/apps/details?id=games.joker.bird.road&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/N33rlmnGomyayaQ5uLY3IuWXhR6yqNHXHjbin1ct9IYPAsyvcQuHzYNgXGL1BMKzrFFazp_QFivmex6AN74Tag",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-14T06:48:03.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MZ"
+    },
+    {
+      "id": "com.dts.freefireth",
+      "name": "Free Fire: Lost Treasure",
+      "developer": "GARENA INTERNATIONAL I",
+      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/VxqoBX9loIqsESn5OPhXDLLYw8YFAlLJX3TJUb7ovyIQdRRWwGuG3jD9konTZAeWzd8VlVTDt8fkJ8BAEU4ZHQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T06:43:26.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "MZ"
     },
@@ -828,20 +842,6 @@
       "releaseDate": "2025-10-28T20:16:32.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "MZ"
-    },
-    {
-      "id": "games.joker.bird.road",
-      "name": "Chicken Cross - Sky Road 2",
-      "developer": "Joker Game",
-      "url": "https://play.google.com/store/apps/details?id=games.joker.bird.road&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/N33rlmnGomyayaQ5uLY3IuWXhR6yqNHXHjbin1ct9IYPAsyvcQuHzYNgXGL1BMKzrFFazp_QFivmex6AN74Tag",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-14T06:48:03.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "MZ"
     },
@@ -909,7 +909,7 @@
       "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T13:28:52.000Z",
+      "releaseDate": "2026-02-27T15:37:40.000Z",
       "genres": [
         "Board"
       ],
@@ -930,20 +930,6 @@
       "country": "MZ"
     },
     {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "MZ"
-    },
-    {
       "id": "com.combineinc.streetracing.driftthreeD",
       "name": "Street Racing 3D",
       "developer": "Ivy",
@@ -958,16 +944,16 @@
       "country": "MZ"
     },
     {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "releaseDate": "2025-10-22T00:32:35.000Z",
       "genres": [
-        "Sports"
+        "Arcade"
       ],
       "country": "MZ"
     },
@@ -982,6 +968,20 @@
       "releaseDate": "2026-02-06T02:18:35.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "MZ"
+    },
+    {
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "MZ"
     },
@@ -1028,16 +1028,16 @@
       "country": "MZ"
     },
     {
-      "id": "com.gamovation.tileclub",
-      "name": "Tile Club - Match Puzzle Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
+      "id": "com.zams.car.parking.game",
+      "name": "Prado Parking Game: Car Games",
+      "developer": "Zamsolutions",
+      "url": "https://play.google.com/store/apps/details?id=com.zams.car.parking.game&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/cn2Nwf-s0dzhRf-3XsFeV46-pYVhsx1FR6Pwwrot9GomqObP6-WYTbDYFAvk0Zg-Sw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-07T10:41:36.000Z",
+      "releaseDate": "2026-02-18T13:09:31.000Z",
       "genres": [
-        "Puzzle"
+        "Role Playing"
       ],
       "country": "MZ"
     },
@@ -1056,6 +1056,20 @@
       "country": "MZ"
     },
     {
+      "id": "com.gamovation.tileclub",
+      "name": "Tile Club - Match Puzzle Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-07T10:41:36.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MZ"
+    },
+    {
       "id": "io.yarsa.games.ludo",
       "name": "Ludo",
       "developer": "Yarsa Games",
@@ -1066,20 +1080,6 @@
       "releaseDate": "2026-02-24T08:41:19.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "MZ"
-    },
-    {
-      "id": "com.xgame.VehicleDriving3D",
-      "name": "Real Driving: Vehicle & Park",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T06:55:58.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "MZ"
     },
@@ -1112,14 +1112,14 @@
       "country": "MZ"
     },
     {
-      "id": "com.gf.minibus.minicoach.game",
-      "name": "Mini Bus Driving Simulator 3D",
-      "developer": "Gamix Fusion",
-      "url": "https://play.google.com/store/apps/details?id=com.gf.minibus.minicoach.game&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/wGIi3n5FzBM2gL1pbbOlYGrJq-nNV3i_aaKkgCFEGi5HeZsLz8JHkrZYuqkvHjkJiUEt",
+      "id": "com.xgame.VehicleDriving3D",
+      "name": "Real Driving: Vehicle & Park",
+      "developer": "XGAME STUDIO",
+      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-11T08:09:14.000Z",
+      "releaseDate": "2026-01-23T06:55:58.000Z",
       "genres": [
         "Simulation"
       ],
@@ -1140,16 +1140,16 @@
       "country": "MZ"
     },
     {
-      "id": "net.apex_designs.payback2",
-      "name": "Payback 2 - The Battle Sandbox",
-      "developer": "Apex Designs Games LLP",
-      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-08-27T16:01:25.000Z",
+      "releaseDate": "2026-01-28T21:11:32.000Z",
       "genres": [
-        "Arcade"
+        "Adventure"
       ],
       "country": "MZ"
     },
@@ -1168,20 +1168,6 @@
       "country": "MZ"
     },
     {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "MZ"
-    },
-    {
       "id": "com.chillingo.robberybobfree.android.row",
       "name": "Robbery Bob - King of Sneak",
       "developer": "Deca_Games",
@@ -1192,6 +1178,20 @@
       "releaseDate": "2025-10-23T13:25:32.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "MZ"
+    },
+    {
+      "id": "net.apex_designs.payback2",
+      "name": "Payback 2 - The Battle Sandbox",
+      "developer": "Apex Designs Games LLP",
+      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-27T16:01:25.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "MZ"
     },
@@ -1238,20 +1238,6 @@
       "country": "MZ"
     },
     {
-      "id": "com.zams.car.parking.game",
-      "name": "Prado Parking Game: Car Games",
-      "developer": "Zamsolutions",
-      "url": "https://play.google.com/store/apps/details?id=com.zams.car.parking.game&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/cn2Nwf-s0dzhRf-3XsFeV46-pYVhsx1FR6Pwwrot9GomqObP6-WYTbDYFAvk0Zg-Sw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T13:09:31.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "MZ"
-    },
-    {
       "id": "com.ssg.dubaivangame.vandriving",
       "name": "Van Driving Dubai Van Game",
       "developer": "Swiftsoft Games",
@@ -1266,20 +1252,6 @@
       "country": "MZ"
     },
     {
-      "id": "com.hfa.us.car.dive.simulator.offline",
-      "name": "US Car Drive Simulator offline",
-      "developer": "Health fitness app",
-      "url": "https://play.google.com/store/apps/details?id=com.hfa.us.car.dive.simulator.offline&hl=en&gl=MZ",
-      "artwork": "https://play-lh.googleusercontent.com/kpHffkd8WNExya_ZqQ6-ympDLZBKc_4xbfMRD5WsBNZnQaL5fbSCBmRO4qZFPny_BLPwqbhg90OGDH44OIU15Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T07:34:49.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "MZ"
-    },
-    {
       "id": "com.appsomniacs.da2",
       "name": "Mini Militia - War.io",
       "developer": "Miniclip.com",
@@ -1290,6 +1262,20 @@
       "releaseDate": "2024-09-09T10:50:02.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "MZ"
+    },
+    {
+      "id": "com.hfa.us.car.dive.simulator.offline",
+      "name": "US Car Drive Simulator offline",
+      "developer": "Health fitness app",
+      "url": "https://play.google.com/store/apps/details?id=com.hfa.us.car.dive.simulator.offline&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/kpHffkd8WNExya_ZqQ6-ympDLZBKc_4xbfMRD5WsBNZnQaL5fbSCBmRO4qZFPny_BLPwqbhg90OGDH44OIU15Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T07:34:49.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "MZ"
     },
@@ -1388,6 +1374,20 @@
       "releaseDate": "2026-02-26T10:48:15.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "MZ"
+    },
+    {
+      "id": "com.gf.minibus.minicoach.game",
+      "name": "Mini Bus Driving Simulator 3D",
+      "developer": "Gamix Fusion",
+      "url": "https://play.google.com/store/apps/details?id=com.gf.minibus.minicoach.game&hl=en&gl=MZ",
+      "artwork": "https://play-lh.googleusercontent.com/wGIi3n5FzBM2gL1pbbOlYGrJq-nNV3i_aaKkgCFEGi5HeZsLz8JHkrZYuqkvHjkJiUEt",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-11T08:09:14.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "MZ"
     },
