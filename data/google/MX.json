@@ -1,8 +1,36 @@
 {
   "country": "MX",
   "store": "google",
-  "updatedAt": "2026-02-26T17:18:22.263Z",
+  "updatedAt": "2026-02-27T05:06:11.690Z",
   "new": [
+    {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=MX",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T21:16:50.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "MX"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=MX",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T16:38:38.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MX"
+    },
     {
       "id": "pt.cosmicode.imposter",
       "name": "Imposter Up - Who is the Spy?",
@@ -42,20 +70,6 @@
       "releaseDate": "2026-02-26T07:44:25.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "MX"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=MX",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T15:42:09.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "MX"
     },
@@ -242,20 +256,6 @@
       "country": "MX"
     },
     {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=MX",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T19:40:10.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "MX"
-    },
-    {
       "id": "gg.sunday.dog.escape.puzzle",
       "name": "Dog Escape: Cute Pet Care Life",
       "developer": "Sunday.gg",
@@ -378,6 +378,20 @@
       "releaseDate": "2026-02-19T23:38:59.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "MX"
+    },
+    {
+      "id": "com.starplay.spider.fighter.openworld",
+      "name": "Spider Fighter 3: Action Game",
+      "developer": "Starplay FZCO",
+      "url": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter.openworld&hl=en&gl=MX",
+      "artwork": "https://play-lh.googleusercontent.com/HGJGoIR7ZpHDMhRuaYJz_M5k8L0DCwXPcSBDGt217ye4o40LSaXTPHI-XIyiPbRw7g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T16:40:04.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "MX"
     },
@@ -518,20 +532,6 @@
       "releaseDate": "2026-02-18T10:39:35.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "MX"
-    },
-    {
-      "id": "net.mobigame.zombietsunami",
-      "name": "Zombie Tsunami",
-      "developer": "Mobigame SAS",
-      "url": "https://play.google.com/store/apps/details?id=net.mobigame.zombietsunami&hl=en&gl=MX",
-      "artwork": "https://play-lh.googleusercontent.com/y2v9w4KjUe4djmd3yYgj2_XrDIt_D9JO2c2NkYdxtYyE6cGl21JgU4aMqTEcoQzQorLD",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T11:46:45.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "MX"
     },
@@ -713,7 +713,7 @@
       "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T19:40:10.000Z",
+      "releaseDate": "2026-02-26T21:16:50.000Z",
       "genres": [
         "Adventure"
       ],
@@ -755,7 +755,7 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-25T15:42:09.000Z",
+      "releaseDate": "2026-02-26T16:38:38.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -874,20 +874,6 @@
       "country": "MX"
     },
     {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=MX",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "MX"
-    },
-    {
       "id": "com.Earthkwak.Platformer",
       "name": "Super Bear Adventure",
       "developer": "Earthkwak Games",
@@ -916,6 +902,20 @@
       "country": "MX"
     },
     {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=MX",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "MX"
+    },
+    {
       "id": "com.amelosinteractive.snake",
       "name": "Snake.io - Fun Snake .io Games",
       "developer": "Kooapps Games | Fun Arcade and Casual Action Games",
@@ -926,6 +926,20 @@
       "releaseDate": "2026-02-26T12:02:03.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "MX"
+    },
+    {
+      "id": "com.outfit7.mytalkingtom2",
+      "name": "My Talking Tom 2: Pet Game",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=MX",
+      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T11:25:29.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "MX"
     },
@@ -944,16 +958,30 @@
       "country": "MX"
     },
     {
-      "id": "com.outfit7.mytalkingtom2",
-      "name": "My Talking Tom 2: Pet Game",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=MX",
-      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
+      "id": "com.innersloth.spacemafia",
+      "name": "Among Us",
+      "developer": "Innersloth LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=MX",
+      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T11:25:29.000Z",
+      "releaseDate": "2026-02-18T19:19:24.000Z",
       "genres": [
-        "Casual"
+        "Action"
+      ],
+      "country": "MX"
+    },
+    {
+      "id": "gg.sunday.dog.escape.puzzle",
+      "name": "Dog Escape: Cute Pet Care Life",
+      "developer": "Sunday.gg",
+      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle&hl=en&gl=MX",
+      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T17:46:36.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "MX"
     },
@@ -986,34 +1014,6 @@
       "country": "MX"
     },
     {
-      "id": "betmastermx.casino",
-      "name": "Betmaster - Casino En Vivo",
-      "developer": "Betmaster MX",
-      "url": "https://play.google.com/store/apps/details?id=betmastermx.casino&hl=en&gl=MX",
-      "artwork": "https://play-lh.googleusercontent.com/bMt3lgDstqcbyexes30YslJoT5TYDH60k74_FHhr21SxUoeJxHgXT3Pq84o-MFIcNw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T12:03:37.000Z",
-      "genres": [
-        "Casino"
-      ],
-      "country": "MX"
-    },
-    {
-      "id": "gg.sunday.dog.escape.puzzle",
-      "name": "Dog Escape: Cute Pet Care Life",
-      "developer": "Sunday.gg",
-      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle&hl=en&gl=MX",
-      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T17:46:36.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MX"
-    },
-    {
       "id": "com.magic.cyber.piano.tiles.edm.musicgames",
       "name": "Pop Piano: Music Games",
       "developer": "Cobby Labs",
@@ -1028,28 +1028,28 @@
       "country": "MX"
     },
     {
-      "id": "com.innersloth.spacemafia",
-      "name": "Among Us",
-      "developer": "Innersloth LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=MX",
-      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "id": "betmastermx.casino",
+      "name": "Betmaster - Casino En Vivo",
+      "developer": "Betmaster MX",
+      "url": "https://play.google.com/store/apps/details?id=betmastermx.casino&hl=en&gl=MX",
+      "artwork": "https://play-lh.googleusercontent.com/bMt3lgDstqcbyexes30YslJoT5TYDH60k74_FHhr21SxUoeJxHgXT3Pq84o-MFIcNw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-18T19:19:24.000Z",
+      "releaseDate": "2026-02-19T12:03:37.000Z",
       "genres": [
-        "Action"
+        "Casino"
       ],
       "country": "MX"
     },
     {
-      "id": "com.supercell.clashroyale",
-      "name": "Clash Royale",
-      "developer": "Supercell",
-      "url": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=en&gl=MX",
-      "artwork": "https://play-lh.googleusercontent.com/gnSC6s8-6Tjc4uhvDW7nfrSJxpbhllzYhgX8y374N1LYvWBStn2YhozS9XXaz1T_Pi2q",
+      "id": "com.ea.game.pvzfree_row",
+      "name": "Plants vs. Zombies™",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.game.pvzfree_row&hl=en&gl=MX",
+      "artwork": "https://play-lh.googleusercontent.com/SQNpzEgGCVtv82AmRpcTEu9WkA1W1Lxd-V7G_wIvo0YYseCElDXLEVES9VkeUqawxSc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-25T13:29:18.000Z",
+      "releaseDate": "2025-12-15T07:00:21.000Z",
       "genres": [
         "Strategy"
       ],
@@ -1066,20 +1066,6 @@
       "releaseDate": "2026-02-11T14:04:33.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "MX"
-    },
-    {
-      "id": "com.ea.game.pvzfree_row",
-      "name": "Plants vs. Zombies™",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.game.pvzfree_row&hl=en&gl=MX",
-      "artwork": "https://play-lh.googleusercontent.com/SQNpzEgGCVtv82AmRpcTEu9WkA1W1Lxd-V7G_wIvo0YYseCElDXLEVES9VkeUqawxSc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-15T07:00:21.000Z",
-      "genres": [
-        "Strategy"
       ],
       "country": "MX"
     },
@@ -1112,6 +1098,20 @@
       "country": "MX"
     },
     {
+      "id": "com.supercell.clashroyale",
+      "name": "Clash Royale",
+      "developer": "Supercell",
+      "url": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=en&gl=MX",
+      "artwork": "https://play-lh.googleusercontent.com/gnSC6s8-6Tjc4uhvDW7nfrSJxpbhllzYhgX8y374N1LYvWBStn2YhozS9XXaz1T_Pi2q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T13:29:18.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "MX"
+    },
+    {
       "id": "com.magic.music.tiles.game",
       "name": "Rainbow Piano: EDM Music Game",
       "developer": "SAWOTIN GAMES",
@@ -1122,76 +1122,6 @@
       "releaseDate": "2025-12-24T02:58:32.000Z",
       "genres": [
         "Music"
-      ],
-      "country": "MX"
-    },
-    {
-      "id": "com.miniclip.eightballpool",
-      "name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=MX",
-      "artwork": "https://play-lh.googleusercontent.com/4U8BviAkFZu3K2JXAVWPof75cQZxbQ07tLIKd8-1pIa31PS9v2Vz_zQi_L4l-LfUXiM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T11:45:50.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "MX"
-    },
-    {
-      "id": "com.NewFolderGames.IAmCat",
-      "name": "I Am Cat",
-      "developer": "Estoty",
-      "url": "https://play.google.com/store/apps/details?id=com.NewFolderGames.IAmCat&hl=en&gl=MX",
-      "artwork": "https://play-lh.googleusercontent.com/qPz2598bkAbZKDV5tm6-nt0xJdTeSp9rcw-msxEZAYUrvdEtHM82lknNWYsNY2FB_Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T17:27:35.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MX"
-    },
-    {
-      "id": "com.advant.streamer",
-      "name": "Lamar - Idle Vlogger",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=MX",
-      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T15:26:20.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MX"
-    },
-    {
-      "id": "puzzle.snakes.puzzle.slithereat.gaming",
-      "name": "Snake Puzzle: Slither to Eat",
-      "developer": "Brave HK Limited",
-      "url": "https://play.google.com/store/apps/details?id=puzzle.snakes.puzzle.slithereat.gaming&hl=en&gl=MX",
-      "artwork": "https://play-lh.googleusercontent.com/lJyR6ncf44es4dYDxdYV3kqGngkD5hRJ3-c6W31HkfjkTMgVS33nSuTJRCkbeyFJBJzRpP7kvLY--64q8zGemQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-15T15:35:36.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MX"
-    },
-    {
-      "id": "com.vectorunit.purple.googleplay",
-      "name": "Beach Buggy Racing",
-      "developer": "Vector Unit",
-      "url": "https://play.google.com/store/apps/details?id=com.vectorunit.purple.googleplay&hl=en&gl=MX",
-      "artwork": "https://play-lh.googleusercontent.com/ZQXNGxMGyXurnCTHHj5JQh52_fWEjXUwYGeJi3VKWOwrEeUjGAvcdCJSySmMGxvZujI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-09-22T21:58:50.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "MX"
     },
@@ -1210,16 +1140,16 @@
       "country": "MX"
     },
     {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=MX",
-      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
+      "id": "com.NewFolderGames.IAmCat",
+      "name": "I Am Cat",
+      "developer": "Estoty",
+      "url": "https://play.google.com/store/apps/details?id=com.NewFolderGames.IAmCat&hl=en&gl=MX",
+      "artwork": "https://play-lh.googleusercontent.com/qPz2598bkAbZKDV5tm6-nt0xJdTeSp9rcw-msxEZAYUrvdEtHM82lknNWYsNY2FB_Q",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T16:48:19.000Z",
+      "releaseDate": "2026-02-02T17:27:35.000Z",
       "genres": [
-        "Arcade"
+        "Simulation"
       ],
       "country": "MX"
     },
@@ -1234,6 +1164,76 @@
       "releaseDate": "2026-01-26T11:11:09.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "MX"
+    },
+    {
+      "id": "com.advant.streamer",
+      "name": "Lamar - Idle Vlogger",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=MX",
+      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T15:26:20.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MX"
+    },
+    {
+      "id": "com.miniclip.eightballpool",
+      "name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=MX",
+      "artwork": "https://play-lh.googleusercontent.com/4U8BviAkFZu3K2JXAVWPof75cQZxbQ07tLIKd8-1pIa31PS9v2Vz_zQi_L4l-LfUXiM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T11:45:50.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "MX"
+    },
+    {
+      "id": "com.vectorunit.purple.googleplay",
+      "name": "Beach Buggy Racing",
+      "developer": "Vector Unit",
+      "url": "https://play.google.com/store/apps/details?id=com.vectorunit.purple.googleplay&hl=en&gl=MX",
+      "artwork": "https://play-lh.googleusercontent.com/ZQXNGxMGyXurnCTHHj5JQh52_fWEjXUwYGeJi3VKWOwrEeUjGAvcdCJSySmMGxvZujI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-09-22T21:58:50.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "MX"
+    },
+    {
+      "id": "puzzle.snakes.puzzle.slithereat.gaming",
+      "name": "Snake Puzzle: Slither to Eat",
+      "developer": "Brave HK Limited",
+      "url": "https://play.google.com/store/apps/details?id=puzzle.snakes.puzzle.slithereat.gaming&hl=en&gl=MX",
+      "artwork": "https://play-lh.googleusercontent.com/lJyR6ncf44es4dYDxdYV3kqGngkD5hRJ3-c6W31HkfjkTMgVS33nSuTJRCkbeyFJBJzRpP7kvLY--64q8zGemQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-15T15:35:36.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MX"
+    },
+    {
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=MX",
+      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T16:48:19.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "MX"
     },
@@ -1266,20 +1266,6 @@
       "country": "MX"
     },
     {
-      "id": "afun.mx.main.twa",
-      "name": "AFUN Lite: Casinos y apuestas",
-      "developer": "Afun",
-      "url": "https://play.google.com/store/apps/details?id=afun.mx.main.twa&hl=en&gl=MX",
-      "artwork": "https://play-lh.googleusercontent.com/kwabKRLu3lvm2k-9vM8_0gW1IX5YJcGbHpKobTekyVUrReav9hhYd9FKXk9p9rmIPSeKda8CWmwTV2Jky2MyoA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-16T15:03:03.000Z",
-      "genres": [
-        "Casino"
-      ],
-      "country": "MX"
-    },
-    {
       "id": "com.netease.newspike",
       "name": "Blood Strike - FPS for all",
       "developer": "NetEase Games",
@@ -1308,6 +1294,34 @@
       "country": "MX"
     },
     {
+      "id": "com.football.soccer.league",
+      "name": "Football League 2026",
+      "developer": "MOBILE SOCCER",
+      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=MX",
+      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T12:25:49.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "MX"
+    },
+    {
+      "id": "afun.mx.main.twa",
+      "name": "AFUN Lite: Casinos y apuestas",
+      "developer": "Afun",
+      "url": "https://play.google.com/store/apps/details?id=afun.mx.main.twa&hl=en&gl=MX",
+      "artwork": "https://play-lh.googleusercontent.com/kwabKRLu3lvm2k-9vM8_0gW1IX5YJcGbHpKobTekyVUrReav9hhYd9FKXk9p9rmIPSeKda8CWmwTV2Jky2MyoA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-16T15:03:03.000Z",
+      "genres": [
+        "Casino"
+      ],
+      "country": "MX"
+    },
+    {
       "id": "com.sprunki.mod.horror.incredibox.monster.beats.music.game",
       "name": "Sprunki Beat: Full Mod Music",
       "developer": "Gotstar Studio",
@@ -1318,6 +1332,20 @@
       "releaseDate": "2026-01-29T14:50:40.000Z",
       "genres": [
         "Music"
+      ],
+      "country": "MX"
+    },
+    {
+      "id": "com.matteljv.uno",
+      "name": "UNO!™",
+      "developer": "Mattel163 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.matteljv.uno&hl=en&gl=MX",
+      "artwork": "https://play-lh.googleusercontent.com/yAn20u0xsnzgIKZTaFGgkPnEOV1LPKh00_rEccAnQeljyXDESWneIl9C28c7JT-petqf7AD_ZlIIDMrYah7p",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T09:29:49.000Z",
+      "genres": [
+        "Card"
       ],
       "country": "MX"
     },
@@ -1374,34 +1402,6 @@
       "releaseDate": "2026-02-20T09:21:18.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "MX"
-    },
-    {
-      "id": "com.ea.game.pvz2_row",
-      "name": "Plants vs Zombies™ 2",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.game.pvz2_row&hl=en&gl=MX",
-      "artwork": "https://play-lh.googleusercontent.com/r8kGrEySHDwfk2bv1HYmk4K76ioLYeDgr6W5SEAsNhoYlHdu-4kVJdaK9NIyVv9z__0_WOOQpSa2qMkaR9m5JQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-02T06:08:57.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MX"
-    },
-    {
-      "id": "com.blockgamesstudio.blockworld3d",
-      "name": "Block World 3D: Craft & Build",
-      "developer": "Funburstgame LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d&hl=en&gl=MX",
-      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T09:17:30.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "MX"
     }

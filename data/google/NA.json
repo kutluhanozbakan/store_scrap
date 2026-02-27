@@ -1,8 +1,36 @@
 {
   "country": "NA",
   "store": "google",
-  "updatedAt": "2026-02-26T17:18:24.523Z",
+  "updatedAt": "2026-02-27T05:06:20.475Z",
   "new": [
+    {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T21:16:50.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "NA"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T16:38:38.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "NA"
+    },
     {
       "id": "com.WandaSoftware.TruckersofEurope3",
       "name": "Truckers of Europe 3",
@@ -84,20 +112,6 @@
       "releaseDate": "2026-02-25T16:07:46.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "NA"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T15:42:09.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "NA"
     },
@@ -224,34 +238,6 @@
       "releaseDate": "2026-02-21T05:36:44.000Z",
       "genres": [
         "Role Playing"
-      ],
-      "country": "NA"
-    },
-    {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T19:40:10.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "NA"
-    },
-    {
-      "id": "com.openmygame.games.android.jigsaw.solitaire.puzzle",
-      "name": "Cardscapes: Jigsaw Puzzle",
-      "developer": "Malpa Games",
-      "url": "https://play.google.com/store/apps/details?id=com.openmygame.games.android.jigsaw.solitaire.puzzle&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/vf8KzfHG1J7oCp9O-FoSNKMc-Gzjnhw4_7su1RsB4pdF6JARn3vy-xqhwqyj3nowJmdrN-HI0dHfg5vnMJc_ro8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T16:43:57.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "NA"
     },
@@ -702,6 +688,20 @@
         "Simulation"
       ],
       "country": "NA"
+    },
+    {
+      "id": "com.playvalve.wsjourney",
+      "name": "Word Search - Word Puzzle Game",
+      "developer": "Bluetile",
+      "url": "https://play.google.com/store/apps/details?id=com.playvalve.wsjourney&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/buGx7Qx6e_M9DUqiwABScUWx-xgiUSJBURBhivVel8OdVVzqOB2F5V3Nt60Ov8Qudw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T16:54:00.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "NA"
     }
   ],
   "updated": [
@@ -734,20 +734,6 @@
       "country": "NA"
     },
     {
-      "id": "com.firsttouchgames.dls7",
-      "name": "Dream League Soccer 2026",
-      "developer": "First Touch Games Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T16:45:20.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "NA"
-    },
-    {
       "id": "com.football.soccer.league",
       "name": "Football League 2026",
       "developer": "MOBILE SOCCER",
@@ -756,6 +742,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-11T12:25:49.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "NA"
+    },
+    {
+      "id": "com.firsttouchgames.dls7",
+      "name": "Dream League Soccer 2026",
+      "developer": "First Touch Games Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T16:45:20.000Z",
       "genres": [
         "Sports"
       ],
@@ -776,20 +776,6 @@
       "country": "NA"
     },
     {
-      "id": "com.gg.highway.racing.car.rider",
-      "name": "Real Highway Car Racing Games",
-      "developer": "CupTie Fun Games",
-      "url": "https://play.google.com/store/apps/details?id=com.gg.highway.racing.car.rider&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/esaumZWqvMwVabMGc4bPXxLOq-eLnSYtRRwyDVhkHYyn1fC170JqBer4rUaL0cTh_iI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T07:28:13.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "NA"
-    },
-    {
       "id": "com.gamovation.tileclub",
       "name": "Tile Club - Match Puzzle Game",
       "developer": "GamoVation",
@@ -800,6 +786,34 @@
       "releaseDate": "2026-01-07T10:41:36.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "NA"
+    },
+    {
+      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
+      "name": "Shoot Bubble - Pop Bubbles",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T02:18:35.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "NA"
+    },
+    {
+      "id": "com.gg.highway.racing.car.rider",
+      "name": "Real Highway Car Racing Games",
+      "developer": "CupTie Fun Games",
+      "url": "https://play.google.com/store/apps/details?id=com.gg.highway.racing.car.rider&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/esaumZWqvMwVabMGc4bPXxLOq-eLnSYtRRwyDVhkHYyn1fC170JqBer4rUaL0cTh_iI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T07:28:13.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "NA"
     },
@@ -825,23 +839,9 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-25T15:42:09.000Z",
+      "releaseDate": "2026-02-26T16:38:38.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "NA"
-    },
-    {
-      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
-      "name": "Shoot Bubble - Pop Bubbles",
-      "developer": "IVYGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T02:18:35.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "NA"
     },
@@ -986,20 +986,6 @@
       "country": "NA"
     },
     {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T19:40:10.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "NA"
-    },
-    {
       "id": "com.combineinc.streetracing.driftthreeD",
       "name": "Street Racing 3D",
       "developer": "Ivy",
@@ -1010,6 +996,20 @@
       "releaseDate": "2025-11-27T09:42:57.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "NA"
+    },
+    {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T21:16:50.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "NA"
     },
@@ -1042,20 +1042,6 @@
       "country": "NA"
     },
     {
-      "id": "com.millgame.alignit",
-      "name": "Align It - Morabaraba, Online",
-      "developer": "AlignIt Games",
-      "url": "https://play.google.com/store/apps/details?id=com.millgame.alignit&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/bIyKZ0NMuoVioX7zboZ0K-3SgrR64_jWU0GiE2I3mwB4uJ6u-mIjPbvsrZZrcZQW9Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T03:13:42.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "NA"
-    },
-    {
       "id": "com.king.candycrushsodasaga",
       "name": "Candy Crush Soda Saga",
       "developer": "King",
@@ -1070,16 +1056,30 @@
       "country": "NA"
     },
     {
-      "id": "com.media720.games2020",
-      "name": "Offline Games No WiFi internet",
-      "developer": "Fun Offline Games",
-      "url": "https://play.google.com/store/apps/details?id=com.media720.games2020&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/eET3qc7rMWqPZfkk2jsGedhWGoMrbi763h57Etf5fuL6SgcwrjjpA2M94mehfsGznQ",
+      "id": "com.millgame.alignit",
+      "name": "Align It - Morabaraba, Online",
+      "developer": "AlignIt Games",
+      "url": "https://play.google.com/store/apps/details?id=com.millgame.alignit&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/bIyKZ0NMuoVioX7zboZ0K-3SgrR64_jWU0GiE2I3mwB4uJ6u-mIjPbvsrZZrcZQW9Q",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-29T19:00:49.000Z",
+      "releaseDate": "2026-02-13T03:13:42.000Z",
       "genres": [
-        "Casual"
+        "Board"
+      ],
+      "country": "NA"
+    },
+    {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "NA"
     },
@@ -1098,6 +1098,20 @@
       "country": "NA"
     },
     {
+      "id": "com.media720.games2020",
+      "name": "Offline Games No WiFi internet",
+      "developer": "Fun Offline Games",
+      "url": "https://play.google.com/store/apps/details?id=com.media720.games2020&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/eET3qc7rMWqPZfkk2jsGedhWGoMrbi763h57Etf5fuL6SgcwrjjpA2M94mehfsGznQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T19:00:49.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "NA"
+    },
+    {
       "id": "com.king.candycrushsaga",
       "name": "Candy Crush Saga",
       "developer": "King",
@@ -1108,6 +1122,20 @@
       "releaseDate": "2026-02-19T12:54:33.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "NA"
+    },
+    {
+      "id": "com.ssg.dubaivangame.vandriving",
+      "name": "Van Driving Dubai Van Game",
+      "developer": "Swiftsoft Games",
+      "url": "https://play.google.com/store/apps/details?id=com.ssg.dubaivangame.vandriving&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/8hPfDvtoB9Q5jM0w9JIljtYr1_mop3yTQmRLcRYxLfXFkh5MTMMDjByoEkkZgHZrijf2999xsXvRbCLZ63Ye",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T10:08:57.000Z",
+      "genres": [
+        "Role Playing"
       ],
       "country": "NA"
     },
@@ -1154,20 +1182,6 @@
       "country": "NA"
     },
     {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T00:38:27.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "NA"
-    },
-    {
       "id": "com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter",
       "name": "Rainbow Six Mobile",
       "developer": "Ubisoft Nova",
@@ -1178,6 +1192,20 @@
       "releaseDate": "2026-02-10T13:57:55.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "NA"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T00:38:27.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "NA"
     },
@@ -1196,20 +1224,6 @@
       "country": "NA"
     },
     {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "NA"
-    },
-    {
       "id": "com.andregal.android.poolbilliard",
       "name": "Pool Billiards offline",
       "developer": "Andregal",
@@ -1220,104 +1234,6 @@
       "releaseDate": "2026-02-14T17:33:38.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "NA"
-    },
-    {
-      "id": "com.dino.race.master",
-      "name": "Car Race",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-09T02:55:19.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "NA"
-    },
-    {
-      "id": "in.playsimple.wordsearch",
-      "name": "Word Search Explorer",
-      "developer": "PlaySimple Games",
-      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T12:52:47.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "NA"
-    },
-    {
-      "id": "com.advant.streamer",
-      "name": "Lamar - Idle Vlogger",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T15:26:20.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "NA"
-    },
-    {
-      "id": "com.ssg.dubaivangame.vandriving",
-      "name": "Van Driving Dubai Van Game",
-      "developer": "Swiftsoft Games",
-      "url": "https://play.google.com/store/apps/details?id=com.ssg.dubaivangame.vandriving&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/8hPfDvtoB9Q5jM0w9JIljtYr1_mop3yTQmRLcRYxLfXFkh5MTMMDjByoEkkZgHZrijf2999xsXvRbCLZ63Ye",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T10:08:57.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "NA"
-    },
-    {
-      "id": "com.hyperkani.trialbike",
-      "name": "Stunt Bike Extreme",
-      "developer": "Hyperkani",
-      "url": "https://play.google.com/store/apps/details?id=com.hyperkani.trialbike&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/NRovxU1rnnI2BzDw989gmkSb8DOnEmgybKJysHKE4-5WSWonNXFwGJGDXMppfxHBkI4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T06:24:08.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "NA"
-    },
-    {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T15:11:48.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "NA"
-    },
-    {
-      "id": "piano.game.music.beat.tiles",
-      "name": "Piano Beat: Music Game",
-      "developer": "Dream Tiles Piano Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=piano.game.music.beat.tiles&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/0Of6bw3wkKRhftwupXVSF0r0FKn-BVFScRpwXPFKZ9jtdeEwU8hHRK8j8hN-mhkrxFCj",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-13T08:06:33.000Z",
-      "genres": [
-        "Music"
       ],
       "country": "NA"
     },
@@ -1336,16 +1252,100 @@
       "country": "NA"
     },
     {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "id": "com.dino.race.master",
+      "name": "Car Race",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "releaseDate": "2026-01-09T02:55:19.000Z",
       "genres": [
-        "Adventure"
+        "Racing"
+      ],
+      "country": "NA"
+    },
+    {
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "NA"
+    },
+    {
+      "id": "com.advant.streamer",
+      "name": "Lamar - Idle Vlogger",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T15:26:20.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "NA"
+    },
+    {
+      "id": "in.playsimple.wordsearch",
+      "name": "Word Search Explorer",
+      "developer": "PlaySimple Games",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T12:52:47.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "NA"
+    },
+    {
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T15:11:48.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "NA"
+    },
+    {
+      "id": "com.hyperkani.trialbike",
+      "name": "Stunt Bike Extreme",
+      "developer": "Hyperkani",
+      "url": "https://play.google.com/store/apps/details?id=com.hyperkani.trialbike&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/NRovxU1rnnI2BzDw989gmkSb8DOnEmgybKJysHKE4-5WSWonNXFwGJGDXMppfxHBkI4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T06:24:08.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "NA"
+    },
+    {
+      "id": "piano.game.music.beat.tiles",
+      "name": "Piano Beat: Music Game",
+      "developer": "Dream Tiles Piano Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=piano.game.music.beat.tiles&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/0Of6bw3wkKRhftwupXVSF0r0FKn-BVFScRpwXPFKZ9jtdeEwU8hHRK8j8hN-mhkrxFCj",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-13T08:06:33.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "NA"
     },
@@ -1360,6 +1360,20 @@
       "releaseDate": "2026-02-26T10:48:15.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "NA"
+    },
+    {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=NA",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "NA"
     },
@@ -1388,20 +1402,6 @@
       "releaseDate": "2026-02-18T08:08:31.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "NA"
-    },
-    {
-      "id": "com.soccer.score.star",
-      "name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=NA",
-      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:32:33.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "NA"
     }
