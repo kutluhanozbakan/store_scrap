@@ -1,8 +1,22 @@
 {
   "country": "EG",
   "store": "google",
-  "updatedAt": "2026-02-26T23:16:57.896Z",
+  "updatedAt": "2026-02-27T11:47:43.740Z",
   "new": [
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=EG",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T16:38:38.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "EG"
+    },
     {
       "id": "com.rubygames.assassin",
       "name": "Hunter Assassin",
@@ -60,30 +74,16 @@
       "country": "EG"
     },
     {
-      "id": "com.fungames.sniper3d",
-      "name": "Sniper 3D：Gun Shooting Games",
-      "developer": "Wildlife Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.fungames.sniper3d&hl=en&gl=EG",
-      "artwork": "https://play-lh.googleusercontent.com/8gHksx7nW7IK09ThtTM_f1Pgjblh5to4-q9pdsJQMb2zxDZ7VnFObxaihhAr-_HBf6E",
+      "id": "nainai.nanny.trading.simulator.game",
+      "name": "CryptoNanny Trading Academy",
+      "developer": "Milrich Electronics HK Games",
+      "url": "https://play.google.com/store/apps/details?id=nainai.nanny.trading.simulator.game&hl=en&gl=EG",
+      "artwork": "https://play-lh.googleusercontent.com/2BSzifui42yavZUHJoi5xjW8e8K7YYx6aq0hwC55UE_n1InxtKj2qYomeBW1J4LdoYQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-25T16:07:46.000Z",
+      "releaseDate": "2026-02-26T02:34:43.000Z",
       "genres": [
-        "Action"
-      ],
-      "country": "EG"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=EG",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T15:42:09.000Z",
-      "genres": [
-        "Puzzle"
+        "Educational"
       ],
       "country": "EG"
     },
@@ -182,20 +182,6 @@
       "releaseDate": "2026-02-24T16:45:20.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "EG"
-    },
-    {
-      "id": "nainai.nanny.trading.simulator.game",
-      "name": "CryptoNanny Trading Academy",
-      "developer": "Milrich Electronics HK Games",
-      "url": "https://play.google.com/store/apps/details?id=nainai.nanny.trading.simulator.game&hl=en&gl=EG",
-      "artwork": "https://play-lh.googleusercontent.com/2BSzifui42yavZUHJoi5xjW8e8K7YYx6aq0hwC55UE_n1InxtKj2qYomeBW1J4LdoYQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T14:39:33.000Z",
-      "genres": [
-        "Educational"
       ],
       "country": "EG"
     },
@@ -702,6 +688,20 @@
         "Arcade"
       ],
       "country": "EG"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=EG",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T00:38:27.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "EG"
     }
   ],
   "updated": [
@@ -741,7 +741,7 @@
       "artwork": "https://play-lh.googleusercontent.com/2BSzifui42yavZUHJoi5xjW8e8K7YYx6aq0hwC55UE_n1InxtKj2qYomeBW1J4LdoYQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T14:39:33.000Z",
+      "releaseDate": "2026-02-26T02:34:43.000Z",
       "genres": [
         "Educational"
       ],
@@ -797,7 +797,7 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-25T15:42:09.000Z",
+      "releaseDate": "2026-02-26T16:38:38.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -818,20 +818,6 @@
       "country": "EG"
     },
     {
-      "id": "com.miniclip.eightballpool",
-      "name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=EG",
-      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T11:45:50.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "EG"
-    },
-    {
       "id": "com.yalla.yallagames",
       "name": "Yalla Ludo - Ludo&Jackaroo",
       "developer": "Aviva Sun",
@@ -842,6 +828,20 @@
       "releaseDate": "2026-02-13T08:10:51.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "EG"
+    },
+    {
+      "id": "com.miniclip.eightballpool",
+      "name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=EG",
+      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T11:45:50.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "EG"
     },
@@ -1042,34 +1042,6 @@
       "country": "EG"
     },
     {
-      "id": "com.uc.gym.clicker",
-      "name": "Gym Idle Clicker: Fitness Hero",
-      "developer": "Unicorn Studio Official",
-      "url": "https://play.google.com/store/apps/details?id=com.uc.gym.clicker&hl=en&gl=EG",
-      "artwork": "https://play-lh.googleusercontent.com/9uzA6qLx2gFUnbq-gxvn2ZZeTweHsZFGvO1kurRydMEWIpwf9q5ATOPzsg2aGgYuvWM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T03:20:44.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "EG"
-    },
-    {
-      "id": "com.soccer.score.star",
-      "name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=EG",
-      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:32:33.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "EG"
-    },
-    {
       "id": "com.ludo.king",
       "name": "Ludo King®",
       "developer": "Gametion",
@@ -1098,14 +1070,28 @@
       "country": "EG"
     },
     {
-      "id": "com.outfit7.mytalkingangelafree",
-      "name": "My Talking Angela",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=en&gl=EG",
-      "artwork": "https://play-lh.googleusercontent.com/rdMpsc5VkkG4JGHIFqNREbWBzXxkZBHN7ZA86DqcZEMmtwWy58NLVDuqWgoG2XCAu4Q",
+      "id": "com.soccer.score.star",
+      "name": "Soccer Superstar",
+      "developer": "Real Freestyle Soccer",
+      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=EG",
+      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-25T13:56:11.000Z",
+      "releaseDate": "2026-01-29T15:32:33.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "EG"
+    },
+    {
+      "id": "com.uc.gym.clicker",
+      "name": "Gym Idle Clicker: Fitness Hero",
+      "developer": "Unicorn Studio Official",
+      "url": "https://play.google.com/store/apps/details?id=com.uc.gym.clicker&hl=en&gl=EG",
+      "artwork": "https://play-lh.googleusercontent.com/9uzA6qLx2gFUnbq-gxvn2ZZeTweHsZFGvO1kurRydMEWIpwf9q5ATOPzsg2aGgYuvWM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T03:20:44.000Z",
       "genres": [
         "Casual"
       ],
@@ -1122,6 +1108,20 @@
       "releaseDate": "2026-01-19T09:51:08.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "EG"
+    },
+    {
+      "id": "com.outfit7.mytalkingangelafree",
+      "name": "My Talking Angela",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=en&gl=EG",
+      "artwork": "https://play-lh.googleusercontent.com/rdMpsc5VkkG4JGHIFqNREbWBzXxkZBHN7ZA86DqcZEMmtwWy58NLVDuqWgoG2XCAu4Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T13:56:11.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "EG"
     },
@@ -1168,6 +1168,20 @@
       "country": "EG"
     },
     {
+      "id": "com.zytoona.wordscrush",
+      "name": "كلمات كراش - لعبة تسلية وتحدي ",
+      "developer": "Zytoona",
+      "url": "https://play.google.com/store/apps/details?id=com.zytoona.wordscrush&hl=en&gl=EG",
+      "artwork": "https://play-lh.googleusercontent.com/6eXjWA5R0IYsSQdSzdCw_fYqCPy0cP8LauA1HhbhrDnxBDz5VG8g1za1j3H8vOa6aQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-18T03:34:14.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "EG"
+    },
+    {
       "id": "com.wn.hairtattoo",
       "name": "Hair Tattoo: Barber Shop Game",
       "developer": "CASUAL AZUR GAMES",
@@ -1196,20 +1210,6 @@
       "country": "EG"
     },
     {
-      "id": "com.zytoona.wordscrush",
-      "name": "كلمات كراش - لعبة تسلية وتحدي ",
-      "developer": "Zytoona",
-      "url": "https://play.google.com/store/apps/details?id=com.zytoona.wordscrush&hl=en&gl=EG",
-      "artwork": "https://play-lh.googleusercontent.com/6eXjWA5R0IYsSQdSzdCw_fYqCPy0cP8LauA1HhbhrDnxBDz5VG8g1za1j3H8vOa6aQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-18T03:34:14.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "EG"
-    },
-    {
       "id": "com.starplay.spider.fighter.openworld",
       "name": "Spider Fighter 3: Action Game",
       "developer": "Starplay FZCO",
@@ -1220,20 +1220,6 @@
       "releaseDate": "2026-02-19T16:40:04.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "EG"
-    },
-    {
-      "id": "com.sega.sonicdash",
-      "name": "Sonic Dash: Endless Run",
-      "developer": "SEGA",
-      "url": "https://play.google.com/store/apps/details?id=com.sega.sonicdash&hl=en&gl=EG",
-      "artwork": "https://play-lh.googleusercontent.com/4F-WwVKAs56rT6DGSfu1-9sW4MqSjenlIUqWS1K_8iB25ktsHKXXScAwJonvwo7DuMA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T16:47:11.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "EG"
     },
@@ -1252,16 +1238,16 @@
       "country": "EG"
     },
     {
-      "id": "com.hiroba.helix",
-      "name": "Helix Stack Jump: Smash Ball",
-      "developer": "Kooapps Games | Fun Arcade and Casual Action Games",
-      "url": "https://play.google.com/store/apps/details?id=com.hiroba.helix&hl=en&gl=EG",
-      "artwork": "https://play-lh.googleusercontent.com/e4Oq0lcZMGkoCTzl-J5HCahIED_9Q-nbBrMQ80MT3uEBf0gwDOh4EMEtkmdCr2Zsng",
+      "id": "com.sega.sonicdash",
+      "name": "Sonic Dash: Endless Run",
+      "developer": "SEGA",
+      "url": "https://play.google.com/store/apps/details?id=com.sega.sonicdash&hl=en&gl=EG",
+      "artwork": "https://play-lh.googleusercontent.com/4F-WwVKAs56rT6DGSfu1-9sW4MqSjenlIUqWS1K_8iB25ktsHKXXScAwJonvwo7DuMA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T08:50:30.000Z",
+      "releaseDate": "2026-02-06T16:47:11.000Z",
       "genres": [
-        "Casual"
+        "Arcade"
       ],
       "country": "EG"
     },
@@ -1308,6 +1294,20 @@
       "country": "EG"
     },
     {
+      "id": "com.hiroba.helix",
+      "name": "Helix Stack Jump: Smash Ball",
+      "developer": "Kooapps Games | Fun Arcade and Casual Action Games",
+      "url": "https://play.google.com/store/apps/details?id=com.hiroba.helix&hl=en&gl=EG",
+      "artwork": "https://play-lh.googleusercontent.com/e4Oq0lcZMGkoCTzl-J5HCahIED_9Q-nbBrMQ80MT3uEBf0gwDOh4EMEtkmdCr2Zsng",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T08:50:30.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "EG"
+    },
+    {
       "id": "com.gps.housemakeover.satisfying.clean",
       "name": "House Makeover: ASMR Cleaning",
       "developer": "Mad1 Games",
@@ -1318,20 +1318,6 @@
       "releaseDate": "2026-02-14T17:03:58.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "EG"
-    },
-    {
-      "id": "crypto.cosmic.simulator.app",
-      "name": "CryptoCosmic Trading Simulator",
-      "developer": "Cosmic Champions",
-      "url": "https://play.google.com/store/apps/details?id=crypto.cosmic.simulator.app&hl=en&gl=EG",
-      "artwork": "https://play-lh.googleusercontent.com/Sy_j56SjWSW5-32j5Z5P6h4OsQ4Iw0tKHZNu9lgSbg5ahJk9J6ZIhHkC92YW-Urdbw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T10:17:53.000Z",
-      "genres": [
-        "Educational"
       ],
       "country": "EG"
     },
@@ -1350,16 +1336,16 @@
       "country": "EG"
     },
     {
-      "id": "com.dino.race.master",
-      "name": "Car Race",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=EG",
-      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
+      "id": "crypto.cosmic.simulator.app",
+      "name": "CryptoCosmic Trading Simulator",
+      "developer": "Cosmic Champions",
+      "url": "https://play.google.com/store/apps/details?id=crypto.cosmic.simulator.app&hl=en&gl=EG",
+      "artwork": "https://play-lh.googleusercontent.com/Sy_j56SjWSW5-32j5Z5P6h4OsQ4Iw0tKHZNu9lgSbg5ahJk9J6ZIhHkC92YW-Urdbw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-09T02:55:19.000Z",
+      "releaseDate": "2026-02-26T10:17:53.000Z",
       "genres": [
-        "Racing"
+        "Educational"
       ],
       "country": "EG"
     },
@@ -1374,6 +1360,20 @@
       "releaseDate": "2026-02-03T14:49:51.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "EG"
+    },
+    {
+      "id": "com.dino.race.master",
+      "name": "Car Race",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=EG",
+      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-09T02:55:19.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "EG"
     },
