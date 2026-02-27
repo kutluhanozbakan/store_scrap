@@ -1,8 +1,36 @@
 {
   "country": "KH",
   "store": "google",
-  "updatedAt": "2026-02-26T15:09:50.342Z",
+  "updatedAt": "2026-02-27T00:57:44.200Z",
   "new": [
+    {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T21:16:50.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "KH"
+    },
+    {
+      "id": "com.game.minicraft.village",
+      "name": "Village City Life Building",
+      "developer": "XGame VN",
+      "url": "https://play.google.com/store/apps/details?id=com.game.minicraft.village&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/_Qko3MojDBWZ6CVMm5BTqH7n3J9XlpYT5O0uHY0mSv5-8C4xfoSP5gstc28PogzUzCA4GocgF2eyMmKnsAHVOg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T13:49:10.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "KH"
+    },
     {
       "id": "com.game.air.shooter",
       "name": "Air Shooter",
@@ -280,20 +308,6 @@
       "releaseDate": "2026-02-23T08:13:54.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "KH"
-    },
-    {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T19:40:10.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "KH"
     },
@@ -688,20 +702,6 @@
         "Simulation"
       ],
       "country": "KH"
-    },
-    {
-      "id": "com.brain.puzzle.tricky.test.annoying.quest",
-      "name": "Brain Puzzle: Tricky Test",
-      "developer": "SLEEK CHARM LIMITED",
-      "url": "https://play.google.com/store/apps/details?id=com.brain.puzzle.tricky.test.annoying.quest&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/GAW1v5cC_rUq5q1VGTjswJfgIfE8jcF84e7YPG8bY2UZBj_stHbZrxqJMLPzLJtEnjUl_KwwqiMrMLVp7RVY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T10:29:02.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "KH"
     }
   ],
   "updated": [
@@ -727,7 +727,7 @@
       "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T19:40:10.000Z",
+      "releaseDate": "2026-02-26T21:16:50.000Z",
       "genres": [
         "Adventure"
       ],
@@ -790,20 +790,6 @@
       "country": "KH"
     },
     {
-      "id": "com.game.trllly.racego",
-      "name": "Turbo Ignite",
-      "developer": "MRF Creative",
-      "url": "https://play.google.com/store/apps/details?id=com.game.trllly.racego&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/BnwRfxxPW_MOEtVV3nXOXnIc7a8DQDNGdZ-w_5hpA4NQY-kNk91awJZYWgDD6qmvSwYOcMz4eRnjoJzj0hN9RQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-04T03:00:39.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "KH"
-    },
-    {
       "id": "com.candyroom.clubcraft",
       "name": "School Party Craft",
       "developer": "Candy Room Games & RabbitCo",
@@ -814,6 +800,20 @@
       "releaseDate": "2026-01-28T21:11:32.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "KH"
+    },
+    {
+      "id": "com.game.trllly.racego",
+      "name": "Turbo Ignite",
+      "developer": "MRF Creative",
+      "url": "https://play.google.com/store/apps/details?id=com.game.trllly.racego&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/BnwRfxxPW_MOEtVV3nXOXnIc7a8DQDNGdZ-w_5hpA4NQY-kNk91awJZYWgDD6qmvSwYOcMz4eRnjoJzj0hN9RQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-04T03:00:39.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "KH"
     },
@@ -846,20 +846,6 @@
       "country": "KH"
     },
     {
-      "id": "com.haunteddorm.mihuan",
-      "name": "Haunted Dorm",
-      "developer": "Mihuan Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.haunteddorm.mihuan&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/2xuaeiD3Gzj5XwOmSFKKSc19s69fZc2hrmfdi_7D2wxA5dP-DOQtuCQ7unli0xRFmx8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-16T08:47:16.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "KH"
-    },
-    {
       "id": "net.craftgame.minigame",
       "name": "Worldsurvival",
       "developer": "Star12",
@@ -874,6 +860,20 @@
       "country": "KH"
     },
     {
+      "id": "com.haunteddorm.mihuan",
+      "name": "Haunted Dorm",
+      "developer": "Mihuan Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.haunteddorm.mihuan&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/2xuaeiD3Gzj5XwOmSFKKSc19s69fZc2hrmfdi_7D2wxA5dP-DOQtuCQ7unli0xRFmx8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-16T08:47:16.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "KH"
+    },
+    {
       "id": "com.dts.freefiremax",
       "name": "Free Fire MAX: Lost Treasure",
       "developer": "GARENA INTERNATIONAL I",
@@ -882,34 +882,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-01-09T06:52:43.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "KH"
-    },
-    {
-      "id": "com.mobilechess.gp",
-      "name": "Magic Chess: Go Go",
-      "developer": "Vizta Games",
-      "url": "https://play.google.com/store/apps/details?id=com.mobilechess.gp&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/uJ43VeRAaOu2hqvP5RQNrUejveyRGX3pvBBszbu6gJbBiZqeQsQ6brRCuzsDHvPixbpDD7kRal-Z24lPVtyzEQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T15:02:33.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "KH"
-    },
-    {
-      "id": "com.levelinfinite.sgameGlobal",
-      "name": "Honor of Kings",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/hEm5NVeEv7UfFJaK8GZdfWe7p3DB_VvYx57qIEHbR0tMV_NToziH0Vbgd6CxLiWF-iURpAe-jsC_UGUDt0diPQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T08:18:06.000Z",
       "genres": [
         "Action"
       ],
@@ -930,16 +902,30 @@
       "country": "KH"
     },
     {
-      "id": "com.xman.sea.gp",
-      "name": "X-Clash",
-      "developer": "Glaciers Game",
-      "url": "https://play.google.com/store/apps/details?id=com.xman.sea.gp&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/2aBMjFus8vuWyFxAmxRMjDOt4TH5w7Zq6xmtMAxDRYa8bJNrnNsI8wdsSnrtPPkDKKts",
+      "id": "com.levelinfinite.sgameGlobal",
+      "name": "Honor of Kings",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/hEm5NVeEv7UfFJaK8GZdfWe7p3DB_VvYx57qIEHbR0tMV_NToziH0Vbgd6CxLiWF-iURpAe-jsC_UGUDt0diPQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-08T09:36:56.000Z",
+      "releaseDate": "2026-02-13T08:18:06.000Z",
       "genres": [
-        "Casual"
+        "Action"
+      ],
+      "country": "KH"
+    },
+    {
+      "id": "com.mobilechess.gp",
+      "name": "Magic Chess: Go Go",
+      "developer": "Vizta Games",
+      "url": "https://play.google.com/store/apps/details?id=com.mobilechess.gp&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/uJ43VeRAaOu2hqvP5RQNrUejveyRGX3pvBBszbu6gJbBiZqeQsQ6brRCuzsDHvPixbpDD7kRal-Z24lPVtyzEQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T15:02:33.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "KH"
     },
@@ -972,16 +958,16 @@
       "country": "KH"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "id": "com.xman.sea.gp",
+      "name": "X-Clash",
+      "developer": "Glaciers Game",
+      "url": "https://play.google.com/store/apps/details?id=com.xman.sea.gp&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/2aBMjFus8vuWyFxAmxRMjDOt4TH5w7Zq6xmtMAxDRYa8bJNrnNsI8wdsSnrtPPkDKKts",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-25T15:42:09.000Z",
+      "releaseDate": "2026-02-08T09:36:56.000Z",
       "genres": [
-        "Puzzle"
+        "Casual"
       ],
       "country": "KH"
     },
@@ -1000,6 +986,20 @@
       "country": "KH"
     },
     {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T15:42:09.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "KH"
+    },
+    {
       "id": "com.outfit7.mytalkingtom2",
       "name": "My Talking Tom 2: Pet Game",
       "developer": "Outfit7 Limited",
@@ -1014,14 +1014,14 @@
       "country": "KH"
     },
     {
-      "id": "com.tatay.manokNaPula",
-      "name": "Manok Na Pula - Multiplayer",
-      "developer": "TATAY GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.tatay.manokNaPula&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/-7ousir0Rf1_TYfgMrleeHcaQX-Gf4fbyh-mhfedB1Gm7ztar_AYjN1oHrYFRGQEnSg",
+      "id": "com.imangi.templerun2",
+      "name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-13T05:11:16.000Z",
+      "releaseDate": "2026-02-17T14:25:25.000Z",
       "genres": [
         "Action"
       ],
@@ -1042,44 +1042,16 @@
       "country": "KH"
     },
     {
-      "id": "com.imangi.templerun2",
-      "name": "Temple Run 2: Endless Escape",
-      "developer": "Imangi Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
+      "id": "com.tatay.manokNaPula",
+      "name": "Manok Na Pula - Multiplayer",
+      "developer": "TATAY GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.tatay.manokNaPula&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/-7ousir0Rf1_TYfgMrleeHcaQX-Gf4fbyh-mhfedB1Gm7ztar_AYjN1oHrYFRGQEnSg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-17T14:25:25.000Z",
+      "releaseDate": "2026-01-13T05:11:16.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "KH"
-    },
-    {
-      "id": "com.football.soccer.league",
-      "name": "Football League 2026",
-      "developer": "MOBILE SOCCER",
-      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T12:25:49.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "KH"
-    },
-    {
-      "id": "com.crazy.mastercraft.block.game",
-      "name": "Master minecraft mcpe mod",
-      "developer": "Ali Abbas",
-      "url": "https://play.google.com/store/apps/details?id=com.crazy.mastercraft.block.game&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/zt8yQXW0u-UHZUARE_GlIZjEmpIlNM8Nzc74D1gQPqDDfT3Hq2GRFERDRuXYsnumfwc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-12T12:32:45.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "KH"
     },
@@ -1094,6 +1066,20 @@
       "releaseDate": "2026-02-19T12:54:33.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "KH"
+    },
+    {
+      "id": "com.football.soccer.league",
+      "name": "Football League 2026",
+      "developer": "MOBILE SOCCER",
+      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T12:25:49.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "KH"
     },
@@ -1140,6 +1126,20 @@
       "country": "KH"
     },
     {
+      "id": "com.crazy.mastercraft.block.game",
+      "name": "Master minecraft mcpe mod",
+      "developer": "Ali Abbas",
+      "url": "https://play.google.com/store/apps/details?id=com.crazy.mastercraft.block.game&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/zt8yQXW0u-UHZUARE_GlIZjEmpIlNM8Nzc74D1gQPqDDfT3Hq2GRFERDRuXYsnumfwc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-12T12:32:45.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "KH"
+    },
+    {
       "id": "com.game.fashion.magic.princess.dressup",
       "name": "Magic Fashion: Doll Dressup",
       "developer": "XGame Global",
@@ -1150,6 +1150,76 @@
       "releaseDate": "2026-02-12T10:30:36.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "KH"
+    },
+    {
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "KH"
+    },
+    {
+      "id": "com.wildspike.wormszone",
+      "name": "Worms Zone .io - Hungry Snake",
+      "developer": "CASUAL AZUR GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/CAzbHXAoHmFdalAgHDCya19XrpdWtYeATxh2fKQSQcZun3V-2NSs7DJZ1gm5ndxGfg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T11:39:50.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "KH"
+    },
+    {
+      "id": "com.eyesthegame.eyes",
+      "name": "Eyes Horror & Coop Multiplayer",
+      "developer": "Fearless Games sp. j.",
+      "url": "https://play.google.com/store/apps/details?id=com.eyesthegame.eyes&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/6uQ_fN7QjAreh5CzsBBONOqtSYpVFKzjSF-rhURbzxEavwXgRTIU3_J4warXTh_oD3k",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T18:17:57.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "KH"
+    },
+    {
+      "id": "com.lskj.skinwin",
+      "name": "SkinWin - diamond & skin",
+      "developer": "Arcade Forge",
+      "url": "https://play.google.com/store/apps/details?id=com.lskj.skinwin&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/tKDi6J2OU0Jm4CF7HYEEBGi1BrEsTq3zd2t9tq85dpVbGih1i2Rq9otDIXYgeZ7-pRYH7UhhMz8jUkfDiPuf",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-19T11:02:36.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "KH"
+    },
+    {
+      "id": "com.aucam.dance",
+      "name": "Au Dance Khmer",
+      "developer": "VTC Mobile Entertainment & Sport Center",
+      "url": "https://play.google.com/store/apps/details?id=com.aucam.dance&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/fatI_-Dn3fOOlMIpu7_bbDHI54vQUzUfkGsdjKRUAFXWP-IE22T4Lb2AbT60Wx_OkriYoIYyBTnMrQWkQ3lY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-25T04:07:06.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "KH"
     },
@@ -1196,76 +1266,6 @@
       "country": "KH"
     },
     {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "KH"
-    },
-    {
-      "id": "com.aucam.dance",
-      "name": "Au Dance Khmer",
-      "developer": "VTC Mobile Entertainment & Sport Center",
-      "url": "https://play.google.com/store/apps/details?id=com.aucam.dance&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/fatI_-Dn3fOOlMIpu7_bbDHI54vQUzUfkGsdjKRUAFXWP-IE22T4Lb2AbT60Wx_OkriYoIYyBTnMrQWkQ3lY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-25T04:07:06.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "KH"
-    },
-    {
-      "id": "com.eyesthegame.eyes",
-      "name": "Eyes Horror & Coop Multiplayer",
-      "developer": "Fearless Games sp. j.",
-      "url": "https://play.google.com/store/apps/details?id=com.eyesthegame.eyes&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/6uQ_fN7QjAreh5CzsBBONOqtSYpVFKzjSF-rhURbzxEavwXgRTIU3_J4warXTh_oD3k",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T18:17:57.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "KH"
-    },
-    {
-      "id": "com.wildspike.wormszone",
-      "name": "Worms Zone .io - Hungry Snake",
-      "developer": "CASUAL AZUR GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/CAzbHXAoHmFdalAgHDCya19XrpdWtYeATxh2fKQSQcZun3V-2NSs7DJZ1gm5ndxGfg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T11:39:50.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "KH"
-    },
-    {
-      "id": "com.lskj.skinwin",
-      "name": "SkinWin - diamond & skin",
-      "developer": "Arcade Forge",
-      "url": "https://play.google.com/store/apps/details?id=com.lskj.skinwin&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/tKDi6J2OU0Jm4CF7HYEEBGi1BrEsTq3zd2t9tq85dpVbGih1i2Rq9otDIXYgeZ7-pRYH7UhhMz8jUkfDiPuf",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-19T11:02:36.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "KH"
-    },
-    {
       "id": "com.fingersoft.hillclimb",
       "name": "Hill Climb Racing",
       "developer": "Fingersoft",
@@ -1276,34 +1276,6 @@
       "releaseDate": "2026-02-23T08:13:54.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "KH"
-    },
-    {
-      "id": "com.dino.race.master",
-      "name": "Car Race",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-09T02:55:19.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "KH"
-    },
-    {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T16:48:19.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "KH"
     },
@@ -1322,44 +1294,16 @@
       "country": "KH"
     },
     {
-      "id": "com.creations.runnergame",
-      "name": "Kooply Run™: Play and Create!",
-      "developer": "KOOPLY",
-      "url": "https://play.google.com/store/apps/details?id=com.creations.runnergame&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/gMwKsn2RI__kMbkcH3Ta6JljGJnHdcZaZ_FDpIVUfQXjv9hhoiVLy_WCUQPJI766IQ",
+      "id": "com.dino.race.master",
+      "name": "Car Race",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-25T14:03:28.000Z",
+      "releaseDate": "2026-01-09T02:55:19.000Z",
       "genres": [
-        "Arcade"
-      ],
-      "country": "KH"
-    },
-    {
-      "id": "com.ss.kitchen.set.diy.cooking.games",
-      "name": "Kitchen Set Cooking Chef Time",
-      "developer": "Soft Skipper",
-      "url": "https://play.google.com/store/apps/details?id=com.ss.kitchen.set.diy.cooking.games&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/Oll5g-2y4HeY37OGAFSYB3ECddOjvFVckOtoP_-aq9Yzw4kRYfOLZIIxUgtP6yNek627mGFs1W754Brb3Z3C",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T13:05:39.000Z",
-      "genres": [
-        "Educational"
-      ],
-      "country": "KH"
-    },
-    {
-      "id": "com.tensquaregames.letsfish2",
-      "name": "Fishing Clash: Sport Simulator",
-      "developer": "Ten Square Games",
-      "url": "https://play.google.com/store/apps/details?id=com.tensquaregames.letsfish2&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/9kavKVAgvLXWv63jEvu7k9m0aI-G6k4NtvPQyn-xlfD6VmVlRH9jyoAgfKxlNZ3Umd-PeRaUBmHuhCJU7t6-8g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-23T09:06:30.000Z",
-      "genres": [
-        "Simulation"
+        "Racing"
       ],
       "country": "KH"
     },
@@ -1378,30 +1322,86 @@
       "country": "KH"
     },
     {
-      "id": "io.voodoo.holeio",
-      "name": "Hole.io",
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
       "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T10:53:41.000Z",
+      "releaseDate": "2026-02-24T16:48:19.000Z",
       "genres": [
         "Arcade"
       ],
       "country": "KH"
     },
     {
-      "id": "com.ction.playergames",
-      "name": "2 3 4 Player Mini Games",
-      "developer": "Better World Games",
-      "url": "https://play.google.com/store/apps/details?id=com.ction.playergames&hl=en&gl=KH",
-      "artwork": "https://play-lh.googleusercontent.com/vHuenuu1GqX1BwDaYX86dsbQlmA7vCO0PEdgdXlCEZP5x2_R3pZo0xcI9Mkdn4UW7NA",
+      "id": "com.creations.runnergame",
+      "name": "Kooply Run™: Play and Create!",
+      "developer": "KOOPLY",
+      "url": "https://play.google.com/store/apps/details?id=com.creations.runnergame&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/gMwKsn2RI__kMbkcH3Ta6JljGJnHdcZaZ_FDpIVUfQXjv9hhoiVLy_WCUQPJI766IQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-28T20:16:32.000Z",
+      "releaseDate": "2026-02-25T14:03:28.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "KH"
+    },
+    {
+      "id": "com.brain.puzzle.tricky.test.annoying.quest",
+      "name": "Brain Puzzle: Tricky Test",
+      "developer": "SLEEK CHARM LIMITED",
+      "url": "https://play.google.com/store/apps/details?id=com.brain.puzzle.tricky.test.annoying.quest&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/GAW1v5cC_rUq5q1VGTjswJfgIfE8jcF84e7YPG8bY2UZBj_stHbZrxqJMLPzLJtEnjUl_KwwqiMrMLVp7RVY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T10:29:02.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "KH"
+    },
+    {
+      "id": "com.tensquaregames.letsfish2",
+      "name": "Fishing Clash: Sport Simulator",
+      "developer": "Ten Square Games",
+      "url": "https://play.google.com/store/apps/details?id=com.tensquaregames.letsfish2&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/9kavKVAgvLXWv63jEvu7k9m0aI-G6k4NtvPQyn-xlfD6VmVlRH9jyoAgfKxlNZ3Umd-PeRaUBmHuhCJU7t6-8g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-23T09:06:30.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "KH"
+    },
+    {
+      "id": "com.ss.kitchen.set.diy.cooking.games",
+      "name": "Kitchen Set Cooking Chef Time",
+      "developer": "Soft Skipper",
+      "url": "https://play.google.com/store/apps/details?id=com.ss.kitchen.set.diy.cooking.games&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/Oll5g-2y4HeY37OGAFSYB3ECddOjvFVckOtoP_-aq9Yzw4kRYfOLZIIxUgtP6yNek627mGFs1W754Brb3Z3C",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T13:05:39.000Z",
+      "genres": [
+        "Educational"
+      ],
+      "country": "KH"
+    },
+    {
+      "id": "com.tencent.ig",
+      "name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=KH",
+      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-29T01:31:07.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "KH"
     }
