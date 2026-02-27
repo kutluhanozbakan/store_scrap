@@ -1,7 +1,7 @@
 {
   "country": "SD",
   "store": "google",
-  "updatedAt": "2026-02-27T17:23:26.787Z",
+  "updatedAt": "2026-02-27T23:56:07.348Z",
   "new": [
     {
       "id": "com.vitastudio.mahjong",
@@ -84,6 +84,20 @@
       "releaseDate": "2026-02-26T13:09:51.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "SD"
+    },
+    {
+      "id": "com.outfit7.mytalkingtomfree",
+      "name": "My Talking Tom",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T11:55:53.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "SD"
     },
@@ -308,6 +322,20 @@
       "releaseDate": "2026-02-20T15:49:34.000Z",
       "genres": [
         "Trivia"
+      ],
+      "country": "SD"
+    },
+    {
+      "id": "com.aim.racing",
+      "name": "Extreme Car Driving Simulator",
+      "developer": "AxesInMotion Racing",
+      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/6NEtpPjWbslnt7WzHb4A1sYM6GiX_VdIhA6O9gAvJcf-GlmnEkfMQwPzAD7xTSLV_5M",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T13:51:00.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "SD"
     },
@@ -674,34 +702,6 @@
         "Strategy"
       ],
       "country": "SD"
-    },
-    {
-      "id": "com.catchup.ball.goingball",
-      "name": "3D Ball Catch Up - Racing Ball",
-      "developer": "Takenick Innovation",
-      "url": "https://play.google.com/store/apps/details?id=com.catchup.ball.goingball&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/F01h3ZGppzyqRdHMflxbf7KVKOa6VulVk2kcmfZ1vNDHvDy-H7uZuUroKRvKua75dIP0_luT_ar-uInovN4yuQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T08:53:57.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "SD"
-    },
-    {
-      "id": "com.courage.ludo",
-      "name": "Lama Ludo-Ludo&Chatroom",
-      "developer": "Courage. Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.courage.ludo&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/7YZeePU3uHO-OhhU45vZXqJnrOyv3khqCF7Khd6i54-3YRqNnCARoT7yI3_GgX6w5bY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T18:13:44.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "SD"
     }
   ],
   "updated": [
@@ -972,20 +972,6 @@
       "country": "SD"
     },
     {
-      "id": "com.tile.home.match.puzzle.game",
-      "name": "Tile Home-Match Puzzle Game",
-      "developer": "Mindful Daily Puzzles",
-      "url": "https://play.google.com/store/apps/details?id=com.tile.home.match.puzzle.game&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/gNYvOPQPkwGCMYBC2X_CVhaLDL2EOBSx8u60gKJRbvqtVoeApk1KGhKKi76cqWK9posbD3Ai1DZzj1Bdj0DIKA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T12:54:50.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "SD"
-    },
-    {
       "id": "com.courage.ludo",
       "name": "Lama Ludo-Ludo&Chatroom",
       "developer": "Courage. Limited",
@@ -1014,6 +1000,20 @@
       "country": "SD"
     },
     {
+      "id": "com.miniclip.realsniper",
+      "name": "Pure Sniper: Gun Shooter Games",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.realsniper&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/D3NtyLCIKLg2VR4hUNyGVgBWICfHj5kkKL6mxGB0n4wLKMGdvhibY66VFPd7aSOR1TI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T21:05:43.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "SD"
+    },
+    {
       "id": "funvent.tilepark",
       "name": "Tile Park",
       "developer": "Funvent Studios DMCC",
@@ -1028,16 +1028,16 @@
       "country": "SD"
     },
     {
-      "id": "com.miniclip.realsniper",
-      "name": "Pure Sniper: Gun Shooter Games",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.realsniper&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/D3NtyLCIKLg2VR4hUNyGVgBWICfHj5kkKL6mxGB0n4wLKMGdvhibY66VFPd7aSOR1TI",
+      "id": "com.tile.home.match.puzzle.game",
+      "name": "Tile Home-Match Puzzle Game",
+      "developer": "Mindful Daily Puzzles",
+      "url": "https://play.google.com/store/apps/details?id=com.tile.home.match.puzzle.game&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/gNYvOPQPkwGCMYBC2X_CVhaLDL2EOBSx8u60gKJRbvqtVoeApk1KGhKKi76cqWK9posbD3Ai1DZzj1Bdj0DIKA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-29T21:05:43.000Z",
+      "releaseDate": "2026-02-06T12:54:50.000Z",
       "genres": [
-        "Action"
+        "Puzzle"
       ],
       "country": "SD"
     },
@@ -1280,20 +1280,6 @@
       "country": "SD"
     },
     {
-      "id": "com.gamovation.tileclub",
-      "name": "Tile Club - Match Puzzle Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-07T10:41:36.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "SD"
-    },
-    {
       "id": "com.zuuks.truck.simulator.ultimate",
       "name": "Truck Simulator : Ultimate",
       "developer": "Zuuks Games",
@@ -1346,6 +1332,20 @@
       "releaseDate": "2026-01-14T08:31:08.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "SD"
+    },
+    {
+      "id": "com.gamovation.tileclub",
+      "name": "Tile Club - Match Puzzle Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-07T10:41:36.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "SD"
     },

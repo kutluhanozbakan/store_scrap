@@ -1,8 +1,22 @@
 {
   "country": "SA",
   "store": "google",
-  "updatedAt": "2026-02-27T16:47:14.849Z",
+  "updatedAt": "2026-02-27T23:55:48.881Z",
   "new": [
+    {
+      "id": "com.media720.games2020",
+      "name": "Offline Games No WiFi internet",
+      "developer": "Fun Offline Games",
+      "url": "https://play.google.com/store/apps/details?id=com.media720.games2020&hl=en&gl=SA",
+      "artwork": "https://play-lh.googleusercontent.com/eET3qc7rMWqPZfkk2jsGedhWGoMrbi763h57Etf5fuL6SgcwrjjpA2M94mehfsGznQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T21:33:41.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "SA"
+    },
     {
       "id": "com.miniclip.carrom",
       "name": "Carrom Pool: Disc Game",
@@ -152,6 +166,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-26T12:56:05.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "SA"
+    },
+    {
+      "id": "com.outfit7.mytalkingtomfree",
+      "name": "My Talking Tom",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=SA",
+      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T11:55:53.000Z",
       "genres": [
         "Casual"
       ],
@@ -312,6 +340,20 @@
       "country": "SA"
     },
     {
+      "id": "com.sybogames.subway.surfers.game",
+      "name": "Subway Surfers City",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=SA",
+      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T15:55:38.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "SA"
+    },
+    {
       "id": "com.playspare.supermarket.store.simulator",
       "name": "My Supermarket Simulator 3D®",
       "developer": "Game District LLC",
@@ -406,20 +448,6 @@
       "releaseDate": "2026-02-19T11:31:49.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "SA"
-    },
-    {
-      "id": "com.gps.draw.flag.coloring.games",
-      "name": "Satisfying Coloring",
-      "developer": "Mad1 Games",
-      "url": "https://play.google.com/store/apps/details?id=com.gps.draw.flag.coloring.games&hl=en&gl=SA",
-      "artwork": "https://play-lh.googleusercontent.com/VLjDQF7_vbOFGFTiPqKw6YXfpuz-LPpPeYQYpnxRIWkTgZ2YGKQ9vKK6S5UsV3SysXU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T11:03:58.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "SA"
     },
@@ -674,34 +702,6 @@
         "Arcade"
       ],
       "country": "SA"
-    },
-    {
-      "id": "com.higame.brain.twist.tricky.puzzle",
-      "name": "Prison Puzzle: Brain Twist",
-      "developer": "HIGAME LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.higame.brain.twist.tricky.puzzle&hl=en&gl=SA",
-      "artwork": "https://play-lh.googleusercontent.com/D98i4j50j9-2uH6S0ogm6KKUfq4qyZHo5XLzumjxIpe_Y-CJHSO1Bf4JIY_BDy-HBQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T08:31:29.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "SA"
-    },
-    {
-      "id": "com.masomo.headball2",
-      "name": "Head Ball 2 - Online Soccer",
-      "developer": "Masomo Gaming",
-      "url": "https://play.google.com/store/apps/details?id=com.masomo.headball2&hl=en&gl=SA",
-      "artwork": "https://play-lh.googleusercontent.com/0j0dq4LmRgx4MAqp1q_AsNWAxCsv9ZRd1pmwl0UPAnai9mu5cwlEKTg66vYH9Iv_lWM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T08:18:39.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "SA"
     }
   ],
   "updated": [
@@ -727,7 +727,7 @@
       "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T13:28:52.000Z",
+      "releaseDate": "2026-02-27T15:37:40.000Z",
       "genres": [
         "Board"
       ],
@@ -744,20 +744,6 @@
       "releaseDate": "2026-02-27T12:31:23.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "SA"
-    },
-    {
-      "id": "com.playstrom.dop4",
-      "name": "DOP 4: Draw One Part",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.playstrom.dop4&hl=en&gl=SA",
-      "artwork": "https://play-lh.googleusercontent.com/xCTDSJzuaJkDH_dNtGek7H6CO2oi4tNopjrXHtvZ4EumFr_5vs2RMJ-Htikhj5Aw8Q8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T10:39:35.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "SA"
     },
@@ -790,6 +776,20 @@
       "country": "SA"
     },
     {
+      "id": "com.playstrom.dop4",
+      "name": "DOP 4: Draw One Part",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.playstrom.dop4&hl=en&gl=SA",
+      "artwork": "https://play-lh.googleusercontent.com/xCTDSJzuaJkDH_dNtGek7H6CO2oi4tNopjrXHtvZ4EumFr_5vs2RMJ-Htikhj5Aw8Q8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T10:39:35.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "SA"
+    },
+    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
@@ -804,20 +804,6 @@
       "country": "SA"
     },
     {
-      "id": "com.dts.freefireth",
-      "name": "Free Fire: Lost Treasure",
-      "developer": "GARENA INTERNATIONAL I",
-      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=SA",
-      "artwork": "https://play-lh.googleusercontent.com/VxqoBX9loIqsESn5OPhXDLLYw8YFAlLJX3TJUb7ovyIQdRRWwGuG3jD9konTZAeWzd8VlVTDt8fkJ8BAEU4ZHQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T06:43:26.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "SA"
-    },
-    {
       "id": "com.tencent.ig",
       "name": "PUBG MOBILE",
       "developer": "Level Infinite",
@@ -826,6 +812,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2025-12-29T01:31:07.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "SA"
+    },
+    {
+      "id": "com.dts.freefireth",
+      "name": "Free Fire: Lost Treasure",
+      "developer": "GARENA INTERNATIONAL I",
+      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=SA",
+      "artwork": "https://play-lh.googleusercontent.com/VxqoBX9loIqsESn5OPhXDLLYw8YFAlLJX3TJUb7ovyIQdRRWwGuG3jD9konTZAeWzd8VlVTDt8fkJ8BAEU4ZHQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T06:43:26.000Z",
       "genres": [
         "Action"
       ],
@@ -874,20 +874,6 @@
       "country": "SA"
     },
     {
-      "id": "com.ansangha.drdriving",
-      "name": "Dr. Driving",
-      "developer": "SUD Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=SA",
-      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-08-25T07:34:27.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "SA"
-    },
-    {
       "id": "com.bunbunstudio.magicblocktiles",
       "name": "Music Piano 7: Rush Song Games",
       "developer": "Melodya Muses",
@@ -898,6 +884,20 @@
       "releaseDate": "2026-02-25T01:15:33.000Z",
       "genres": [
         "Music"
+      ],
+      "country": "SA"
+    },
+    {
+      "id": "com.ansangha.drdriving",
+      "name": "Dr. Driving",
+      "developer": "SUD Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=SA",
+      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-25T07:34:27.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "SA"
     },
@@ -1056,20 +1056,6 @@
       "country": "SA"
     },
     {
-      "id": "com.zakg.scaryteacher.hellgame",
-      "name": "Scary Teacher 3D",
-      "developer": "Z & K Games",
-      "url": "https://play.google.com/store/apps/details?id=com.zakg.scaryteacher.hellgame&hl=en&gl=SA",
-      "artwork": "https://play-lh.googleusercontent.com/fDrmI52HfyXG_ulhvKMQlFnkY3AXzCgWTc5jKVs1CsAjq9hM28v31esgLFAOSkQS99I",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-22T11:45:53.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "SA"
-    },
-    {
       "id": "com.fxroyale.app",
       "name": "Trading Arena-Crypto Simulator",
       "developer": "Edusystems OU",
@@ -1098,20 +1084,6 @@
       "country": "SA"
     },
     {
-      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
-      "name": "Shoot Bubble - Pop Bubbles",
-      "developer": "IVYGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=SA",
-      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T02:18:35.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "SA"
-    },
-    {
       "id": "com.tocaboca.tocalifeworld",
       "name": "Toca Boca World",
       "developer": "Toca Boca",
@@ -1122,6 +1094,20 @@
       "releaseDate": "2026-02-26T15:37:59.000Z",
       "genres": [
         "Educational"
+      ],
+      "country": "SA"
+    },
+    {
+      "id": "com.zakg.scaryteacher.hellgame",
+      "name": "Scary Teacher 3D",
+      "developer": "Z & K Games",
+      "url": "https://play.google.com/store/apps/details?id=com.zakg.scaryteacher.hellgame&hl=en&gl=SA",
+      "artwork": "https://play-lh.googleusercontent.com/fDrmI52HfyXG_ulhvKMQlFnkY3AXzCgWTc5jKVs1CsAjq9hM28v31esgLFAOSkQS99I",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-22T11:45:53.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "SA"
     },
@@ -1154,34 +1140,6 @@
       "country": "SA"
     },
     {
-      "id": "com.pronetis.ironball2",
-      "name": "Going Balls",
-      "developer": "Supersonic Studios LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.pronetis.ironball2&hl=en&gl=SA",
-      "artwork": "https://play-lh.googleusercontent.com/a8zcuqCydhNbHi-lsqas4V3G93TRcglFCFmS65IH7bUcaPx_o8bpTfDX0jTjFiVDS2Jhsd9VKJr85FQiEG-gumk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-05T11:14:24.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "SA"
-    },
-    {
-      "id": "com.gtsy.annoying.punch.game",
-      "name": "Annoying Uncle Punch Game",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=SA",
-      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T05:19:01.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "SA"
-    },
-    {
       "id": "com.soccer.score.star",
       "name": "Soccer Superstar",
       "developer": "Real Freestyle Soccer",
@@ -1210,6 +1168,20 @@
       "country": "SA"
     },
     {
+      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
+      "name": "Shoot Bubble - Pop Bubbles",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=SA",
+      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T02:18:35.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "SA"
+    },
+    {
       "id": "com.netease.newspikeme",
       "name": "Blood Strike Max",
       "developer": "Stellar Gate Games",
@@ -1220,20 +1192,6 @@
       "releaseDate": "2026-02-11T14:24:41.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "SA"
-    },
-    {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=SA",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "SA"
     },
@@ -1280,6 +1238,34 @@
       "country": "SA"
     },
     {
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=SA",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "SA"
+    },
+    {
+      "id": "com.pronetis.ironball2",
+      "name": "Going Balls",
+      "developer": "Supersonic Studios LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.pronetis.ironball2&hl=en&gl=SA",
+      "artwork": "https://play-lh.googleusercontent.com/a8zcuqCydhNbHi-lsqas4V3G93TRcglFCFmS65IH7bUcaPx_o8bpTfDX0jTjFiVDS2Jhsd9VKJr85FQiEG-gumk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T11:14:24.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "SA"
+    },
+    {
       "id": "com.run.tower.defense",
       "name": "Kingshot",
       "developer": "Century Games PTE. LTD.",
@@ -1294,16 +1280,16 @@
       "country": "SA"
     },
     {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=SA",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=SA",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "releaseDate": "2026-02-19T05:19:01.000Z",
       "genres": [
-        "Adventure"
+        "Simulation"
       ],
       "country": "SA"
     },
@@ -1330,20 +1316,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-13T13:03:47.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "SA"
-    },
-    {
-      "id": "com.sh.tricky.relax.ticktock.mini.challenges.puzzle.games",
-      "name": "Tricky Relax Challenge Games",
-      "developer": "stick hunter",
-      "url": "https://play.google.com/store/apps/details?id=com.sh.tricky.relax.ticktock.mini.challenges.puzzle.games&hl=en&gl=SA",
-      "artwork": "https://play-lh.googleusercontent.com/qNKv4eZyuLsbhByTASevFJNpHqtSjkFkFuv-ytiakm2JmhVO2q6dH6b4uSSz5CM7XA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T09:20:04.000Z",
       "genres": [
         "Casual"
       ],
@@ -1378,6 +1350,20 @@
       "country": "SA"
     },
     {
+      "id": "com.sh.tricky.relax.ticktock.mini.challenges.puzzle.games",
+      "name": "Tricky Relax Challenge Games",
+      "developer": "stick hunter",
+      "url": "https://play.google.com/store/apps/details?id=com.sh.tricky.relax.ticktock.mini.challenges.puzzle.games&hl=en&gl=SA",
+      "artwork": "https://play-lh.googleusercontent.com/qNKv4eZyuLsbhByTASevFJNpHqtSjkFkFuv-ytiakm2JmhVO2q6dH6b4uSSz5CM7XA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T09:20:04.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "SA"
+    },
+    {
       "id": "com.oakever.tiletrip",
       "name": "Tile Explorer - Triple Match",
       "developer": "Oakever Games",
@@ -1392,16 +1378,30 @@
       "country": "SA"
     },
     {
-      "id": "com.youmusic.magictiles",
-      "name": "Magic Tiles 3™ - Piano Game",
-      "developer": "AMANOTES PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=SA",
-      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=SA",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T08:58:53.000Z",
+      "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
-        "Music"
+        "Adventure"
+      ],
+      "country": "SA"
+    },
+    {
+      "id": "com.ction.playergames",
+      "name": "2 3 4 Player Mini Games",
+      "developer": "Better World Games",
+      "url": "https://play.google.com/store/apps/details?id=com.ction.playergames&hl=en&gl=SA",
+      "artwork": "https://play-lh.googleusercontent.com/vHuenuu1GqX1BwDaYX86dsbQlmA7vCO0PEdgdXlCEZP5x2_R3pZo0xcI9Mkdn4UW7NA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-28T20:16:32.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "SA"
     }
