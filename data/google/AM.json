@@ -1,8 +1,22 @@
 {
   "country": "AM",
   "store": "google",
-  "updatedAt": "2026-02-28T11:13:00.393Z",
+  "updatedAt": "2026-02-28T17:24:45.561Z",
   "new": [
+    {
+      "id": "com.adventure.piano.kpopstar",
+      "name": "Music Piano 2: KPop Star",
+      "developer": "HyperMusic",
+      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T10:58:01.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "AM"
+    },
     {
       "id": "com.torquegamers.truck.vehicle.climb.master",
       "name": "Vehicle Expert Truck Drive 3D",
@@ -228,20 +242,6 @@
       "country": "AM"
     },
     {
-      "id": "com.visionstudio.tilevacation",
-      "name": "Tile Vacation - Triple Match",
-      "developer": "VisionStudio(HK)",
-      "url": "https://play.google.com/store/apps/details?id=com.visionstudio.tilevacation&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/s8kKJIUT7IqtbPDqjaVIGhpzEEg7uPMBeq2SFZsG07uH25_9Th3B7EhKwNz7uv5-nA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T08:21:32.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "AM"
-    },
-    {
       "id": "com.simulator.car.wash.asmr.repair.game",
       "name": "Car Wash Simulator: ASMR Game",
       "developer": "CAT Studio",
@@ -420,6 +420,20 @@
       "releaseDate": "2026-02-20T16:43:57.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "AM"
+    },
+    {
+      "id": "com.totalbattle",
+      "name": "Total Battle: Strategy Games",
+      "developer": "Scorewarrior",
+      "url": "https://play.google.com/store/apps/details?id=com.totalbattle&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/tVu9zOuRBk4aUjro3Rgt0XUug_DxzjkyHxaslu9Q1dRd3XTOAw5Pn7UPT_xG4Se4rKS-",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T16:42:02.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "AM"
     },
@@ -688,37 +702,9 @@
         "Casual"
       ],
       "country": "AM"
-    },
-    {
-      "id": "com.arizona21.game",
-      "name": "Arizona Online",
-      "developer": "Arizona Team",
-      "url": "https://play.google.com/store/apps/details?id=com.arizona21.game&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/kL1T3Tct_oxlT_jwIc9BJSECnuKO5lmWmG4I_lqSc3X_88sJr5Hbtm0YsxisyWDHHf02zJKsMHYHNlgzd7ttrg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T20:55:18.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "AM"
     }
   ],
   "updated": [
-    {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T15:37:40.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "AM"
-    },
     {
       "id": "com.oakever.tiletrip",
       "name": "Tile Explorer - Triple Match",
@@ -734,6 +720,20 @@
       "country": "AM"
     },
     {
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T15:37:40.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "AM"
+    },
+    {
       "id": "com.block.juggle",
       "name": "Block Blast!",
       "developer": "HungryStudio",
@@ -744,6 +744,20 @@
       "releaseDate": "2026-02-27T12:27:55.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "AM"
+    },
+    {
+      "id": "com.launcher.brgame",
+      "name": "BLACK RUSSIA",
+      "developer": "BLACKHUB GAMES - FZCO",
+      "url": "https://play.google.com/store/apps/details?id=com.launcher.brgame&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/213dk4uHwTnYACurgShB3YkPRF9Q3jGBHUZ5MzWmVtctZk8eFV8El8RDKJCiPnTH8tjOaSOBEkSwvkM7MESDUw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T14:34:21.000Z",
+      "genres": [
+        "Role Playing"
       ],
       "country": "AM"
     },
@@ -804,20 +818,6 @@
       "country": "AM"
     },
     {
-      "id": "com.cww.laststronghold",
-      "name": "Last Stronghold: Idle Survival",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.cww.laststronghold&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/Jx_X9G6TAS2O5W_46l1vuFVk18kL_oztKW_bb2D0q8yZiWWcwZgcjcG_BLMSjTfB5MU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-31T00:02:11.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "AM"
-    },
-    {
       "id": "com.wood.block.sudoku.puzzle.bm",
       "name": "Block Crush!",
       "developer": "Wonderful  Studio",
@@ -832,14 +832,14 @@
       "country": "AM"
     },
     {
-      "id": "com.launcher.brgame",
-      "name": "BLACK RUSSIA",
-      "developer": "BLACKHUB GAMES - FZCO",
-      "url": "https://play.google.com/store/apps/details?id=com.launcher.brgame&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/213dk4uHwTnYACurgShB3YkPRF9Q3jGBHUZ5MzWmVtctZk8eFV8El8RDKJCiPnTH8tjOaSOBEkSwvkM7MESDUw",
+      "id": "com.cww.laststronghold",
+      "name": "Last Stronghold: Idle Survival",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.cww.laststronghold&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/Jx_X9G6TAS2O5W_46l1vuFVk18kL_oztKW_bb2D0q8yZiWWcwZgcjcG_BLMSjTfB5MU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T14:34:21.000Z",
+      "releaseDate": "2026-01-31T00:02:11.000Z",
       "genres": [
         "Role Playing"
       ],
@@ -972,16 +972,16 @@
       "country": "AM"
     },
     {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "id": "com.gamovation.tileclub",
+      "name": "Tile Club - Match Puzzle Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "releaseDate": "2026-01-07T10:41:36.000Z",
       "genres": [
-        "Adventure"
+        "Puzzle"
       ],
       "country": "AM"
     },
@@ -996,6 +996,34 @@
       "releaseDate": "2026-02-26T16:42:28.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "AM"
+    },
+    {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "AM"
+    },
+    {
+      "id": "com.minigames.antistress.relaxinggames.toys",
+      "name": "Antistress Relaxing Mini Games",
+      "developer": "CAT Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.minigames.antistress.relaxinggames.toys&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/GyxH6OelloeKh9B0iWbTpGKeK3qSnVEhKl6MoiCnvLXTniWuITKjEQjrNACCA-XsmxooB1fKWxoXhaYVfLFqiA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-29T06:05:28.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "AM"
     },
@@ -1056,20 +1084,6 @@
       "country": "AM"
     },
     {
-      "id": "com.gamovation.tileclub",
-      "name": "Tile Club - Match Puzzle Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-07T10:41:36.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "AM"
-    },
-    {
       "id": "com.sh.fidget.toys.mini.relaxing.antistress.games",
       "name": "Mini Relaxing Game- pop it",
       "developer": "Game District LLC",
@@ -1080,20 +1094,6 @@
       "releaseDate": "2026-02-20T09:21:18.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "AM"
-    },
-    {
-      "id": "com.brain.puzzle.tricky.test.annoying.quest",
-      "name": "Brain Puzzle: Tricky Test",
-      "developer": "SLEEK CHARM LIMITED",
-      "url": "https://play.google.com/store/apps/details?id=com.brain.puzzle.tricky.test.annoying.quest&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/GAW1v5cC_rUq5q1VGTjswJfgIfE8jcF84e7YPG8bY2UZBj_stHbZrxqJMLPzLJtEnjUl_KwwqiMrMLVp7RVY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T10:29:02.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "AM"
     },
@@ -1112,6 +1112,20 @@
       "country": "AM"
     },
     {
+      "id": "com.brain.puzzle.tricky.test.annoying.quest",
+      "name": "Brain Puzzle: Tricky Test",
+      "developer": "SLEEK CHARM LIMITED",
+      "url": "https://play.google.com/store/apps/details?id=com.brain.puzzle.tricky.test.annoying.quest&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/GAW1v5cC_rUq5q1VGTjswJfgIfE8jcF84e7YPG8bY2UZBj_stHbZrxqJMLPzLJtEnjUl_KwwqiMrMLVp7RVY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T10:29:02.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "AM"
+    },
+    {
       "id": "com.puzzlegames.puzzlebrickslegend",
       "name": "Color Block: Combo Blast",
       "developer": "Ivy",
@@ -1122,6 +1136,20 @@
       "releaseDate": "2026-02-27T10:15:09.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "AM"
+    },
+    {
+      "id": "com.MadOut.BIG",
+      "name": "MadOut 2: Grand Auto Racing",
+      "developer": "MadOut Games LLC FZ",
+      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/dYeAjuPFJGv-XfIiKEzuR6ACSG-4pBjs31DZcjn_qRoQ2WfMzm5iKFKNLEjGERYQ6Cn-",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T07:16:00.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "AM"
     },
@@ -1154,20 +1182,6 @@
       "country": "AM"
     },
     {
-      "id": "com.minigames.antistress.relaxinggames.toys",
-      "name": "Antistress Relaxing Mini Games",
-      "developer": "CAT Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.minigames.antistress.relaxinggames.toys&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/GyxH6OelloeKh9B0iWbTpGKeK3qSnVEhKl6MoiCnvLXTniWuITKjEQjrNACCA-XsmxooB1fKWxoXhaYVfLFqiA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-29T06:05:28.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "AM"
-    },
-    {
       "id": "com.playflix.kick.breakragdoll.games",
       "name": "Kick & Break The Ragdoll Games",
       "developer": "Game District LLC",
@@ -1196,6 +1210,20 @@
       "country": "AM"
     },
     {
+      "id": "com.flyingwhalegames.carout",
+      "name": "Car Out! Traffic Parking Games",
+      "developer": "Tripledot Studios Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.flyingwhalegames.carout&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/Z6KJAQTDqQzJaeisYfVVBvAGMznEFBNb0U229BpFgmm8nolXrvqZ7HQmoiUTjsY4esI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T14:43:27.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "AM"
+    },
+    {
       "id": "com.gamovation.chessclubpilot",
       "name": "Chess - Offline Board Game",
       "developer": "GamoVation",
@@ -1206,6 +1234,34 @@
       "releaseDate": "2026-02-18T14:20:12.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "AM"
+    },
+    {
+      "id": "com.matteljv.uno",
+      "name": "UNO!™",
+      "developer": "Mattel163 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.matteljv.uno&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/yAn20u0xsnzgIKZTaFGgkPnEOV1LPKh00_rEccAnQeljyXDESWneIl9C28c7JT-petqf7AD_ZlIIDMrYah7p",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T09:29:49.000Z",
+      "genres": [
+        "Card"
+      ],
+      "country": "AM"
+    },
+    {
+      "id": "com.ezp.offroadmudrunner.oiltanker.truckdriver.games",
+      "name": "Border Patrol Inspect & Arrest",
+      "developer": "EeeZee Play",
+      "url": "https://play.google.com/store/apps/details?id=com.ezp.offroadmudrunner.oiltanker.truckdriver.games&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/kSS2LqiUVNlYlyeH4V6s4J1eT43C8WOrX3ZnnMin8UWQwv3zKxv7nhqYCCXELEcjPnQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T06:47:55.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "AM"
     },
@@ -1238,20 +1294,6 @@
       "country": "AM"
     },
     {
-      "id": "com.ezp.offroadmudrunner.oiltanker.truckdriver.games",
-      "name": "Border Patrol Inspect & Arrest",
-      "developer": "EeeZee Play",
-      "url": "https://play.google.com/store/apps/details?id=com.ezp.offroadmudrunner.oiltanker.truckdriver.games&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/kSS2LqiUVNlYlyeH4V6s4J1eT43C8WOrX3ZnnMin8UWQwv3zKxv7nhqYCCXELEcjPnQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T06:47:55.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "AM"
-    },
-    {
       "id": "com.ction.playergames",
       "name": "2 3 4 Player Mini Games",
       "developer": "Better World Games",
@@ -1260,6 +1302,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2025-10-28T20:16:32.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "AM"
+    },
+    {
+      "id": "dasi.prs2.lumberchopper",
+      "name": "Idle Lumber Chopper Empire Inc",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=dasi.prs2.lumberchopper&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/0_2l4Yk9uqKwTvAv-yZp02Og-DRr5GT-AfsH42zjExvkQkKsP4NUsyZz0lp8APHMaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T09:27:51.000Z",
       "genres": [
         "Simulation"
       ],
@@ -1280,14 +1336,14 @@
       "country": "AM"
     },
     {
-      "id": "dasi.prs2.lumberchopper",
-      "name": "Idle Lumber Chopper Empire Inc",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=dasi.prs2.lumberchopper&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/0_2l4Yk9uqKwTvAv-yZp02Og-DRr5GT-AfsH42zjExvkQkKsP4NUsyZz0lp8APHMaQ",
+      "id": "com.craft.city.blockbuilder.pro",
+      "name": "Craft Explore: Block Builder",
+      "developer": "Appsgrooves",
+      "url": "https://play.google.com/store/apps/details?id=com.craft.city.blockbuilder.pro&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/YFHDvFUFlCreDkvR1NRPr1KkeF3OdKCZPVmSLzPXs96jHbAxUf4LjFOaWA0WkmTdIK4A2K2G8ZnnKeLimAFM2Q",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-09T09:27:51.000Z",
+      "releaseDate": "2026-02-09T12:12:25.000Z",
       "genres": [
         "Simulation"
       ],
@@ -1318,62 +1374,6 @@
       "releaseDate": "2026-02-20T17:46:36.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "AM"
-    },
-    {
-      "id": "com.craft.city.blockbuilder.pro",
-      "name": "Craft Explore: Block Builder",
-      "developer": "Appsgrooves",
-      "url": "https://play.google.com/store/apps/details?id=com.craft.city.blockbuilder.pro&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/YFHDvFUFlCreDkvR1NRPr1KkeF3OdKCZPVmSLzPXs96jHbAxUf4LjFOaWA0WkmTdIK4A2K2G8ZnnKeLimAFM2Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T12:12:25.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "AM"
-    },
-    {
-      "id": "com.flyingwhalegames.carout",
-      "name": "Car Out! Traffic Parking Games",
-      "developer": "Tripledot Studios Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.flyingwhalegames.carout&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/Z6KJAQTDqQzJaeisYfVVBvAGMznEFBNb0U229BpFgmm8nolXrvqZ7HQmoiUTjsY4esI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T14:43:27.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "AM"
-    },
-    {
-      "id": "com.MadOut.BIG",
-      "name": "MadOut 2: Grand Auto Racing",
-      "developer": "MadOut Games LLC FZ",
-      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/dYeAjuPFJGv-XfIiKEzuR6ACSG-4pBjs31DZcjn_qRoQ2WfMzm5iKFKNLEjGERYQ6Cn-",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T07:16:00.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "AM"
-    },
-    {
-      "id": "com.bravestars.savethedog.drawgame",
-      "name": "Save The Pets",
-      "developer": "Bravestars Games",
-      "url": "https://play.google.com/store/apps/details?id=com.bravestars.savethedog.drawgame&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/M30GFPRmi5D5ZNEB8VMCgXs6kM_dz_C2wzIFu2pMfSqZZUu0M3R2YBt0WB6S5nIOyA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T03:48:45.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "AM"
     },
