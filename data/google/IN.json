@@ -1,8 +1,22 @@
 {
   "country": "IN",
   "store": "google",
-  "updatedAt": "2026-02-28T13:51:24.428Z",
+  "updatedAt": "2026-02-28T19:36:22.769Z",
   "new": [
+    {
+      "id": "water.sort.color.puzzle.offline.games",
+      "name": "Water Sort! Color Sort Puzzle",
+      "developer": "Bobodoo Game",
+      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/FGKE522gd5FND6fnX-_GdhSe9eoU0IqSBJ3gV8nUEYnOTMubjov8cvlC2FQXMgbb29NA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T16:25:39.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "IN"
+    },
     {
       "id": "com.xgame.trafficmoto",
       "name": "Moto Race Go",
@@ -308,20 +322,6 @@
       "releaseDate": "2026-02-24T09:05:46.000Z",
       "genres": [
         "Strategy"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.youmusic.magictiles",
-      "name": "Magic Tiles 3™ - Piano Game",
-      "developer": "AMANOTES PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/MN-AsowqLMEkznK8mhfCu2PGN2Czyx9xq9HHnitFVJPnRRyOwNHPvxV_NoSJounFmcotRzsnx9GcEwRUbOmjwQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T08:58:53.000Z",
-      "genres": [
-        "Music"
       ],
       "country": "IN"
     },
@@ -690,16 +690,16 @@
       "country": "IN"
     },
     {
-      "id": "water.sort.color.puzzle.offline.games",
-      "name": "Water Sort! Color Sort Puzzle",
-      "developer": "Bobodoo Game",
-      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/FGKE522gd5FND6fnX-_GdhSe9eoU0IqSBJ3gV8nUEYnOTMubjov8cvlC2FQXMgbb29NA",
+      "id": "offroad.racing.game",
+      "name": "Off Road 4x4 Driving Simulator",
+      "developer": "Azur Interactive Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=offroad.racing.game&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/yzzfCuM1q4tRbG1GhH5Z07m6yMNGFxQ7yN3x8E9nzznBioNAPX6nAJO8ccg7we3OnIuJ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-12T14:06:14.000Z",
+      "releaseDate": "2026-02-12T09:42:28.000Z",
       "genres": [
-        "Puzzle"
+        "Racing"
       ],
       "country": "IN"
     }
@@ -874,20 +874,6 @@
       "country": "IN"
     },
     {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:31:23.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "IN"
-    },
-    {
       "id": "com.idle.chop",
       "name": "Idle Chop: Lumber Empire",
       "developer": "robuminer",
@@ -898,6 +884,20 @@
       "releaseDate": "2026-01-28T12:05:45.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T12:31:23.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "IN"
     },
@@ -1000,6 +1000,20 @@
       "country": "IN"
     },
     {
+      "id": "com.lighthouse.freeplay.ind",
+      "name": "Last light",
+      "developer": "Dinosaur-Games",
+      "url": "https://play.google.com/store/apps/details?id=com.lighthouse.freeplay.ind&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/T4wXLtnmqoVU4aiBKsFa6vWdqlXEtr5xiFrZ7XcXzQvoVepftXaZVEyBS9_0Cl_ryF3pdP5dTHPf0QjwUlenCA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T09:45:21.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "IN"
+    },
+    {
       "id": "com.pubg.imobile",
       "name": "BGMI: Online Multiplayer Game",
       "developer": "KRAFTON, Inc.",
@@ -1010,20 +1024,6 @@
       "releaseDate": "2025-12-30T01:48:20.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.ansangha.drdriving",
-      "name": "Dr. Driving",
-      "developer": "SUD Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-08-25T07:34:27.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "IN"
     },
@@ -1056,6 +1056,20 @@
       "country": "IN"
     },
     {
+      "id": "com.ansangha.drdriving",
+      "name": "Dr. Driving",
+      "developer": "SUD Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-25T07:34:27.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "IN"
+    },
+    {
       "id": "com.gt.moto.bike.wheelie.stunt.race.game",
       "name": "Bike Wheelie Stunt Master Game",
       "developer": "Game town",
@@ -1066,20 +1080,6 @@
       "releaseDate": "2026-02-27T18:59:35.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.lighthouse.freeplay.ind",
-      "name": "Last light",
-      "developer": "Dinosaur-Games",
-      "url": "https://play.google.com/store/apps/details?id=com.lighthouse.freeplay.ind&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/T4wXLtnmqoVU4aiBKsFa6vWdqlXEtr5xiFrZ7XcXzQvoVepftXaZVEyBS9_0Cl_ryF3pdP5dTHPf0QjwUlenCA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T09:45:21.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "IN"
     },
@@ -1182,30 +1182,16 @@
       "country": "IN"
     },
     {
-      "id": "piano.game.music.beat.tiles",
-      "name": "Piano Beat: Music Game",
-      "developer": "Dream Tiles Piano Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=piano.game.music.beat.tiles&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/0Of6bw3wkKRhftwupXVSF0r0FKn-BVFScRpwXPFKZ9jtdeEwU8hHRK8j8hN-mhkrxFCj",
+      "id": "com.bettergames.truck.drivingschool.simulator",
+      "name": "Truck Games - Driving School",
+      "developer": "Better Games Studio Pty Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.bettergames.truck.drivingschool.simulator&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/Yy8DpF1eHMhXIg87QVNNDlQSN4AvVzUCaUAXH33ATRIeaqBUgPOF9ykCRptNgvpJ-Mo",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-13T08:06:33.000Z",
+      "releaseDate": "2026-02-24T09:05:46.000Z",
       "genres": [
-        "Music"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.uc.gym.clicker",
-      "name": "Gym Idle Clicker: Fitness Hero",
-      "developer": "Unicorn Studio Official",
-      "url": "https://play.google.com/store/apps/details?id=com.uc.gym.clicker&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/9uzA6qLx2gFUnbq-gxvn2ZZeTweHsZFGvO1kurRydMEWIpwf9q5ATOPzsg2aGgYuvWM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T03:20:44.000Z",
-      "genres": [
-        "Casual"
+        "Strategy"
       ],
       "country": "IN"
     },
@@ -1224,30 +1210,30 @@
       "country": "IN"
     },
     {
-      "id": "com.bettergames.truck.drivingschool.simulator",
-      "name": "Truck Games - Driving School",
-      "developer": "Better Games Studio Pty Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.bettergames.truck.drivingschool.simulator&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/Yy8DpF1eHMhXIg87QVNNDlQSN4AvVzUCaUAXH33ATRIeaqBUgPOF9ykCRptNgvpJ-Mo",
+      "id": "com.uc.gym.clicker",
+      "name": "Gym Idle Clicker: Fitness Hero",
+      "developer": "Unicorn Studio Official",
+      "url": "https://play.google.com/store/apps/details?id=com.uc.gym.clicker&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/9uzA6qLx2gFUnbq-gxvn2ZZeTweHsZFGvO1kurRydMEWIpwf9q5ATOPzsg2aGgYuvWM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T09:05:46.000Z",
+      "releaseDate": "2026-02-04T03:20:44.000Z",
       "genres": [
-        "Strategy"
+        "Casual"
       ],
       "country": "IN"
     },
     {
-      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
-      "name": "Fashion Glow: Model & Style",
-      "developer": "Dress Up Games for Girls",
-      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
+      "id": "piano.game.music.beat.tiles",
+      "name": "Piano Beat: Music Game",
+      "developer": "Dream Tiles Piano Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=piano.game.music.beat.tiles&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/0Of6bw3wkKRhftwupXVSF0r0FKn-BVFScRpwXPFKZ9jtdeEwU8hHRK8j8hN-mhkrxFCj",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-14T08:31:08.000Z",
+      "releaseDate": "2026-01-13T08:06:33.000Z",
       "genres": [
-        "Casual"
+        "Music"
       ],
       "country": "IN"
     },
@@ -1266,6 +1252,20 @@
       "country": "IN"
     },
     {
+      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
+      "name": "Fashion Glow: Model & Style",
+      "developer": "Dress Up Games for Girls",
+      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-14T08:31:08.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "IN"
+    },
+    {
       "id": "com.alqadhiepndar967.ftnecdy",
       "name": "Fortune Candy 777",
       "developer": "BANDAR ALQADHI",
@@ -1274,6 +1274,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-09T12:03:07.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.xman.ind.gp",
+      "name": "X-Clash",
+      "developer": "Glaciers Game",
+      "url": "https://play.google.com/store/apps/details?id=com.xman.ind.gp&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/Z7c9e0nAx5HyPM40f0vOTUBoABcCBj5avDRGPZkvx2f09j1N0uFgBBi13-TEdae_JDtoNkZjTOtYeC16WUcYMQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T07:58:20.000Z",
       "genres": [
         "Casual"
       ],
@@ -1290,20 +1304,6 @@
       "releaseDate": "2026-02-19T11:31:49.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "IN"
-    },
-    {
-      "id": "com.xman.ind.gp",
-      "name": "X-Clash",
-      "developer": "Glaciers Game",
-      "url": "https://play.google.com/store/apps/details?id=com.xman.ind.gp&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/Z7c9e0nAx5HyPM40f0vOTUBoABcCBj5avDRGPZkvx2f09j1N0uFgBBi13-TEdae_JDtoNkZjTOtYeC16WUcYMQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T07:58:20.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "IN"
     },
@@ -1364,20 +1364,6 @@
       "country": "IN"
     },
     {
-      "id": "com.miniclip.drone1",
-      "name": "War Drone: 3D Shooting Games",
-      "developer": "Mobile Gaming Studios Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.drone1&hl=en&gl=IN",
-      "artwork": "https://play-lh.googleusercontent.com/quIsXpM_hTDjWCfCNHwROYTMyiOHJ3wdkOb8vBRq_6IP63Wv1d68qLC1mvevxX3VOw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T17:28:35.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "IN"
-    },
-    {
       "id": "com.dvloper.granny",
       "name": "Granny",
       "developer": "DVloper",
@@ -1400,6 +1386,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-20T15:55:38.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "IN"
+    },
+    {
+      "id": "com.miniclip.drone1",
+      "name": "War Drone: 3D Shooting Games",
+      "developer": "Mobile Gaming Studios Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.drone1&hl=en&gl=IN",
+      "artwork": "https://play-lh.googleusercontent.com/quIsXpM_hTDjWCfCNHwROYTMyiOHJ3wdkOb8vBRq_6IP63Wv1d68qLC1mvevxX3VOw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T17:28:35.000Z",
       "genres": [
         "Action"
       ],
