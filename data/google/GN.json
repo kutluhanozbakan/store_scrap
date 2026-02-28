@@ -1,7 +1,7 @@
 {
   "country": "GN",
   "store": "google",
-  "updatedAt": "2026-02-28T19:11:13.520Z",
+  "updatedAt": "2026-02-28T23:55:27.091Z",
   "new": [
     {
       "id": "water.sort.color.puzzle.offline.games",
@@ -144,20 +144,6 @@
       "country": "GN"
     },
     {
-      "id": "com.slg.savagesurvival",
-      "name": "Savage Survival:Jurassic Isle",
-      "developer": "Phantix Games",
-      "url": "https://play.google.com/store/apps/details?id=com.slg.savagesurvival&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/eAU9CbbtZ5sumN-AcmytdQEKOvKlrFI15b07BXSj_4mKl8eDGfdqEl8yFOQi1IzgYPw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T11:00:34.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "GN"
-    },
-    {
       "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
       "name": "Agent Shooter - Shooting Game",
       "developer": "Rebel Actions",
@@ -252,6 +238,20 @@
       "releaseDate": "2026-02-24T17:41:11.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "GN"
+    },
+    {
+      "id": "com.NikitaPokruchin.ALTCITYOnline",
+      "name": "Grand Hustle RP: Online Game",
+      "developer": "LEVEL 26 GAMES - FZCO",
+      "url": "https://play.google.com/store/apps/details?id=com.NikitaPokruchin.ALTCITYOnline&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/Se9PXJVlJR_gchpDDYzkPxv73H1eLojhV-M-7JqNwDdD3BhWcHfHIMD3ZtESen8nONF2",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T17:27:16.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "GN"
     },
@@ -606,6 +606,20 @@
       "country": "GN"
     },
     {
+      "id": "com.cooking.world.chef.craze.restaurant.fever.free",
+      "name": "Cooking World® Restaurant Game",
+      "developer": "MAGIC SEVEN CO., LIMITED",
+      "url": "https://play.google.com/store/apps/details?id=com.cooking.world.chef.craze.restaurant.fever.free&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/-hEQMZ9byFWQbUmcnH32fc9mUMKW1NLp4AJ4MveIyOAgg37VmCjH1u30KqI3wnO49LJs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T06:34:52.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "GN"
+    },
+    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
@@ -688,37 +702,9 @@
         "Sports"
       ],
       "country": "GN"
-    },
-    {
-      "id": "com.niceteen.games.dtbam",
-      "name": "Deal To Be A Millionaire",
-      "developer": "Niceteen Games",
-      "url": "https://play.google.com/store/apps/details?id=com.niceteen.games.dtbam&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/5v9wntAn0mAdCgowe8zSjV_FFs8aSwy3RnOZp-6OgJf3AL_REut7vXbbTGnqXQkWTng",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T10:48:14.000Z",
-      "genres": [
-        "Trivia"
-      ],
-      "country": "GN"
     }
   ],
   "updated": [
-    {
-      "id": "com.firsttouchgames.dls7",
-      "name": "Dream League Soccer 2026",
-      "developer": "First Touch Games Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T16:45:20.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "GN"
-    },
     {
       "id": "com.football.soccer.league",
       "name": "Football League 2026",
@@ -728,6 +714,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-11T12:25:49.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "GN"
+    },
+    {
+      "id": "com.firsttouchgames.dls7",
+      "name": "Dream League Soccer 2026",
+      "developer": "First Touch Games Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T16:45:20.000Z",
       "genres": [
         "Sports"
       ],
@@ -804,6 +804,20 @@
       "country": "GN"
     },
     {
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "GN"
+    },
+    {
       "id": "com.block.juggle",
       "name": "Block Blast!",
       "developer": "HungryStudio",
@@ -846,20 +860,6 @@
       "country": "GN"
     },
     {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "GN"
-    },
-    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -870,20 +870,6 @@
       "releaseDate": "2026-02-27T15:37:40.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "GN"
-    },
-    {
-      "id": "com.appsalt.specialopsforce",
-      "name": "Special Ops Force",
-      "developer": "Appsalt",
-      "url": "https://play.google.com/store/apps/details?id=com.appsalt.specialopsforce&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/qKKF0ac1TBj6A3q2mooJdao-hsy3Q52Pm1zoToUtpQeiE5i61DMo0GgLuI1d7PLSBF3Ej7r_ap-MlWGm9U6Rcg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T07:57:21.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "GN"
     },
@@ -916,6 +902,20 @@
       "country": "GN"
     },
     {
+      "id": "com.appsalt.specialopsforce",
+      "name": "Special Ops Force",
+      "developer": "Appsalt",
+      "url": "https://play.google.com/store/apps/details?id=com.appsalt.specialopsforce&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/qKKF0ac1TBj6A3q2mooJdao-hsy3Q52Pm1zoToUtpQeiE5i61DMo0GgLuI1d7PLSBF3Ej7r_ap-MlWGm9U6Rcg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T07:57:21.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "GN"
+    },
+    {
       "id": "com.freeplaysultanov.shootit",
       "name": "Shoot Out: Gun Shooting Games",
       "developer": "Freeplay Inc",
@@ -930,20 +930,6 @@
       "country": "GN"
     },
     {
-      "id": "europe.truck.simulator2",
-      "name": "Truckers of Europe 2",
-      "developer": "Wanda Software",
-      "url": "https://play.google.com/store/apps/details?id=europe.truck.simulator2&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/tS6pdPz6GKrP87gOTTPcBDFMJFd2RsD4ngkl92pqEQp6nkHRIPU30BRM7wB6l5_VaOw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T09:31:02.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "GN"
-    },
-    {
       "id": "com.ludo.king",
       "name": "Ludo King®",
       "developer": "Gametion",
@@ -954,6 +940,20 @@
       "releaseDate": "2026-02-13T09:46:13.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "GN"
+    },
+    {
+      "id": "europe.truck.simulator2",
+      "name": "Truckers of Europe 2",
+      "developer": "Wanda Software",
+      "url": "https://play.google.com/store/apps/details?id=europe.truck.simulator2&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/tS6pdPz6GKrP87gOTTPcBDFMJFd2RsD4ngkl92pqEQp6nkHRIPU30BRM7wB6l5_VaOw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T09:31:02.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "GN"
     },
@@ -1028,6 +1028,34 @@
       "country": "GN"
     },
     {
+      "id": "com.soccer.score.star",
+      "name": "Soccer Superstar",
+      "developer": "Real Freestyle Soccer",
+      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T15:32:33.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "GN"
+    },
+    {
+      "id": "eu.nordeus.topeleven.android",
+      "name": "Top Eleven Be a Soccer Manager",
+      "developer": "Nordeus",
+      "url": "https://play.google.com/store/apps/details?id=eu.nordeus.topeleven.android&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/syHICcpM4rKF6_vACJknkvXhHRBju_P7P93E3cNR701Rc3alNdC1NpTvPxlhDGvvgT9pHVzfR2gOvyvFesXGrHU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-23T13:38:30.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "GN"
+    },
+    {
       "id": "com.footballquiz.triviaquestionsandanswers",
       "name": "Football Quiz Trivia Questions",
       "developer": "Pipi Chick Studio",
@@ -1070,30 +1098,16 @@
       "country": "GN"
     },
     {
-      "id": "com.soccer.score.star",
-      "name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
+      "id": "com.tarboosh.collectemall",
+      "name": "Collect Em All! Clear the Dots",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.tarboosh.collectemall&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/1Zgbqux8C1W0by560urxm1cowz3l0QaCogMRjXXNkGRUennrde8hfSkk40k5uDWZkvc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-29T15:32:33.000Z",
+      "releaseDate": "2026-01-14T18:34:19.000Z",
       "genres": [
-        "Sports"
-      ],
-      "country": "GN"
-    },
-    {
-      "id": "eu.nordeus.topeleven.android",
-      "name": "Top Eleven Be a Soccer Manager",
-      "developer": "Nordeus",
-      "url": "https://play.google.com/store/apps/details?id=eu.nordeus.topeleven.android&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/syHICcpM4rKF6_vACJknkvXhHRBju_P7P93E3cNR701Rc3alNdC1NpTvPxlhDGvvgT9pHVzfR2gOvyvFesXGrHU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-23T13:38:30.000Z",
-      "genres": [
-        "Sports"
+        "Casual"
       ],
       "country": "GN"
     },
@@ -1112,16 +1126,16 @@
       "country": "GN"
     },
     {
-      "id": "com.tarboosh.collectemall",
-      "name": "Collect Em All! Clear the Dots",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.tarboosh.collectemall&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/1Zgbqux8C1W0by560urxm1cowz3l0QaCogMRjXXNkGRUennrde8hfSkk40k5uDWZkvc",
+      "id": "com.gamovation.tileclub",
+      "name": "Tile Club - Match Puzzle Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-14T18:34:19.000Z",
+      "releaseDate": "2026-01-07T10:41:36.000Z",
       "genres": [
-        "Casual"
+        "Puzzle"
       ],
       "country": "GN"
     },
@@ -1154,6 +1168,20 @@
       "country": "GN"
     },
     {
+      "id": "com.refuelgames.rally",
+      "name": "Rally Fury - Extreme Racing",
+      "developer": "Refuel Games Pty Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.refuelgames.rally&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/UVjsYY6tnVq2qqtuz0BexvhIA080C-pfWalPy3Py4GD4nE-dt_mAZxuAOVgEod3teLU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-18T01:24:07.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "GN"
+    },
+    {
       "id": "jp.konami.pesam",
       "name": "eFootball™",
       "developer": "KONAMI",
@@ -1168,6 +1196,20 @@
       "country": "GN"
     },
     {
+      "id": "ninja.hunt.sniper.agent.action.free.android",
+      "name": "Ninja Hunt: Stealth Assassin",
+      "developer": "707 INTERACTIVE: Fun Epic Casual Games",
+      "url": "https://play.google.com/store/apps/details?id=ninja.hunt.sniper.agent.action.free.android&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/O4kVxfQpwM5yjO1tg0HHV6Pwt3wTm9zxhpudFNP6gElkS4Xgo9ZNTntKadrC8wQyVRzRaLbJSsAl1eVdwMupUK0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T02:29:22.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "GN"
+    },
+    {
       "id": "com.ludo.master.hippo.lite",
       "name": "Ludo Master™ Lite - Dice Game",
       "developer": "Hippo Lab",
@@ -1178,20 +1220,6 @@
       "releaseDate": "2025-12-12T09:13:01.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "GN"
-    },
-    {
-      "id": "com.gamovation.tileclub",
-      "name": "Tile Club - Match Puzzle Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-07T10:41:36.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "GN"
     },
@@ -1252,20 +1280,6 @@
       "country": "GN"
     },
     {
-      "id": "ninja.hunt.sniper.agent.action.free.android",
-      "name": "Ninja Hunt: Stealth Assassin",
-      "developer": "707 INTERACTIVE: Fun Epic Casual Games",
-      "url": "https://play.google.com/store/apps/details?id=ninja.hunt.sniper.agent.action.free.android&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/O4kVxfQpwM5yjO1tg0HHV6Pwt3wTm9zxhpudFNP6gElkS4Xgo9ZNTntKadrC8wQyVRzRaLbJSsAl1eVdwMupUK0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T02:29:22.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "GN"
-    },
-    {
       "id": "com.combineinc.streetracing.driftthreeD",
       "name": "Street Racing 3D",
       "developer": "Ivy",
@@ -1280,16 +1294,16 @@
       "country": "GN"
     },
     {
-      "id": "com.refuelgames.rally",
-      "name": "Rally Fury - Extreme Racing",
-      "developer": "Refuel Games Pty Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.refuelgames.rally&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/UVjsYY6tnVq2qqtuz0BexvhIA080C-pfWalPy3Py4GD4nE-dt_mAZxuAOVgEod3teLU",
+      "id": "com.imangi.templerun2",
+      "name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-18T01:24:07.000Z",
+      "releaseDate": "2026-02-17T14:25:25.000Z",
       "genres": [
-        "Racing"
+        "Action"
       ],
       "country": "GN"
     },
@@ -1322,6 +1336,20 @@
       "country": "GN"
     },
     {
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=GN",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T15:11:48.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "GN"
+    },
+    {
       "id": "com.bubbleshooter.popbubbles.collectcards",
       "name": "Bubble Shooter",
       "developer": "IVYGAMES",
@@ -1336,20 +1364,6 @@
       "country": "GN"
     },
     {
-      "id": "com.imangi.templerun2",
-      "name": "Temple Run 2: Endless Escape",
-      "developer": "Imangi Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T14:25:25.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "GN"
-    },
-    {
       "id": "com.geargames.aow",
       "name": "Art of War 3:RTS strategy game",
       "developer": "Gear Games Global",
@@ -1360,20 +1374,6 @@
       "releaseDate": "2026-02-24T11:21:26.000Z",
       "genres": [
         "Strategy"
-      ],
-      "country": "GN"
-    },
-    {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=GN",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T15:11:48.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "GN"
     },

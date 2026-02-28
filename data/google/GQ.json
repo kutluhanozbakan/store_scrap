@@ -1,7 +1,7 @@
 {
   "country": "GQ",
   "store": "google",
-  "updatedAt": "2026-02-28T19:11:27.533Z",
+  "updatedAt": "2026-02-28T23:55:31.064Z",
   "new": [
     {
       "id": "water.sort.color.puzzle.offline.games",
@@ -536,6 +536,20 @@
       "country": "GQ"
     },
     {
+      "id": "com.ludo.king",
+      "name": "Ludo King®",
+      "developer": "Gametion",
+      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=GQ",
+      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T09:46:13.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "GQ"
+    },
+    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
@@ -620,6 +634,20 @@
       "country": "GQ"
     },
     {
+      "id": "car.parking.jam.solver.puzzle.games",
+      "name": "Car Jam Solver: Traffic Jam",
+      "developer": "Ladaneta Games",
+      "url": "https://play.google.com/store/apps/details?id=car.parking.jam.solver.puzzle.games&hl=en&gl=GQ",
+      "artwork": "https://play-lh.googleusercontent.com/zQxxfiBXzDefzKkb6kfISliJstLOknKkmSl_tRrpB2MQxx6f1Zbj4eks9MgLm1j3h2U",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-07T09:30:57.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "GQ"
+    },
+    {
       "id": "com.Neurononfire.SupremeDuelist",
       "name": "Supreme Duelist",
       "developer": "Neron's Brother",
@@ -674,34 +702,6 @@
         "Casual"
       ],
       "country": "GQ"
-    },
-    {
-      "id": "trivia.quiz.trivia.star.millionaire.word.question.offine.game.free",
-      "name": "Word Trivia - Word Quiz Games",
-      "developer": "Magic Word Games",
-      "url": "https://play.google.com/store/apps/details?id=trivia.quiz.trivia.star.millionaire.word.question.offine.game.free&hl=en&gl=GQ",
-      "artwork": "https://play-lh.googleusercontent.com/TtlByQ15PdupvWitcYMQfloNTVCMpzerx2x6ZA1kkhuJMRvI_f949mCBTWu-agF_momH",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T11:42:58.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "GQ"
-    },
-    {
-      "id": "com.dts.freefireth",
-      "name": "Free Fire x JUJUTSU KAISEN",
-      "developer": "GARENA INTERNATIONAL I",
-      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=GQ",
-      "artwork": "https://play-lh.googleusercontent.com/-6LwMoL2ZWR3pl3s1fvwiYil-vrLS8q2n6Lg8rJ_I_uSAXtFD7OEO-KziVFxIlfuhezB7jsMYnf5COn4S1iu",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T06:43:26.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "GQ"
     }
   ],
   "updated": [
@@ -748,20 +748,6 @@
       "country": "GQ"
     },
     {
-      "id": "com.appsalt.specialopsforce",
-      "name": "Special Ops Force",
-      "developer": "Appsalt",
-      "url": "https://play.google.com/store/apps/details?id=com.appsalt.specialopsforce&hl=en&gl=GQ",
-      "artwork": "https://play-lh.googleusercontent.com/qKKF0ac1TBj6A3q2mooJdao-hsy3Q52Pm1zoToUtpQeiE5i61DMo0GgLuI1d7PLSBF3Ej7r_ap-MlWGm9U6Rcg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T07:57:21.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "GQ"
-    },
-    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -786,6 +772,20 @@
       "releaseDate": "2026-02-11T12:25:49.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "GQ"
+    },
+    {
+      "id": "com.appsalt.specialopsforce",
+      "name": "Special Ops Force",
+      "developer": "Appsalt",
+      "url": "https://play.google.com/store/apps/details?id=com.appsalt.specialopsforce&hl=en&gl=GQ",
+      "artwork": "https://play-lh.googleusercontent.com/qKKF0ac1TBj6A3q2mooJdao-hsy3Q52Pm1zoToUtpQeiE5i61DMo0GgLuI1d7PLSBF3Ej7r_ap-MlWGm9U6Rcg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T07:57:21.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "GQ"
     },
@@ -874,20 +874,6 @@
       "country": "GQ"
     },
     {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=GQ",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "GQ"
-    },
-    {
       "id": "com.dreamgames.royalmatch",
       "name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -898,6 +884,20 @@
       "releaseDate": "2026-02-16T12:04:55.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "GQ"
+    },
+    {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=GQ",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "GQ"
     },
@@ -1014,6 +1014,20 @@
       "country": "GQ"
     },
     {
+      "id": "com.nuomondo.millionaire.quiz",
+      "name": "Millionaire - Quiz & Trivia",
+      "developer": "Trivia & Quiz Games by Nuomondo",
+      "url": "https://play.google.com/store/apps/details?id=com.nuomondo.millionaire.quiz&hl=en&gl=GQ",
+      "artwork": "https://play-lh.googleusercontent.com/Sw6e7Qz4DeHQ0LQ8Ck3xuLgIBnDEWiOGoMbZezIvyvGsdXoVd36vQ7kG07BD_s2Mm9M",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T15:49:34.000Z",
+      "genres": [
+        "Trivia"
+      ],
+      "country": "GQ"
+    },
+    {
       "id": "com.block.juggle",
       "name": "Block Blast!",
       "developer": "HungryStudio",
@@ -1056,20 +1070,6 @@
       "country": "GQ"
     },
     {
-      "id": "org.betup",
-      "name": "Sports Betting Game - BET UP",
-      "developer": "UPAPP",
-      "url": "https://play.google.com/store/apps/details?id=org.betup&hl=en&gl=GQ",
-      "artwork": "https://play-lh.googleusercontent.com/olQNP7WvXaO8QHSJfVsBNDMaWhQuG6glVXxFHCnGqdjFCw0lkGxyDCIhiz7XrMeXAxo",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-07-23T07:48:30.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "GQ"
-    },
-    {
       "id": "com.playvalve.wsjourney",
       "name": "Word Search - Word Puzzle Game",
       "developer": "Bluetile",
@@ -1080,6 +1080,20 @@
       "releaseDate": "2026-02-11T16:54:00.000Z",
       "genres": [
         "Word"
+      ],
+      "country": "GQ"
+    },
+    {
+      "id": "org.betup",
+      "name": "Sports Betting Game - BET UP",
+      "developer": "UPAPP",
+      "url": "https://play.google.com/store/apps/details?id=org.betup&hl=en&gl=GQ",
+      "artwork": "https://play-lh.googleusercontent.com/olQNP7WvXaO8QHSJfVsBNDMaWhQuG6glVXxFHCnGqdjFCw0lkGxyDCIhiz7XrMeXAxo",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-07-23T07:48:30.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "GQ"
     },
@@ -1168,20 +1182,6 @@
       "country": "GQ"
     },
     {
-      "id": "com.nuomondo.millionaire.quiz",
-      "name": "Millionaire - Quiz & Trivia",
-      "developer": "Trivia & Quiz Games by Nuomondo",
-      "url": "https://play.google.com/store/apps/details?id=com.nuomondo.millionaire.quiz&hl=en&gl=GQ",
-      "artwork": "https://play-lh.googleusercontent.com/Sw6e7Qz4DeHQ0LQ8Ck3xuLgIBnDEWiOGoMbZezIvyvGsdXoVd36vQ7kG07BD_s2Mm9M",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T15:49:34.000Z",
-      "genres": [
-        "Trivia"
-      ],
-      "country": "GQ"
-    },
-    {
       "id": "com.hungrystudio.mahjong",
       "name": "Double Tile!",
       "developer": "HungryStudio",
@@ -1224,6 +1224,20 @@
       "country": "GQ"
     },
     {
+      "id": "com.soccer.score.star",
+      "name": "Soccer Superstar",
+      "developer": "Real Freestyle Soccer",
+      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=GQ",
+      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T15:32:33.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "GQ"
+    },
+    {
       "id": "com.outfit7.mytalkingangela2",
       "name": "My Talking Angela 2",
       "developer": "Outfit7 Limited",
@@ -1248,20 +1262,6 @@
       "releaseDate": "2026-02-13T13:28:49.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "GQ"
-    },
-    {
-      "id": "com.soccer.score.star",
-      "name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=GQ",
-      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:32:33.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "GQ"
     },
