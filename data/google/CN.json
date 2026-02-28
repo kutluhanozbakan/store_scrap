@@ -1,7 +1,7 @@
 {
   "country": "CN",
   "store": "google",
-  "updatedAt": "2026-02-28T17:59:23.908Z",
+  "updatedAt": "2026-02-28T23:12:27.616Z",
   "new": [
     {
       "id": "com.os.airforce",
@@ -298,6 +298,20 @@
       "country": "CN"
     },
     {
+      "id": "com.multicastgames.venomSurvive",
+      "name": "Alien Invasion: RPG Idle Space",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.multicastgames.venomSurvive&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/YObdSPOo1e7XUhaCKmOlkbm5dByoEIFuxvf-cuw4vl-XexUd0xnIBuBaJgQkwnWstw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T08:53:11.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "CN"
+    },
+    {
       "id": "com.chess",
       "name": "Chess - Play and Learn Online",
       "developer": "Chess.com",
@@ -392,20 +406,6 @@
       "releaseDate": "2026-02-23T08:13:54.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.QuarantineSimulator.ZoneBorderPatrol3D",
-      "name": "Quarantine Simulator Border 3D",
-      "developer": "Take Top Entertainment",
-      "url": "https://play.google.com/store/apps/details?id=com.QuarantineSimulator.ZoneBorderPatrol3D&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/QFmyw3pTzg30_EMXrQjuuYJpKDyJD-nhcQqsSubh4zJ-oYKbTGNzOCeJ5USX65is_lw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T17:28:10.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "CN"
     },
@@ -662,6 +662,20 @@
       "country": "CN"
     },
     {
+      "id": "com.ludo.king",
+      "name": "Ludo King®",
+      "developer": "Gametion",
+      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T09:46:13.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "CN"
+    },
+    {
       "id": "com.riotgames.league.teamfighttactics",
       "name": "TFT: Teamfight Tactics",
       "developer": "Riot Games, Inc",
@@ -684,20 +698,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-12T23:17:18.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.percent.aos.rollinghero",
-      "name": "Heroll : Dice Roguelike",
-      "developer": "111%",
-      "url": "https://play.google.com/store/apps/details?id=com.percent.aos.rollinghero&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/b-_Ov5021GOAF9eqonwgAeP9L6oMWtx2ksUx8jHhUwmKS1AjRGrCXGJLbzuP6237C00n-HyboNdG8lB9ae1Jw1Y",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T21:43:59.000Z",
       "genres": [
         "Casual"
       ],
@@ -790,20 +790,6 @@
       "country": "CN"
     },
     {
-      "id": "com.miniclip.plagueinc",
-      "name": "Plague Inc.",
-      "developer": "Ndemic Creations",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.plagueinc&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/qLgeusnY6S6JC_qB7s1qz5rPzrzMIuiXDvQN2R9qZhuQb3xTw4adMD0-Ktk12LrLwFB_wn_ftNVvLDsixSBeGQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T18:16:43.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "CN"
-    },
-    {
       "id": "com.miniclip.eightballpool",
       "name": "8 Ball Pool",
       "developer": "Miniclip.com",
@@ -814,6 +800,20 @@
       "releaseDate": "2026-02-18T11:45:50.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.miniclip.plagueinc",
+      "name": "Plague Inc.",
+      "developer": "Ndemic Creations",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.plagueinc&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/qLgeusnY6S6JC_qB7s1qz5rPzrzMIuiXDvQN2R9qZhuQb3xTw4adMD0-Ktk12LrLwFB_wn_ftNVvLDsixSBeGQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T18:16:43.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "CN"
     },
@@ -1126,20 +1126,6 @@
       "country": "CN"
     },
     {
-      "id": "com.digitalextremes.warframenexus",
-      "name": "Warframe Companion",
-      "developer": "Digital Extremes",
-      "url": "https://play.google.com/store/apps/details?id=com.digitalextremes.warframenexus&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/w1UQr4xhRXUyRLKWYTPT3fZchC_PIbL7bgVw-BB6wGtX_iumKKE9UaBiSDMlQfhJ87At",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T20:50:00.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "CN"
-    },
-    {
       "id": "com.innersloth.spacemafia",
       "name": "Among Us",
       "developer": "Innersloth LLC",
@@ -1148,6 +1134,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-18T19:19:24.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.digitalextremes.warframenexus",
+      "name": "Warframe Companion",
+      "developer": "Digital Extremes",
+      "url": "https://play.google.com/store/apps/details?id=com.digitalextremes.warframenexus&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/w1UQr4xhRXUyRLKWYTPT3fZchC_PIbL7bgVw-BB6wGtX_iumKKE9UaBiSDMlQfhJ87At",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T20:50:00.000Z",
       "genres": [
         "Action"
       ],
@@ -1252,20 +1252,6 @@
       "country": "CN"
     },
     {
-      "id": "me.funkin.fnf",
-      "name": "Friday Night Funkin'",
-      "developer": "The Funkin' Crew Inc.",
-      "url": "https://play.google.com/store/apps/details?id=me.funkin.fnf&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/eH7CbOlUv_4ysRxicJbncfdfK3nsA_YtIpu8cvPRi2rRvXAQOLwXhoNybAwHptYIpbY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T02:31:19.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "CN"
-    },
-    {
       "id": "com.oakever.tiletrip",
       "name": "Tile Explorer - Triple Match",
       "developer": "Oakever Games",
@@ -1308,16 +1294,16 @@
       "country": "CN"
     },
     {
-      "id": "com.studiowildcard.arkuse",
-      "name": "ARK: Ultimate Mobile Edition",
-      "developer": "Studio Wildcard",
-      "url": "https://play.google.com/store/apps/details?id=com.studiowildcard.arkuse&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/lnDJEp7CpsYkpoAqfLvAxSEFtHMV4s2DjoxkXMboLJzz8-XuEWjm6OaHIYmWMUxeQw",
+      "id": "me.funkin.fnf",
+      "name": "Friday Night Funkin'",
+      "developer": "The Funkin' Crew Inc.",
+      "url": "https://play.google.com/store/apps/details?id=me.funkin.fnf&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/eH7CbOlUv_4ysRxicJbncfdfK3nsA_YtIpu8cvPRi2rRvXAQOLwXhoNybAwHptYIpbY",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-25T19:52:03.000Z",
+      "releaseDate": "2026-02-24T02:31:19.000Z",
       "genres": [
-        "Adventure"
+        "Music"
       ],
       "country": "CN"
     },
@@ -1336,16 +1322,16 @@
       "country": "CN"
     },
     {
-      "id": "com.fansipan.nightfall.tower.simulation.strategy.td.game",
-      "name": "Nightfall: Kingdom Frontier TD",
-      "developer": "Fansipan Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.fansipan.nightfall.tower.simulation.strategy.td.game&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/K4-f3RaKNOc-YICu47fN-XpAYnJQjcGcIJ73gho29Fu_2znI54xpZHBm4L2bAEXfw7Q",
+      "id": "com.studiowildcard.arkuse",
+      "name": "ARK: Ultimate Mobile Edition",
+      "developer": "Studio Wildcard",
+      "url": "https://play.google.com/store/apps/details?id=com.studiowildcard.arkuse&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/lnDJEp7CpsYkpoAqfLvAxSEFtHMV4s2DjoxkXMboLJzz8-XuEWjm6OaHIYmWMUxeQw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-09T03:51:01.000Z",
+      "releaseDate": "2026-02-25T19:52:03.000Z",
       "genres": [
-        "Strategy"
+        "Adventure"
       ],
       "country": "CN"
     },
@@ -1360,6 +1346,20 @@
       "releaseDate": "2026-02-11T12:25:49.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.fansipan.nightfall.tower.simulation.strategy.td.game",
+      "name": "Nightfall: Kingdom Frontier TD",
+      "developer": "Fansipan Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.fansipan.nightfall.tower.simulation.strategy.td.game&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/K4-f3RaKNOc-YICu47fN-XpAYnJQjcGcIJ73gho29Fu_2znI54xpZHBm4L2bAEXfw7Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T03:51:01.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "CN"
     },

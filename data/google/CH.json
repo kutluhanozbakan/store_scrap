@@ -1,8 +1,36 @@
 {
   "country": "CH",
   "store": "google",
-  "updatedAt": "2026-02-28T17:59:03.949Z",
+  "updatedAt": "2026-02-28T23:12:04.143Z",
   "new": [
+    {
+      "id": "com.arrow.out",
+      "name": "Arrow Out",
+      "developer": "Lion Studios Plus",
+      "url": "https://play.google.com/store/apps/details?id=com.arrow.out&hl=en&gl=CH",
+      "artwork": "https://play-lh.googleusercontent.com/i4S66jnxU0h4mBg7aURDxn2gUkQmkq2U09Z-QpwxGnoEl_zjS2Fmo49_Nh3eTlYGB6hg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T19:11:28.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CH"
+    },
+    {
+      "id": "water.sort.color.puzzle.offline.games",
+      "name": "Water Sort! Color Sort Puzzle",
+      "developer": "Bobodoo Game",
+      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=CH",
+      "artwork": "https://play-lh.googleusercontent.com/FGKE522gd5FND6fnX-_GdhSe9eoU0IqSBJ3gV8nUEYnOTMubjov8cvlC2FQXMgbb29NA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T16:25:39.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CH"
+    },
     {
       "id": "com.cedargames.tileclear",
       "name": "Tile Clear - Puzzle Game",
@@ -368,20 +396,6 @@
       "country": "CH"
     },
     {
-      "id": "com.arrow.out",
-      "name": "Arrow Out",
-      "developer": "Lion Studios Plus",
-      "url": "https://play.google.com/store/apps/details?id=com.arrow.out&hl=en&gl=CH",
-      "artwork": "https://play-lh.googleusercontent.com/i4S66jnxU0h4mBg7aURDxn2gUkQmkq2U09Z-QpwxGnoEl_zjS2Fmo49_Nh3eTlYGB6hg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T06:43:59.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CH"
-    },
-    {
       "id": "com.WalkTalk.FlightMaster",
       "name": "Epic Plane Evolution",
       "developer": "VOODOO",
@@ -688,20 +702,6 @@
         "Puzzle"
       ],
       "country": "CH"
-    },
-    {
-      "id": "com.dreamgames.royalmatch",
-      "name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=CH",
-      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T12:04:55.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CH"
     }
   ],
   "updated": [
@@ -804,6 +804,20 @@
       "country": "CH"
     },
     {
+      "id": "com.mergegames.gossipharbor",
+      "name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=CH",
+      "artwork": "https://play-lh.googleusercontent.com/xVIGbuFosD3kQ4D9iyRQGFjEy5stL8NODkfdeZ-o73q-APh-XKaHo2nMseGc1FeB138H3TeEoI0ew9Wca5-iJA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T12:20:43.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CH"
+    },
+    {
       "id": "com.block.juggle",
       "name": "Block Blast!",
       "developer": "HungryStudio",
@@ -846,20 +860,6 @@
       "country": "CH"
     },
     {
-      "id": "com.mergegames.gossipharbor",
-      "name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=CH",
-      "artwork": "https://play-lh.googleusercontent.com/xVIGbuFosD3kQ4D9iyRQGFjEy5stL8NODkfdeZ-o73q-APh-XKaHo2nMseGc1FeB138H3TeEoI0ew9Wca5-iJA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T12:20:43.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CH"
-    },
-    {
       "id": "com.supercell.brawlstars",
       "name": "Brawl Stars",
       "developer": "Supercell",
@@ -888,20 +888,6 @@
       "country": "CH"
     },
     {
-      "id": "com.sled.surfers.game",
-      "name": "Sled Surfers",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game&hl=en&gl=CH",
-      "artwork": "https://play-lh.googleusercontent.com/dtrjuQilrP1js6mDnl7mFPerlmnwUPwhYESlGriPKxwlUhWJ1yQ0r52EIvXrc-S5vqY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T17:36:54.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "CH"
-    },
-    {
       "id": "com.grandgames.magicsort",
       "name": "Magic Sort!",
       "developer": "Grand Games A.Ş.",
@@ -912,6 +898,20 @@
       "releaseDate": "2026-02-27T17:23:38.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "CH"
+    },
+    {
+      "id": "com.sled.surfers.game",
+      "name": "Sled Surfers",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game&hl=en&gl=CH",
+      "artwork": "https://play-lh.googleusercontent.com/dtrjuQilrP1js6mDnl7mFPerlmnwUPwhYESlGriPKxwlUhWJ1yQ0r52EIvXrc-S5vqY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T17:36:54.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "CH"
     },
@@ -1014,6 +1014,20 @@
       "country": "CH"
     },
     {
+      "id": "in.playsimple.wordsearch",
+      "name": "Word Search Explorer",
+      "developer": "PlaySimple Games",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=CH",
+      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T12:52:47.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "CH"
+    },
+    {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -1038,20 +1052,6 @@
       "releaseDate": "2026-02-24T07:21:42.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "CH"
-    },
-    {
-      "id": "in.playsimple.wordsearch",
-      "name": "Word Search Explorer",
-      "developer": "PlaySimple Games",
-      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=CH",
-      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T12:52:47.000Z",
-      "genres": [
-        "Word"
       ],
       "country": "CH"
     },
@@ -1126,20 +1126,6 @@
       "country": "CH"
     },
     {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=CH",
-      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T16:48:19.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "CH"
-    },
-    {
       "id": "math.puzzle.games.crossmath.number.puzzles.free",
       "name": "Crossmath® - Math Puzzle Games",
       "developer": "Guru Puzzle Game",
@@ -1154,16 +1140,16 @@
       "country": "CH"
     },
     {
-      "id": "com.ecffri.arrows",
-      "name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore UG",
-      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=CH",
-      "artwork": "https://play-lh.googleusercontent.com/f3szQ-tBQ5FVtiO2hwnJ6Gg4LbckQ9qKD099oiFqlvDo78uaD85Zn9G4o-W9390XnQ",
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=CH",
+      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-25T19:36:00.000Z",
+      "releaseDate": "2026-02-24T16:48:19.000Z",
       "genres": [
-        "Puzzle"
+        "Arcade"
       ],
       "country": "CH"
     },
@@ -1196,16 +1182,16 @@
       "country": "CH"
     },
     {
-      "id": "com.youmusic.magictiles",
-      "name": "Magic Tiles 3™ - Piano Game",
-      "developer": "AMANOTES PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=CH",
-      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
+      "id": "com.ecffri.arrows",
+      "name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore UG",
+      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=CH",
+      "artwork": "https://play-lh.googleusercontent.com/f3szQ-tBQ5FVtiO2hwnJ6Gg4LbckQ9qKD099oiFqlvDo78uaD85Zn9G4o-W9390XnQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T08:58:53.000Z",
+      "releaseDate": "2026-02-25T19:36:00.000Z",
       "genres": [
-        "Music"
+        "Puzzle"
       ],
       "country": "CH"
     },
@@ -1238,20 +1224,6 @@
       "country": "CH"
     },
     {
-      "id": "com.playvalve.solitaire",
-      "name": "Solitaire - Classic Card Game",
-      "developer": "Bluetile",
-      "url": "https://play.google.com/store/apps/details?id=com.playvalve.solitaire&hl=en&gl=CH",
-      "artwork": "https://play-lh.googleusercontent.com/sTclWyu-6LKa5SEZsQd52lFHHus9UH8LBl-wTqBMUdfDKTZGaqs_HzgJOnuQ8zfiqYtys3PZq910Tct7ab9gn6w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T15:59:33.000Z",
-      "genres": [
-        "Card"
-      ],
-      "country": "CH"
-    },
-    {
       "id": "com.totalbattle",
       "name": "Total Battle: Strategy Games",
       "developer": "Scorewarrior",
@@ -1266,6 +1238,48 @@
       "country": "CH"
     },
     {
+      "id": "com.youmusic.magictiles",
+      "name": "Magic Tiles 3™ - Piano Game",
+      "developer": "AMANOTES PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=CH",
+      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T08:58:53.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "CH"
+    },
+    {
+      "id": "com.playvalve.solitaire",
+      "name": "Solitaire - Classic Card Game",
+      "developer": "Bluetile",
+      "url": "https://play.google.com/store/apps/details?id=com.playvalve.solitaire&hl=en&gl=CH",
+      "artwork": "https://play-lh.googleusercontent.com/sTclWyu-6LKa5SEZsQd52lFHHus9UH8LBl-wTqBMUdfDKTZGaqs_HzgJOnuQ8zfiqYtys3PZq910Tct7ab9gn6w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T15:59:33.000Z",
+      "genres": [
+        "Card"
+      ],
+      "country": "CH"
+    },
+    {
+      "id": "com.pixel.art.coloring.color.number",
+      "name": "Happy Color®: Color by Number",
+      "developer": "X-FLOW",
+      "url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&hl=en&gl=CH",
+      "artwork": "https://play-lh.googleusercontent.com/paB5-2s6q3uXd3nRE0-2QzCLeLklmemDepD0_Erald5YQUazuiOhMvJ8giFluMAX0w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-20T07:32:35.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "CH"
+    },
+    {
       "id": "com.arrow.out",
       "name": "Arrow Out",
       "developer": "Lion Studios Plus",
@@ -1273,7 +1287,7 @@
       "artwork": "https://play-lh.googleusercontent.com/i4S66jnxU0h4mBg7aURDxn2gUkQmkq2U09Z-QpwxGnoEl_zjS2Fmo49_Nh3eTlYGB6hg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T06:43:59.000Z",
+      "releaseDate": "2026-02-28T19:11:28.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1322,20 +1336,6 @@
       "country": "CH"
     },
     {
-      "id": "com.pixel.art.coloring.color.number",
-      "name": "Happy Color®: Color by Number",
-      "developer": "X-FLOW",
-      "url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&hl=en&gl=CH",
-      "artwork": "https://play-lh.googleusercontent.com/paB5-2s6q3uXd3nRE0-2QzCLeLklmemDepD0_Erald5YQUazuiOhMvJ8giFluMAX0w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-20T07:32:35.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "CH"
-    },
-    {
       "id": "com.chess",
       "name": "Chess - Play and Learn Online",
       "developer": "Chess.com",
@@ -1346,6 +1346,20 @@
       "releaseDate": "2026-02-24T21:21:40.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "CH"
+    },
+    {
+      "id": "sheep.animal.parking.puzzle.game.jam",
+      "name": "Sheep Dash: Sheep Away",
+      "developer": "Yelo Hood",
+      "url": "https://play.google.com/store/apps/details?id=sheep.animal.parking.puzzle.game.jam&hl=en&gl=CH",
+      "artwork": "https://play-lh.googleusercontent.com/kl66iWEo6PaSHzE3Gp4oYx22-Kn4REFbQborB288N4le8ErrHIXRn6wINcJVfDnXo4zLZAOjdoRVyDuD7G9X",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T09:04:40.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "CH"
     },
@@ -1364,34 +1378,6 @@
       "country": "CH"
     },
     {
-      "id": "com.playstrom.dop4",
-      "name": "DOP 4: Draw One Part",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.playstrom.dop4&hl=en&gl=CH",
-      "artwork": "https://play-lh.googleusercontent.com/xCTDSJzuaJkDH_dNtGek7H6CO2oi4tNopjrXHtvZ4EumFr_5vs2RMJ-Htikhj5Aw8Q8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T10:39:35.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CH"
-    },
-    {
-      "id": "com.heartsnet.clickwood.gp",
-      "name": "Click Wood",
-      "developer": "Heartsnet",
-      "url": "https://play.google.com/store/apps/details?id=com.heartsnet.clickwood.gp&hl=en&gl=CH",
-      "artwork": "https://play-lh.googleusercontent.com/E9W-APtwIYfSjzZAKaXEvL1iJaJ5SzcDXhaLgGoUhCisAggu6CjDeDluaCZpEGe0SlCgfBhttyM2WXNaGarx",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T09:26:52.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "CH"
-    },
-    {
       "id": "com.pc.sand.loop",
       "name": "Sand Loop",
       "developer": "VOODOO",
@@ -1400,6 +1386,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-27T16:50:09.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CH"
+    },
+    {
+      "id": "com.playstrom.dop4",
+      "name": "DOP 4: Draw One Part",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.playstrom.dop4&hl=en&gl=CH",
+      "artwork": "https://play-lh.googleusercontent.com/xCTDSJzuaJkDH_dNtGek7H6CO2oi4tNopjrXHtvZ4EumFr_5vs2RMJ-Htikhj5Aw8Q8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T10:39:35.000Z",
       "genres": [
         "Puzzle"
       ],
