@@ -1,7 +1,7 @@
 {
   "country": "TD",
   "store": "google",
-  "updatedAt": "2026-02-27T18:02:21.979Z",
+  "updatedAt": "2026-02-28T02:10:49.752Z",
   "new": [
     {
       "id": "com.grandgames.magicsort",
@@ -12,6 +12,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-27T17:23:38.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "TD"
+    },
+    {
+      "id": "com.wood.block.sudoku.puzzle.bm",
+      "name": "Block Crush!",
+      "developer": "Wonderful  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T16:30:59.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -60,6 +74,20 @@
       "country": "TD"
     },
     {
+      "id": "com.puzzlegames.puzzlebrickslegend",
+      "name": "Color Block: Combo Blast",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.puzzlebrickslegend&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T10:15:09.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "TD"
+    },
+    {
       "id": "beetles.puzzle.solitaire",
       "name": "Solitaire - Classic Card Games",
       "developer": "Oakever Games",
@@ -70,20 +98,6 @@
       "releaseDate": "2026-02-27T08:56:27.000Z",
       "genres": [
         "Card"
-      ],
-      "country": "TD"
-    },
-    {
-      "id": "com.wood.block.sudoku.puzzle.bm",
-      "name": "Block Crush!",
-      "developer": "Wonderful  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T17:57:02.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "TD"
     },
@@ -688,20 +702,6 @@
         "Arcade"
       ],
       "country": "TD"
-    },
-    {
-      "id": "com.courage.ludo",
-      "name": "Lama Ludo-Ludo&Chatroom",
-      "developer": "Courage. Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.courage.ludo&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/7YZeePU3uHO-OhhU45vZXqJnrOyv3khqCF7Khd6i54-3YRqNnCARoT7yI3_GgX6w5bY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T18:13:44.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "TD"
     }
   ],
   "updated": [
@@ -790,20 +790,6 @@
       "country": "TD"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T16:38:38.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "TD"
-    },
-    {
       "id": "com.zams.car.parking.game",
       "name": "Prado Parking Game: Car Games",
       "developer": "Zamsolutions",
@@ -828,6 +814,20 @@
       "releaseDate": "2026-02-17T07:28:13.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "TD"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T16:38:38.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "TD"
     },
@@ -1014,20 +1014,6 @@
       "country": "TD"
     },
     {
-      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
-      "name": "Agent Shooter - Shooting Game",
-      "developer": "Rebel Actions",
-      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T10:48:15.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "TD"
-    },
-    {
       "id": "ball.sort.color.puz.game.puzzle",
       "name": "Ball Sort - Color Puz Game",
       "developer": "Infinite Joy Ltd.",
@@ -1052,6 +1038,20 @@
       "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "TD"
+    },
+    {
+      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
+      "name": "Agent Shooter - Shooting Game",
+      "developer": "Rebel Actions",
+      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T10:48:15.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "TD"
     },
@@ -1280,20 +1280,6 @@
       "country": "TD"
     },
     {
-      "id": "com.ffgames.racingincar2",
-      "name": "Racing in Car 2",
-      "developer": "ckgames",
-      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-19T14:55:06.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "TD"
-    },
-    {
       "id": "com.gp.pilot.simulator.airplanegames",
       "name": "Pilot Simulator: Airplane Game",
       "developer": "GamePark",
@@ -1304,20 +1290,6 @@
       "releaseDate": "2026-02-13T10:51:12.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "TD"
-    },
-    {
-      "id": "com.xgame.trafficmoto",
-      "name": "Moto Race Go",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.xgame.trafficmoto&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/X5q2eJtpNzipVALIJ3UTihiEUxMS3xssI_gzrOZaYv6B6XmGGbyiIcD1gsWuan-YSBbd",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T16:09:55.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "TD"
     },
@@ -1378,6 +1350,20 @@
       "country": "TD"
     },
     {
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-19T14:55:06.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "TD"
+    },
+    {
       "id": "com.igs.bus.simulator.bus.games",
       "name": "Bus Simulator - 3D Bus Games",
       "developer": "Innovative Gaming Studios",
@@ -1402,6 +1388,20 @@
       "releaseDate": "2026-01-26T11:03:22.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "TD"
+    },
+    {
+      "id": "com.aim.rallyhum",
+      "name": "Extreme SUV Driving Simulator",
+      "developer": "AxesInMotion Racing",
+      "url": "https://play.google.com/store/apps/details?id=com.aim.rallyhum&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/6ZJtEQIBjCwWRunruJUztdsbIrud_rCOl-QkTh_SPktBuMbXA0EOsqChINMUBER3DjPz",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T07:40:15.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "TD"
     }
