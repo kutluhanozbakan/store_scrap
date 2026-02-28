@@ -1,7 +1,7 @@
 {
   "country": "CN",
   "store": "google",
-  "updatedAt": "2026-02-28T12:22:57.688Z",
+  "updatedAt": "2026-02-28T17:59:23.908Z",
   "new": [
     {
       "id": "com.os.airforce",
@@ -96,20 +96,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-27T16:23:02.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.easybrain.arrow.puzzle.game",
-      "name": "Arrow Puzzle - Tap Away Game",
-      "developer": "Easybrain",
-      "url": "https://play.google.com/store/apps/details?id=com.easybrain.arrow.puzzle.game&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/b--9J_VPY-VBj6ZAYDkXBZIni5JSi44_tFOeJ_HW3uVnxw1XNIkUvHF8qT9V6aLzyK_W4U5EAlDoofjjOfqWXQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T15:45:52.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -242,6 +228,20 @@
       "country": "CN"
     },
     {
+      "id": "com.ironhidegames.kingdomrush.mp",
+      "name": "Kingdom Rush Battles: TD Game",
+      "developer": "Ironhide Games",
+      "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.kingdomrush.mp&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/-8y6Xw3XtYBiCPwJKyR0rqS6XJ36fAT-BhoFK04_0T0tvpr4tIqHHjFSRAkJFmWL_nw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T22:08:05.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "CN"
+    },
+    {
       "id": "com.studiowildcard.arkuse",
       "name": "ARK: Ultimate Mobile Edition",
       "developer": "Studio Wildcard",
@@ -294,20 +294,6 @@
       "releaseDate": "2026-02-25T15:19:44.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.multicastgames.venomSurvive",
-      "name": "Alien Invasion: RPG Idle Space",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.multicastgames.venomSurvive&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/YObdSPOo1e7XUhaCKmOlkbm5dByoEIFuxvf-cuw4vl-XexUd0xnIBuBaJgQkwnWstw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T08:53:11.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "CN"
     },
@@ -702,6 +688,20 @@
         "Casual"
       ],
       "country": "CN"
+    },
+    {
+      "id": "com.percent.aos.rollinghero",
+      "name": "Heroll : Dice Roguelike",
+      "developer": "111%",
+      "url": "https://play.google.com/store/apps/details?id=com.percent.aos.rollinghero&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/b-_Ov5021GOAF9eqonwgAeP9L6oMWtx2ksUx8jHhUwmKS1AjRGrCXGJLbzuP6237C00n-HyboNdG8lB9ae1Jw1Y",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T21:43:59.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "CN"
     }
   ],
   "updated": [
@@ -720,20 +720,6 @@
       "country": "CN"
     },
     {
-      "id": "com.kamagames.pokerist",
-      "name": "Texas Hold'em Poker: Pokerist",
-      "developer": "KamaGames",
-      "url": "https://play.google.com/store/apps/details?id=com.kamagames.pokerist&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/MZOSOnXI3kCqbvDJSvTFGVHrWuL7t1JhBbPxqeBpJHrNzLaQt7jk0iOb0_SZ5U8BVbo",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T16:11:21.000Z",
-      "genres": [
-        "Card"
-      ],
-      "country": "CN"
-    },
-    {
       "id": "com.miniclip.drone1",
       "name": "War Drone: 3D Shooting Games",
       "developer": "Mobile Gaming Studios Ltd.",
@@ -744,6 +730,20 @@
       "releaseDate": "2026-01-27T17:28:35.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.kamagames.pokerist",
+      "name": "Texas Hold'em Poker: Pokerist",
+      "developer": "KamaGames",
+      "url": "https://play.google.com/store/apps/details?id=com.kamagames.pokerist&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/MZOSOnXI3kCqbvDJSvTFGVHrWuL7t1JhBbPxqeBpJHrNzLaQt7jk0iOb0_SZ5U8BVbo",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T16:11:21.000Z",
+      "genres": [
+        "Card"
       ],
       "country": "CN"
     },
@@ -832,20 +832,6 @@
       "country": "CN"
     },
     {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T15:37:40.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "CN"
-    },
-    {
       "id": "com.sybogames.subway.surfers.game",
       "name": "Subway Surfers City",
       "developer": "SYBO Games",
@@ -860,6 +846,20 @@
       "country": "CN"
     },
     {
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T15:37:40.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "CN"
+    },
+    {
       "id": "com.superb.rhv",
       "name": "Rhythm Hive",
       "developer": "DRIMAGE Co., Ltd",
@@ -870,6 +870,20 @@
       "releaseDate": "2026-02-12T11:09:49.000Z",
       "genres": [
         "Music"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.rovio.abcasual",
+      "name": "Angry Birds Journey",
+      "developer": "Rovio Entertainment Oy",
+      "url": "https://play.google.com/store/apps/details?id=com.rovio.abcasual&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/CLOCWX95BtEq9zcyLEuDyqW2YwXYDzNy28QQZ-V95HPieT52hBcRzctJXj1Tdfll9gU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-28T13:07:38.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "CN"
     },
@@ -896,20 +910,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-27T16:30:59.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.rovio.abcasual",
-      "name": "Angry Birds Journey",
-      "developer": "Rovio Entertainment Oy",
-      "url": "https://play.google.com/store/apps/details?id=com.rovio.abcasual&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/CLOCWX95BtEq9zcyLEuDyqW2YwXYDzNy28QQZ-V95HPieT52hBcRzctJXj1Tdfll9gU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-28T13:07:38.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -972,20 +972,6 @@
       "country": "CN"
     },
     {
-      "id": "com.carxtech.sr",
-      "name": "CarX Street",
-      "developer": "CarX Technologies",
-      "url": "https://play.google.com/store/apps/details?id=com.carxtech.sr&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/B8INYkehIFue2QH_RoTQ6Rs5VndWrgUaKdscFCMWQwOQW13jwQE1YyBryuQA00XAshc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T15:33:53.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "CN"
-    },
-    {
       "id": "com.tiktaktoeexm.gamenew",
       "name": "Tic Tac Toe: Classic & Modern",
       "developer": "Sunstone-Dev",
@@ -996,6 +982,20 @@
       "releaseDate": "2025-07-21T12:43:27.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.carxtech.sr",
+      "name": "CarX Street",
+      "developer": "CarX Technologies",
+      "url": "https://play.google.com/store/apps/details?id=com.carxtech.sr&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/B8INYkehIFue2QH_RoTQ6Rs5VndWrgUaKdscFCMWQwOQW13jwQE1YyBryuQA00XAshc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T15:33:53.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "CN"
     },
@@ -1028,6 +1028,20 @@
       "country": "CN"
     },
     {
+      "id": "com.gzqd.goddess",
+      "name": "Cozy Landlord Life",
+      "developer": "HYPERNOVA GAMES LIMITED",
+      "url": "https://play.google.com/store/apps/details?id=com.gzqd.goddess&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/1hXwFcnsFlrWAgCdIP8zrA1ivP1bwkVfibK7qkU_Jw9tlsV87EYEkdkB4JNpYuXM7BE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-10T11:21:20.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "CN"
+    },
+    {
       "id": "freeplay.crowdrun.com",
       "name": "Count Masters: Stickman Games",
       "developer": "Freeplay Inc",
@@ -1038,6 +1052,20 @@
       "releaseDate": "2026-02-17T11:07:36.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.ustwogames.mv3",
+      "name": "Monument Valley 3",
+      "developer": "ustwo games",
+      "url": "https://play.google.com/store/apps/details?id=com.ustwogames.mv3&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/39VXXXNq7ZnBmGJDcNw7N0vdwIYEP4kgFbYDRBYn-XL68sBpfQRqkYPkRMBNDLF6rNA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T15:19:44.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "CN"
     },
@@ -1070,20 +1098,6 @@
       "country": "CN"
     },
     {
-      "id": "com.gzqd.goddess",
-      "name": "Cozy Landlord Life",
-      "developer": "HYPERNOVA GAMES LIMITED",
-      "url": "https://play.google.com/store/apps/details?id=com.gzqd.goddess&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/1hXwFcnsFlrWAgCdIP8zrA1ivP1bwkVfibK7qkU_Jw9tlsV87EYEkdkB4JNpYuXM7BE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-10T11:21:20.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "CN"
-    },
-    {
       "id": "com.MadOut.BIG",
       "name": "MadOut 2: Grand Auto Racing",
       "developer": "MadOut Games LLC FZ",
@@ -1112,16 +1126,16 @@
       "country": "CN"
     },
     {
-      "id": "com.ustwogames.mv3",
-      "name": "Monument Valley 3",
-      "developer": "ustwo games",
-      "url": "https://play.google.com/store/apps/details?id=com.ustwogames.mv3&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/39VXXXNq7ZnBmGJDcNw7N0vdwIYEP4kgFbYDRBYn-XL68sBpfQRqkYPkRMBNDLF6rNA",
+      "id": "com.digitalextremes.warframenexus",
+      "name": "Warframe Companion",
+      "developer": "Digital Extremes",
+      "url": "https://play.google.com/store/apps/details?id=com.digitalextremes.warframenexus&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/w1UQr4xhRXUyRLKWYTPT3fZchC_PIbL7bgVw-BB6wGtX_iumKKE9UaBiSDMlQfhJ87At",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-25T15:19:44.000Z",
+      "releaseDate": "2026-02-11T20:50:00.000Z",
       "genres": [
-        "Puzzle"
+        "Action"
       ],
       "country": "CN"
     },
@@ -1154,6 +1168,20 @@
       "country": "CN"
     },
     {
+      "id": "com.computerlunch.evolution",
+      "name": "Cell to Singularity: Evolution",
+      "developer": "ComputerLunch",
+      "url": "https://play.google.com/store/apps/details?id=com.computerlunch.evolution&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/CHJMPY4E5iMP5tqwF4yFUwioWZKmTQQ4cjBzZbSz2Y65b3BioqdfmtEvap970-1fxKM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T20:50:28.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "CN"
+    },
+    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
@@ -1168,16 +1196,16 @@
       "country": "CN"
     },
     {
-      "id": "com.digitalextremes.warframenexus",
-      "name": "Warframe Companion",
-      "developer": "Digital Extremes",
-      "url": "https://play.google.com/store/apps/details?id=com.digitalextremes.warframenexus&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/w1UQr4xhRXUyRLKWYTPT3fZchC_PIbL7bgVw-BB6wGtX_iumKKE9UaBiSDMlQfhJ87At",
+      "id": "brownmonster.app.game.rushrally3demo",
+      "name": "Rush Rally 3 Demo",
+      "developer": "Brownmonster Limited",
+      "url": "https://play.google.com/store/apps/details?id=brownmonster.app.game.rushrally3demo&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/1bOANnWi4k4GMnXqxsW5lN8Xg3k4eJhndrgRXWG5mJwFIdF6Bd5RMruEi44JaGdDgQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T20:50:00.000Z",
+      "releaseDate": "2026-01-20T08:42:57.000Z",
       "genres": [
-        "Action"
+        "Racing"
       ],
       "country": "CN"
     },
@@ -1196,20 +1224,6 @@
       "country": "CN"
     },
     {
-      "id": "com.computerlunch.evolution",
-      "name": "Cell to Singularity: Evolution",
-      "developer": "ComputerLunch",
-      "url": "https://play.google.com/store/apps/details?id=com.computerlunch.evolution&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/CHJMPY4E5iMP5tqwF4yFUwioWZKmTQQ4cjBzZbSz2Y65b3BioqdfmtEvap970-1fxKM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T20:50:28.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "CN"
-    },
-    {
       "id": "com.miniclip.realsniper",
       "name": "Pure Sniper: Gun Shooter Games",
       "developer": "Miniclip.com",
@@ -1224,16 +1238,16 @@
       "country": "CN"
     },
     {
-      "id": "brownmonster.app.game.rushrally3demo",
-      "name": "Rush Rally 3 Demo",
-      "developer": "Brownmonster Limited",
-      "url": "https://play.google.com/store/apps/details?id=brownmonster.app.game.rushrally3demo&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/1bOANnWi4k4GMnXqxsW5lN8Xg3k4eJhndrgRXWG5mJwFIdF6Bd5RMruEi44JaGdDgQ",
+      "id": "com.hitappsgames.wordsolitaire",
+      "name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games",
+      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.wordsolitaire&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/PrVcy5lS_K5t-HHnRoWSr4lwIWX-s-1mbsOYevHcmaMDfoTtT2blvfmN8vsOEvaG49W1fcJSiNdFYAq9rLWc2W8",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-20T08:42:57.000Z",
+      "releaseDate": "2026-02-19T13:13:38.000Z",
       "genres": [
-        "Racing"
+        "Word"
       ],
       "country": "CN"
     },
@@ -1294,20 +1308,6 @@
       "country": "CN"
     },
     {
-      "id": "com.hitappsgames.wordsolitaire",
-      "name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games",
-      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.wordsolitaire&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/PrVcy5lS_K5t-HHnRoWSr4lwIWX-s-1mbsOYevHcmaMDfoTtT2blvfmN8vsOEvaG49W1fcJSiNdFYAq9rLWc2W8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T13:13:38.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "CN"
-    },
-    {
       "id": "com.studiowildcard.arkuse",
       "name": "ARK: Ultimate Mobile Edition",
       "developer": "Studio Wildcard",
@@ -1322,58 +1322,16 @@
       "country": "CN"
     },
     {
-      "id": "com.football.soccer.league",
-      "name": "Football League 2026",
-      "developer": "MOBILE SOCCER",
-      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
+      "id": "com.tapblaze.pizzabusiness",
+      "name": "Good Pizza, Great Pizza",
+      "developer": "TapBlaze",
+      "url": "https://play.google.com/store/apps/details?id=com.tapblaze.pizzabusiness&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/aZN-hLvbt5WUHi7GBbbpi0DyB024bCNvCMO1g9f_NLziXZCIbEL3GBCOD4m04FyEiHuNWs0ROWBqNKyEh9Ra9g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T12:25:49.000Z",
+      "releaseDate": "2026-02-27T00:18:44.000Z",
       "genres": [
-        "Sports"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.haugland.woa",
-      "name": "World of Airports™",
-      "developer": "Flyboys.Games",
-      "url": "https://play.google.com/store/apps/details?id=com.haugland.woa&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/s9RXUA28mMWh1980UDsUc2K7t6WpI6xW1P0NXkENuoEE7eDu8mrBtFanWSTTaHAd5g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T08:23:10.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.tibith.badboxing",
-      "name": "Bloody Bastards",
-      "developer": "Tibith",
-      "url": "https://play.google.com/store/apps/details?id=com.tibith.badboxing&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/c2TwXbyExIDaz9AiSqeG0HTXqABsjDiExTvhR8EsjxWf8KBKorgWycONroSn0DglMA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-17T10:03:12.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.droidhen.game.poker",
-      "name": "DH Texas Poker - Texas Hold'em",
-      "developer": "DroidHen",
-      "url": "https://play.google.com/store/apps/details?id=com.droidhen.game.poker&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/g_L3v5EnJTPz4CQ4-R6BUDYt8nFuCwRzViQjUgtgpVoeb6sLw9zydV5qD4kyEJKFPmpQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-25T07:15:14.000Z",
-      "genres": [
-        "Casino"
+        "Casual"
       ],
       "country": "CN"
     },
@@ -1392,16 +1350,58 @@
       "country": "CN"
     },
     {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast: Wonders",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "id": "com.football.soccer.league",
+      "name": "Football League 2026",
+      "developer": "MOBILE SOCCER",
+      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T16:42:28.000Z",
+      "releaseDate": "2026-02-11T12:25:49.000Z",
       "genres": [
-        "Board"
+        "Sports"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.droidhen.game.poker",
+      "name": "DH Texas Poker - Texas Hold'em",
+      "developer": "DroidHen",
+      "url": "https://play.google.com/store/apps/details?id=com.droidhen.game.poker&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/g_L3v5EnJTPz4CQ4-R6BUDYt8nFuCwRzViQjUgtgpVoeb6sLw9zydV5qD4kyEJKFPmpQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-25T07:15:14.000Z",
+      "genres": [
+        "Casino"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.haugland.woa",
+      "name": "World of Airports™",
+      "developer": "Flyboys.Games",
+      "url": "https://play.google.com/store/apps/details?id=com.haugland.woa&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/s9RXUA28mMWh1980UDsUc2K7t6WpI6xW1P0NXkENuoEE7eDu8mrBtFanWSTTaHAd5g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T08:23:10.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T10:53:41.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "CN"
     }
