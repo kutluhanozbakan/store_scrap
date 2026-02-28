@@ -1,7 +1,7 @@
 {
   "country": "JM",
   "store": "google",
-  "updatedAt": "2026-02-28T07:53:56.165Z",
+  "updatedAt": "2026-02-28T14:13:21.832Z",
   "new": [
     {
       "id": "com.gameloft.android.ANMP.GloftA8HM",
@@ -140,6 +140,20 @@
       "releaseDate": "2026-02-26T21:16:50.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "JM"
+    },
+    {
+      "id": "net.craftgame.minigame",
+      "name": "Worldsurvival",
+      "developer": "Star12",
+      "url": "https://play.google.com/store/apps/details?id=net.craftgame.minigame&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/1OFeGNKUfkAv58Yr-weOQIrhuGsoqwLOrNdHQHkPc9_3mw-6BKrh5sT1IGaSNTl_tQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T16:46:59.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "JM"
     },
@@ -564,20 +578,6 @@
       "country": "JM"
     },
     {
-      "id": "com.wn.hairtattoo",
-      "name": "Hair Tattoo: Barber Shop Game",
-      "developer": "CASUAL AZUR GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.wn.hairtattoo&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/dPylVzU1Wl8kh541S2TG35qBsizADn_tVjc8K1LXp4w83QQ15jB7Hs6emGK0T3QfRLwA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T08:12:12.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "JM"
-    },
-    {
       "id": "com.imangi.templerun2",
       "name": "Temple Run 2: Endless Escape",
       "developer": "Imangi Studios",
@@ -762,20 +762,6 @@
       "country": "JM"
     },
     {
-      "id": "gen.tech.keiki.world.learning",
-      "name": "Keiki Learning games for Kids",
-      "developer": "Benipol Limited",
-      "url": "https://play.google.com/store/apps/details?id=gen.tech.keiki.world.learning&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/QGLffhPvC7yRWVS0VIjVyP87Hzxk_2wwxP0TRxyUbfgQFcJxrLgvIdd7LR2qYbEsmAY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-20T08:03:42.000Z",
-      "genres": [
-        "Educational"
-      ],
-      "country": "JM"
-    },
-    {
       "id": "com.dts.freefireth",
       "name": "Free Fire: Beat Carnival",
       "developer": "GARENA INTERNATIONAL I",
@@ -790,16 +776,30 @@
       "country": "JM"
     },
     {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "id": "com.sybogames.subway.surfers.game",
+      "name": "Subway Surfers City",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "releaseDate": "2026-02-20T15:55:38.000Z",
       "genres": [
-        "Adventure"
+        "Action"
+      ],
+      "country": "JM"
+    },
+    {
+      "id": "gen.tech.keiki.world.learning",
+      "name": "Keiki Learning games for Kids",
+      "developer": "Benipol Limited",
+      "url": "https://play.google.com/store/apps/details?id=gen.tech.keiki.world.learning&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/QGLffhPvC7yRWVS0VIjVyP87Hzxk_2wwxP0TRxyUbfgQFcJxrLgvIdd7LR2qYbEsmAY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-20T08:03:42.000Z",
+      "genres": [
+        "Educational"
       ],
       "country": "JM"
     },
@@ -814,6 +814,20 @@
       "releaseDate": "2026-02-20T16:14:15.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "JM"
+    },
+    {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "JM"
     },
@@ -860,20 +874,6 @@
       "country": "JM"
     },
     {
-      "id": "com.sybogames.subway.surfers.game",
-      "name": "Subway Surfers City",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T15:55:38.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "JM"
-    },
-    {
       "id": "io.voodoo.holeio",
       "name": "Hole.io",
       "developer": "VOODOO",
@@ -916,20 +916,6 @@
       "country": "JM"
     },
     {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T07:21:42.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "JM"
-    },
-    {
       "id": "com.hitappsgames.wordsolitaire",
       "name": "Solitaire Associations Journey",
       "developer": "Hitapps Games",
@@ -940,6 +926,20 @@
       "releaseDate": "2026-02-19T13:13:38.000Z",
       "genres": [
         "Word"
+      ],
+      "country": "JM"
+    },
+    {
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T07:21:42.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "JM"
     },
@@ -958,44 +958,16 @@
       "country": "JM"
     },
     {
-      "id": "com.playvalve.dominoes",
-      "name": "Domino Legends: Classic Game",
-      "developer": "Bluetile",
-      "url": "https://play.google.com/store/apps/details?id=com.playvalve.dominoes&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/OiFOose91rMVmh-gWd0mUQBpZxjLh3Y1IGNYoCFpfivvy2-kB8tfrHvEMXvmoCPVbA",
+      "id": "com.innersloth.spacemafia",
+      "name": "Among Us",
+      "developer": "Innersloth LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-16T13:23:26.000Z",
+      "releaseDate": "2026-02-18T19:19:24.000Z",
       "genres": [
-        "Board"
-      ],
-      "country": "JM"
-    },
-    {
-      "id": "com.advant.streamer",
-      "name": "Lamar - Idle Vlogger",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T15:26:20.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "JM"
-    },
-    {
-      "id": "com.playvalve.wsjourney",
-      "name": "Word Search - Word Puzzle Game",
-      "developer": "Bluetile",
-      "url": "https://play.google.com/store/apps/details?id=com.playvalve.wsjourney&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/buGx7Qx6e_M9DUqiwABScUWx-xgiUSJBURBhivVel8OdVVzqOB2F5V3Nt60Ov8Qudw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T16:54:00.000Z",
-      "genres": [
-        "Word"
+        "Action"
       ],
       "country": "JM"
     },
@@ -1014,20 +986,6 @@
       "country": "JM"
     },
     {
-      "id": "com.innersloth.spacemafia",
-      "name": "Among Us",
-      "developer": "Innersloth LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T19:19:24.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "JM"
-    },
-    {
       "id": "com.vectorunit.purple.googleplay",
       "name": "Beach Buggy Racing",
       "developer": "Vector Unit",
@@ -1042,16 +1000,58 @@
       "country": "JM"
     },
     {
-      "id": "in.playsimple.wordsearch",
-      "name": "Word Search Explorer",
-      "developer": "PlaySimple Games",
-      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
+      "id": "com.advant.streamer",
+      "name": "Lamar - Idle Vlogger",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-19T12:52:47.000Z",
+      "releaseDate": "2026-02-20T15:26:20.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "JM"
+    },
+    {
+      "id": "com.playvalve.dominoes",
+      "name": "Domino Legends: Classic Game",
+      "developer": "Bluetile",
+      "url": "https://play.google.com/store/apps/details?id=com.playvalve.dominoes&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/OiFOose91rMVmh-gWd0mUQBpZxjLh3Y1IGNYoCFpfivvy2-kB8tfrHvEMXvmoCPVbA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T13:23:26.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "JM"
+    },
+    {
+      "id": "com.playvalve.wsjourney",
+      "name": "Word Search - Word Puzzle Game",
+      "developer": "Bluetile",
+      "url": "https://play.google.com/store/apps/details?id=com.playvalve.wsjourney&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/buGx7Qx6e_M9DUqiwABScUWx-xgiUSJBURBhivVel8OdVVzqOB2F5V3Nt60Ov8Qudw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T16:54:00.000Z",
       "genres": [
         "Word"
+      ],
+      "country": "JM"
+    },
+    {
+      "id": "com.Neurononfire.SupremeDuelist",
+      "name": "Supreme Duelist",
+      "developer": "Neron's Brother",
+      "url": "https://play.google.com/store/apps/details?id=com.Neurononfire.SupremeDuelist&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/iRq0R9mN7eGyVENIPDk5muu76VxawBAIkFAYFqauJTFNIvUxzD1_M33HNX4GE8Qk0WqY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T17:04:22.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "JM"
     },
@@ -1084,6 +1084,20 @@
       "country": "JM"
     },
     {
+      "id": "in.playsimple.wordsearch",
+      "name": "Word Search Explorer",
+      "developer": "PlaySimple Games",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T12:52:47.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "JM"
+    },
+    {
       "id": "com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter",
       "name": "Rainbow Six Mobile",
       "developer": "Ubisoft Nova",
@@ -1092,20 +1106,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-10T13:57:55.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "JM"
-    },
-    {
-      "id": "com.Neurononfire.SupremeDuelist",
-      "name": "Supreme Duelist",
-      "developer": "Neron's Brother",
-      "url": "https://play.google.com/store/apps/details?id=com.Neurononfire.SupremeDuelist&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/iRq0R9mN7eGyVENIPDk5muu76VxawBAIkFAYFqauJTFNIvUxzD1_M33HNX4GE8Qk0WqY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T17:04:22.000Z",
       "genres": [
         "Action"
       ],
@@ -1126,6 +1126,20 @@
       "country": "JM"
     },
     {
+      "id": "com.gamovation.tileclub",
+      "name": "Tile Club - Match Puzzle Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-07T10:41:36.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "JM"
+    },
+    {
       "id": "com.media720.games2020",
       "name": "Offline Games No WiFi internet",
       "developer": "Fun Offline Games",
@@ -1136,20 +1150,6 @@
       "releaseDate": "2026-02-27T21:33:41.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "JM"
-    },
-    {
-      "id": "com.tencent.ig",
-      "name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-29T01:31:07.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "JM"
     },
@@ -1168,16 +1168,16 @@
       "country": "JM"
     },
     {
-      "id": "com.gamovation.tileclub",
-      "name": "Tile Club - Match Puzzle Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
+      "id": "com.tencent.ig",
+      "name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-07T10:41:36.000Z",
+      "releaseDate": "2025-12-29T01:31:07.000Z",
       "genres": [
-        "Puzzle"
+        "Action"
       ],
       "country": "JM"
     },
@@ -1190,6 +1190,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-13T15:35:32.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "JM"
+    },
+    {
+      "id": "com.aim.racing",
+      "name": "Extreme Car Driving Simulator",
+      "developer": "AxesInMotion Racing",
+      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/6NEtpPjWbslnt7WzHb4A1sYM6GiX_VdIhA6O9gAvJcf-GlmnEkfMQwPzAD7xTSLV_5M",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T13:51:00.000Z",
       "genres": [
         "Racing"
       ],
@@ -1210,16 +1224,58 @@
       "country": "JM"
     },
     {
-      "id": "com.aim.racing",
-      "name": "Extreme Car Driving Simulator",
-      "developer": "AxesInMotion Racing",
-      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/6NEtpPjWbslnt7WzHb4A1sYM6GiX_VdIhA6O9gAvJcf-GlmnEkfMQwPzAD7xTSLV_5M",
+      "id": "com.outfit7.mytalkingangela2",
+      "name": "My Talking Angela 2",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T13:51:00.000Z",
+      "releaseDate": "2026-02-16T14:20:52.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "JM"
+    },
+    {
+      "id": "com.netease.newspike",
+      "name": "Blood Strike - FPS for all",
+      "developer": "NetEase Games",
+      "url": "https://play.google.com/store/apps/details?id=com.netease.newspike&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/NrInVvqU0psjZqHmom9h0rPOzPEXKDajY5HMciD2InYA7Tmf35zmtGFBZOkUHPyIMJ7OOsS5C55B00dEhksD2Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T07:05:59.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "JM"
+    },
+    {
+      "id": "com.CandyGaming.CarGame",
+      "name": "Fast&Grand: Car Driving Game",
+      "developer": "CANDY GAMES LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.CandyGaming.CarGame&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/yHYPPLVbyI9DMp-U3LXPtdzrIEh1k1AR0-HpJvI--PTLYYysMiUWjDYP_rvaf5VybA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-24T16:44:25.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "JM"
+    },
+    {
+      "id": "com.pixel.art.coloring.color.number",
+      "name": "Happy Color®: Color by Number",
+      "developer": "X-FLOW",
+      "url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/paB5-2s6q3uXd3nRE0-2QzCLeLklmemDepD0_Erald5YQUazuiOhMvJ8giFluMAX0w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-20T07:32:35.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "JM"
     },
@@ -1252,100 +1308,16 @@
       "country": "JM"
     },
     {
-      "id": "com.peoplefun.wordcross",
-      "name": "Wordscapes",
-      "developer": "PeopleFun",
-      "url": "https://play.google.com/store/apps/details?id=com.peoplefun.wordcross&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/2TOwtdo3fcRQVnMo3Y-lqpK514490ZfztM-9J5XkbZ9E1hmxrfahQQawgH38Ojf7U9g",
+      "id": "com.tocaboca.tocalifeworld",
+      "name": "Toca Boca World",
+      "developer": "Toca Boca",
+      "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/lHmstwWETwEsL2_CtB2J31EhwjTjR-rqnCQWOmVL4tKwYcPF1P_K9cSRErJjcCESDbw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-18T23:29:31.000Z",
+      "releaseDate": "2026-02-26T15:37:59.000Z",
       "genres": [
-        "Word"
-      ],
-      "country": "JM"
-    },
-    {
-      "id": "com.pixel.art.coloring.color.number",
-      "name": "Happy Color®: Color by Number",
-      "developer": "X-FLOW",
-      "url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/paB5-2s6q3uXd3nRE0-2QzCLeLklmemDepD0_Erald5YQUazuiOhMvJ8giFluMAX0w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-20T07:32:35.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "JM"
-    },
-    {
-      "id": "com.CandyGaming.CarGame",
-      "name": "Fast&Grand: Car Driving Game",
-      "developer": "CANDY GAMES LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.CandyGaming.CarGame&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/yHYPPLVbyI9DMp-U3LXPtdzrIEh1k1AR0-HpJvI--PTLYYysMiUWjDYP_rvaf5VybA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-24T16:44:25.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "JM"
-    },
-    {
-      "id": "com.outfit7.mytalkingangela2",
-      "name": "My Talking Angela 2",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T14:20:52.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "JM"
-    },
-    {
-      "id": "com.pazugames.avatarworld",
-      "name": "Avatar World ®",
-      "developer": "Pazu Games",
-      "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/LnX6GD073ysfflkl2jX8NBcDxdG6ZV8xBkbo985dJgR2v2xdsKD6nIA-EtIl2cFwfHTPKaraLh4U4uq7iH1b",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T10:51:24.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "JM"
-    },
-    {
-      "id": "com.playrix.township",
-      "name": "Township",
-      "developer": "Playrix",
-      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T17:54:54.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "JM"
-    },
-    {
-      "id": "word.riddles.guess.brain.test.tricky.puzzle.quiz.game.free",
-      "name": "Word Riddle: Offline Word Game",
-      "developer": "Magic Word Games",
-      "url": "https://play.google.com/store/apps/details?id=word.riddles.guess.brain.test.tricky.puzzle.quiz.game.free&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/q0Qrdj5WCcD3MbXKE-SaHIpIg4H_FoCh9ygxjynZ8ni4LIHOibedqB3lYQsm203HoZw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-21T04:17:06.000Z",
-      "genres": [
-        "Trivia"
+        "Educational"
       ],
       "country": "JM"
     },
@@ -1364,16 +1336,44 @@
       "country": "JM"
     },
     {
-      "id": "com.matteljv.uno",
-      "name": "UNO!™",
-      "developer": "Mattel163 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.matteljv.uno&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/yAn20u0xsnzgIKZTaFGgkPnEOV1LPKh00_rEccAnQeljyXDESWneIl9C28c7JT-petqf7AD_ZlIIDMrYah7p",
+      "id": "com.pazugames.avatarworld",
+      "name": "Avatar World ®",
+      "developer": "Pazu Games",
+      "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/LnX6GD073ysfflkl2jX8NBcDxdG6ZV8xBkbo985dJgR2v2xdsKD6nIA-EtIl2cFwfHTPKaraLh4U4uq7iH1b",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T09:29:49.000Z",
+      "releaseDate": "2026-02-18T10:51:24.000Z",
       "genres": [
-        "Card"
+        "Role Playing"
+      ],
+      "country": "JM"
+    },
+    {
+      "id": "com.peoplefun.wordcross",
+      "name": "Wordscapes",
+      "developer": "PeopleFun",
+      "url": "https://play.google.com/store/apps/details?id=com.peoplefun.wordcross&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/2TOwtdo3fcRQVnMo3Y-lqpK514490ZfztM-9J5XkbZ9E1hmxrfahQQawgH38Ojf7U9g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T23:29:31.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "JM"
+    },
+    {
+      "id": "com.playrix.township",
+      "name": "Township",
+      "developer": "Playrix",
+      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T17:54:54.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "JM"
     },
@@ -1392,16 +1392,16 @@
       "country": "JM"
     },
     {
-      "id": "com.tocaboca.tocalifeworld",
-      "name": "Toca Boca World",
-      "developer": "Toca Boca",
-      "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/lHmstwWETwEsL2_CtB2J31EhwjTjR-rqnCQWOmVL4tKwYcPF1P_K9cSRErJjcCESDbw",
+      "id": "com.matteljv.uno",
+      "name": "UNO!™",
+      "developer": "Mattel163 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.matteljv.uno&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/yAn20u0xsnzgIKZTaFGgkPnEOV1LPKh00_rEccAnQeljyXDESWneIl9C28c7JT-petqf7AD_ZlIIDMrYah7p",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T15:37:59.000Z",
+      "releaseDate": "2026-01-23T09:29:49.000Z",
       "genres": [
-        "Educational"
+        "Card"
       ],
       "country": "JM"
     }
