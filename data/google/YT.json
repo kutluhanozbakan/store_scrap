@@ -1,8 +1,22 @@
 {
   "country": "YT",
   "store": "google",
-  "updatedAt": "2026-02-28T11:12:22.595Z",
+  "updatedAt": "2026-02-28T16:56:20.428Z",
   "new": [
+    {
+      "id": "com.adventure.piano.kpopstar",
+      "name": "Music Piano 2: KPop Star",
+      "developer": "HyperMusic",
+      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=YT",
+      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T10:58:01.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "YT"
+    },
     {
       "id": "com.xgame.trafficmoto",
       "name": "Moto Race Go",
@@ -180,20 +194,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-26T09:20:04.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "YT"
-    },
-    {
-      "id": "com.tp.pmu3d",
-      "name": "Pick Me Up 3D: Taxi Game",
-      "developer": "Azur Interactive Games Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.tp.pmu3d&hl=en&gl=YT",
-      "artwork": "https://play-lh.googleusercontent.com/-45mcdAUu8hi22BF8ARH7zR0CO6b7xtLs_rTLtnph_lY06aXryIM-2DYJ4kLqHoKOQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T07:44:25.000Z",
       "genres": [
         "Casual"
       ],
@@ -480,20 +480,6 @@
       "country": "YT"
     },
     {
-      "id": "com.tfv.draw.one.missing.partdop.puzzle.games",
-      "name": "Complete Puzzle: Draw One Part",
-      "developer": "The Fashion Valley",
-      "url": "https://play.google.com/store/apps/details?id=com.tfv.draw.one.missing.partdop.puzzle.games&hl=en&gl=YT",
-      "artwork": "https://play-lh.googleusercontent.com/B1TwtSx8VxzDGzFdqmOKPW9vboW1-2Pq9k5LdG4lrtALJ29PjBdg36_SwbqAjvyaqw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T11:31:49.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "YT"
-    },
-    {
       "id": "com.gps.draw.flag.coloring.games",
       "name": "Satisfying Coloring",
       "developer": "Mad1 Games",
@@ -504,6 +490,20 @@
       "releaseDate": "2026-02-19T11:03:58.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "YT"
+    },
+    {
+      "id": "europe.truck.simulator2",
+      "name": "Truckers of Europe 2",
+      "developer": "Wanda Software",
+      "url": "https://play.google.com/store/apps/details?id=europe.truck.simulator2&hl=en&gl=YT",
+      "artwork": "https://play-lh.googleusercontent.com/tS6pdPz6GKrP87gOTTPcBDFMJFd2RsD4ngkl92pqEQp6nkHRIPU30BRM7wB6l5_VaOw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T09:31:02.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "YT"
     },
@@ -620,6 +620,20 @@
       "country": "YT"
     },
     {
+      "id": "com.outfit7.mytalkingtomfriends",
+      "name": "My Talking Tom Friends",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=en&gl=YT",
+      "artwork": "https://play-lh.googleusercontent.com/WY69uGwaQPUx5vS9bxF3sm4mc9N1ZzvVHVqLrZOycExHb6m8A2v5hGoroTRjih1a_d4Y",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T13:03:47.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "YT"
+    },
+    {
       "id": "com.outfit7.herodash",
       "name": "Talking Tom Hero Dash",
       "developer": "Outfit7 Limited",
@@ -686,20 +700,6 @@
       "releaseDate": "2026-02-12T14:06:12.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "YT"
-    },
-    {
-      "id": "com.blockgamesstudio.blockworld3d",
-      "name": "Block World 3D: Craft & Build",
-      "developer": "Funburstgame LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d&hl=en&gl=YT",
-      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T09:17:30.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "YT"
     }
@@ -804,6 +804,34 @@
       "country": "YT"
     },
     {
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=YT",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T15:11:48.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "YT"
+    },
+    {
+      "id": "com.dts.freefireth",
+      "name": "Free Fire: Lost Treasure",
+      "developer": "GARENA INTERNATIONAL I",
+      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=YT",
+      "artwork": "https://play-lh.googleusercontent.com/VxqoBX9loIqsESn5OPhXDLLYw8YFAlLJX3TJUb7ovyIQdRRWwGuG3jD9konTZAeWzd8VlVTDt8fkJ8BAEU4ZHQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T06:43:26.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "YT"
+    },
+    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
@@ -814,6 +842,20 @@
       "releaseDate": "2026-02-12T00:38:27.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "YT"
+    },
+    {
+      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
+      "name": "Shoot Bubble - Pop Bubbles",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=YT",
+      "artwork": "https://play-lh.googleusercontent.com/cBMM7QTDlGVygvt4NhizeEPJTVF7oUUt-lu-J4rAht4aV87E5ThRtlGOBxbK1gd438E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T02:18:35.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "YT"
     },
@@ -842,20 +884,6 @@
       "releaseDate": "2026-02-09T12:12:25.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "YT"
-    },
-    {
-      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
-      "name": "Shoot Bubble - Pop Bubbles",
-      "developer": "IVYGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=YT",
-      "artwork": "https://play-lh.googleusercontent.com/cBMM7QTDlGVygvt4NhizeEPJTVF7oUUt-lu-J4rAht4aV87E5ThRtlGOBxbK1gd438E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T02:18:35.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "YT"
     },
@@ -916,34 +944,6 @@
       "country": "YT"
     },
     {
-      "id": "com.dts.freefireth",
-      "name": "Free Fire: Lost Treasure",
-      "developer": "GARENA INTERNATIONAL I",
-      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=YT",
-      "artwork": "https://play-lh.googleusercontent.com/VxqoBX9loIqsESn5OPhXDLLYw8YFAlLJX3TJUb7ovyIQdRRWwGuG3jD9konTZAeWzd8VlVTDt8fkJ8BAEU4ZHQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T06:43:26.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "YT"
-    },
-    {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=YT",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T15:11:48.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "YT"
-    },
-    {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -972,6 +972,20 @@
       "country": "YT"
     },
     {
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=YT",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "YT"
+    },
+    {
       "id": "com.ction.playergames",
       "name": "2 3 4 Player Mini Games",
       "developer": "Better World Games",
@@ -982,34 +996,6 @@
       "releaseDate": "2025-10-28T20:16:32.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "YT"
-    },
-    {
-      "id": "com.gtsy.annoying.punch.game",
-      "name": "Annoying Uncle Punch Game",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=YT",
-      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T05:19:01.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "YT"
-    },
-    {
-      "id": "beats.color.sing.star.rush",
-      "name": "Magic Level 9 Music Piano Game",
-      "developer": "Beatwave Studio",
-      "url": "https://play.google.com/store/apps/details?id=beats.color.sing.star.rush&hl=en&gl=YT",
-      "artwork": "https://play-lh.googleusercontent.com/uIih37VSDcSfq-Fp2ve2BGmBSLGEVD_AZj1_dI7_GeJLUuHxh-sgNBCIPEt5Axt98T-x",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T04:52:20.000Z",
-      "genres": [
-        "Music"
       ],
       "country": "YT"
     },
@@ -1028,6 +1014,20 @@
       "country": "YT"
     },
     {
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=YT",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T05:19:01.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "YT"
+    },
+    {
       "id": "com.wood.block.sudoku.puzzle.bm",
       "name": "Block Crush!",
       "developer": "Wonderful  Studio",
@@ -1038,6 +1038,34 @@
       "releaseDate": "2026-02-27T16:30:59.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "YT"
+    },
+    {
+      "id": "beats.color.sing.star.rush",
+      "name": "Magic Level 9 Music Piano Game",
+      "developer": "Beatwave Studio",
+      "url": "https://play.google.com/store/apps/details?id=beats.color.sing.star.rush&hl=en&gl=YT",
+      "artwork": "https://play-lh.googleusercontent.com/uIih37VSDcSfq-Fp2ve2BGmBSLGEVD_AZj1_dI7_GeJLUuHxh-sgNBCIPEt5Axt98T-x",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T04:52:20.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "YT"
+    },
+    {
+      "id": "com.rioo.runnersubway",
+      "name": "Subway Princess Runner",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=YT",
+      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T07:00:13.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "YT"
     },
@@ -1056,30 +1084,16 @@
       "country": "YT"
     },
     {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=YT",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "id": "com.playrix.township",
+      "name": "Township",
+      "developer": "Playrix",
+      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=YT",
+      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "releaseDate": "2026-02-19T17:54:54.000Z",
       "genres": [
-        "Sports"
-      ],
-      "country": "YT"
-    },
-    {
-      "id": "com.rioo.runnersubway",
-      "name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=YT",
-      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T07:00:13.000Z",
-      "genres": [
-        "Arcade"
+        "Casual"
       ],
       "country": "YT"
     },
@@ -1106,20 +1120,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-20T11:25:29.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "YT"
-    },
-    {
-      "id": "com.playrix.township",
-      "name": "Township",
-      "developer": "Playrix",
-      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=YT",
-      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T17:54:54.000Z",
       "genres": [
         "Casual"
       ],
@@ -1168,20 +1168,6 @@
       "country": "YT"
     },
     {
-      "id": "com.gamovation.tileclub",
-      "name": "Tile Club - Match Puzzle Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=YT",
-      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-07T10:41:36.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "YT"
-    },
-    {
       "id": "com.sybogames.subway.surfers.game",
       "name": "Subway Surfers City",
       "developer": "SYBO Games",
@@ -1192,6 +1178,20 @@
       "releaseDate": "2026-02-20T15:55:38.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "YT"
+    },
+    {
+      "id": "com.gamovation.tileclub",
+      "name": "Tile Club - Match Puzzle Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=YT",
+      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-07T10:41:36.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "YT"
     },
@@ -1252,16 +1252,16 @@
       "country": "YT"
     },
     {
-      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
-      "name": "Fashion Glow: Model & Style",
-      "developer": "Dress Up Games for Girls",
-      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=YT",
-      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
+      "id": "com.gt.moto.bike.wheelie.stunt.race.game",
+      "name": "Moto Bike Stunt Wheelie Game",
+      "developer": "Game town",
+      "url": "https://play.google.com/store/apps/details?id=com.gt.moto.bike.wheelie.stunt.race.game&hl=en&gl=YT",
+      "artwork": "https://play-lh.googleusercontent.com/joPwuRJCICDqmz3xqbNWd61tbuUih4UXFukU8_uVb1o6rpzIMV4PnUmpkbXd7izozgn68FCAGZWcRGcbjGSI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-14T08:31:08.000Z",
+      "releaseDate": "2026-02-27T18:59:35.000Z",
       "genres": [
-        "Casual"
+        "Sports"
       ],
       "country": "YT"
     },
@@ -1280,16 +1280,16 @@
       "country": "YT"
     },
     {
-      "id": "com.gt.moto.bike.wheelie.stunt.race.game",
-      "name": "Moto Bike Stunt Wheelie Game",
-      "developer": "Game town",
-      "url": "https://play.google.com/store/apps/details?id=com.gt.moto.bike.wheelie.stunt.race.game&hl=en&gl=YT",
-      "artwork": "https://play-lh.googleusercontent.com/joPwuRJCICDqmz3xqbNWd61tbuUih4UXFukU8_uVb1o6rpzIMV4PnUmpkbXd7izozgn68FCAGZWcRGcbjGSI",
+      "id": "com.gps.draw.flag.coloring.games",
+      "name": "Satisfying Coloring",
+      "developer": "Mad1 Games",
+      "url": "https://play.google.com/store/apps/details?id=com.gps.draw.flag.coloring.games&hl=en&gl=YT",
+      "artwork": "https://play-lh.googleusercontent.com/VLjDQF7_vbOFGFTiPqKw6YXfpuz-LPpPeYQYpnxRIWkTgZ2YGKQ9vKK6S5UsV3SysXU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T18:59:35.000Z",
+      "releaseDate": "2026-02-19T11:03:58.000Z",
       "genres": [
-        "Sports"
+        "Casual"
       ],
       "country": "YT"
     },
@@ -1308,6 +1308,34 @@
       "country": "YT"
     },
     {
+      "id": "com.rubygames.assassin",
+      "name": "Hunter Assassin",
+      "developer": "Ruby Games AS",
+      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=YT",
+      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T13:15:04.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "YT"
+    },
+    {
+      "id": "com.outfit7.mytalkingangelafree",
+      "name": "My Talking Angela",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=en&gl=YT",
+      "artwork": "https://play-lh.googleusercontent.com/rdMpsc5VkkG4JGHIFqNREbWBzXxkZBHN7ZA86DqcZEMmtwWy58NLVDuqWgoG2XCAu4Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T13:56:11.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "YT"
+    },
+    {
       "id": "com.outfit7.herodash",
       "name": "Talking Tom Hero Dash",
       "developer": "Outfit7 Limited",
@@ -1318,62 +1346,6 @@
       "releaseDate": "2026-02-13T12:38:33.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "YT"
-    },
-    {
-      "id": "com.v09.real.moto.bike.driving.racing.city.open.world",
-      "name": "Real Moto Driving Racing World",
-      "developer": "Racing Games - Make it for fun",
-      "url": "https://play.google.com/store/apps/details?id=com.v09.real.moto.bike.driving.racing.city.open.world&hl=en&gl=YT",
-      "artwork": "https://play-lh.googleusercontent.com/xQMaF79AUezz7GlAjqG9FkUvtSQhnCXekrURxT1bWP8cxXJhhYq9WPUS1gc3LKvxQg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T10:15:47.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "YT"
-    },
-    {
-      "id": "com.gps.draw.flag.coloring.games",
-      "name": "Satisfying Coloring",
-      "developer": "Mad1 Games",
-      "url": "https://play.google.com/store/apps/details?id=com.gps.draw.flag.coloring.games&hl=en&gl=YT",
-      "artwork": "https://play-lh.googleusercontent.com/VLjDQF7_vbOFGFTiPqKw6YXfpuz-LPpPeYQYpnxRIWkTgZ2YGKQ9vKK6S5UsV3SysXU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T11:03:58.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "YT"
-    },
-    {
-      "id": "com.bbg.one.line.puzzle.games",
-      "name": "Line Drawing: No Lift Puzzle",
-      "developer": "The Fashion Valley",
-      "url": "https://play.google.com/store/apps/details?id=com.bbg.one.line.puzzle.games&hl=en&gl=YT",
-      "artwork": "https://play-lh.googleusercontent.com/6bi7Df5jyVNBd0vHPlSM28gcF4h6xRJNmyTNqLQBUrc9P8yJNfN_tdzXnqwE-unPXdQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T14:06:12.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "YT"
-    },
-    {
-      "id": "ball.sort.color.puz.game.puzzle",
-      "name": "Ball Sort - Color Puz Game",
-      "developer": "Infinite Joy Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=ball.sort.color.puz.game.puzzle&hl=en&gl=YT",
-      "artwork": "https://play-lh.googleusercontent.com/4oeX8CJbwfvyeiz3G9gSDGUku7ilvOJxC3sDaDQGZUyBJKd60F12kxB1fQPE45W1Qgc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T09:39:56.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "YT"
     },
@@ -1392,16 +1364,44 @@
       "country": "YT"
     },
     {
-      "id": "com.rubygames.assassin",
-      "name": "Hunter Assassin",
-      "developer": "Ruby Games AS",
-      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=YT",
-      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
+      "id": "com.v09.real.moto.bike.driving.racing.city.open.world",
+      "name": "Real Moto Driving Racing World",
+      "developer": "Racing Games - Make it for fun",
+      "url": "https://play.google.com/store/apps/details?id=com.v09.real.moto.bike.driving.racing.city.open.world&hl=en&gl=YT",
+      "artwork": "https://play-lh.googleusercontent.com/xQMaF79AUezz7GlAjqG9FkUvtSQhnCXekrURxT1bWP8cxXJhhYq9WPUS1gc3LKvxQg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T13:15:04.000Z",
+      "releaseDate": "2026-02-10T10:15:47.000Z",
       "genres": [
-        "Action"
+        "Racing"
+      ],
+      "country": "YT"
+    },
+    {
+      "id": "com.outfit7.mytalkingangela2",
+      "name": "My Talking Angela 2",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=YT",
+      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T14:20:52.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "YT"
+    },
+    {
+      "id": "com.bbg.one.line.puzzle.games",
+      "name": "Line Drawing: No Lift Puzzle",
+      "developer": "The Fashion Valley",
+      "url": "https://play.google.com/store/apps/details?id=com.bbg.one.line.puzzle.games&hl=en&gl=YT",
+      "artwork": "https://play-lh.googleusercontent.com/6bi7Df5jyVNBd0vHPlSM28gcF4h6xRJNmyTNqLQBUrc9P8yJNfN_tdzXnqwE-unPXdQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T14:06:12.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "YT"
     }
