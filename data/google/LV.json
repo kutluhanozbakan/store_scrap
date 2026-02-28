@@ -1,7 +1,7 @@
 {
   "country": "LV",
   "store": "google",
-  "updatedAt": "2026-02-28T14:43:12.174Z",
+  "updatedAt": "2026-02-28T19:50:58.883Z",
   "new": [
     {
       "id": "com.fancy.screw.story.makeover.puzzle.jam",
@@ -250,6 +250,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-26T10:45:12.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "LV"
+    },
+    {
+      "id": "com.love.waits.story.tiles.makeover.puzzle.match",
+      "name": "Love Waits: Tiles & Makeover",
+      "developer": "Pexix Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.love.waits.story.tiles.makeover.puzzle.match&hl=en&gl=LV",
+      "artwork": "https://play-lh.googleusercontent.com/BGxExk7P1lpEETBRbggGhXBv6QVQA6xjzDf0J9qt3JTcoPeTCTKKSVBsKrY1Chep6cvD",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T10:15:10.000Z",
       "genres": [
         "Simulation"
       ],
@@ -688,20 +702,6 @@
         "Arcade"
       ],
       "country": "LV"
-    },
-    {
-      "id": "com.fashionlink.northstone",
-      "name": "Jigmerge™ Puzzles",
-      "developer": "RedInfinity Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.fashionlink.northstone&hl=en&gl=LV",
-      "artwork": "https://play-lh.googleusercontent.com/EZP7wDL_-gFczA3LUvcPwX7Z5CpmePZ1m5rYM5hjyLGFB2qNxGggE4VaNQ8wqtC3Hs7ilQrvH3g2KVYGm2a4hdY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T12:28:25.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "LV"
     }
   ],
   "updated": [
@@ -874,20 +874,6 @@
       "country": "LV"
     },
     {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast: Wonders",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=LV",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T16:42:28.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "LV"
-    },
-    {
       "id": "com.funplus.ts.global",
       "name": "Tiles Survive!",
       "developer": "FunPlus International AG",
@@ -902,6 +888,20 @@
       "country": "LV"
     },
     {
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast: Wonders",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=LV",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T16:42:28.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "LV"
+    },
+    {
       "id": "com.axlebolt.standoff2",
       "name": "Standoff 2",
       "developer": "AXLEBOLT LTD",
@@ -912,20 +912,6 @@
       "releaseDate": "2026-02-10T19:09:12.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "LV"
-    },
-    {
-      "id": "com.dreamgames.royalkingdom",
-      "name": "Royal Kingdom",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=LV",
-      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T16:14:15.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "LV"
     },
@@ -952,6 +938,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-09T10:29:02.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "LV"
+    },
+    {
+      "id": "com.dreamgames.royalkingdom",
+      "name": "Royal Kingdom",
+      "developer": "Dream Games, Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=LV",
+      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T16:14:15.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1028,20 +1028,6 @@
       "country": "LV"
     },
     {
-      "id": "com.loomgames.pixelflow",
-      "name": "Pixel Flow!",
-      "developer": "Loom Games A.Ş.",
-      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=LV",
-      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T18:03:29.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "LV"
-    },
-    {
       "id": "io.voodoo.paper2",
       "name": "Paper.io 2",
       "developer": "VOODOO",
@@ -1052,6 +1038,20 @@
       "releaseDate": "2026-02-24T16:48:19.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "LV"
+    },
+    {
+      "id": "ru.playvision.durak",
+      "name": "Durak Online 3D",
+      "developer": "Playvision Games",
+      "url": "https://play.google.com/store/apps/details?id=ru.playvision.durak&hl=en&gl=LV",
+      "artwork": "https://play-lh.googleusercontent.com/PehM0b0e2GiWWZGOW__IgQfkh2M-jM72aWJyMrsYX4wujAJ2LRm4UQgDQwe9DG0T90SW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-13T16:24:05.000Z",
+      "genres": [
+        "Card"
       ],
       "country": "LV"
     },
@@ -1070,16 +1070,30 @@
       "country": "LV"
     },
     {
-      "id": "com.monopoly.dream.idle.king",
-      "name": "Top Tycoon: Coin Theme Empire",
-      "developer": "BeheFun Games Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.monopoly.dream.idle.king&hl=en&gl=LV",
-      "artwork": "https://play-lh.googleusercontent.com/YSofgpw9fVAdL8ARICBntM6H2SchRLC7e-NYczRc-1I_gCQaN8U7y49ikrl3GfUYXW4",
+      "id": "com.loomgames.pixelflow",
+      "name": "Pixel Flow!",
+      "developer": "Loom Games A.Ş.",
+      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=LV",
+      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-15T14:29:01.000Z",
+      "releaseDate": "2026-02-20T18:03:29.000Z",
       "genres": [
-        "Simulation"
+        "Puzzle"
+      ],
+      "country": "LV"
+    },
+    {
+      "id": "jp.co.goodroid.hyper.hexaaway",
+      "name": "Hexa Away",
+      "developer": "GOODROID,Inc.",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.hexaaway&hl=en&gl=LV",
+      "artwork": "https://play-lh.googleusercontent.com/0brW5ursTxAojhRjh0uPdxCoOK5ViPi9zID7stj_ZlklxwpuNSd7jk7sZCB75Gd92A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T11:26:30.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "LV"
     },
@@ -1098,30 +1112,16 @@
       "country": "LV"
     },
     {
-      "id": "com.gamovation.tileclub",
-      "name": "Tile Club - Match Puzzle Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=LV",
-      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
+      "id": "com.monopoly.dream.idle.king",
+      "name": "Top Tycoon: Coin Theme Empire",
+      "developer": "BeheFun Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.monopoly.dream.idle.king&hl=en&gl=LV",
+      "artwork": "https://play-lh.googleusercontent.com/YSofgpw9fVAdL8ARICBntM6H2SchRLC7e-NYczRc-1I_gCQaN8U7y49ikrl3GfUYXW4",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-07T10:41:36.000Z",
+      "releaseDate": "2026-01-15T14:29:01.000Z",
       "genres": [
-        "Puzzle"
-      ],
-      "country": "LV"
-    },
-    {
-      "id": "ru.playvision.durak",
-      "name": "Durak Online 3D",
-      "developer": "Playvision Games",
-      "url": "https://play.google.com/store/apps/details?id=ru.playvision.durak&hl=en&gl=LV",
-      "artwork": "https://play-lh.googleusercontent.com/PehM0b0e2GiWWZGOW__IgQfkh2M-jM72aWJyMrsYX4wujAJ2LRm4UQgDQwe9DG0T90SW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-13T16:24:05.000Z",
-      "genres": [
-        "Card"
+        "Simulation"
       ],
       "country": "LV"
     },
@@ -1154,6 +1154,34 @@
       "country": "LV"
     },
     {
+      "id": "com.gamovation.tileclub",
+      "name": "Tile Club - Match Puzzle Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=LV",
+      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-07T10:41:36.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "LV"
+    },
+    {
+      "id": "io.randomco.travel",
+      "name": "Travel Town - Merge Adventure",
+      "developer": "Magmatic Games LTD",
+      "url": "https://play.google.com/store/apps/details?id=io.randomco.travel&hl=en&gl=LV",
+      "artwork": "https://play-lh.googleusercontent.com/JUd09-Jkgctks6QibZBPeqnpPA-6A6nMXZqAW9Fa0MKOsolbvGKSXEnuq9nxiKNCFVOT",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T12:17:23.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "LV"
+    },
+    {
       "id": "com.ultimatelavashgames.rollthehole",
       "name": "Jelly Hole: Roll & Eat Pals",
       "developer": "SayGames Ltd",
@@ -1164,20 +1192,6 @@
       "releaseDate": "2026-02-20T15:46:36.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "LV"
-    },
-    {
-      "id": "com.launcher.brgame",
-      "name": "BLACK RUSSIA",
-      "developer": "BLACKHUB GAMES - FZCO",
-      "url": "https://play.google.com/store/apps/details?id=com.launcher.brgame&hl=en&gl=LV",
-      "artwork": "https://play-lh.googleusercontent.com/213dk4uHwTnYACurgShB3YkPRF9Q3jGBHUZ5MzWmVtctZk8eFV8El8RDKJCiPnTH8tjOaSOBEkSwvkM7MESDUw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T14:34:21.000Z",
-      "genres": [
-        "Role Playing"
       ],
       "country": "LV"
     },
@@ -1196,30 +1210,30 @@
       "country": "LV"
     },
     {
-      "id": "jp.co.goodroid.hyper.hexaaway",
-      "name": "Hexa Away",
-      "developer": "GOODROID,Inc.",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.hexaaway&hl=en&gl=LV",
-      "artwork": "https://play-lh.googleusercontent.com/0brW5ursTxAojhRjh0uPdxCoOK5ViPi9zID7stj_ZlklxwpuNSd7jk7sZCB75Gd92A",
+      "id": "com.launcher.brgame",
+      "name": "BLACK RUSSIA",
+      "developer": "BLACKHUB GAMES - FZCO",
+      "url": "https://play.google.com/store/apps/details?id=com.launcher.brgame&hl=en&gl=LV",
+      "artwork": "https://play-lh.googleusercontent.com/213dk4uHwTnYACurgShB3YkPRF9Q3jGBHUZ5MzWmVtctZk8eFV8El8RDKJCiPnTH8tjOaSOBEkSwvkM7MESDUw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-30T11:26:30.000Z",
+      "releaseDate": "2026-02-24T14:34:21.000Z",
       "genres": [
-        "Puzzle"
+        "Role Playing"
       ],
       "country": "LV"
     },
     {
-      "id": "io.randomco.travel",
-      "name": "Travel Town - Merge Adventure",
-      "developer": "Magmatic Games LTD",
-      "url": "https://play.google.com/store/apps/details?id=io.randomco.travel&hl=en&gl=LV",
-      "artwork": "https://play-lh.googleusercontent.com/JUd09-Jkgctks6QibZBPeqnpPA-6A6nMXZqAW9Fa0MKOsolbvGKSXEnuq9nxiKNCFVOT",
+      "id": "com.playstrom.my.sticker.room",
+      "name": "My Sticker Room - Decor Game",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=LV",
+      "artwork": "https://play-lh.googleusercontent.com/Z_DSIS6IGl9aSW67rlVKoatQLa8oc8cyiSQZ-jjkKpFc5sBao4dg4cfEhGTq5z7S3A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-25T12:17:23.000Z",
+      "releaseDate": "2026-02-20T14:39:09.000Z",
       "genres": [
-        "Puzzle"
+        "Simulation"
       ],
       "country": "LV"
     },
@@ -1248,20 +1262,6 @@
       "releaseDate": "2026-01-20T07:32:35.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "LV"
-    },
-    {
-      "id": "com.playstrom.my.sticker.room",
-      "name": "My Sticker Room - Decor Game",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=LV",
-      "artwork": "https://play-lh.googleusercontent.com/Z_DSIS6IGl9aSW67rlVKoatQLa8oc8cyiSQZ-jjkKpFc5sBao4dg4cfEhGTq5z7S3A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T14:39:09.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "LV"
     },
@@ -1308,6 +1308,20 @@
       "country": "LV"
     },
     {
+      "id": "com.unept.leveldevil",
+      "name": "Level Devil - NOT A Troll Game",
+      "developer": "Poki",
+      "url": "https://play.google.com/store/apps/details?id=com.unept.leveldevil&hl=en&gl=LV",
+      "artwork": "https://play-lh.googleusercontent.com/VqY_7ZNxG91KHaZguRP3khXdlTR1yQr45RCoiNu6MO41UhN-jlN31YWTQImWFRTw5r0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T14:49:51.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "LV"
+    },
+    {
       "id": "com.playrix.township",
       "name": "Township",
       "developer": "Playrix",
@@ -1318,6 +1332,20 @@
       "releaseDate": "2026-02-19T17:54:54.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "LV"
+    },
+    {
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=LV",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T07:21:42.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "LV"
     },
@@ -1350,48 +1378,6 @@
       "country": "LV"
     },
     {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=LV",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T07:21:42.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "LV"
-    },
-    {
-      "id": "com.unept.leveldevil",
-      "name": "Level Devil - NOT A Troll Game",
-      "developer": "Poki",
-      "url": "https://play.google.com/store/apps/details?id=com.unept.leveldevil&hl=en&gl=LV",
-      "artwork": "https://play-lh.googleusercontent.com/VqY_7ZNxG91KHaZguRP3khXdlTR1yQr45RCoiNu6MO41UhN-jlN31YWTQImWFRTw5r0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T14:49:51.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "LV"
-    },
-    {
-      "id": "com.flyingwhalegames.carout",
-      "name": "Car Out! Traffic Parking Games",
-      "developer": "Tripledot Studios Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.flyingwhalegames.carout&hl=en&gl=LV",
-      "artwork": "https://play-lh.googleusercontent.com/Z6KJAQTDqQzJaeisYfVVBvAGMznEFBNb0U229BpFgmm8nolXrvqZ7HQmoiUTjsY4esI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T14:43:27.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "LV"
-    },
-    {
       "id": "com.LinkedSquad.SchoolBoyRunaway",
       "name": "SCHOOLBOY RUNAWAY - STEALTH",
       "developer": "Linked Squad",
@@ -1402,6 +1388,20 @@
       "releaseDate": "2025-12-10T10:08:50.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "LV"
+    },
+    {
+      "id": "com.craft.city.blockbuilder.pro",
+      "name": "Craft Explore: Block Builder",
+      "developer": "Appsgrooves",
+      "url": "https://play.google.com/store/apps/details?id=com.craft.city.blockbuilder.pro&hl=en&gl=LV",
+      "artwork": "https://play-lh.googleusercontent.com/YFHDvFUFlCreDkvR1NRPr1KkeF3OdKCZPVmSLzPXs96jHbAxUf4LjFOaWA0WkmTdIK4A2K2G8ZnnKeLimAFM2Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T12:12:25.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "LV"
     }
