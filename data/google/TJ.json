@@ -1,8 +1,36 @@
 {
   "country": "TJ",
   "store": "google",
-  "updatedAt": "2026-02-28T10:50:27.894Z",
+  "updatedAt": "2026-02-28T16:32:24.137Z",
   "new": [
+    {
+      "id": "com.adventure.piano.kpopstar",
+      "name": "Music Piano 2: KPop Star",
+      "developer": "HyperMusic",
+      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T10:58:01.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.adventure.piano.musictiles",
+      "name": "Music Piano 5: Demon Piano",
+      "developer": "HyperMusic",
+      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.musictiles&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/QvQHWzQ2AUdSvIu4HpVgg2j_BfiAHD5IDXazFrcm6j9FHG3Q2993oTJBiIL_QK6KrH7m",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T10:24:37.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "TJ"
+    },
     {
       "id": "com.media720.games2020",
       "name": "Offline Games No WiFi internet",
@@ -674,34 +702,6 @@
         "Puzzle"
       ],
       "country": "TJ"
-    },
-    {
-      "id": "com.blockgamesstudio.blockworld3d",
-      "name": "Block World 3D: Craft & Build",
-      "developer": "Funburstgame LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T09:17:30.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T00:38:27.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "TJ"
     }
   ],
   "updated": [
@@ -748,34 +748,6 @@
       "country": "TJ"
     },
     {
-      "id": "com.ForgeGames.SpecialForcesGroup2",
-      "name": "Special Forces Group 2",
-      "developer": "ForgeGames Mobile",
-      "url": "https://play.google.com/store/apps/details?id=com.ForgeGames.SpecialForcesGroup2&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/GR2lZuHq4IbY74vnPZ1dg7gdDYwYrpmJDFayNImeHaBDYx4XDLlEN_lcbPM8BAxlTKU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2024-10-25T15:41:01.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:31:23.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "TJ"
-    },
-    {
       "id": "com.football.soccer.league",
       "name": "Football League 2026",
       "developer": "MOBILE SOCCER",
@@ -812,6 +784,34 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-04T06:43:26.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T12:31:23.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.ForgeGames.SpecialForcesGroup2",
+      "name": "Special Forces Group 2",
+      "developer": "ForgeGames Mobile",
+      "url": "https://play.google.com/store/apps/details?id=com.ForgeGames.SpecialForcesGroup2&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/GR2lZuHq4IbY74vnPZ1dg7gdDYwYrpmJDFayNImeHaBDYx4XDLlEN_lcbPM8BAxlTKU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2024-10-25T15:41:01.000Z",
       "genres": [
         "Action"
       ],
@@ -888,20 +888,6 @@
       "country": "TJ"
     },
     {
-      "id": "com.xgame.VehicleDriving3D",
-      "name": "Real Driving: Vehicle & Park",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T06:55:58.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "TJ"
-    },
-    {
       "id": "com.ea.gp.fifamobile",
       "name": "EA SPORTS FC™ Mobile Soccer 26",
       "developer": "ELECTRONIC ARTS",
@@ -930,16 +916,16 @@
       "country": "TJ"
     },
     {
-      "id": "ru.playvision.durak",
-      "name": "Durak Online 3D",
-      "developer": "Playvision Games",
-      "url": "https://play.google.com/store/apps/details?id=ru.playvision.durak&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/PehM0b0e2GiWWZGOW__IgQfkh2M-jM72aWJyMrsYX4wujAJ2LRm4UQgDQwe9DG0T90SW",
+      "id": "com.xgame.VehicleDriving3D",
+      "name": "Real Driving: Vehicle & Park",
+      "developer": "XGAME STUDIO",
+      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-11-13T16:24:05.000Z",
+      "releaseDate": "2026-01-23T06:55:58.000Z",
       "genres": [
-        "Card"
+        "Simulation"
       ],
       "country": "TJ"
     },
@@ -958,16 +944,16 @@
       "country": "TJ"
     },
     {
-      "id": "com.openmygame.games.android.fillwordsoffline",
-      "name": "Филворды: Игра в Слова из Букв",
-      "developer": "Malpa Games",
-      "url": "https://play.google.com/store/apps/details?id=com.openmygame.games.android.fillwordsoffline&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/_HY39m4ZYtpfkMK9RUEUn9-owPzVroVcmJ4DwuAcrpQPnWQ6yClCksjzFLCjqQqp1qY",
+      "id": "ru.playvision.durak",
+      "name": "Durak Online 3D",
+      "developer": "Playvision Games",
+      "url": "https://play.google.com/store/apps/details?id=ru.playvision.durak&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/PehM0b0e2GiWWZGOW__IgQfkh2M-jM72aWJyMrsYX4wujAJ2LRm4UQgDQwe9DG0T90SW",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-19T11:58:50.000Z",
+      "releaseDate": "2025-11-13T16:24:05.000Z",
       "genres": [
-        "Word"
+        "Card"
       ],
       "country": "TJ"
     },
@@ -982,6 +968,20 @@
       "releaseDate": "2026-01-31T00:02:11.000Z",
       "genres": [
         "Role Playing"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.openmygame.games.android.fillwordsoffline",
+      "name": "Филворды: Игра в Слова из Букв",
+      "developer": "Malpa Games",
+      "url": "https://play.google.com/store/apps/details?id=com.openmygame.games.android.fillwordsoffline&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/_HY39m4ZYtpfkMK9RUEUn9-owPzVroVcmJ4DwuAcrpQPnWQ6yClCksjzFLCjqQqp1qY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T11:58:50.000Z",
+      "genres": [
+        "Word"
       ],
       "country": "TJ"
     },
@@ -1014,34 +1014,6 @@
       "country": "TJ"
     },
     {
-      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
-      "name": "Fashion Glow: Model & Style",
-      "developer": "Dress Up Games for Girls",
-      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-14T08:31:08.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.media720.games2020",
-      "name": "Offline Games No WiFi internet",
-      "developer": "Fun Offline Games",
-      "url": "https://play.google.com/store/apps/details?id=com.media720.games2020&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/eET3qc7rMWqPZfkk2jsGedhWGoMrbi763h57Etf5fuL6SgcwrjjpA2M94mehfsGznQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T21:33:41.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "TJ"
-    },
-    {
       "id": "com.outfit7.mytalkingangela2",
       "name": "My Talking Angela 2",
       "developer": "Outfit7 Limited",
@@ -1052,6 +1024,20 @@
       "releaseDate": "2026-02-16T14:20:52.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.ew.superbilliards",
+      "name": "Super Billiards Real 8 Ball",
+      "developer": "EWG STUDIO",
+      "url": "https://play.google.com/store/apps/details?id=com.ew.superbilliards&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/fQ0C7kcbfR9BQpjjc3zSXmtjBL-4DYPWAPvudD9O6U6zDto0witSzfCMv2Bv824gzYk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T02:21:51.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "TJ"
     },
@@ -1070,28 +1056,42 @@
       "country": "TJ"
     },
     {
-      "id": "com.adventure.piano.kpopstar",
-      "name": "Music Piano 2: KPop Star",
-      "developer": "HyperMusic",
-      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
+      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
+      "name": "Fashion Glow: Model & Style",
+      "developer": "Dress Up Games for Girls",
+      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T11:38:17.000Z",
+      "releaseDate": "2026-01-14T08:31:08.000Z",
       "genres": [
         "Casual"
       ],
       "country": "TJ"
     },
     {
-      "id": "com.outfit7.mytalkingtom2",
-      "name": "My Talking Tom 2: Pet Game",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
+      "id": "com.fingersoft.hillclimb",
+      "name": "Hill Climb Racing",
+      "developer": "Fingersoft",
+      "url": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/N0UxhBVUmx8s7y3F7Kqre2AcpXyPDKAp8nHjiPPoOONc_sfugHCYMjBpbUKCMlK_XUs",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T11:25:29.000Z",
+      "releaseDate": "2026-02-23T08:13:54.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.media720.games2020",
+      "name": "Offline Games No WiFi internet",
+      "developer": "Fun Offline Games",
+      "url": "https://play.google.com/store/apps/details?id=com.media720.games2020&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/eET3qc7rMWqPZfkk2jsGedhWGoMrbi763h57Etf5fuL6SgcwrjjpA2M94mehfsGznQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T21:33:41.000Z",
       "genres": [
         "Casual"
       ],
@@ -1112,6 +1112,20 @@
       "country": "TJ"
     },
     {
+      "id": "com.outfit7.mytalkingtom2",
+      "name": "My Talking Tom 2: Pet Game",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T11:25:29.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "TJ"
+    },
+    {
       "id": "com.ta.strike.ops",
       "name": "FPS Strike Ops : Modern Arena",
       "developer": "FPS Shooter & Action Game",
@@ -1126,16 +1140,44 @@
       "country": "TJ"
     },
     {
-      "id": "com.fingersoft.hillclimb",
-      "name": "Hill Climb Racing",
-      "developer": "Fingersoft",
-      "url": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/N0UxhBVUmx8s7y3F7Kqre2AcpXyPDKAp8nHjiPPoOONc_sfugHCYMjBpbUKCMlK_XUs",
+      "id": "com.adventure.piano.kpopstar",
+      "name": "Music Piano 2: KPop Star",
+      "developer": "HyperMusic",
+      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-23T08:13:54.000Z",
+      "releaseDate": "2026-02-28T10:58:01.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.dino.race.master",
+      "name": "Car Race",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-09T02:55:19.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "dasi.prs2.lumberchopper",
+      "name": "Idle Lumber Chopper Empire Inc",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=dasi.prs2.lumberchopper&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/0_2l4Yk9uqKwTvAv-yZp02Og-DRr5GT-AfsH42zjExvkQkKsP4NUsyZz0lp8APHMaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T09:27:51.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "TJ"
     },
@@ -1168,34 +1210,6 @@
       "country": "TJ"
     },
     {
-      "id": "com.dino.race.master",
-      "name": "Car Race",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-09T02:55:19.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.grand.launcher",
-      "name": "Grand Mobile: RP Open World",
-      "developer": "Dynamic Technologies TOO",
-      "url": "https://play.google.com/store/apps/details?id=com.grand.launcher&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/EBfB-66PKQDaQvrq_cpFp1evl3pyqmKx1z0arqV8vaoRwMLZa4pgXfv9qHF9LOEp4niU6t1paRySkGkETvGd8A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T12:32:59.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "TJ"
-    },
-    {
       "id": "funvent.tilepark",
       "name": "Tile Park",
       "developer": "Funvent Studios DMCC",
@@ -1206,90 +1220,6 @@
       "releaseDate": "2026-02-27T11:37:37.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "dasi.prs2.lumberchopper",
-      "name": "Idle Lumber Chopper Empire Inc",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=dasi.prs2.lumberchopper&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/0_2l4Yk9uqKwTvAv-yZp02Og-DRr5GT-AfsH42zjExvkQkKsP4NUsyZz0lp8APHMaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T09:27:51.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.vincentb.MobControl",
-      "name": "Mob Control",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T17:04:13.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.ew.superbilliards",
-      "name": "Super Billiards Real 8 Ball",
-      "developer": "EWG STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.ew.superbilliards&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/fQ0C7kcbfR9BQpjjc3zSXmtjBL-4DYPWAPvudD9O6U6zDto0witSzfCMv2Bv824gzYk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T02:21:51.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
-      "name": "Agent Shooter - Shooting Game",
-      "developer": "Rebel Actions",
-      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T10:48:15.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.outfit7.mytalkingtomfriends",
-      "name": "My Talking Tom Friends",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/WY69uGwaQPUx5vS9bxF3sm4mc9N1ZzvVHVqLrZOycExHb6m8A2v5hGoroTRjih1a_d4Y",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T13:03:47.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.tencent.ig",
-      "name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-29T01:31:07.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "TJ"
     },
@@ -1308,16 +1238,72 @@
       "country": "TJ"
     },
     {
-      "id": "com.adventure.piano.musictiles",
-      "name": "Music Piano 5: Demon Piano",
-      "developer": "HyperMusic",
-      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.musictiles&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/QvQHWzQ2AUdSvIu4HpVgg2j_BfiAHD5IDXazFrcm6j9FHG3Q2993oTJBiIL_QK6KrH7m",
+      "id": "com.outfit7.mytalkingtomfriends",
+      "name": "My Talking Tom Friends",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/WY69uGwaQPUx5vS9bxF3sm4mc9N1ZzvVHVqLrZOycExHb6m8A2v5hGoroTRjih1a_d4Y",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-16T15:48:18.000Z",
+      "releaseDate": "2026-02-13T13:03:47.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.grand.launcher",
+      "name": "Grand Mobile: RP Open World",
+      "developer": "Dynamic Technologies TOO",
+      "url": "https://play.google.com/store/apps/details?id=com.grand.launcher&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/EBfB-66PKQDaQvrq_cpFp1evl3pyqmKx1z0arqV8vaoRwMLZa4pgXfv9qHF9LOEp4niU6t1paRySkGkETvGd8A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T12:32:59.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.vincentb.MobControl",
+      "name": "Mob Control",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T17:04:13.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.tencent.ig",
+      "name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-29T01:31:07.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
+      "name": "Agent Shooter - Shooting Game",
+      "developer": "Rebel Actions",
+      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T10:48:15.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "TJ"
     },
@@ -1336,16 +1322,16 @@
       "country": "TJ"
     },
     {
-      "id": "com.brain.puzzle.tricky.test.annoying.quest",
-      "name": "Brain Puzzle: Tricky Test",
-      "developer": "SLEEK CHARM LIMITED",
-      "url": "https://play.google.com/store/apps/details?id=com.brain.puzzle.tricky.test.annoying.quest&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/GAW1v5cC_rUq5q1VGTjswJfgIfE8jcF84e7YPG8bY2UZBj_stHbZrxqJMLPzLJtEnjUl_KwwqiMrMLVp7RVY",
+      "id": "com.outfit7.mytalkingangelafree",
+      "name": "My Talking Angela",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/rdMpsc5VkkG4JGHIFqNREbWBzXxkZBHN7ZA86DqcZEMmtwWy58NLVDuqWgoG2XCAu4Q",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-09T10:29:02.000Z",
+      "releaseDate": "2026-02-25T13:56:11.000Z",
       "genres": [
-        "Puzzle"
+        "Casual"
       ],
       "country": "TJ"
     },
@@ -1378,6 +1364,34 @@
       "country": "TJ"
     },
     {
+      "id": "com.adventure.piano.musictiles",
+      "name": "Music Piano 5: Demon Piano",
+      "developer": "HyperMusic",
+      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.musictiles&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/QvQHWzQ2AUdSvIu4HpVgg2j_BfiAHD5IDXazFrcm6j9FHG3Q2993oTJBiIL_QK6KrH7m",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T10:24:37.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.chillingo.robberybobfree.android.row",
+      "name": "Robbery Bob - King of Sneak",
+      "developer": "Deca_Games",
+      "url": "https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/5QgtTvnfJatWSZJ0DnCiaQ501N8Wp55rwWWV1GN_MARlmhJmwJQdmiNVMM5T-MhIO6GX",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-23T13:25:32.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "TJ"
+    },
+    {
       "id": "water.sort.color.puzzle.offline.games",
       "name": "Water Sort! Color Sort Puzzle",
       "developer": "Bobodoo Game",
@@ -1388,20 +1402,6 @@
       "releaseDate": "2026-02-12T14:06:14.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T15:37:40.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "TJ"
     }
