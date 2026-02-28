@@ -1,7 +1,7 @@
 {
   "country": "DO",
   "store": "google",
-  "updatedAt": "2026-02-28T07:00:21.679Z",
+  "updatedAt": "2026-02-28T12:23:54.272Z",
   "new": [
     {
       "id": "com.SoltyGames.EliteAutoBrasil",
@@ -382,6 +382,20 @@
       "country": "DO"
     },
     {
+      "id": "com.mmircil.cnb2",
+      "name": "Crafting and Building",
+      "developer": "GeneRe",
+      "url": "https://play.google.com/store/apps/details?id=com.mmircil.cnb2&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/MdlAVHNAfIuMHJA6y7vJXINGeJ9wSxIG3dT7CAlZZ5fS3EEUS8_R57O0TJDN0vbmjEo",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-23T18:55:46.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "DO"
+    },
+    {
       "id": "com.superking.parchisi.star",
       "name": "Parchisi STAR Online",
       "developer": "Gameberry Labs",
@@ -688,37 +702,9 @@
         "Action"
       ],
       "country": "DO"
-    },
-    {
-      "id": "com.gps.housemakeover.satisfying.clean",
-      "name": "House Makeover: ASMR Cleaning",
-      "developer": "Mad1 Games",
-      "url": "https://play.google.com/store/apps/details?id=com.gps.housemakeover.satisfying.clean&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/7y126KQrQEKp0Ba5tySSSyl9N30WrP0VQl0xQ4diTnqpoxohAAhoZvlTYeP0S8gOYQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-14T17:03:58.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "DO"
     }
   ],
   "updated": [
-    {
-      "id": "com.lockwoodpublishing.avakinlife",
-      "name": "Avakin Life - 3D Virtual World",
-      "developer": "Lockwood Publishing Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.lockwoodpublishing.avakinlife&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/UBpCn5aNhexoCFyR4nnmhpWPrt6D68FtjQHVdtuaYX3n-jor9vAiHqD0RstOMBcTqQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T16:10:26.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "DO"
-    },
     {
       "id": "com.roblox.client",
       "name": "Roblox",
@@ -730,6 +716,20 @@
       "releaseDate": "2026-02-26T21:16:50.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "DO"
+    },
+    {
+      "id": "com.lockwoodpublishing.avakinlife",
+      "name": "Avakin Life - 3D Virtual World",
+      "developer": "Lockwood Publishing Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.lockwoodpublishing.avakinlife&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/UBpCn5aNhexoCFyR4nnmhpWPrt6D68FtjQHVdtuaYX3n-jor9vAiHqD0RstOMBcTqQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T16:10:26.000Z",
+      "genres": [
+        "Role Playing"
       ],
       "country": "DO"
     },
@@ -804,20 +804,6 @@
       "country": "DO"
     },
     {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T15:11:48.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "DO"
-    },
-    {
       "id": "com.advant.streamer",
       "name": "Lamar - Idle Vlogger",
       "developer": "CrazyLabs LTD",
@@ -874,6 +860,48 @@
       "country": "DO"
     },
     {
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T15:11:48.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "DO"
+    },
+    {
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T10:53:41.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "DO"
+    },
+    {
+      "id": "com.pazugames.avatarworld",
+      "name": "Avatar World ®",
+      "developer": "Pazu Games",
+      "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/LnX6GD073ysfflkl2jX8NBcDxdG6ZV8xBkbo985dJgR2v2xdsKD6nIA-EtIl2cFwfHTPKaraLh4U4uq7iH1b",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T10:51:24.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "DO"
+    },
+    {
       "id": "com.superking.parchisi.star",
       "name": "Parchisi STAR Online",
       "developer": "Gameberry Labs",
@@ -884,6 +912,34 @@
       "releaseDate": "2026-02-23T13:23:15.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "DO"
+    },
+    {
+      "id": "com.Earthkwak.Platformer",
+      "name": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-26T09:16:49.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "DO"
+    },
+    {
+      "id": "com.sybogames.subway.surfers.game",
+      "name": "Subway Surfers City",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T15:55:38.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "DO"
     },
@@ -902,30 +958,30 @@
       "country": "DO"
     },
     {
-      "id": "us.kr.baseballnine",
-      "name": "BASEBALL 9",
-      "developer": "playus soft",
-      "url": "https://play.google.com/store/apps/details?id=us.kr.baseballnine&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/Y9GghCslNNk-nWccWvxgCDYvd7yLSwkw0hZ3NVTkSJqigY0ZozK3lv85jR02XOJSDPQ",
+      "id": "com.uc.gym.clicker",
+      "name": "Gym Idle Clicker: Fitness Hero",
+      "developer": "Unicorn Studio Official",
+      "url": "https://play.google.com/store/apps/details?id=com.uc.gym.clicker&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/9uzA6qLx2gFUnbq-gxvn2ZZeTweHsZFGvO1kurRydMEWIpwf9q5ATOPzsg2aGgYuvWM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-06T08:40:15.000Z",
+      "releaseDate": "2026-02-04T03:20:44.000Z",
       "genres": [
-        "Sports"
+        "Casual"
       ],
       "country": "DO"
     },
     {
-      "id": "com.pazugames.avatarworld",
-      "name": "Avatar World ®",
-      "developer": "Pazu Games",
-      "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/LnX6GD073ysfflkl2jX8NBcDxdG6ZV8xBkbo985dJgR2v2xdsKD6nIA-EtIl2cFwfHTPKaraLh4U4uq7iH1b",
+      "id": "com.netease.newspike",
+      "name": "Blood Strike - FPS for all",
+      "developer": "NetEase Games",
+      "url": "https://play.google.com/store/apps/details?id=com.netease.newspike&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/NrInVvqU0psjZqHmom9h0rPOzPEXKDajY5HMciD2InYA7Tmf35zmtGFBZOkUHPyIMJ7OOsS5C55B00dEhksD2Q",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-18T10:51:24.000Z",
+      "releaseDate": "2026-02-25T07:05:59.000Z",
       "genres": [
-        "Role Playing"
+        "Action"
       ],
       "country": "DO"
     },
@@ -954,62 +1010,6 @@
       "releaseDate": "2026-02-12T11:07:21.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "DO"
-    },
-    {
-      "id": "com.uc.gym.clicker",
-      "name": "Gym Idle Clicker: Fitness Hero",
-      "developer": "Unicorn Studio Official",
-      "url": "https://play.google.com/store/apps/details?id=com.uc.gym.clicker&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/9uzA6qLx2gFUnbq-gxvn2ZZeTweHsZFGvO1kurRydMEWIpwf9q5ATOPzsg2aGgYuvWM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T03:20:44.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "DO"
-    },
-    {
-      "id": "com.Earthkwak.Platformer",
-      "name": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-26T09:16:49.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "DO"
-    },
-    {
-      "id": "com.netease.newspike",
-      "name": "Blood Strike - FPS for all",
-      "developer": "NetEase Games",
-      "url": "https://play.google.com/store/apps/details?id=com.netease.newspike&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/NrInVvqU0psjZqHmom9h0rPOzPEXKDajY5HMciD2InYA7Tmf35zmtGFBZOkUHPyIMJ7OOsS5C55B00dEhksD2Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T07:05:59.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "DO"
-    },
-    {
-      "id": "io.voodoo.holeio",
-      "name": "Hole.io",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T10:53:41.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "DO"
     },
@@ -1070,104 +1070,6 @@
       "country": "DO"
     },
     {
-      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
-      "name": "Agent Shooter - Shooting Game",
-      "developer": "Rebel Actions",
-      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T10:48:15.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "DO"
-    },
-    {
-      "id": "com.sybogames.subway.surfers.game",
-      "name": "Subway Surfers City",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T15:55:38.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "DO"
-    },
-    {
-      "id": "com.Chillgaming.oneState",
-      "name": "OneState RP - Role Play Life",
-      "developer": "ChillBase",
-      "url": "https://play.google.com/store/apps/details?id=com.Chillgaming.oneState&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/Za0HGzAmGNnsCVdWqOCYB3aOlxZEKJZ7_cKDWrVDrhY_6iEf_XKaDywfnbEoYXOj_pk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T08:23:08.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "DO"
-    },
-    {
-      "id": "com.outfit7.mytalkingtom2",
-      "name": "My Talking Tom 2: Pet Game",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T11:25:29.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "DO"
-    },
-    {
-      "id": "com.playgendary.kickthebuddy",
-      "name": "Kick the Buddy－Fun Action Game",
-      "developer": "Playgendary Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.playgendary.kickthebuddy&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/4zT9waZhwrqSCMVFBXCi7jSzjMRP9LMdR4ZylVTd4KRRBy0aK79-IZvQWawRTSb-CLE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T14:04:33.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "DO"
-    },
-    {
-      "id": "com.traffic.motorcycle.rider.driving.racing.open.sandbox.world",
-      "name": "Driving Motor Racing Simulator",
-      "developer": "Digital Payment Tech",
-      "url": "https://play.google.com/store/apps/details?id=com.traffic.motorcycle.rider.driving.racing.open.sandbox.world&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/tu3jt-CbX7hZIZbFMe_icuREWduoAvPcp-egP-6O4O5kEbDhjuq1euxqBgGxJofnylBQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T15:35:32.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "DO"
-    },
-    {
-      "id": "com.yalla.yallaparchisi",
-      "name": "Yalla Parchis",
-      "developer": "Yalla Technology FZ-LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.yalla.yallaparchisi&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/dnmtMkuWnOb0jFhXX9oadDhEe0CzawebU3l3J6v_QqaqTXa8z8HBED64ORNV40-Bh2M",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T11:16:03.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "DO"
-    },
-    {
       "id": "com.Neurononfire.SupremeDuelist",
       "name": "Supreme Duelist",
       "developer": "Neron's Brother",
@@ -1182,14 +1084,42 @@
       "country": "DO"
     },
     {
-      "id": "com.vectorunit.purple.googleplay",
-      "name": "Beach Buggy Racing",
-      "developer": "Vector Unit",
-      "url": "https://play.google.com/store/apps/details?id=com.vectorunit.purple.googleplay&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/ZQXNGxMGyXurnCTHHj5JQh52_fWEjXUwYGeJi3VKWOwrEeUjGAvcdCJSySmMGxvZujI",
+      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
+      "name": "Agent Shooter - Shooting Game",
+      "developer": "Rebel Actions",
+      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-09-22T21:58:50.000Z",
+      "releaseDate": "2026-02-26T10:48:15.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "DO"
+    },
+    {
+      "id": "us.kr.baseballnine",
+      "name": "BASEBALL 9",
+      "developer": "playus soft",
+      "url": "https://play.google.com/store/apps/details?id=us.kr.baseballnine&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/Y9GghCslNNk-nWccWvxgCDYvd7yLSwkw0hZ3NVTkSJqigY0ZozK3lv85jR02XOJSDPQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-06T08:40:15.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "DO"
+    },
+    {
+      "id": "com.aim.racing",
+      "name": "Extreme Car Driving Simulator",
+      "developer": "AxesInMotion Racing",
+      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/6NEtpPjWbslnt7WzHb4A1sYM6GiX_VdIhA6O9gAvJcf-GlmnEkfMQwPzAD7xTSLV_5M",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T13:51:00.000Z",
       "genres": [
         "Racing"
       ],
@@ -1210,44 +1140,30 @@
       "country": "DO"
     },
     {
-      "id": "com.media720.games2020",
-      "name": "Offline Games No WiFi internet",
-      "developer": "Fun Offline Games",
-      "url": "https://play.google.com/store/apps/details?id=com.media720.games2020&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/eET3qc7rMWqPZfkk2jsGedhWGoMrbi763h57Etf5fuL6SgcwrjjpA2M94mehfsGznQ",
+      "id": "com.traffic.motorcycle.rider.driving.racing.open.sandbox.world",
+      "name": "Driving Motor Racing Simulator",
+      "developer": "Digital Payment Tech",
+      "url": "https://play.google.com/store/apps/details?id=com.traffic.motorcycle.rider.driving.racing.open.sandbox.world&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/tu3jt-CbX7hZIZbFMe_icuREWduoAvPcp-egP-6O4O5kEbDhjuq1euxqBgGxJofnylBQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T21:33:41.000Z",
+      "releaseDate": "2026-02-13T15:35:32.000Z",
       "genres": [
-        "Casual"
+        "Racing"
       ],
       "country": "DO"
     },
     {
-      "id": "com.outfit7.mytalkingangela2",
-      "name": "My Talking Angela 2",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
+      "id": "com.vectorunit.purple.googleplay",
+      "name": "Beach Buggy Racing",
+      "developer": "Vector Unit",
+      "url": "https://play.google.com/store/apps/details?id=com.vectorunit.purple.googleplay&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/ZQXNGxMGyXurnCTHHj5JQh52_fWEjXUwYGeJi3VKWOwrEeUjGAvcdCJSySmMGxvZujI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-16T14:20:52.000Z",
+      "releaseDate": "2025-09-22T21:58:50.000Z",
       "genres": [
-        "Casual"
-      ],
-      "country": "DO"
-    },
-    {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
+        "Racing"
       ],
       "country": "DO"
     },
@@ -1266,44 +1182,86 @@
       "country": "DO"
     },
     {
-      "id": "com.king.candycrushsaga",
-      "name": "Candy Crush Saga",
-      "developer": "King",
-      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
+      "id": "com.outfit7.mytalkingangela2",
+      "name": "My Talking Angela 2",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-19T12:54:33.000Z",
+      "releaseDate": "2026-02-16T14:20:52.000Z",
       "genres": [
         "Casual"
       ],
       "country": "DO"
     },
     {
-      "id": "com.aim.racing",
-      "name": "Extreme Car Driving Simulator",
-      "developer": "AxesInMotion Racing",
-      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/6NEtpPjWbslnt7WzHb4A1sYM6GiX_VdIhA6O9gAvJcf-GlmnEkfMQwPzAD7xTSLV_5M",
+      "id": "com.outfit7.mytalkingtom2",
+      "name": "My Talking Tom 2: Pet Game",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T13:51:00.000Z",
+      "releaseDate": "2026-02-20T11:25:29.000Z",
       "genres": [
-        "Racing"
+        "Casual"
       ],
       "country": "DO"
     },
     {
-      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
-      "name": "Fashion Glow: Model & Style",
-      "developer": "Dress Up Games for Girls",
-      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
+      "id": "com.yalla.yallaparchisi",
+      "name": "Yalla Parchis",
+      "developer": "Yalla Technology FZ-LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.yalla.yallaparchisi&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/dnmtMkuWnOb0jFhXX9oadDhEe0CzawebU3l3J6v_QqaqTXa8z8HBED64ORNV40-Bh2M",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-14T08:31:08.000Z",
+      "releaseDate": "2026-02-09T11:16:03.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "DO"
+    },
+    {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "DO"
+    },
+    {
+      "id": "com.media720.games2020",
+      "name": "Offline Games No WiFi internet",
+      "developer": "Fun Offline Games",
+      "url": "https://play.google.com/store/apps/details?id=com.media720.games2020&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/eET3qc7rMWqPZfkk2jsGedhWGoMrbi763h57Etf5fuL6SgcwrjjpA2M94mehfsGznQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T21:33:41.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "DO"
+    },
+    {
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T16:48:19.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "DO"
     },
@@ -1332,6 +1290,34 @@
       "releaseDate": "2026-02-16T15:06:11.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "DO"
+    },
+    {
+      "id": "com.king.candycrushsaga",
+      "name": "Candy Crush Saga",
+      "developer": "King",
+      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T12:54:33.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "DO"
+    },
+    {
+      "id": "com.Chillgaming.oneState",
+      "name": "OneState RP - Role Play Life",
+      "developer": "ChillBase",
+      "url": "https://play.google.com/store/apps/details?id=com.Chillgaming.oneState&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/Za0HGzAmGNnsCVdWqOCYB3aOlxZEKJZ7_cKDWrVDrhY_6iEf_XKaDywfnbEoYXOj_pk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T08:23:08.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "DO"
     },
@@ -1378,30 +1364,44 @@
       "country": "DO"
     },
     {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
+      "id": "com.playgendary.kickthebuddy",
+      "name": "Kick the Buddy－Fun Action Game",
+      "developer": "Playgendary Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.playgendary.kickthebuddy&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/4zT9waZhwrqSCMVFBXCi7jSzjMRP9LMdR4ZylVTd4KRRBy0aK79-IZvQWawRTSb-CLE",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T16:48:19.000Z",
+      "releaseDate": "2026-02-11T14:04:33.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "DO"
+    },
+    {
+      "id": "com.robtopx.geometryjumplite",
+      "name": "Geometry Dash Lite",
+      "developer": "RobTop Games",
+      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T14:03:50.000Z",
       "genres": [
         "Arcade"
       ],
       "country": "DO"
     },
     {
-      "id": "pt.cosmicode.imposter",
-      "name": "Imposter Up - Who is the Spy?",
-      "developer": "Cosmicode",
-      "url": "https://play.google.com/store/apps/details?id=pt.cosmicode.imposter&hl=en&gl=DO",
-      "artwork": "https://play-lh.googleusercontent.com/vG_rEgkLiN6I5tCj8EQxhEw4dktXFrlPAb736d6t050ZFRZ16F3mj9D_o2RNX-qKYRl_VVeAdkgr7_B8z81Z6g",
+      "id": "com.puzzlegames.puzzlebrickslegend",
+      "name": "Color Block: Combo Blast",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.puzzlebrickslegend&hl=en&gl=DO",
+      "artwork": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T14:56:09.000Z",
+      "releaseDate": "2026-02-27T10:15:09.000Z",
       "genres": [
-        "Word"
+        "Puzzle"
       ],
       "country": "DO"
     }
