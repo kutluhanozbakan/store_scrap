@@ -1,7 +1,7 @@
 {
   "country": "AE",
   "store": "google",
-  "updatedAt": "2026-03-01T09:40:16.834Z",
+  "updatedAt": "2026-03-01T15:34:57.030Z",
   "new": [
     {
       "id": "com.block.juggle",
@@ -620,6 +620,20 @@
       "country": "AE"
     },
     {
+      "id": "com.playstrom.dop4",
+      "name": "DOP 4: Draw One Part",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.playstrom.dop4&hl=en&gl=AE",
+      "artwork": "https://play-lh.googleusercontent.com/xCTDSJzuaJkDH_dNtGek7H6CO2oi4tNopjrXHtvZ4EumFr_5vs2RMJ-Htikhj5Aw8Q8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T10:39:35.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "AE"
+    },
+    {
       "id": "com.imangi.templerun2",
       "name": "Temple Run 2: Endless Escape",
       "developer": "Imangi Studios",
@@ -648,6 +662,20 @@
       "country": "AE"
     },
     {
+      "id": "com.gps.housemakeover.satisfying.clean",
+      "name": "House Makeover: ASMR Cleaning",
+      "developer": "Mad1 Games",
+      "url": "https://play.google.com/store/apps/details?id=com.gps.housemakeover.satisfying.clean&hl=en&gl=AE",
+      "artwork": "https://play-lh.googleusercontent.com/7y126KQrQEKp0Ba5tySSSyl9N30WrP0VQl0xQ4diTnqpoxohAAhoZvlTYeP0S8gOYQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-14T17:03:58.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "AE"
+    },
+    {
       "id": "com.traffic.motorcycle.rider.driving.racing.open.sandbox.world",
       "name": "Driving Motor Racing Simulator",
       "developer": "Digital Payment Tech",
@@ -672,34 +700,6 @@
       "releaseDate": "2026-02-13T10:53:41.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "AE"
-    },
-    {
-      "id": "com.ludo.king",
-      "name": "Ludo King®",
-      "developer": "Gametion",
-      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=AE",
-      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T09:46:13.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "AE"
-    },
-    {
-      "id": "com.yalla.yallagames",
-      "name": "Yalla Ludo - Ludo&Jackaroo",
-      "developer": "Aviva Sun",
-      "url": "https://play.google.com/store/apps/details?id=com.yalla.yallagames&hl=en&gl=AE",
-      "artwork": "https://play-lh.googleusercontent.com/p7_G7W7KQO_UO09jAekkwaw4yqEmOQvY6QExD63pPMiK_DVeEPDLacZdXsnvgvXeSuCe",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T08:10:51.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "AE"
     }
@@ -874,20 +874,6 @@
       "country": "AE"
     },
     {
-      "id": "com.dts.freefireth",
-      "name": "Free Fire: Lost Treasure",
-      "developer": "GARENA INTERNATIONAL I",
-      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=AE",
-      "artwork": "https://play-lh.googleusercontent.com/VxqoBX9loIqsESn5OPhXDLLYw8YFAlLJX3TJUb7ovyIQdRRWwGuG3jD9konTZAeWzd8VlVTDt8fkJ8BAEU4ZHQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T06:43:26.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "AE"
-    },
-    {
       "id": "com.miniclip.eightballpool",
       "name": "8 Ball Pool",
       "developer": "Miniclip.com",
@@ -902,6 +888,20 @@
       "country": "AE"
     },
     {
+      "id": "com.dts.freefireth",
+      "name": "Free Fire: Lost Treasure",
+      "developer": "GARENA INTERNATIONAL I",
+      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=AE",
+      "artwork": "https://play-lh.googleusercontent.com/VxqoBX9loIqsESn5OPhXDLLYw8YFAlLJX3TJUb7ovyIQdRRWwGuG3jD9konTZAeWzd8VlVTDt8fkJ8BAEU4ZHQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T06:43:26.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "AE"
+    },
+    {
       "id": "io.voodoo.holeio",
       "name": "Hole.io",
       "developer": "VOODOO",
@@ -910,6 +910,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-13T10:53:41.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "AE"
+    },
+    {
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=AE",
+      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T16:48:19.000Z",
       "genres": [
         "Arcade"
       ],
@@ -940,20 +954,6 @@
       "releaseDate": "2026-02-27T15:46:03.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "AE"
-    },
-    {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=AE",
-      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T16:48:19.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "AE"
     },
@@ -1070,14 +1070,14 @@
       "country": "AE"
     },
     {
-      "id": "com.xgame.VehicleDriving3D",
-      "name": "Real Driving: Vehicle & Park",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=AE",
-      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
+      "id": "com.gf.busdriving.publictransport.citypassenger.drivinggames",
+      "name": "Bus Simulator : 3D Bus Games",
+      "developer": "GamePark",
+      "url": "https://play.google.com/store/apps/details?id=com.gf.busdriving.publictransport.citypassenger.drivinggames&hl=en&gl=AE",
+      "artwork": "https://play-lh.googleusercontent.com/rp9LqQcNwWly8QgjZnDdiK8gSHQyUAHTVzC5DQBFDC-Fm3eHZobtoFTUAlsdRBcatpI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T06:55:58.000Z",
+      "releaseDate": "2026-01-20T12:05:35.000Z",
       "genres": [
         "Simulation"
       ],
@@ -1094,20 +1094,6 @@
       "releaseDate": "2026-02-11T12:25:49.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "AE"
-    },
-    {
-      "id": "com.gf.busdriving.publictransport.citypassenger.drivinggames",
-      "name": "Bus Simulator : 3D Bus Games",
-      "developer": "GamePark",
-      "url": "https://play.google.com/store/apps/details?id=com.gf.busdriving.publictransport.citypassenger.drivinggames&hl=en&gl=AE",
-      "artwork": "https://play-lh.googleusercontent.com/rp9LqQcNwWly8QgjZnDdiK8gSHQyUAHTVzC5DQBFDC-Fm3eHZobtoFTUAlsdRBcatpI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-20T12:05:35.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "AE"
     },
@@ -1182,16 +1168,44 @@
       "country": "AE"
     },
     {
-      "id": "com.NewFolderGames.TaxiDriver",
-      "name": "I Am Taxi Driver",
-      "developer": "Estoty",
-      "url": "https://play.google.com/store/apps/details?id=com.NewFolderGames.TaxiDriver&hl=en&gl=AE",
-      "artwork": "https://play-lh.googleusercontent.com/21NqFTC9lghTZWPSf0UJXIf5Sm0V8KeVWrwTm6fDlnY12kbPZrB27xynucuQm_2Uz5kna0Wjba_VMciQyCsZJg",
+      "id": "com.xgame.VehicleDriving3D",
+      "name": "Real Driving: Vehicle & Park",
+      "developer": "XGAME STUDIO",
+      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=AE",
+      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T19:44:35.000Z",
+      "releaseDate": "2026-01-23T06:55:58.000Z",
       "genres": [
-        "Role Playing"
+        "Simulation"
+      ],
+      "country": "AE"
+    },
+    {
+      "id": "com.tfv.draw.one.missing.partdop.puzzle.games",
+      "name": "Complete Puzzle: Draw One Part",
+      "developer": "The Fashion Valley",
+      "url": "https://play.google.com/store/apps/details?id=com.tfv.draw.one.missing.partdop.puzzle.games&hl=en&gl=AE",
+      "artwork": "https://play-lh.googleusercontent.com/B1TwtSx8VxzDGzFdqmOKPW9vboW1-2Pq9k5LdG4lrtALJ29PjBdg36_SwbqAjvyaqw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T11:31:49.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "AE"
+    },
+    {
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=AE",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T05:19:01.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "AE"
     },
@@ -1206,6 +1220,34 @@
       "releaseDate": "2026-01-28T21:11:32.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "AE"
+    },
+    {
+      "id": "com.NewFolderGames.TaxiDriver",
+      "name": "I Am Taxi Driver",
+      "developer": "Estoty",
+      "url": "https://play.google.com/store/apps/details?id=com.NewFolderGames.TaxiDriver&hl=en&gl=AE",
+      "artwork": "https://play-lh.googleusercontent.com/21NqFTC9lghTZWPSf0UJXIf5Sm0V8KeVWrwTm6fDlnY12kbPZrB27xynucuQm_2Uz5kna0Wjba_VMciQyCsZJg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T19:44:35.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "AE"
+    },
+    {
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=AE",
+      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T01:15:33.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "AE"
     },
@@ -1238,20 +1280,6 @@
       "country": "AE"
     },
     {
-      "id": "com.gtsy.annoying.punch.game",
-      "name": "Annoying Uncle Punch Game",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=AE",
-      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T05:19:01.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "AE"
-    },
-    {
       "id": "beats.color.sing.star.rush",
       "name": "Magic Level 9 Music Piano Game",
       "developer": "Beatwave Studio",
@@ -1266,20 +1294,6 @@
       "country": "AE"
     },
     {
-      "id": "com.flyingwhalegames.carout",
-      "name": "Car Out! Traffic Parking Games",
-      "developer": "Tripledot Studios Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.flyingwhalegames.carout&hl=en&gl=AE",
-      "artwork": "https://play-lh.googleusercontent.com/Z6KJAQTDqQzJaeisYfVVBvAGMznEFBNb0U229BpFgmm8nolXrvqZ7HQmoiUTjsY4esI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T14:43:27.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "AE"
-    },
-    {
       "id": "com.matteljv.uno",
       "name": "UNO!™",
       "developer": "Mattel163 Limited",
@@ -1290,20 +1304,6 @@
       "releaseDate": "2026-01-23T09:29:49.000Z",
       "genres": [
         "Card"
-      ],
-      "country": "AE"
-    },
-    {
-      "id": "com.tfv.draw.one.missing.partdop.puzzle.games",
-      "name": "Complete Puzzle: Draw One Part",
-      "developer": "The Fashion Valley",
-      "url": "https://play.google.com/store/apps/details?id=com.tfv.draw.one.missing.partdop.puzzle.games&hl=en&gl=AE",
-      "artwork": "https://play-lh.googleusercontent.com/B1TwtSx8VxzDGzFdqmOKPW9vboW1-2Pq9k5LdG4lrtALJ29PjBdg36_SwbqAjvyaqw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T11:31:49.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "AE"
     },
@@ -1392,16 +1392,16 @@
       "country": "AE"
     },
     {
-      "id": "com.bravestars.savethedog.drawgame",
-      "name": "Save The Pets",
-      "developer": "Bravestars Games",
-      "url": "https://play.google.com/store/apps/details?id=com.bravestars.savethedog.drawgame&hl=en&gl=AE",
-      "artwork": "https://play-lh.googleusercontent.com/M30GFPRmi5D5ZNEB8VMCgXs6kM_dz_C2wzIFu2pMfSqZZUu0M3R2YBt0WB6S5nIOyA",
+      "id": "com.ction.playergames",
+      "name": "2 3 4 Player Mini Games",
+      "developer": "Better World Games",
+      "url": "https://play.google.com/store/apps/details?id=com.ction.playergames&hl=en&gl=AE",
+      "artwork": "https://play-lh.googleusercontent.com/vHuenuu1GqX1BwDaYX86dsbQlmA7vCO0PEdgdXlCEZP5x2_R3pZo0xcI9Mkdn4UW7NA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-29T03:48:45.000Z",
+      "releaseDate": "2025-10-28T20:16:32.000Z",
       "genres": [
-        "Puzzle"
+        "Simulation"
       ],
       "country": "AE"
     }
