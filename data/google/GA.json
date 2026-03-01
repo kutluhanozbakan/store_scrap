@@ -1,7 +1,7 @@
 {
   "country": "GA",
   "store": "google",
-  "updatedAt": "2026-03-01T17:30:45.736Z",
+  "updatedAt": "2026-03-01T22:57:16.698Z",
   "new": [
     {
       "id": "air.ynfo.stickergo",
@@ -208,6 +208,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-26T14:10:56.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "GA"
+    },
+    {
+      "id": "com.rubygames.assassin",
+      "name": "Hunter Assassin",
+      "developer": "Ruby Games AS",
+      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=GA",
+      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T13:15:04.000Z",
       "genres": [
         "Action"
       ],
@@ -688,20 +702,6 @@
         "Word"
       ],
       "country": "GA"
-    },
-    {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=GA",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T15:11:48.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "GA"
     }
   ],
   "updated": [
@@ -804,16 +804,16 @@
       "country": "GA"
     },
     {
-      "id": "com.advant.streamer",
-      "name": "Lamar - Idle Vlogger",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=GA",
-      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
+      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
+      "name": "Fashion Glow: Model & Style",
+      "developer": "Dress Up Games for Girls",
+      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=GA",
+      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T15:26:20.000Z",
+      "releaseDate": "2026-01-14T08:31:08.000Z",
       "genres": [
-        "Simulation"
+        "Casual"
       ],
       "country": "GA"
     },
@@ -832,16 +832,16 @@
       "country": "GA"
     },
     {
-      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
-      "name": "Fashion Glow: Model & Style",
-      "developer": "Dress Up Games for Girls",
-      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=GA",
-      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
+      "id": "com.advant.streamer",
+      "name": "Lamar - Idle Vlogger",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=GA",
+      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-14T08:31:08.000Z",
+      "releaseDate": "2026-02-20T15:26:20.000Z",
       "genres": [
-        "Casual"
+        "Simulation"
       ],
       "country": "GA"
     },
@@ -888,20 +888,6 @@
       "country": "GA"
     },
     {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=GA",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "GA"
-    },
-    {
       "id": "com.block.juggle",
       "name": "Block Blast!",
       "developer": "HungryStudio",
@@ -912,6 +898,20 @@
       "releaseDate": "2026-02-28T16:35:20.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "GA"
+    },
+    {
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=GA",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "GA"
     },
@@ -930,34 +930,6 @@
       "country": "GA"
     },
     {
-      "id": "org.ppsspp.ppsspp",
-      "name": "PPSSPP - PSP emulator",
-      "developer": "Henrik Rydgård",
-      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=GA",
-      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-07-14T10:46:02.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "GA"
-    },
-    {
-      "id": "com.homedesign.restore.asmr.games",
-      "name": "Home Makeover: ASMR Game",
-      "developer": "Happy Giggles",
-      "url": "https://play.google.com/store/apps/details?id=com.homedesign.restore.asmr.games&hl=en&gl=GA",
-      "artwork": "https://play-lh.googleusercontent.com/5PKuhy9WvL6v-5klhBM60A8uvCylSxNKc-RnOkCMtKToQwZF5o75Bx-Wgx2GDfU14cg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T14:32:45.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "GA"
-    },
-    {
       "id": "com.Neurononfire.SupremeDuelist",
       "name": "Supreme Duelist",
       "developer": "Neron's Brother",
@@ -966,6 +938,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-06T17:04:22.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "GA"
+    },
+    {
+      "id": "org.ppsspp.ppsspp",
+      "name": "PPSSPP - PSP emulator",
+      "developer": "Henrik Rydgård",
+      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=GA",
+      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-07-14T10:46:02.000Z",
       "genres": [
         "Action"
       ],
@@ -982,6 +968,20 @@
       "releaseDate": "2026-01-29T15:32:33.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "GA"
+    },
+    {
+      "id": "com.homedesign.restore.asmr.games",
+      "name": "Home Makeover: ASMR Game",
+      "developer": "Happy Giggles",
+      "url": "https://play.google.com/store/apps/details?id=com.homedesign.restore.asmr.games&hl=en&gl=GA",
+      "artwork": "https://play-lh.googleusercontent.com/5PKuhy9WvL6v-5klhBM60A8uvCylSxNKc-RnOkCMtKToQwZF5o75Bx-Wgx2GDfU14cg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T14:32:45.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "GA"
     },
@@ -1014,14 +1014,14 @@
       "country": "GA"
     },
     {
-      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
-      "name": "Agent Shooter - Shooting Game",
-      "developer": "Rebel Actions",
-      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=GA",
-      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
+      "id": "com.sybogames.subway.surfers.game",
+      "name": "Subway Surfers City",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=GA",
+      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T10:48:15.000Z",
+      "releaseDate": "2026-02-20T15:55:38.000Z",
       "genres": [
         "Action"
       ],
@@ -1042,30 +1042,16 @@
       "country": "GA"
     },
     {
-      "id": "com.sybogames.subway.surfers.game",
-      "name": "Subway Surfers City",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=GA",
-      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
+      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
+      "name": "Agent Shooter - Shooting Game",
+      "developer": "Rebel Actions",
+      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=GA",
+      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T15:55:38.000Z",
+      "releaseDate": "2026-02-26T10:48:15.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "GA"
-    },
-    {
-      "id": "com.gamovation.tileclub",
-      "name": "Tile Club - Match Puzzle Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=GA",
-      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-07T10:41:36.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "GA"
     },
@@ -1080,6 +1066,20 @@
       "releaseDate": "2026-02-27T06:55:33.000Z",
       "genres": [
         "Strategy"
+      ],
+      "country": "GA"
+    },
+    {
+      "id": "com.gamovation.tileclub",
+      "name": "Tile Club - Match Puzzle Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=GA",
+      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-07T10:41:36.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "GA"
     },
@@ -1112,20 +1112,6 @@
       "country": "GA"
     },
     {
-      "id": "air.ynfo.stickergo",
-      "name": "Sticker GO!",
-      "developer": "Ganko",
-      "url": "https://play.google.com/store/apps/details?id=air.ynfo.stickergo&hl=en&gl=GA",
-      "artwork": "https://play-lh.googleusercontent.com/EWkIO0Mx40HtsawyCBpLzf3tZ4jU69TXhWQqYyWgjLq6-UX4M22EaVZzyOU7JQXVoM4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T18:24:48.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "GA"
-    },
-    {
       "id": "com.freeplay.twerk",
       "name": "Twerk Race 3d — Fun run game!",
       "developer": "Freeplay Inc",
@@ -1140,30 +1126,16 @@
       "country": "GA"
     },
     {
-      "id": "com.ction.playergames",
-      "name": "2 3 4 Player Mini Games",
-      "developer": "Better World Games",
-      "url": "https://play.google.com/store/apps/details?id=com.ction.playergames&hl=en&gl=GA",
-      "artwork": "https://play-lh.googleusercontent.com/vHuenuu1GqX1BwDaYX86dsbQlmA7vCO0PEdgdXlCEZP5x2_R3pZo0xcI9Mkdn4UW7NA",
+      "id": "com.mystic.fortunefighterdef",
+      "name": "Fortune Fighter Defense",
+      "developer": "Ibrahim Omera",
+      "url": "https://play.google.com/store/apps/details?id=com.mystic.fortunefighterdef&hl=en&gl=GA",
+      "artwork": "https://play-lh.googleusercontent.com/gnYTL9eAHfbJVlgPvu9yqON1KWrKX8JRsPVKvfjNZx3LiqkVnT2VKEnhyPPDiVIAmvf_B-m9PtnSExs3w3Xx",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-28T20:16:32.000Z",
+      "releaseDate": "2025-10-24T15:28:03.000Z",
       "genres": [
-        "Simulation"
-      ],
-      "country": "GA"
-    },
-    {
-      "id": "com.outfit7.herodash",
-      "name": "Talking Tom Hero Dash",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.herodash&hl=en&gl=GA",
-      "artwork": "https://play-lh.googleusercontent.com/uVydUn_7JJQcZDUWc4mMpX63rDtYgMDEGjxzFxDHdk33KQrHtWW54_Wb4mXCRUIGb94",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T12:38:33.000Z",
-      "genres": [
-        "Action"
+        "Strategy"
       ],
       "country": "GA"
     },
@@ -1178,6 +1150,34 @@
       "releaseDate": "2026-02-09T07:00:13.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "GA"
+    },
+    {
+      "id": "air.ynfo.stickergo",
+      "name": "Sticker GO!",
+      "developer": "Ganko",
+      "url": "https://play.google.com/store/apps/details?id=air.ynfo.stickergo&hl=en&gl=GA",
+      "artwork": "https://play-lh.googleusercontent.com/EWkIO0Mx40HtsawyCBpLzf3tZ4jU69TXhWQqYyWgjLq6-UX4M22EaVZzyOU7JQXVoM4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T18:24:48.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "GA"
+    },
+    {
+      "id": "com.ction.playergames",
+      "name": "2 3 4 Player Mini Games",
+      "developer": "Better World Games",
+      "url": "https://play.google.com/store/apps/details?id=com.ction.playergames&hl=en&gl=GA",
+      "artwork": "https://play-lh.googleusercontent.com/vHuenuu1GqX1BwDaYX86dsbQlmA7vCO0PEdgdXlCEZP5x2_R3pZo0xcI9Mkdn4UW7NA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-28T20:16:32.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "GA"
     },
@@ -1210,16 +1210,16 @@
       "country": "GA"
     },
     {
-      "id": "com.devgame.masha.and.bear.pizzeria.games",
-      "name": "Masha and the Bear Pizza Maker",
-      "developer": "DEVGAME KIDS games",
-      "url": "https://play.google.com/store/apps/details?id=com.devgame.masha.and.bear.pizzeria.games&hl=en&gl=GA",
-      "artwork": "https://play-lh.googleusercontent.com/oZv-3Ob4JdeQLXQFmC-bTePxjfNU7PYRcuQe-tnUPLvbL1MdeWv-X1U6bF5SApbpKO6hfW2GsQPZsnxSVnG9",
+      "id": "com.outfit7.herodash",
+      "name": "Talking Tom Hero Dash",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.herodash&hl=en&gl=GA",
+      "artwork": "https://play-lh.googleusercontent.com/uVydUn_7JJQcZDUWc4mMpX63rDtYgMDEGjxzFxDHdk33KQrHtWW54_Wb4mXCRUIGb94",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T09:07:24.000Z",
+      "releaseDate": "2026-02-13T12:38:33.000Z",
       "genres": [
-        "Role Playing"
+        "Action"
       ],
       "country": "GA"
     },
@@ -1238,30 +1238,16 @@
       "country": "GA"
     },
     {
-      "id": "com.mystic.fortunefighterdef",
-      "name": "Fortune Fighter Defense",
-      "developer": "Ibrahim Omera",
-      "url": "https://play.google.com/store/apps/details?id=com.mystic.fortunefighterdef&hl=en&gl=GA",
-      "artwork": "https://play-lh.googleusercontent.com/gnYTL9eAHfbJVlgPvu9yqON1KWrKX8JRsPVKvfjNZx3LiqkVnT2VKEnhyPPDiVIAmvf_B-m9PtnSExs3w3Xx",
+      "id": "com.devgame.masha.and.bear.pizzeria.games",
+      "name": "Masha and the Bear Pizza Maker",
+      "developer": "DEVGAME KIDS games",
+      "url": "https://play.google.com/store/apps/details?id=com.devgame.masha.and.bear.pizzeria.games&hl=en&gl=GA",
+      "artwork": "https://play-lh.googleusercontent.com/oZv-3Ob4JdeQLXQFmC-bTePxjfNU7PYRcuQe-tnUPLvbL1MdeWv-X1U6bF5SApbpKO6hfW2GsQPZsnxSVnG9",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-24T15:28:03.000Z",
+      "releaseDate": "2026-02-04T09:07:24.000Z",
       "genres": [
-        "Strategy"
-      ],
-      "country": "GA"
-    },
-    {
-      "id": "com.rasugames.pls",
-      "name": "Pro League Soccer",
-      "developer": "Rasu Games",
-      "url": "https://play.google.com/store/apps/details?id=com.rasugames.pls&hl=en&gl=GA",
-      "artwork": "https://play-lh.googleusercontent.com/H5-3R_RxnB6J8y-SPsR38sa0aS06pX48obGw6H2MVw5qxsbz62I4w9KIZxqanfp5_vT3",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-03T11:06:12.000Z",
-      "genres": [
-        "Sports"
+        "Role Playing"
       ],
       "country": "GA"
     },
@@ -1276,6 +1262,20 @@
       "releaseDate": "2025-08-27T16:01:25.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "GA"
+    },
+    {
+      "id": "com.rasugames.pls",
+      "name": "Pro League Soccer",
+      "developer": "Rasu Games",
+      "url": "https://play.google.com/store/apps/details?id=com.rasugames.pls&hl=en&gl=GA",
+      "artwork": "https://play-lh.googleusercontent.com/H5-3R_RxnB6J8y-SPsR38sa0aS06pX48obGw6H2MVw5qxsbz62I4w9KIZxqanfp5_vT3",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-03T11:06:12.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "GA"
     },
@@ -1308,20 +1308,6 @@
       "country": "GA"
     },
     {
-      "id": "com.dts.freefireth",
-      "name": "Free Fire: Lost Treasure",
-      "developer": "GARENA INTERNATIONAL I",
-      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=GA",
-      "artwork": "https://play-lh.googleusercontent.com/VxqoBX9loIqsESn5OPhXDLLYw8YFAlLJX3TJUb7ovyIQdRRWwGuG3jD9konTZAeWzd8VlVTDt8fkJ8BAEU4ZHQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T06:43:26.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "GA"
-    },
-    {
       "id": "com.starplay.spider.fighter.openworld",
       "name": "Spider Fighter 3: Action Game",
       "developer": "Starplay FZCO",
@@ -1330,6 +1316,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-19T16:40:04.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "GA"
+    },
+    {
+      "id": "com.dts.freefireth",
+      "name": "Free Fire: Lost Treasure",
+      "developer": "GARENA INTERNATIONAL I",
+      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=GA",
+      "artwork": "https://play-lh.googleusercontent.com/VxqoBX9loIqsESn5OPhXDLLYw8YFAlLJX3TJUb7ovyIQdRRWwGuG3jD9konTZAeWzd8VlVTDt8fkJ8BAEU4ZHQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T06:43:26.000Z",
       "genres": [
         "Action"
       ],
@@ -1350,16 +1350,16 @@
       "country": "GA"
     },
     {
-      "id": "com.dicedpixel.foodrun",
-      "name": "Food Run - Crowd Control Game",
-      "developer": "Diced Pixel, LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.dicedpixel.foodrun&hl=en&gl=GA",
-      "artwork": "https://play-lh.googleusercontent.com/JNNh5Wd-qjJFGvNC_iZkyy9JgAVAgLuoMyugxtXfZiEE5WgaFglbmG0p30A3Ah1xqBw",
+      "id": "in.playsimple.wordsearch",
+      "name": "Word Search Explorer",
+      "developer": "PlaySimple Games",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=GA",
+      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-18T23:09:59.000Z",
+      "releaseDate": "2026-02-19T12:52:47.000Z",
       "genres": [
-        "Action"
+        "Word"
       ],
       "country": "GA"
     },
@@ -1392,16 +1392,16 @@
       "country": "GA"
     },
     {
-      "id": "in.playsimple.wordsearch",
-      "name": "Word Search Explorer",
-      "developer": "PlaySimple Games",
-      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=GA",
-      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
+      "id": "com.higame.annoying.tricky.story.puzzle.game",
+      "name": "Tricky Prank: Brain Quest",
+      "developer": "HIGAME Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.higame.annoying.tricky.story.puzzle.game&hl=en&gl=GA",
+      "artwork": "https://play-lh.googleusercontent.com/c4GeGD2LgyBEKA6vUalFLxcbhS5rxsqrriNbKUErdyE4ZoxlLaksRGjMtsOHdnjrBrE",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-19T12:52:47.000Z",
+      "releaseDate": "2026-01-26T11:11:09.000Z",
       "genres": [
-        "Word"
+        "Puzzle"
       ],
       "country": "GA"
     }
