@@ -1,7 +1,7 @@
 {
   "country": "BO",
   "store": "google",
-  "updatedAt": "2026-03-01T09:58:30.061Z",
+  "updatedAt": "2026-03-01T15:54:34.813Z",
   "new": [
     {
       "id": "com.block.juggle",
@@ -298,6 +298,20 @@
       "country": "BO"
     },
     {
+      "id": "com.vincentb.MobControl",
+      "name": "Mob Control",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T17:04:13.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "BO"
+    },
+    {
       "id": "io.voodoo.paper2",
       "name": "Paper.io 2",
       "developer": "VOODOO",
@@ -308,6 +322,20 @@
       "releaseDate": "2026-02-24T16:48:19.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "BO"
+    },
+    {
+      "id": "com.firsttouchgames.dls7",
+      "name": "Dream League Soccer 2026",
+      "developer": "First Touch Games Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T16:45:20.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "BO"
     },
@@ -674,34 +702,6 @@
         "Casual"
       ],
       "country": "BO"
-    },
-    {
-      "id": "com.outfit7.mytalkingangela2",
-      "name": "My Talking Angela 2",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T14:20:52.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "BO"
-    },
-    {
-      "id": "puzzle.snakes.puzzle.slithereat.gaming",
-      "name": "Snake Puzzle: Slither to Eat",
-      "developer": "Brave HK Limited",
-      "url": "https://play.google.com/store/apps/details?id=puzzle.snakes.puzzle.slithereat.gaming&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/BPmtnHqdOT3BPoya3WYneYUzcDOkYM0wyfSh-197KPQM3l-mnZvDDK-cnCD0UY21tSw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-15T15:35:36.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "BO"
     }
   ],
   "updated": [
@@ -916,6 +916,34 @@
       "country": "BO"
     },
     {
+      "id": "com.geck.piano.cattiles.edm",
+      "name": "Piano Beat: Rush Tiles",
+      "developer": "Geckolor Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.geck.piano.cattiles.edm&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/hL4KteyfX56_XCH12a7_bSrxSY1b_s9Vs43b6VnwinkCsrKfusj_kZRzDmPnS-VE1g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T14:27:34.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "BO"
+    },
+    {
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T16:48:19.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "BO"
+    },
+    {
       "id": "com.ea.game.pvz2_row",
       "name": "Plants vs Zombies™ 2",
       "developer": "ELECTRONIC ARTS",
@@ -958,16 +986,16 @@
       "country": "BO"
     },
     {
-      "id": "com.geck.piano.cattiles.edm",
-      "name": "Piano Beat: Rush Tiles",
-      "developer": "Geckolor Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.geck.piano.cattiles.edm&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/hL4KteyfX56_XCH12a7_bSrxSY1b_s9Vs43b6VnwinkCsrKfusj_kZRzDmPnS-VE1g",
+      "id": "com.Earthkwak.Platformer",
+      "name": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-09T14:27:34.000Z",
+      "releaseDate": "2025-11-26T09:16:49.000Z",
       "genres": [
-        "Casual"
+        "Adventure"
       ],
       "country": "BO"
     },
@@ -1010,20 +1038,6 @@
       "releaseDate": "2026-02-20T15:55:38.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "BO"
-    },
-    {
-      "id": "com.Earthkwak.Platformer",
-      "name": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-26T09:16:49.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "BO"
     },
@@ -1084,20 +1098,6 @@
       "country": "BO"
     },
     {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T16:48:19.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "BO"
-    },
-    {
       "id": "pt.cosmicode.imposter",
       "name": "Imposter Up - Who is the Spy?",
       "developer": "Cosmicode",
@@ -1122,6 +1122,20 @@
       "releaseDate": "2026-02-18T19:19:24.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "BO"
+    },
+    {
+      "id": "gg.sunday.dog.escape.puzzle",
+      "name": "Dog Escape: Cute Pet Care Life",
+      "developer": "Sunday.gg",
+      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T17:46:36.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "BO"
     },
@@ -1196,20 +1210,6 @@
       "country": "BO"
     },
     {
-      "id": "gg.sunday.dog.escape.puzzle",
-      "name": "Dog Escape: Cute Pet Care Life",
-      "developer": "Sunday.gg",
-      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T17:46:36.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "BO"
-    },
-    {
       "id": "com.ea.gp.fifamobile",
       "name": "EA SPORTS FC™ Mobile Soccer 26",
       "developer": "ELECTRONIC ARTS",
@@ -1220,20 +1220,6 @@
       "releaseDate": "2026-02-03T01:41:34.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "BO"
-    },
-    {
-      "id": "com.supercell.brawlstars",
-      "name": "Brawl Stars",
-      "developer": "Supercell",
-      "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/WLJb9DGkxPkiqlvizxSyHnMqPOZATgfd8RH8rEo3L4FM84luI7GYKE8D2qFZNtC2OMsoo-eOy-qquwIRVl-05w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T13:48:42.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "BO"
     },
@@ -1252,16 +1238,16 @@
       "country": "BO"
     },
     {
-      "id": "com.uc.gym.clicker",
-      "name": "Gym Idle Clicker: Fitness Hero",
-      "developer": "Unicorn Studio Official",
-      "url": "https://play.google.com/store/apps/details?id=com.uc.gym.clicker&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/9uzA6qLx2gFUnbq-gxvn2ZZeTweHsZFGvO1kurRydMEWIpwf9q5ATOPzsg2aGgYuvWM",
+      "id": "com.supercell.brawlstars",
+      "name": "Brawl Stars",
+      "developer": "Supercell",
+      "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/WLJb9DGkxPkiqlvizxSyHnMqPOZATgfd8RH8rEo3L4FM84luI7GYKE8D2qFZNtC2OMsoo-eOy-qquwIRVl-05w",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T03:20:44.000Z",
+      "releaseDate": "2026-02-20T13:48:42.000Z",
       "genres": [
-        "Casual"
+        "Action"
       ],
       "country": "BO"
     },
@@ -1378,6 +1364,34 @@
       "country": "BO"
     },
     {
+      "id": "com.uc.gym.clicker",
+      "name": "Gym Idle Clicker: Fitness Hero",
+      "developer": "Unicorn Studio Official",
+      "url": "https://play.google.com/store/apps/details?id=com.uc.gym.clicker&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/9uzA6qLx2gFUnbq-gxvn2ZZeTweHsZFGvO1kurRydMEWIpwf9q5ATOPzsg2aGgYuvWM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T03:20:44.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "BO"
+    },
+    {
+      "id": "com.outfit7.mytalkingangela2",
+      "name": "My Talking Angela 2",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=BO",
+      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T14:20:52.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "BO"
+    },
+    {
       "id": "com.king.candycrushsaga",
       "name": "Candy Crush Saga",
       "developer": "King",
@@ -1388,20 +1402,6 @@
       "releaseDate": "2026-02-19T12:54:33.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "BO"
-    },
-    {
-      "id": "com.pazugames.avatarworld",
-      "name": "Avatar World ®",
-      "developer": "Pazu Games",
-      "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld&hl=en&gl=BO",
-      "artwork": "https://play-lh.googleusercontent.com/LnX6GD073ysfflkl2jX8NBcDxdG6ZV8xBkbo985dJgR2v2xdsKD6nIA-EtIl2cFwfHTPKaraLh4U4uq7iH1b",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T10:51:24.000Z",
-      "genres": [
-        "Role Playing"
       ],
       "country": "BO"
     }

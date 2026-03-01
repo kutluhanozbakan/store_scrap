@@ -1,7 +1,7 @@
 {
   "country": "BJ",
   "store": "google",
-  "updatedAt": "2026-03-01T09:58:12.134Z",
+  "updatedAt": "2026-03-01T15:54:15.787Z",
   "new": [
     {
       "id": "water.sort.color.puzzle.offline.games",
@@ -424,6 +424,20 @@
       "country": "BJ"
     },
     {
+      "id": "in.playsimple.wordsearch",
+      "name": "Word Search Explorer",
+      "developer": "PlaySimple Games",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=BJ",
+      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T12:52:47.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "BJ"
+    },
+    {
       "id": "com.gamebasics.osm",
       "name": "OSM 25/26 Soccer Manager Game",
       "developer": "Gamebasics BV",
@@ -688,37 +702,9 @@
         "Sports"
       ],
       "country": "BJ"
-    },
-    {
-      "id": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
-      "name": "Ramp Car Games: GT Car Stunts",
-      "developer": "Fun Drive Games",
-      "url": "https://play.google.com/store/apps/details?id=com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks&hl=en&gl=BJ",
-      "artwork": "https://play-lh.googleusercontent.com/AkcgFr9M2qfIcp1fkrQS8Ny6Ludis4_fBO0_VvfdWLJtrRpu0O-2T1v4mn0b1t59yA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T11:35:46.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "BJ"
     }
   ],
   "updated": [
-    {
-      "id": "com.fxroyale.app",
-      "name": "Trading Arena-Crypto Simulator",
-      "developer": "Edusystems OU",
-      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=BJ",
-      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T21:13:51.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "BJ"
-    },
     {
       "id": "com.football.soccer.league",
       "name": "Football League 2026",
@@ -730,6 +716,20 @@
       "releaseDate": "2026-02-11T12:25:49.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "BJ"
+    },
+    {
+      "id": "com.fxroyale.app",
+      "name": "Trading Arena-Crypto Simulator",
+      "developer": "Edusystems OU",
+      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=BJ",
+      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T21:13:51.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "BJ"
     },
@@ -1042,20 +1042,6 @@
       "country": "BJ"
     },
     {
-      "id": "com.firsttouchgames.story",
-      "name": "Score! Hero",
-      "developer": "First Touch Games Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.story&hl=en&gl=BJ",
-      "artwork": "https://play-lh.googleusercontent.com/ufqvcHKWB7NVjQ1wLtacnwSj-Jx6PtYuGJtxTp09eGTRtBHSD5Q8gzw-Jq-PBhaH4UXPnUskWfZrMDaGZd8h",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T17:01:42.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "BJ"
-    },
-    {
       "id": "com.cqqtudio.neo.zamani.android",
       "name": "NEO ZAMANI",
       "developer": "Ms khan",
@@ -1112,20 +1098,6 @@
       "country": "BJ"
     },
     {
-      "id": "com.xgame.VehicleDriving3D",
-      "name": "Real Driving: Vehicle & Park",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=BJ",
-      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T06:55:58.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "BJ"
-    },
-    {
       "id": "com.rubygames.assassin",
       "name": "Hunter Assassin",
       "developer": "Ruby Games AS",
@@ -1150,6 +1122,20 @@
       "releaseDate": "2026-02-28T00:29:36.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "BJ"
+    },
+    {
+      "id": "com.firsttouchgames.story",
+      "name": "Score! Hero",
+      "developer": "First Touch Games Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.story&hl=en&gl=BJ",
+      "artwork": "https://play-lh.googleusercontent.com/ufqvcHKWB7NVjQ1wLtacnwSj-Jx6PtYuGJtxTp09eGTRtBHSD5Q8gzw-Jq-PBhaH4UXPnUskWfZrMDaGZd8h",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T17:01:42.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "BJ"
     },
@@ -1192,6 +1178,20 @@
       "releaseDate": "2025-12-22T11:10:53.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "BJ"
+    },
+    {
+      "id": "com.xgame.VehicleDriving3D",
+      "name": "Real Driving: Vehicle & Park",
+      "developer": "XGAME STUDIO",
+      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=BJ",
+      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T06:55:58.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "BJ"
     },
