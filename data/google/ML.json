@@ -1,8 +1,22 @@
 {
   "country": "ML",
   "store": "google",
-  "updatedAt": "2026-02-28T20:14:17.513Z",
+  "updatedAt": "2026-03-01T05:43:01.428Z",
   "new": [
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T16:35:20.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "ML"
+    },
     {
       "id": "water.sort.color.puzzle.offline.games",
       "name": "Water Sort! Color Sort Puzzle",
@@ -12,6 +26,34 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-28T16:25:39.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "ML"
+    },
+    {
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast: Wonders",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T16:08:01.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "ML"
+    },
+    {
+      "id": "com.hungrystudio.mahjong",
+      "name": "Double Tile!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T11:25:39.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -102,20 +144,6 @@
       "country": "ML"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:27:55.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "ML"
-    },
-    {
       "id": "fi.twomenandadog.zombiecatchers",
       "name": "Zombie Catchers : Hunt & sell",
       "developer": "Deca Games",
@@ -140,20 +168,6 @@
       "releaseDate": "2026-02-26T21:16:50.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "ML"
-    },
-    {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast: Wonders",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T16:42:28.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "ML"
     },
@@ -256,20 +270,6 @@
       "country": "ML"
     },
     {
-      "id": "com.hungrystudio.mahjong",
-      "name": "Double Tile!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T17:41:11.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "ML"
-    },
-    {
       "id": "com.classic.ludo.dice.board.game",
       "name": "Ludo Classic Multiplayer Game",
       "developer": "Dreamland Games Inc.",
@@ -280,6 +280,20 @@
       "releaseDate": "2026-02-24T17:35:38.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "ML"
+    },
+    {
+      "id": "com.NikitaPokruchin.ALTCITYOnline",
+      "name": "Grand Hustle RP: Online Game",
+      "developer": "LEVEL 26 GAMES - FZCO",
+      "url": "https://play.google.com/store/apps/details?id=com.NikitaPokruchin.ALTCITYOnline&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/Se9PXJVlJR_gchpDDYzkPxv73H1eLojhV-M-7JqNwDdD3BhWcHfHIMD3ZtESen8nONF2",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T17:27:16.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "ML"
     },
@@ -378,20 +392,6 @@
       "releaseDate": "2026-02-20T11:42:37.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "ML"
-    },
-    {
-      "id": "com.king.candycrushsaga",
-      "name": "Candy Crush Saga",
-      "developer": "King",
-      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T12:54:33.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "ML"
     },
@@ -550,14 +550,14 @@
       "country": "ML"
     },
     {
-      "id": "com.homedesign.restore.asmr.games",
-      "name": "Home Makeover: ASMR Game",
-      "developer": "Happy Giggles",
-      "url": "https://play.google.com/store/apps/details?id=com.homedesign.restore.asmr.games&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/5PKuhy9WvL6v-5klhBM60A8uvCylSxNKc-RnOkCMtKToQwZF5o75Bx-Wgx2GDfU14cg",
+      "id": "com.outfit7.mytalkingtomfriends",
+      "name": "My Talking Tom Friends",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/WY69uGwaQPUx5vS9bxF3sm4mc9N1ZzvVHVqLrZOycExHb6m8A2v5hGoroTRjih1a_d4Y",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T14:32:45.000Z",
+      "releaseDate": "2026-02-13T13:03:47.000Z",
       "genres": [
         "Casual"
       ],
@@ -790,20 +790,6 @@
       "country": "ML"
     },
     {
-      "id": "com.zams.car.parking.game",
-      "name": "Prado Parking Game: Car Games",
-      "developer": "Zamsolutions",
-      "url": "https://play.google.com/store/apps/details?id=com.zams.car.parking.game&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/cn2Nwf-s0dzhRf-3XsFeV46-pYVhsx1FR6Pwwrot9GomqObP6-WYTbDYFAvk0Zg-Sw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T13:09:31.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "ML"
-    },
-    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -818,16 +804,16 @@
       "country": "ML"
     },
     {
-      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
-      "name": "Agent Shooter - Shooting Game",
-      "developer": "Rebel Actions",
-      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
+      "id": "com.zams.car.parking.game",
+      "name": "Prado Parking Game: Car Games",
+      "developer": "Zamsolutions",
+      "url": "https://play.google.com/store/apps/details?id=com.zams.car.parking.game&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/cn2Nwf-s0dzhRf-3XsFeV46-pYVhsx1FR6Pwwrot9GomqObP6-WYTbDYFAvk0Zg-Sw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T10:48:15.000Z",
+      "releaseDate": "2026-02-18T13:09:31.000Z",
       "genres": [
-        "Action"
+        "Role Playing"
       ],
       "country": "ML"
     },
@@ -842,6 +828,20 @@
       "releaseDate": "2026-02-03T01:41:34.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "ML"
+    },
+    {
+      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
+      "name": "Agent Shooter - Shooting Game",
+      "developer": "Rebel Actions",
+      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T10:48:15.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "ML"
     },
@@ -888,20 +888,6 @@
       "country": "ML"
     },
     {
-      "id": "com.ludo.master.hippo",
-      "name": "Ludo Master™ - Ludo Board Game",
-      "developer": "Hippo Lab",
-      "url": "https://play.google.com/store/apps/details?id=com.ludo.master.hippo&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/w4hT0PH6yHVUY3trO3ICmTOzGt9x3UPrwZsC9uAF3CmuCPtS2CD6lwjUIeEIqcjxHEw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T10:48:46.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "ML"
-    },
-    {
       "id": "com.miniclip.realsniper",
       "name": "Pure Sniper: Gun Shooter Games",
       "developer": "Miniclip.com",
@@ -916,16 +902,16 @@
       "country": "ML"
     },
     {
-      "id": "com.zeudion.cryptofunapps",
-      "name": "CryptoFun - Trading Simulator",
-      "developer": "Zeudion OÜ",
-      "url": "https://play.google.com/store/apps/details?id=com.zeudion.cryptofunapps&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/vovH9xfNdoh6mp5ex2iZ54KnpqZ0RgZQXL5rLmUlBtRPu7AP5c5ivOsh-kD30G8cIYko",
+      "id": "com.ludo.master.hippo",
+      "name": "Ludo Master™ - Ludo Board Game",
+      "developer": "Hippo Lab",
+      "url": "https://play.google.com/store/apps/details?id=com.ludo.master.hippo&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/w4hT0PH6yHVUY3trO3ICmTOzGt9x3UPrwZsC9uAF3CmuCPtS2CD6lwjUIeEIqcjxHEw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-07T07:39:08.000Z",
+      "releaseDate": "2026-01-28T10:48:46.000Z",
       "genres": [
-        "Simulation"
+        "Board"
       ],
       "country": "ML"
     },
@@ -940,6 +926,20 @@
       "releaseDate": "2026-02-13T09:46:13.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "ML"
+    },
+    {
+      "id": "com.zeudion.cryptofunapps",
+      "name": "CryptoFun - Trading Simulator",
+      "developer": "Zeudion OÜ",
+      "url": "https://play.google.com/store/apps/details?id=com.zeudion.cryptofunapps&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/vovH9xfNdoh6mp5ex2iZ54KnpqZ0RgZQXL5rLmUlBtRPu7AP5c5ivOsh-kD30G8cIYko",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-07T07:39:08.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "ML"
     },
@@ -972,20 +972,6 @@
       "country": "ML"
     },
     {
-      "id": "com.hungrystudio.mahjong",
-      "name": "Double Tile!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T17:41:11.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "ML"
-    },
-    {
       "id": "com.soccer.score.star",
       "name": "Soccer Superstar",
       "developer": "Real Freestyle Soccer",
@@ -1000,6 +986,20 @@
       "country": "ML"
     },
     {
+      "id": "com.hungrystudio.mahjong",
+      "name": "Double Tile!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T11:25:39.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "ML"
+    },
+    {
       "id": "com.gamebasics.osm",
       "name": "OSM 25/26 Soccer Manager Game",
       "developer": "Gamebasics BV",
@@ -1010,6 +1010,34 @@
       "releaseDate": "2026-02-19T10:07:09.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "ML"
+    },
+    {
+      "id": "tinysoft.casino.slots.slot.machines",
+      "name": "777 Casino Slot Machines",
+      "developer": "TINYSOFT - slots, slot machines & casino games",
+      "url": "https://play.google.com/store/apps/details?id=tinysoft.casino.slots.slot.machines&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/MzN5TzoUHFxsjHjivXBnzVRuIuS8JShTfdZhJpabOMLWb50xqZ6uaw2-QfUIOU3Tbywe8qhMKXYMGuPG_DhU8g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T13:40:40.000Z",
+      "genres": [
+        "Casino"
+      ],
+      "country": "ML"
+    },
+    {
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T15:11:48.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "ML"
     },
@@ -1035,37 +1063,9 @@
       "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T16:42:28.000Z",
+      "releaseDate": "2026-02-28T16:08:01.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "ML"
-    },
-    {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T15:11:48.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "ML"
-    },
-    {
-      "id": "tinysoft.casino.slots.slot.machines",
-      "name": "777 Casino Slot Machines",
-      "developer": "TINYSOFT - slots, slot machines & casino games",
-      "url": "https://play.google.com/store/apps/details?id=tinysoft.casino.slots.slot.machines&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/MzN5TzoUHFxsjHjivXBnzVRuIuS8JShTfdZhJpabOMLWb50xqZ6uaw2-QfUIOU3Tbywe8qhMKXYMGuPG_DhU8g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T13:40:40.000Z",
-      "genres": [
-        "Casino"
       ],
       "country": "ML"
     },
@@ -1077,7 +1077,7 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T12:27:55.000Z",
+      "releaseDate": "2026-02-28T16:35:20.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1154,6 +1154,20 @@
       "country": "ML"
     },
     {
+      "id": "eu.nordeus.topeleven.android",
+      "name": "Top Eleven Be a Soccer Manager",
+      "developer": "Nordeus",
+      "url": "https://play.google.com/store/apps/details?id=eu.nordeus.topeleven.android&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/syHICcpM4rKF6_vACJknkvXhHRBju_P7P93E3cNR701Rc3alNdC1NpTvPxlhDGvvgT9pHVzfR2gOvyvFesXGrHU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-23T13:38:30.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "ML"
+    },
+    {
       "id": "com.catchup.ball.goingball",
       "name": "3D Ball Catch Up - Racing Ball",
       "developer": "Takenick Innovation",
@@ -1182,16 +1196,16 @@
       "country": "ML"
     },
     {
-      "id": "eu.nordeus.topeleven.android",
-      "name": "Top Eleven Be a Soccer Manager",
-      "developer": "Nordeus",
-      "url": "https://play.google.com/store/apps/details?id=eu.nordeus.topeleven.android&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/syHICcpM4rKF6_vACJknkvXhHRBju_P7P93E3cNR701Rc3alNdC1NpTvPxlhDGvvgT9pHVzfR2gOvyvFesXGrHU",
+      "id": "com.miniclip.drone1",
+      "name": "War Drone: 3D Shooting Games",
+      "developer": "Mobile Gaming Studios Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.drone1&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/quIsXpM_hTDjWCfCNHwROYTMyiOHJ3wdkOb8vBRq_6IP63Wv1d68qLC1mvevxX3VOw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-23T13:38:30.000Z",
+      "releaseDate": "2026-01-27T17:28:35.000Z",
       "genres": [
-        "Sports"
+        "Action"
       ],
       "country": "ML"
     },
@@ -1224,16 +1238,16 @@
       "country": "ML"
     },
     {
-      "id": "com.miniclip.drone1",
-      "name": "War Drone: 3D Shooting Games",
-      "developer": "Mobile Gaming Studios Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.drone1&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/quIsXpM_hTDjWCfCNHwROYTMyiOHJ3wdkOb8vBRq_6IP63Wv1d68qLC1mvevxX3VOw",
+      "id": "com.outfit7.mytalkingangelafree",
+      "name": "My Talking Angela",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/rdMpsc5VkkG4JGHIFqNREbWBzXxkZBHN7ZA86DqcZEMmtwWy58NLVDuqWgoG2XCAu4Q",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-27T17:28:35.000Z",
+      "releaseDate": "2026-02-25T13:56:11.000Z",
       "genres": [
-        "Action"
+        "Casual"
       ],
       "country": "ML"
     },
@@ -1266,6 +1280,20 @@
       "country": "ML"
     },
     {
+      "id": "com.refuelgames.rally",
+      "name": "Rally Fury - Extreme Racing",
+      "developer": "Refuel Games Pty Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.refuelgames.rally&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/UVjsYY6tnVq2qqtuz0BexvhIA080C-pfWalPy3Py4GD4nE-dt_mAZxuAOVgEod3teLU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-18T01:24:07.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "ML"
+    },
+    {
       "id": "com.rubygames.assassin",
       "name": "Hunter Assassin",
       "developer": "Ruby Games AS",
@@ -1276,20 +1304,6 @@
       "releaseDate": "2026-02-26T13:15:04.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "ML"
-    },
-    {
-      "id": "com.outfit7.mytalkingangelafree",
-      "name": "My Talking Angela",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/rdMpsc5VkkG4JGHIFqNREbWBzXxkZBHN7ZA86DqcZEMmtwWy58NLVDuqWgoG2XCAu4Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T13:56:11.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "ML"
     },
@@ -1322,34 +1336,6 @@
       "country": "ML"
     },
     {
-      "id": "com.refuelgames.rally",
-      "name": "Rally Fury - Extreme Racing",
-      "developer": "Refuel Games Pty Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.refuelgames.rally&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/UVjsYY6tnVq2qqtuz0BexvhIA080C-pfWalPy3Py4GD4nE-dt_mAZxuAOVgEod3teLU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-18T01:24:07.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "ML"
-    },
-    {
-      "id": "com.gp.pilot.simulator.airplanegames",
-      "name": "Pilot Simulator: Airplane Game",
-      "developer": "GamePark",
-      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T10:51:12.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "ML"
-    },
-    {
       "id": "com.imangi.templerun2",
       "name": "Temple Run 2: Endless Escape",
       "developer": "Imangi Studios",
@@ -1360,20 +1346,6 @@
       "releaseDate": "2026-02-17T14:25:25.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "ML"
-    },
-    {
-      "id": "com.igg.android.doomsdaylastsurvivors",
-      "name": "Doomsday: Last Survivors",
-      "developer": "IGG.COM",
-      "url": "https://play.google.com/store/apps/details?id=com.igg.android.doomsdaylastsurvivors&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/BLR-YLhHJzRbAzcikkbUj-YTk5SwaGLRcMVBkh2Lxh7gYmdT4CdLOdbKXFxljUPBBp-OKj5marNQwAmJC1vUiw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-07T10:51:46.000Z",
-      "genres": [
-        "Strategy"
       ],
       "country": "ML"
     },
@@ -1392,16 +1364,44 @@
       "country": "ML"
     },
     {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
+      "id": "jp.konami.wecc",
+      "name": "eFootball™  CHAMPION SQUADS",
+      "developer": "KONAMI",
+      "url": "https://play.google.com/store/apps/details?id=jp.konami.wecc&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/B4V18VPJs1HUUaKq2UN1B0gjuVmqQix20Vx1e3nDqnY47bFjkx27QAjVsrLTEtYeb9G8Vd8WLhIsbsTDAPGM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "releaseDate": "2026-02-10T07:01:51.000Z",
       "genres": [
-        "Arcade"
+        "Sports"
+      ],
+      "country": "ML"
+    },
+    {
+      "id": "com.gp.pilot.simulator.airplanegames",
+      "name": "Pilot Simulator: Airplane Game",
+      "developer": "GamePark",
+      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T10:51:12.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "ML"
+    },
+    {
+      "id": "com.igg.android.doomsdaylastsurvivors",
+      "name": "Doomsday: Last Survivors",
+      "developer": "IGG.COM",
+      "url": "https://play.google.com/store/apps/details?id=com.igg.android.doomsdaylastsurvivors&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/BLR-YLhHJzRbAzcikkbUj-YTk5SwaGLRcMVBkh2Lxh7gYmdT4CdLOdbKXFxljUPBBp-OKj5marNQwAmJC1vUiw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-07T10:51:46.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "ML"
     }
