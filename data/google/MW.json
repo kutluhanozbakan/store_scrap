@@ -1,7 +1,7 @@
 {
   "country": "MW",
   "store": "google",
-  "updatedAt": "2026-03-01T06:30:21.849Z",
+  "updatedAt": "2026-03-01T13:08:06.789Z",
   "new": [
     {
       "id": "com.block.juggle",
@@ -354,20 +354,6 @@
       "country": "MW"
     },
     {
-      "id": "com.gamovation.chessclubpilot",
-      "name": "Chess - Offline Board Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.chessclubpilot&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/e3YeRDmaHxppJ8-StfxFjbeenX9qSiCmM1dfQ-fd5-IL8Q8DumcNHZXhGTzF6aWP2A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T14:20:12.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "MW"
-    },
-    {
       "id": "com.zams.car.parking.game",
       "name": "Prado Parking Game: Car Games",
       "developer": "Zamsolutions",
@@ -702,6 +688,20 @@
         "Puzzle"
       ],
       "country": "MW"
+    },
+    {
+      "id": "com.bubbleshooter.popbubbles.collectcards",
+      "name": "Bubble Shooter",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.collectcards&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/C0hM-Dn_TvuA0gmg9PnveFMyuDOunQO8hhIWJGatOhO9ZIlZxKfes0aqnfHniAcSUBZp",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T08:25:03.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MW"
     }
   ],
   "updated": [
@@ -832,16 +832,16 @@
       "country": "MW"
     },
     {
-      "id": "com.ffgames.racingincar2",
-      "name": "Racing in Car 2",
-      "developer": "ckgames",
-      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "id": "com.appsalt.specialopsforce",
+      "name": "Special Ops Force",
+      "developer": "Appsalt",
+      "url": "https://play.google.com/store/apps/details?id=com.appsalt.specialopsforce&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/qKKF0ac1TBj6A3q2mooJdao-hsy3Q52Pm1zoToUtpQeiE5i61DMo0GgLuI1d7PLSBF3Ej7r_ap-MlWGm9U6Rcg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-19T14:55:06.000Z",
+      "releaseDate": "2026-01-30T07:57:21.000Z",
       "genres": [
-        "Racing"
+        "Action"
       ],
       "country": "MW"
     },
@@ -874,6 +874,20 @@
       "country": "MW"
     },
     {
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-19T14:55:06.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "MW"
+    },
+    {
       "id": "com.KillerBeanStudios.KillerBeanUnleashed",
       "name": "Killer Bean Unleashed",
       "developer": "Killer Bean Studios",
@@ -882,20 +896,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2025-12-03T01:06:14.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "MW"
-    },
-    {
-      "id": "com.appsalt.specialopsforce",
-      "name": "Special Ops Force",
-      "developer": "Appsalt",
-      "url": "https://play.google.com/store/apps/details?id=com.appsalt.specialopsforce&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/qKKF0ac1TBj6A3q2mooJdao-hsy3Q52Pm1zoToUtpQeiE5i61DMo0GgLuI1d7PLSBF3Ej7r_ap-MlWGm9U6Rcg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T07:57:21.000Z",
       "genres": [
         "Action"
       ],
@@ -944,34 +944,6 @@
       "country": "MW"
     },
     {
-      "id": "com.icegame.fruitlink",
-      "name": "Fruit Splash",
-      "developer": "Tap Run",
-      "url": "https://play.google.com/store/apps/details?id=com.icegame.fruitlink&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/yUqn4AXVBQGgtbpwymj0nGV3kOL8A3EdfKm6AkcVHXJeqEHlKKhN8VS_D4_yM17wZB8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-19T10:32:37.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MW"
-    },
-    {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "MW"
-    },
-    {
       "id": "com.fxroyale.app",
       "name": "Trading Arena-Crypto Simulator",
       "developer": "Edusystems OU",
@@ -1000,16 +972,30 @@
       "country": "MW"
     },
     {
-      "id": "com.hungrystudio.mahjong",
-      "name": "Double Tile!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-28T11:25:39.000Z",
+      "releaseDate": "2026-02-03T01:41:34.000Z",
       "genres": [
-        "Puzzle"
+        "Sports"
+      ],
+      "country": "MW"
+    },
+    {
+      "id": "com.icegame.fruitlink",
+      "name": "Fruit Splash",
+      "developer": "Tap Run",
+      "url": "https://play.google.com/store/apps/details?id=com.icegame.fruitlink&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/yUqn4AXVBQGgtbpwymj0nGV3kOL8A3EdfKm6AkcVHXJeqEHlKKhN8VS_D4_yM17wZB8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-19T10:32:37.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "MW"
     },
@@ -1024,6 +1010,20 @@
       "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "MW"
+    },
+    {
+      "id": "com.hungrystudio.mahjong",
+      "name": "Double Tile!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T11:25:39.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "MW"
     },
@@ -1084,48 +1084,6 @@
       "country": "MW"
     },
     {
-      "id": "com.bettergames.truck.drivingschool.simulator",
-      "name": "Truck Games - Driving School",
-      "developer": "Better Games Studio Pty Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.bettergames.truck.drivingschool.simulator&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/WiHAkl3Qhw2GrZf-angvlDNRPhSG_nkLmwZ_xT8QuN5TC69eGT-kHDjy3xZWyqTPuQc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T09:05:46.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "MW"
-    },
-    {
-      "id": "com.cooyostudio.marble.blast.lite",
-      "name": "Jungle Marble Blast 3",
-      "developer": "coolstudios",
-      "url": "https://play.google.com/store/apps/details?id=com.cooyostudio.marble.blast.lite&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/WfKaUyMlwkk0Ed-eHQ2Q7jq8bW3aeJEXqFSQKwI8WbXbWlRGG8IQzEviUFc2TqjBsg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-08-04T12:42:03.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MW"
-    },
-    {
-      "id": "com.billiards.city.pool.nation.club",
-      "name": "Pooking - Billiards City",
-      "developer": "MOUNTAIN GAME",
-      "url": "https://play.google.com/store/apps/details?id=com.billiards.city.pool.nation.club&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/GX2TaMJf2dWDsDva9feSz8u4b0bP0ldc68Dka9KiZL16HvzcghN9T2jygTlElZNElrE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-28T11:44:00.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "MW"
-    },
-    {
       "id": "games.joker.crash.rocket",
       "name": "Crash Rocket - Win & Crash",
       "developer": "Joker Game",
@@ -1140,16 +1098,16 @@
       "country": "MW"
     },
     {
-      "id": "com.w1n.slot.app.game",
-      "name": "1w (1win) - Official App",
-      "developer": "UV CORPORATIONS LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.w1n.slot.app.game&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/ZCjP7JpNOGt3H8FTNQ1FcxtSGZANOidfcieR1RHfpzyJfm6VZlfZUhIgYd9sbCvuoFtOUYXcD3jxJFdNxc6fwkQ",
+      "id": "com.bettergames.truck.drivingschool.simulator",
+      "name": "Truck Games - Driving School",
+      "developer": "Better Games Studio Pty Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.bettergames.truck.drivingschool.simulator&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/WiHAkl3Qhw2GrZf-angvlDNRPhSG_nkLmwZ_xT8QuN5TC69eGT-kHDjy3xZWyqTPuQc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-13T16:14:29.000Z",
+      "releaseDate": "2026-02-24T09:05:46.000Z",
       "genres": [
-        "Casino"
+        "Strategy"
       ],
       "country": "MW"
     },
@@ -1164,6 +1122,20 @@
       "releaseDate": "2026-02-27T12:31:23.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "MW"
+    },
+    {
+      "id": "com.cooyostudio.marble.blast.lite",
+      "name": "Jungle Marble Blast 3",
+      "developer": "coolstudios",
+      "url": "https://play.google.com/store/apps/details?id=com.cooyostudio.marble.blast.lite&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/WfKaUyMlwkk0Ed-eHQ2Q7jq8bW3aeJEXqFSQKwI8WbXbWlRGG8IQzEviUFc2TqjBsg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-04T12:42:03.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "MW"
     },
@@ -1196,72 +1168,30 @@
       "country": "MW"
     },
     {
-      "id": "water.sort.color.puzzle.offline.games",
-      "name": "Water Sort! Color Sort Puzzle",
-      "developer": "Bobodoo Game",
-      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/FGKE522gd5FND6fnX-_GdhSe9eoU0IqSBJ3gV8nUEYnOTMubjov8cvlC2FQXMgbb29NA",
+      "id": "com.w1n.slot.app.game",
+      "name": "1w (1win) - Official App",
+      "developer": "UV CORPORATIONS LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.w1n.slot.app.game&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/ZCjP7JpNOGt3H8FTNQ1FcxtSGZANOidfcieR1RHfpzyJfm6VZlfZUhIgYd9sbCvuoFtOUYXcD3jxJFdNxc6fwkQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-28T16:25:39.000Z",
+      "releaseDate": "2026-01-13T16:14:29.000Z",
       "genres": [
-        "Puzzle"
+        "Casino"
       ],
       "country": "MW"
     },
     {
-      "id": "com.gamma.checkers",
-      "name": "Checkers",
-      "developer": "Gamma Play",
-      "url": "https://play.google.com/store/apps/details?id=com.gamma.checkers&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/eugQQnZMSGTkdUTV3wuhn6dM4zBXNbmG8uD_Lv99Z66zUDsxTyY_VpdqmHVk9s9oBw",
+      "id": "com.billiards.city.pool.nation.club",
+      "name": "Pooking - Billiards City",
+      "developer": "MOUNTAIN GAME",
+      "url": "https://play.google.com/store/apps/details?id=com.billiards.city.pool.nation.club&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/GX2TaMJf2dWDsDva9feSz8u4b0bP0ldc68Dka9KiZL16HvzcghN9T2jygTlElZNElrE",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-15T12:26:55.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "MW"
-    },
-    {
-      "id": "com.gg.karate.fighting.game",
-      "name": "Kung Fu Game - Fighting Games",
-      "developer": "Offline Games Gallery",
-      "url": "https://play.google.com/store/apps/details?id=com.gg.karate.fighting.game&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/fbVfb62Wlj6IOvDaZx6jBMrSAgkk64_OmYsLV641mzv8tkT6TzVgmDLsNx0ndMO-1G4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-22T11:10:53.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "MW"
-    },
-    {
-      "id": "com.forthblue.pool",
-      "name": "Pool Billiards Pro",
-      "developer": "TerranDroid",
-      "url": "https://play.google.com/store/apps/details?id=com.forthblue.pool&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/Q0po_BQLRBvmgpr9PuJTXMV4c-dL4fldUuHpw-oruXQCqnW_M3MFmH0J42i2yGpUcSE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-05-30T09:32:03.000Z",
+      "releaseDate": "2025-11-28T11:44:00.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "MW"
-    },
-    {
-      "id": "com.igoldtech.streetchaser",
-      "name": "Street Chaser",
-      "developer": "iGold Technologies Private Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.igoldtech.streetchaser&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/BFyWSNUxrWOZ8yNnWiuoQNjF8-jYrFVzYKkLAusvB0qwW5Np9lspRLA3de38fnPC2jo",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-07T20:50:24.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "MW"
     },
@@ -1280,14 +1210,28 @@
       "country": "MW"
     },
     {
-      "id": "com.tile.home.match.puzzle.game",
-      "name": "Tile Home-Match Puzzle Game",
-      "developer": "Mindful Daily Puzzles",
-      "url": "https://play.google.com/store/apps/details?id=com.tile.home.match.puzzle.game&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/gNYvOPQPkwGCMYBC2X_CVhaLDL2EOBSx8u60gKJRbvqtVoeApk1KGhKKi76cqWK9posbD3Ai1DZzj1Bdj0DIKA",
+      "id": "com.gg.karate.fighting.game",
+      "name": "Kung Fu Game - Fighting Games",
+      "developer": "Offline Games Gallery",
+      "url": "https://play.google.com/store/apps/details?id=com.gg.karate.fighting.game&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/fbVfb62Wlj6IOvDaZx6jBMrSAgkk64_OmYsLV641mzv8tkT6TzVgmDLsNx0ndMO-1G4",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T12:54:50.000Z",
+      "releaseDate": "2025-12-22T11:10:53.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "MW"
+    },
+    {
+      "id": "water.sort.color.puzzle.offline.games",
+      "name": "Water Sort! Color Sort Puzzle",
+      "developer": "Bobodoo Game",
+      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/FGKE522gd5FND6fnX-_GdhSe9eoU0IqSBJ3gV8nUEYnOTMubjov8cvlC2FQXMgbb29NA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T16:25:39.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1322,6 +1266,62 @@
       "country": "MW"
     },
     {
+      "id": "com.igoldtech.streetchaser",
+      "name": "Street Chaser",
+      "developer": "iGold Technologies Private Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.igoldtech.streetchaser&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/BFyWSNUxrWOZ8yNnWiuoQNjF8-jYrFVzYKkLAusvB0qwW5Np9lspRLA3de38fnPC2jo",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-07T20:50:24.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "MW"
+    },
+    {
+      "id": "com.gamma.checkers",
+      "name": "Checkers",
+      "developer": "Gamma Play",
+      "url": "https://play.google.com/store/apps/details?id=com.gamma.checkers&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/eugQQnZMSGTkdUTV3wuhn6dM4zBXNbmG8uD_Lv99Z66zUDsxTyY_VpdqmHVk9s9oBw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-15T12:26:55.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "MW"
+    },
+    {
+      "id": "com.forthblue.pool",
+      "name": "Pool Billiards Pro",
+      "developer": "TerranDroid",
+      "url": "https://play.google.com/store/apps/details?id=com.forthblue.pool&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/Q0po_BQLRBvmgpr9PuJTXMV4c-dL4fldUuHpw-oruXQCqnW_M3MFmH0J42i2yGpUcSE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-05-30T09:32:03.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "MW"
+    },
+    {
+      "id": "com.tile.home.match.puzzle.game",
+      "name": "Tile Home-Match Puzzle Game",
+      "developer": "Mindful Daily Puzzles",
+      "url": "https://play.google.com/store/apps/details?id=com.tile.home.match.puzzle.game&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/gNYvOPQPkwGCMYBC2X_CVhaLDL2EOBSx8u60gKJRbvqtVoeApk1KGhKKi76cqWK9posbD3Ai1DZzj1Bdj0DIKA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T12:54:50.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MW"
+    },
+    {
       "id": "net.apex_designs.payback2",
       "name": "Payback 2 - The Battle Sandbox",
       "developer": "Apex Designs Games LLP",
@@ -1336,16 +1336,16 @@
       "country": "MW"
     },
     {
-      "id": "com.gamovation.quickcheckers",
-      "name": "Checkers - Online & Offline",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.quickcheckers&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/sfWlHZMjq2_L3MPujr7oG63AUtYlgegMNmkiSfbBrZHKYuMXzjQvwgbeqVCWkfpHS-LZ",
+      "id": "com.outfit7.mytalkingtomfree",
+      "name": "My Talking Tom",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-28T15:12:36.000Z",
+      "releaseDate": "2026-02-26T11:55:53.000Z",
       "genres": [
-        "Board"
+        "Casual"
       ],
       "country": "MW"
     },
@@ -1364,16 +1364,16 @@
       "country": "MW"
     },
     {
-      "id": "com.dreamgames.royalmatch",
-      "name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
+      "id": "com.gp.pilot.simulator.airplanegames",
+      "name": "Pilot Simulator: Airplane Game",
+      "developer": "GamePark",
+      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-16T12:04:55.000Z",
+      "releaseDate": "2026-02-13T10:51:12.000Z",
       "genres": [
-        "Puzzle"
+        "Simulation"
       ],
       "country": "MW"
     },
@@ -1392,16 +1392,16 @@
       "country": "MW"
     },
     {
-      "id": "com.outfit7.mytalkingtomfree",
-      "name": "My Talking Tom",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=MW",
-      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
+      "id": "com.gamovation.quickcheckers",
+      "name": "Checkers - Online & Offline",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.quickcheckers&hl=en&gl=MW",
+      "artwork": "https://play-lh.googleusercontent.com/sfWlHZMjq2_L3MPujr7oG63AUtYlgegMNmkiSfbBrZHKYuMXzjQvwgbeqVCWkfpHS-LZ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T11:55:53.000Z",
+      "releaseDate": "2026-01-28T15:12:36.000Z",
       "genres": [
-        "Casual"
+        "Board"
       ],
       "country": "MW"
     }
