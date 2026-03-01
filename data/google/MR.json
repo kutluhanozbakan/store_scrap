@@ -1,7 +1,7 @@
 {
   "country": "MR",
   "store": "google",
-  "updatedAt": "2026-03-01T13:07:46.869Z",
+  "updatedAt": "2026-03-01T19:04:09.299Z",
   "new": [
     {
       "id": "com.block.juggle",
@@ -12,6 +12,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-28T16:35:20.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MR"
+    },
+    {
+      "id": "water.sort.color.puzzle.offline.games",
+      "name": "Water Sort! Color Sort Puzzle",
+      "developer": "Bobodoo Game",
+      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=MR",
+      "artwork": "https://play-lh.googleusercontent.com/FGKE522gd5FND6fnX-_GdhSe9eoU0IqSBJ3gV8nUEYnOTMubjov8cvlC2FQXMgbb29NA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T16:25:39.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -688,20 +702,6 @@
         "Puzzle"
       ],
       "country": "MR"
-    },
-    {
-      "id": "com.brain.puzzle.tricky.test.annoying.quest",
-      "name": "Brain Puzzle: Tricky Test",
-      "developer": "SLEEK CHARM LIMITED",
-      "url": "https://play.google.com/store/apps/details?id=com.brain.puzzle.tricky.test.annoying.quest&hl=en&gl=MR",
-      "artwork": "https://play-lh.googleusercontent.com/GAW1v5cC_rUq5q1VGTjswJfgIfE8jcF84e7YPG8bY2UZBj_stHbZrxqJMLPzLJtEnjUl_KwwqiMrMLVp7RVY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T10:29:02.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MR"
     }
   ],
   "updated": [
@@ -832,6 +832,20 @@
       "country": "MR"
     },
     {
+      "id": "com.chillingo.robberybobfree.android.row",
+      "name": "Robbery Bob - King of Sneak",
+      "developer": "Deca_Games",
+      "url": "https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row&hl=en&gl=MR",
+      "artwork": "https://play-lh.googleusercontent.com/H3jfnH0UVoITHIsLUqrK5R-Gsw7_4sfzDdrND-uoZJAGQsYXCu20ccmnZcK74hYyGcY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-23T13:25:32.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "MR"
+    },
+    {
       "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
       "name": "Shoot Bubble - Pop Bubbles",
       "developer": "IVYGAMES",
@@ -842,20 +856,6 @@
       "releaseDate": "2026-02-06T02:18:35.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "MR"
-    },
-    {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=MR",
-      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:31:23.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "MR"
     },
@@ -874,14 +874,42 @@
       "country": "MR"
     },
     {
-      "id": "com.chillingo.robberybobfree.android.row",
-      "name": "Robbery Bob - King of Sneak",
-      "developer": "Deca_Games",
-      "url": "https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row&hl=en&gl=MR",
-      "artwork": "https://play-lh.googleusercontent.com/H3jfnH0UVoITHIsLUqrK5R-Gsw7_4sfzDdrND-uoZJAGQsYXCu20ccmnZcK74hYyGcY",
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=MR",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-23T13:25:32.000Z",
+      "releaseDate": "2026-02-27T12:31:23.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "MR"
+    },
+    {
+      "id": "org.ppsspp.ppsspp",
+      "name": "PPSSPP - PSP emulator",
+      "developer": "Henrik Rydgård",
+      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=MR",
+      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-07-14T10:46:02.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "MR"
+    },
+    {
+      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
+      "name": "Agent Shooter - Shooting Game",
+      "developer": "Rebel Actions",
+      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=MR",
+      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T10:48:15.000Z",
       "genres": [
         "Action"
       ],
@@ -958,20 +986,6 @@
       "country": "MR"
     },
     {
-      "id": "org.ppsspp.ppsspp",
-      "name": "PPSSPP - PSP emulator",
-      "developer": "Henrik Rydgård",
-      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=MR",
-      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-07-14T10:46:02.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "MR"
-    },
-    {
       "id": "com.PlayMax.playergames",
       "name": "Stickman Party 234 MiniGames",
       "developer": "PlayMax Game Studio",
@@ -996,20 +1010,6 @@
       "releaseDate": "2026-02-19T09:31:02.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "MR"
-    },
-    {
-      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
-      "name": "Agent Shooter - Shooting Game",
-      "developer": "Rebel Actions",
-      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=MR",
-      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T10:48:15.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "MR"
     },
@@ -1066,6 +1066,20 @@
       "releaseDate": "2026-01-29T15:32:33.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "MR"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=MR",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T16:35:20.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "MR"
     },
@@ -1168,6 +1182,20 @@
       "country": "MR"
     },
     {
+      "id": "com.miniclip.realsniper",
+      "name": "Pure Sniper: Gun Shooter Games",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.realsniper&hl=en&gl=MR",
+      "artwork": "https://play-lh.googleusercontent.com/D3NtyLCIKLg2VR4hUNyGVgBWICfHj5kkKL6mxGB0n4wLKMGdvhibY66VFPd7aSOR1TI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T21:05:43.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "MR"
+    },
+    {
       "id": "com.courage.ludo",
       "name": "Lama Ludo-Ludo&Chatroom",
       "developer": "Courage. Limited",
@@ -1182,20 +1210,6 @@
       "country": "MR"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=MR",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T16:35:20.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MR"
-    },
-    {
       "id": "com.id.gun.shooting.games",
       "name": "Gun Games FPS Shooting Games",
       "developer": "Interactive Dreams Inc",
@@ -1206,20 +1220,6 @@
       "releaseDate": "2026-02-13T11:59:45.000Z",
       "genres": [
         "Role Playing"
-      ],
-      "country": "MR"
-    },
-    {
-      "id": "com.miniclip.realsniper",
-      "name": "Pure Sniper: Gun Shooter Games",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.realsniper&hl=en&gl=MR",
-      "artwork": "https://play-lh.googleusercontent.com/D3NtyLCIKLg2VR4hUNyGVgBWICfHj5kkKL6mxGB0n4wLKMGdvhibY66VFPd7aSOR1TI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T21:05:43.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "MR"
     },
@@ -1294,16 +1294,16 @@
       "country": "MR"
     },
     {
-      "id": "com.homedesign.restore.asmr.games",
-      "name": "Home Makeover: ASMR Game",
-      "developer": "Happy Giggles",
-      "url": "https://play.google.com/store/apps/details?id=com.homedesign.restore.asmr.games&hl=en&gl=MR",
-      "artwork": "https://play-lh.googleusercontent.com/5PKuhy9WvL6v-5klhBM60A8uvCylSxNKc-RnOkCMtKToQwZF5o75Bx-Wgx2GDfU14cg",
+      "id": "com.rasugames.pls",
+      "name": "Pro League Soccer",
+      "developer": "Rasu Games",
+      "url": "https://play.google.com/store/apps/details?id=com.rasugames.pls&hl=en&gl=MR",
+      "artwork": "https://play-lh.googleusercontent.com/H5-3R_RxnB6J8y-SPsR38sa0aS06pX48obGw6H2MVw5qxsbz62I4w9KIZxqanfp5_vT3",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T14:32:45.000Z",
+      "releaseDate": "2025-11-03T11:06:12.000Z",
       "genres": [
-        "Casual"
+        "Sports"
       ],
       "country": "MR"
     },
@@ -1318,6 +1318,20 @@
       "releaseDate": "2026-02-28T10:36:06.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "MR"
+    },
+    {
+      "id": "com.homedesign.restore.asmr.games",
+      "name": "Home Makeover: ASMR Game",
+      "developer": "Happy Giggles",
+      "url": "https://play.google.com/store/apps/details?id=com.homedesign.restore.asmr.games&hl=en&gl=MR",
+      "artwork": "https://play-lh.googleusercontent.com/5PKuhy9WvL6v-5klhBM60A8uvCylSxNKc-RnOkCMtKToQwZF5o75Bx-Wgx2GDfU14cg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T14:32:45.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "MR"
     },
@@ -1346,20 +1360,6 @@
       "releaseDate": "2026-02-20T13:51:00.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "MR"
-    },
-    {
-      "id": "com.rasugames.pls",
-      "name": "Pro League Soccer",
-      "developer": "Rasu Games",
-      "url": "https://play.google.com/store/apps/details?id=com.rasugames.pls&hl=en&gl=MR",
-      "artwork": "https://play-lh.googleusercontent.com/H5-3R_RxnB6J8y-SPsR38sa0aS06pX48obGw6H2MVw5qxsbz62I4w9KIZxqanfp5_vT3",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-03T11:06:12.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "MR"
     },
