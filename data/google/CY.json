@@ -1,7 +1,7 @@
 {
   "country": "CY",
   "store": "google",
-  "updatedAt": "2026-03-01T16:57:24.020Z",
+  "updatedAt": "2026-03-01T22:37:04.268Z",
   "new": [
     {
       "id": "com.block.juggle",
@@ -138,6 +138,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-27T16:30:59.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CY"
+    },
+    {
+      "id": "easy.sudoku.puzzle.solver.free",
+      "name": "Sudoku - Classic Sudoku Puzzle",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=easy.sudoku.puzzle.solver.free&hl=en&gl=CY",
+      "artwork": "https://play-lh.googleusercontent.com/hYLElG0RAgn60XE6cfgsPPW_JB63PEVWvDtvhipAGvTpxBX5YgLGt3UXvnJ_kRwKhnE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T16:23:02.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -298,20 +312,6 @@
       "country": "CY"
     },
     {
-      "id": "com.CAYN.TowerOfHellObby",
-      "name": "Obby Parkour: Runner Game",
-      "developer": "Kids Games LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.CAYN.TowerOfHellObby&hl=en&gl=CY",
-      "artwork": "https://play-lh.googleusercontent.com/mPpPxTIAxlNGAYedKhiP9URm63fzk49-vwTLdf3dFweOBTq_suLOhyFw_rmczkc8rg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T05:28:35.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "CY"
-    },
-    {
       "id": "com.ecffri.arrows",
       "name": "Arrows – Puzzle Escape",
       "developer": "Lessmore UG",
@@ -378,6 +378,20 @@
       "releaseDate": "2026-02-25T02:30:11.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "CY"
+    },
+    {
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=CY",
+      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T01:15:33.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "CY"
     },
@@ -688,20 +702,6 @@
         "Action"
       ],
       "country": "CY"
-    },
-    {
-      "id": "com.fugo.wow",
-      "name": "Words of Wonders: Crossword",
-      "developer": "Fugo Games",
-      "url": "https://play.google.com/store/apps/details?id=com.fugo.wow&hl=en&gl=CY",
-      "artwork": "https://play-lh.googleusercontent.com/8Zc2SWYy3t70pvIdX9PeuaHpZZIP8sJybKiBUH2vkdxx9R2rypcIE-rN9_fbt-G7rWQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T15:42:31.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "CY"
     }
   ],
   "updated": [
@@ -832,20 +832,6 @@
       "country": "CY"
     },
     {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=CY",
-      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T16:48:19.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "CY"
-    },
-    {
       "id": "com.nebula.mahjongtile",
       "name": "Mahjong Blast: Wonders",
       "developer": "Nebula  Studio",
@@ -870,6 +856,20 @@
       "releaseDate": "2026-02-10T13:57:55.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "CY"
+    },
+    {
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=CY",
+      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T16:48:19.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "CY"
     },
@@ -902,16 +902,16 @@
       "country": "CY"
     },
     {
-      "id": "com.playstrom.my.sticker.room",
-      "name": "My Sticker Room - Decor Game",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=CY",
-      "artwork": "https://play-lh.googleusercontent.com/Z_DSIS6IGl9aSW67rlVKoatQLa8oc8cyiSQZ-jjkKpFc5sBao4dg4cfEhGTq5z7S3A",
+      "id": "com.red.sortingstore.android",
+      "name": "Water Match™- ASMR Water Sort",
+      "developer": "Youyoutang Technology",
+      "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android&hl=en&gl=CY",
+      "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T14:39:09.000Z",
+      "releaseDate": "2026-02-26T12:56:05.000Z",
       "genres": [
-        "Simulation"
+        "Casual"
       ],
       "country": "CY"
     },
@@ -930,16 +930,16 @@
       "country": "CY"
     },
     {
-      "id": "com.red.sortingstore.android",
-      "name": "Water Match™- ASMR Water Sort",
-      "developer": "Youyoutang Technology",
-      "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android&hl=en&gl=CY",
-      "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
+      "id": "com.playstrom.my.sticker.room",
+      "name": "My Sticker Room - Decor Game",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=CY",
+      "artwork": "https://play-lh.googleusercontent.com/Z_DSIS6IGl9aSW67rlVKoatQLa8oc8cyiSQZ-jjkKpFc5sBao4dg4cfEhGTq5z7S3A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T12:56:05.000Z",
+      "releaseDate": "2026-02-20T14:39:09.000Z",
       "genres": [
-        "Casual"
+        "Simulation"
       ],
       "country": "CY"
     },
@@ -952,6 +952,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-27T12:31:23.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "CY"
+    },
+    {
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=CY",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T10:53:41.000Z",
       "genres": [
         "Arcade"
       ],
@@ -972,16 +986,16 @@
       "country": "CY"
     },
     {
-      "id": "io.voodoo.holeio",
-      "name": "Hole.io",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=CY",
-      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "id": "com.higame.annoying.tricky.story.puzzle.game",
+      "name": "Tricky Prank: Brain Quest",
+      "developer": "HIGAME Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.higame.annoying.tricky.story.puzzle.game&hl=en&gl=CY",
+      "artwork": "https://play-lh.googleusercontent.com/c4GeGD2LgyBEKA6vUalFLxcbhS5rxsqrriNbKUErdyE4ZoxlLaksRGjMtsOHdnjrBrE",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T10:53:41.000Z",
+      "releaseDate": "2026-01-26T11:11:09.000Z",
       "genres": [
-        "Arcade"
+        "Puzzle"
       ],
       "country": "CY"
     },
@@ -1000,30 +1014,16 @@
       "country": "CY"
     },
     {
-      "id": "com.higame.annoying.tricky.story.puzzle.game",
-      "name": "Tricky Prank: Brain Quest",
-      "developer": "HIGAME Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.higame.annoying.tricky.story.puzzle.game&hl=en&gl=CY",
-      "artwork": "https://play-lh.googleusercontent.com/c4GeGD2LgyBEKA6vUalFLxcbhS5rxsqrriNbKUErdyE4ZoxlLaksRGjMtsOHdnjrBrE",
+      "id": "com.minigames.antistress.relaxinggames.toys",
+      "name": "Antistress Relaxing Mini Games",
+      "developer": "CAT Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.minigames.antistress.relaxinggames.toys&hl=en&gl=CY",
+      "artwork": "https://play-lh.googleusercontent.com/GyxH6OelloeKh9B0iWbTpGKeK3qSnVEhKl6MoiCnvLXTniWuITKjEQjrNACCA-XsmxooB1fKWxoXhaYVfLFqiA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-26T11:11:09.000Z",
+      "releaseDate": "2025-12-29T06:05:28.000Z",
       "genres": [
-        "Puzzle"
-      ],
-      "country": "CY"
-    },
-    {
-      "id": "com.get.rbx.counter.videost.rblx.calc",
-      "name": "RBX Counters - Get Rbux Calc",
-      "developer": "Videos Status Zone",
-      "url": "https://play.google.com/store/apps/details?id=com.get.rbx.counter.videost.rblx.calc&hl=en&gl=CY",
-      "artwork": "https://play-lh.googleusercontent.com/v_yEK0egrz0dNBpVgqXivLxvLniP2196IT2e1Upbr4c9QvnMc7sGDxEAsOpiTLvOMmW7",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-07-01T07:49:57.000Z",
-      "genres": [
-        "Adventure"
+        "Casual"
       ],
       "country": "CY"
     },
@@ -1042,16 +1042,16 @@
       "country": "CY"
     },
     {
-      "id": "com.minigames.antistress.relaxinggames.toys",
-      "name": "Antistress Relaxing Mini Games",
-      "developer": "CAT Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.minigames.antistress.relaxinggames.toys&hl=en&gl=CY",
-      "artwork": "https://play-lh.googleusercontent.com/GyxH6OelloeKh9B0iWbTpGKeK3qSnVEhKl6MoiCnvLXTniWuITKjEQjrNACCA-XsmxooB1fKWxoXhaYVfLFqiA",
+      "id": "com.get.rbx.counter.videost.rblx.calc",
+      "name": "RBX Counters - Get Rbux Calc",
+      "developer": "Videos Status Zone",
+      "url": "https://play.google.com/store/apps/details?id=com.get.rbx.counter.videost.rblx.calc&hl=en&gl=CY",
+      "artwork": "https://play-lh.googleusercontent.com/v_yEK0egrz0dNBpVgqXivLxvLniP2196IT2e1Upbr4c9QvnMc7sGDxEAsOpiTLvOMmW7",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-29T06:05:28.000Z",
+      "releaseDate": "2025-07-01T07:49:57.000Z",
       "genres": [
-        "Casual"
+        "Adventure"
       ],
       "country": "CY"
     },
@@ -1084,14 +1084,14 @@
       "country": "CY"
     },
     {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=CY",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "id": "io.randomco.travel",
+      "name": "Travel Town - Merge Adventure",
+      "developer": "Magmatic Games LTD",
+      "url": "https://play.google.com/store/apps/details?id=io.randomco.travel&hl=en&gl=CY",
+      "artwork": "https://play-lh.googleusercontent.com/JUd09-Jkgctks6QibZBPeqnpPA-6A6nMXZqAW9Fa0MKOsolbvGKSXEnuq9nxiKNCFVOT",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T15:11:48.000Z",
+      "releaseDate": "2026-02-25T12:17:23.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1112,14 +1112,14 @@
       "country": "CY"
     },
     {
-      "id": "io.randomco.travel",
-      "name": "Travel Town - Merge Adventure",
-      "developer": "Magmatic Games LTD",
-      "url": "https://play.google.com/store/apps/details?id=io.randomco.travel&hl=en&gl=CY",
-      "artwork": "https://play-lh.googleusercontent.com/JUd09-Jkgctks6QibZBPeqnpPA-6A6nMXZqAW9Fa0MKOsolbvGKSXEnuq9nxiKNCFVOT",
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=CY",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-25T12:17:23.000Z",
+      "releaseDate": "2026-02-11T15:11:48.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1140,16 +1140,16 @@
       "country": "CY"
     },
     {
-      "id": "com.brain.puzzle.tricky.test.annoying.quest",
-      "name": "Brain Puzzle: Tricky Test",
-      "developer": "SLEEK CHARM LIMITED",
-      "url": "https://play.google.com/store/apps/details?id=com.brain.puzzle.tricky.test.annoying.quest&hl=en&gl=CY",
-      "artwork": "https://play-lh.googleusercontent.com/GAW1v5cC_rUq5q1VGTjswJfgIfE8jcF84e7YPG8bY2UZBj_stHbZrxqJMLPzLJtEnjUl_KwwqiMrMLVp7RVY",
+      "id": "com.miniclip.eightballpool",
+      "name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=CY",
+      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-09T10:29:02.000Z",
+      "releaseDate": "2026-02-18T11:45:50.000Z",
       "genres": [
-        "Puzzle"
+        "Sports"
       ],
       "country": "CY"
     },
@@ -1168,16 +1168,30 @@
       "country": "CY"
     },
     {
-      "id": "com.miniclip.eightballpool",
-      "name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=CY",
-      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
+      "id": "com.cww.laststronghold",
+      "name": "Last Stronghold: Idle Survival",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.cww.laststronghold&hl=en&gl=CY",
+      "artwork": "https://play-lh.googleusercontent.com/Jx_X9G6TAS2O5W_46l1vuFVk18kL_oztKW_bb2D0q8yZiWWcwZgcjcG_BLMSjTfB5MU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-18T11:45:50.000Z",
+      "releaseDate": "2026-01-31T00:02:11.000Z",
       "genres": [
-        "Sports"
+        "Role Playing"
+      ],
+      "country": "CY"
+    },
+    {
+      "id": "com.brain.puzzle.tricky.test.annoying.quest",
+      "name": "Brain Puzzle: Tricky Test",
+      "developer": "SLEEK CHARM LIMITED",
+      "url": "https://play.google.com/store/apps/details?id=com.brain.puzzle.tricky.test.annoying.quest&hl=en&gl=CY",
+      "artwork": "https://play-lh.googleusercontent.com/GAW1v5cC_rUq5q1VGTjswJfgIfE8jcF84e7YPG8bY2UZBj_stHbZrxqJMLPzLJtEnjUl_KwwqiMrMLVp7RVY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T10:29:02.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "CY"
     },
@@ -1192,20 +1206,6 @@
       "releaseDate": "2026-01-30T14:03:50.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "CY"
-    },
-    {
-      "id": "com.cww.laststronghold",
-      "name": "Last Stronghold: Idle Survival",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.cww.laststronghold&hl=en&gl=CY",
-      "artwork": "https://play-lh.googleusercontent.com/Jx_X9G6TAS2O5W_46l1vuFVk18kL_oztKW_bb2D0q8yZiWWcwZgcjcG_BLMSjTfB5MU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-31T00:02:11.000Z",
-      "genres": [
-        "Role Playing"
       ],
       "country": "CY"
     },
@@ -1252,20 +1252,6 @@
       "country": "CY"
     },
     {
-      "id": "com.metagame.leftorrightdressfashion",
-      "name": "Left Or Right Perfect Dress Up",
-      "developer": "Metagame.Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.metagame.leftorrightdressfashion&hl=en&gl=CY",
-      "artwork": "https://play-lh.googleusercontent.com/Eq72ufrrHes3BLh6ADqbVsMN3A9YEcl2mEMul037IJ5YQ6AQCW21OQRyrGIp2O7Vlu49X6Y4Gzk6Kq9Gx1b0Cw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-31T09:03:48.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CY"
-    },
-    {
       "id": "com.craft.city.blockbuilder.pro",
       "name": "Craft Explore: Block Builder",
       "developer": "Appsgrooves",
@@ -1294,6 +1280,20 @@
       "country": "CY"
     },
     {
+      "id": "com.metagame.leftorrightdressfashion",
+      "name": "Left Or Right Perfect Dress Up",
+      "developer": "Metagame.Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.metagame.leftorrightdressfashion&hl=en&gl=CY",
+      "artwork": "https://play-lh.googleusercontent.com/Eq72ufrrHes3BLh6ADqbVsMN3A9YEcl2mEMul037IJ5YQ6AQCW21OQRyrGIp2O7Vlu49X6Y4Gzk6Kq9Gx1b0Cw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-31T09:03:48.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CY"
+    },
+    {
       "id": "com.bbg.one.line.puzzle.games",
       "name": "Line Drawing: No Lift Puzzle",
       "developer": "The Fashion Valley",
@@ -1308,16 +1308,16 @@
       "country": "CY"
     },
     {
-      "id": "com.tp.pmu3d",
-      "name": "Pick Me Up 3D: Taxi Game",
-      "developer": "Azur Interactive Games Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.tp.pmu3d&hl=en&gl=CY",
-      "artwork": "https://play-lh.googleusercontent.com/-45mcdAUu8hi22BF8ARH7zR0CO6b7xtLs_rTLtnph_lY06aXryIM-2DYJ4kLqHoKOQ",
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=CY",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T07:44:25.000Z",
+      "releaseDate": "2026-02-19T05:19:01.000Z",
       "genres": [
-        "Casual"
+        "Simulation"
       ],
       "country": "CY"
     },
@@ -1330,20 +1330,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-09T10:54:34.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "CY"
-    },
-    {
-      "id": "com.gtsy.annoying.punch.game",
-      "name": "Annoying Uncle Punch Game",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=CY",
-      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T05:19:01.000Z",
       "genres": [
         "Simulation"
       ],
@@ -1364,16 +1350,16 @@
       "country": "CY"
     },
     {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=CY",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "id": "com.tp.pmu3d",
+      "name": "Pick Me Up 3D: Taxi Game",
+      "developer": "Azur Interactive Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.tp.pmu3d&hl=en&gl=CY",
+      "artwork": "https://play-lh.googleusercontent.com/-45mcdAUu8hi22BF8ARH7zR0CO6b7xtLs_rTLtnph_lY06aXryIM-2DYJ4kLqHoKOQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T07:21:42.000Z",
+      "releaseDate": "2026-02-26T07:44:25.000Z",
       "genres": [
-        "Arcade"
+        "Casual"
       ],
       "country": "CY"
     },
@@ -1392,16 +1378,30 @@
       "country": "CY"
     },
     {
-      "id": "onetap.game.tictactoe",
-      "name": "Tic Tac Toe 2 Player: XO Game",
-      "developer": "Onetap Global",
-      "url": "https://play.google.com/store/apps/details?id=onetap.game.tictactoe&hl=en&gl=CY",
-      "artwork": "https://play-lh.googleusercontent.com/KZTO1L6r8CzWlg2InJoU_ndRAuvYiaS-35MyYdDPeeVCPNVfM9SBY2qRGjvvADmDIR8",
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=CY",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-11-04T07:54:04.000Z",
+      "releaseDate": "2026-02-24T07:21:42.000Z",
       "genres": [
-        "Puzzle"
+        "Arcade"
+      ],
+      "country": "CY"
+    },
+    {
+      "id": "com.fatmerge.global",
+      "name": "Tasty Travels: Merge Game",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=en&gl=CY",
+      "artwork": "https://play-lh.googleusercontent.com/Vkqtl-KE8ZRtHhwV90NQZihrzUKiFhKr2OdrTF_YFFYgXMp22vdlXrPbyM7B0ejv16ArQmI9S26lBcwomY7U2w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T02:48:45.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "CY"
     }
