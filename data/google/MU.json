@@ -1,7 +1,7 @@
 {
   "country": "MU",
   "store": "google",
-  "updatedAt": "2026-03-01T13:08:01.017Z",
+  "updatedAt": "2026-03-01T19:33:10.001Z",
   "new": [
     {
       "id": "com.arrow.out",
@@ -762,20 +762,6 @@
       "country": "MU"
     },
     {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=MU",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T00:38:27.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "MU"
-    },
-    {
       "id": "com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter",
       "name": "Rainbow Six Mobile",
       "developer": "Ubisoft Nova",
@@ -786,6 +772,20 @@
       "releaseDate": "2026-02-10T13:57:55.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "MU"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=MU",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T00:38:27.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "MU"
     },
@@ -888,20 +888,6 @@
       "country": "MU"
     },
     {
-      "id": "in.playsimple.wordsearch",
-      "name": "Word Search Explorer",
-      "developer": "PlaySimple Games",
-      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=MU",
-      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T12:52:47.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "MU"
-    },
-    {
       "id": "com.hitappsgames.wordsolitaire",
       "name": "Solitaire Associations Journey",
       "developer": "Hitapps Games",
@@ -916,16 +902,16 @@
       "country": "MU"
     },
     {
-      "id": "com.miniclip.eightballpool",
-      "name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=MU",
-      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
+      "id": "in.playsimple.wordsearch",
+      "name": "Word Search Explorer",
+      "developer": "PlaySimple Games",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=MU",
+      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-18T11:45:50.000Z",
+      "releaseDate": "2026-02-19T12:52:47.000Z",
       "genres": [
-        "Sports"
+        "Word"
       ],
       "country": "MU"
     },
@@ -940,6 +926,20 @@
       "releaseDate": "2026-02-13T10:53:41.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "MU"
+    },
+    {
+      "id": "com.miniclip.eightballpool",
+      "name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=MU",
+      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T11:45:50.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "MU"
     },
@@ -1028,6 +1028,20 @@
       "country": "MU"
     },
     {
+      "id": "com.gamincat.jigsolitaire",
+      "name": "Jigsolitaire",
+      "developer": "Gamincat",
+      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=MU",
+      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T01:36:26.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MU"
+    },
+    {
       "id": "com.olzhas.carparking.multyplayer",
       "name": "Car Parking Multiplayer",
       "developer": "olzhass",
@@ -1070,20 +1084,6 @@
       "country": "MU"
     },
     {
-      "id": "com.gamincat.jigsolitaire",
-      "name": "Jigsolitaire",
-      "developer": "Gamincat",
-      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=MU",
-      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T01:36:26.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MU"
-    },
-    {
       "id": "kidultlovin.word.zen",
       "name": "Zen Word® - Relax Puzzle Game",
       "developer": "Oakever Games",
@@ -1094,6 +1094,20 @@
       "releaseDate": "2026-02-27T09:57:51.000Z",
       "genres": [
         "Word"
+      ],
+      "country": "MU"
+    },
+    {
+      "id": "com.ultimatelavashgames.rollthehole",
+      "name": "Jelly Hole: Roll & Eat Pals",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.ultimatelavashgames.rollthehole&hl=en&gl=MU",
+      "artwork": "https://play-lh.googleusercontent.com/oO_bLmrCSrIFOxgpKZJXIdYQGkjtO9kMvbbyWYjsZpOXqxzxcdBlscYqUkPTkh9HiiNBRPPdWYKCqNnvjtpihb8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T15:46:36.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "MU"
     },
@@ -1140,16 +1154,16 @@
       "country": "MU"
     },
     {
-      "id": "com.ultimatelavashgames.rollthehole",
-      "name": "Jelly Hole: Roll & Eat Pals",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.ultimatelavashgames.rollthehole&hl=en&gl=MU",
-      "artwork": "https://play-lh.googleusercontent.com/oO_bLmrCSrIFOxgpKZJXIdYQGkjtO9kMvbbyWYjsZpOXqxzxcdBlscYqUkPTkh9HiiNBRPPdWYKCqNnvjtpihb8",
+      "id": "com.advant.streamer",
+      "name": "Lamar - Idle Vlogger",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=MU",
+      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T15:46:36.000Z",
+      "releaseDate": "2026-02-20T15:26:20.000Z",
       "genres": [
-        "Arcade"
+        "Simulation"
       ],
       "country": "MU"
     },
@@ -1192,20 +1206,6 @@
       "releaseDate": "2026-02-18T19:19:24.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "MU"
-    },
-    {
-      "id": "com.advant.streamer",
-      "name": "Lamar - Idle Vlogger",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=MU",
-      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T15:26:20.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "MU"
     },
@@ -1336,6 +1336,20 @@
       "country": "MU"
     },
     {
+      "id": "com.rush.xtreme.sports",
+      "name": "RUSH: Xtreme",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.rush.xtreme.sports&hl=en&gl=MU",
+      "artwork": "https://play-lh.googleusercontent.com/bBFvBjosQOZF9vM2l5LPyDyoIbTUta1ZdqeCzq0jxyLWbFWoEYKy-WUjuG6mrZbZMw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T21:04:23.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "MU"
+    },
+    {
       "id": "com.ecffri.arrows",
       "name": "Arrows – Puzzle Escape",
       "developer": "Lessmore UG",
@@ -1378,30 +1392,16 @@
       "country": "MU"
     },
     {
-      "id": "com.rush.xtreme.sports",
-      "name": "RUSH: Xtreme",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.rush.xtreme.sports&hl=en&gl=MU",
-      "artwork": "https://play-lh.googleusercontent.com/bBFvBjosQOZF9vM2l5LPyDyoIbTUta1ZdqeCzq0jxyLWbFWoEYKy-WUjuG6mrZbZMw",
+      "id": "com.playvalve.wsjourney",
+      "name": "Word Search - Word Puzzle Game",
+      "developer": "Bluetile",
+      "url": "https://play.google.com/store/apps/details?id=com.playvalve.wsjourney&hl=en&gl=MU",
+      "artwork": "https://play-lh.googleusercontent.com/buGx7Qx6e_M9DUqiwABScUWx-xgiUSJBURBhivVel8OdVVzqOB2F5V3Nt60Ov8Qudw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-12T21:04:23.000Z",
+      "releaseDate": "2026-02-11T16:54:00.000Z",
       "genres": [
-        "Racing"
-      ],
-      "country": "MU"
-    },
-    {
-      "id": "com.supercell.brawlstars",
-      "name": "Brawl Stars",
-      "developer": "Supercell",
-      "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=en&gl=MU",
-      "artwork": "https://play-lh.googleusercontent.com/WLJb9DGkxPkiqlvizxSyHnMqPOZATgfd8RH8rEo3L4FM84luI7GYKE8D2qFZNtC2OMsoo-eOy-qquwIRVl-05w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T13:48:42.000Z",
-      "genres": [
-        "Action"
+        "Word"
       ],
       "country": "MU"
     }
