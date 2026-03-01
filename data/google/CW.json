@@ -1,7 +1,7 @@
 {
   "country": "CW",
   "store": "google",
-  "updatedAt": "2026-03-01T10:36:43.617Z",
+  "updatedAt": "2026-03-01T16:57:23.111Z",
   "new": [
     {
       "id": "com.arrow.out",
@@ -214,6 +214,20 @@
       "country": "CW"
     },
     {
+      "id": "com.tp.pmu3d",
+      "name": "Pick Me Up 3D: Taxi Game",
+      "developer": "Azur Interactive Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.tp.pmu3d&hl=en&gl=CW",
+      "artwork": "https://play-lh.googleusercontent.com/-45mcdAUu8hi22BF8ARH7zR0CO6b7xtLs_rTLtnph_lY06aXryIM-2DYJ4kLqHoKOQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T07:44:25.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "CW"
+    },
+    {
       "id": "com.CAYN.TowerOfHellObby",
       "name": "Obby Parkour: Runner Game",
       "developer": "Kids Games LLC",
@@ -252,20 +266,6 @@
       "releaseDate": "2026-02-25T12:51:03.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "CW"
-    },
-    {
-      "id": "com.grus.dress.room.doll.fashion",
-      "name": "Fashion Impress: Dress Up Star",
-      "developer": "Grus Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.grus.dress.room.doll.fashion&hl=en&gl=CW",
-      "artwork": "https://play-lh.googleusercontent.com/TpvcZiyuFqtbi_DLKXzMurfQTzHIYfIG1JxdehctXm7DT5RI4xnObNC9jjdSf5QwOGzd",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T07:14:54.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "CW"
     },
@@ -522,20 +522,6 @@
       "country": "CW"
     },
     {
-      "id": "com.fugo.wow",
-      "name": "Words of Wonders: Crossword",
-      "developer": "Fugo Games",
-      "url": "https://play.google.com/store/apps/details?id=com.fugo.wow&hl=en&gl=CW",
-      "artwork": "https://play-lh.googleusercontent.com/8Zc2SWYy3t70pvIdX9PeuaHpZZIP8sJybKiBUH2vkdxx9R2rypcIE-rN9_fbt-G7rWQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T15:42:31.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "CW"
-    },
-    {
       "id": "com.miniclip.eightballpool",
       "name": "8 Ball Pool",
       "developer": "Miniclip.com",
@@ -702,6 +688,20 @@
         "Simulation"
       ],
       "country": "CW"
+    },
+    {
+      "id": "com.blockgamesstudio.blockworld3d",
+      "name": "Block World 3D: Craft & Build",
+      "developer": "Funburstgame LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d&hl=en&gl=CW",
+      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T09:17:30.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "CW"
     }
   ],
   "updated": [
@@ -762,20 +762,6 @@
       "country": "CW"
     },
     {
-      "id": "com.gamovation.tileclub",
-      "name": "Tile Club - Match Puzzle Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=CW",
-      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-07T10:41:36.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CW"
-    },
-    {
       "id": "io.voodoo.paper2",
       "name": "Paper.io 2",
       "developer": "VOODOO",
@@ -786,6 +772,20 @@
       "releaseDate": "2026-02-24T16:48:19.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "CW"
+    },
+    {
+      "id": "com.gamovation.tileclub",
+      "name": "Tile Club - Match Puzzle Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=CW",
+      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-07T10:41:36.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "CW"
     },
@@ -1266,6 +1266,20 @@
       "country": "CW"
     },
     {
+      "id": "com.tp.pmu3d",
+      "name": "Pick Me Up 3D: Taxi Game",
+      "developer": "Azur Interactive Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.tp.pmu3d&hl=en&gl=CW",
+      "artwork": "https://play-lh.googleusercontent.com/-45mcdAUu8hi22BF8ARH7zR0CO6b7xtLs_rTLtnph_lY06aXryIM-2DYJ4kLqHoKOQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T07:44:25.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "CW"
+    },
+    {
       "id": "com.aim.racing",
       "name": "Extreme Car Driving Simulator",
       "developer": "AxesInMotion Racing",
@@ -1336,6 +1350,20 @@
       "country": "CW"
     },
     {
+      "id": "com.Earthkwak.Platformer",
+      "name": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=en&gl=CW",
+      "artwork": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-26T09:16:49.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "CW"
+    },
+    {
       "id": "com.ultimatelavashgames.rollthehole",
       "name": "Jelly Hole: Roll & Eat Pals",
       "developer": "SayGames Ltd",
@@ -1374,34 +1402,6 @@
       "releaseDate": "2026-02-20T11:25:29.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "CW"
-    },
-    {
-      "id": "com.football.soccer.league",
-      "name": "Football League 2026",
-      "developer": "MOBILE SOCCER",
-      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=CW",
-      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T12:25:49.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "CW"
-    },
-    {
-      "id": "com.refection.game.mahjong.match.wrmg",
-      "name": "Mahjong Match Now",
-      "developer": "Refection",
-      "url": "https://play.google.com/store/apps/details?id=com.refection.game.mahjong.match.wrmg&hl=en&gl=CW",
-      "artwork": "https://play-lh.googleusercontent.com/dWZKfT0P3zthI7Pgsh3-Znkqzmj6vZrHSTD4JzFTFkhgxViwu7n86dOFD4YQlIPFOTe9V8mTAyrzrVjxhNo7Pg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-12T10:33:04.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "CW"
     }
