@@ -1,8 +1,22 @@
 {
   "country": "ST",
   "store": "google",
-  "updatedAt": "2026-02-28T21:31:42.266Z",
+  "updatedAt": "2026-03-01T07:53:37.751Z",
   "new": [
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=ST",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T16:35:20.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "ST"
+    },
     {
       "id": "water.sort.color.puzzle.offline.games",
       "name": "Water Sort! Color Sort Puzzle",
@@ -18,16 +32,30 @@
       "country": "ST"
     },
     {
-      "id": "com.infiniplay.merge.fashion.romance.story",
-      "name": "Merge Fashion: Romance Story",
-      "developer": "Infiniplay-Game",
-      "url": "https://play.google.com/store/apps/details?id=com.infiniplay.merge.fashion.romance.story&hl=en&gl=ST",
-      "artwork": "https://play-lh.googleusercontent.com/iAs3Ae0eJ6kR4QoggaIdksUrI8mplhUQcp7tGwZ2IF7C7p_uQ6ZVoiA-hNAIwdsAWHM",
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast: Wonders",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=ST",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-28T14:21:59.000Z",
+      "releaseDate": "2026-02-28T16:08:01.000Z",
       "genres": [
-        "Casual"
+        "Board"
+      ],
+      "country": "ST"
+    },
+    {
+      "id": "com.hungrystudio.mahjong",
+      "name": "Double Tile!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=ST",
+      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T11:25:39.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "ST"
     },
@@ -74,20 +102,6 @@
       "country": "ST"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=ST",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:27:55.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "ST"
-    },
-    {
       "id": "fi.twomenandadog.zombiecatchers",
       "name": "Zombie Catchers : Hunt & sell",
       "developer": "Deca Games",
@@ -98,20 +112,6 @@
       "releaseDate": "2026-02-27T08:09:14.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "ST"
-    },
-    {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast: Wonders",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=ST",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T16:42:28.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "ST"
     },
@@ -224,20 +224,6 @@
       "releaseDate": "2026-02-25T01:49:49.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "ST"
-    },
-    {
-      "id": "com.hungrystudio.mahjong",
-      "name": "Double Tile!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=ST",
-      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T17:41:11.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "ST"
     },
@@ -364,6 +350,20 @@
       "releaseDate": "2026-02-19T09:31:02.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "ST"
+    },
+    {
+      "id": "com.MadOut.BIG",
+      "name": "MadOut 2: Grand Auto Racing",
+      "developer": "MadOut Games LLC FZ",
+      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=ST",
+      "artwork": "https://play-lh.googleusercontent.com/dYeAjuPFJGv-XfIiKEzuR6ACSG-4pBjs31DZcjn_qRoQ2WfMzm5iKFKNLEjGERYQ6Cn-",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T07:16:00.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "ST"
     },
@@ -1063,9 +1063,23 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T12:27:55.000Z",
+      "releaseDate": "2026-02-28T16:35:20.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "ST"
+    },
+    {
+      "id": "com.sybogames.subway.surfers.game",
+      "name": "Subway Surfers City",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=ST",
+      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T15:55:38.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "ST"
     },
@@ -1364,6 +1378,20 @@
       "country": "ST"
     },
     {
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=ST",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-19T14:55:06.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "ST"
+    },
+    {
       "id": "cz.gdmt.AnnelidsDemo",
       "name": "Annelids: Online battle",
       "developer": "Michal Srb",
@@ -1374,34 +1402,6 @@
       "releaseDate": "2025-04-15T09:29:46.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "ST"
-    },
-    {
-      "id": "com.tap4fun.brutalage_test",
-      "name": "Brutal Age: Horde Invasion",
-      "developer": "Tap4fun (Hong Kong) Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.tap4fun.brutalage_test&hl=en&gl=ST",
-      "artwork": "https://play-lh.googleusercontent.com/mSDShj_jcRGrItA81wLb6_M9BcflcUReISXhOXm_B6oeoot4VDfTOlLDlBB7xcXYrXQTnI33KL-DMce5hPmm",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T07:18:51.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "ST"
-    },
-    {
-      "id": "com.dreamgames.royalmatch",
-      "name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=ST",
-      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T12:04:55.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "ST"
     }

@@ -1,7 +1,7 @@
 {
   "country": "SC",
   "store": "google",
-  "updatedAt": "2026-02-28T21:00:48.586Z",
+  "updatedAt": "2026-03-01T07:52:45.357Z",
   "new": [
     {
       "id": "air.ynfo.stickergo",
@@ -18,6 +18,20 @@
       "country": "SC"
     },
     {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T16:35:20.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "SC"
+    },
+    {
       "id": "water.sort.color.puzzle.offline.games",
       "name": "Water Sort! Color Sort Puzzle",
       "developer": "Bobodoo Game",
@@ -28,6 +42,20 @@
       "releaseDate": "2026-02-28T16:25:39.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "SC"
+    },
+    {
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast: Wonders",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T16:08:01.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "SC"
     },
@@ -144,20 +172,6 @@
       "country": "SC"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:27:55.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "SC"
-    },
-    {
       "id": "com.playflix.kick.breakragdoll.games",
       "name": "Kick & Break The Ragdoll Games",
       "developer": "Game District LLC",
@@ -210,20 +224,6 @@
       "releaseDate": "2026-02-26T18:50:37.000Z",
       "genres": [
         "Word"
-      ],
-      "country": "SC"
-    },
-    {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast: Wonders",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T16:42:28.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "SC"
     },
@@ -713,7 +713,7 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T12:27:55.000Z",
+      "releaseDate": "2026-02-28T16:35:20.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -783,7 +783,7 @@
       "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T16:42:28.000Z",
+      "releaseDate": "2026-02-28T16:08:01.000Z",
       "genres": [
         "Board"
       ],
@@ -800,6 +800,20 @@
       "releaseDate": "2026-02-19T12:52:47.000Z",
       "genres": [
         "Word"
+      ],
+      "country": "SC"
+    },
+    {
+      "id": "com.sybogames.subway.surfers.game",
+      "name": "Subway Surfers City",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T15:55:38.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "SC"
     },
@@ -832,20 +846,6 @@
       "country": "SC"
     },
     {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "SC"
-    },
-    {
       "id": "com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter",
       "name": "Rainbow Six Mobile",
       "developer": "Ubisoft Nova",
@@ -856,6 +856,20 @@
       "releaseDate": "2026-02-10T13:57:55.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "SC"
+    },
+    {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "SC"
     },
@@ -958,20 +972,6 @@
       "country": "SC"
     },
     {
-      "id": "com.sybogames.subway.surfers.game",
-      "name": "Subway Surfers City",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T15:55:38.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "SC"
-    },
-    {
       "id": "io.voodoo.holeio",
       "name": "Hole.io",
       "developer": "VOODOO",
@@ -1014,20 +1014,6 @@
       "country": "SC"
     },
     {
-      "id": "com.advant.streamer",
-      "name": "Lamar - Idle Vlogger",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T15:26:20.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "SC"
-    },
-    {
       "id": "com.media720.games2020",
       "name": "Offline Games No WiFi internet",
       "developer": "Fun Offline Games",
@@ -1052,6 +1038,20 @@
       "releaseDate": "2025-12-17T07:42:09.000Z",
       "genres": [
         "Word"
+      ],
+      "country": "SC"
+    },
+    {
+      "id": "com.advant.streamer",
+      "name": "Lamar - Idle Vlogger",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T15:26:20.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "SC"
     },
@@ -1266,6 +1266,20 @@
       "country": "SC"
     },
     {
+      "id": "com.soccer.score.star",
+      "name": "Soccer Superstar",
+      "developer": "Real Freestyle Soccer",
+      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T15:32:33.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "SC"
+    },
+    {
       "id": "com.mergegames.gossipharbor",
       "name": "Gossip Harbor®: Merge & Story",
       "developer": "Microfun Limited",
@@ -1280,6 +1294,20 @@
       "country": "SC"
     },
     {
+      "id": "com.RastleksGames.TheShootout",
+      "name": "Zombie Apocalypse: Doomsday-Z",
+      "developer": "Freeplay Inc",
+      "url": "https://play.google.com/store/apps/details?id=com.RastleksGames.TheShootout&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/Lb26WrD6Jt6ISq-uMGyTm816k1cZSd8JM8vhtT6-bJOJ6-tITaUZbVsuW0xeDnnTXQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-22T12:53:36.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "SC"
+    },
+    {
       "id": "com.pazugames.avatarworld",
       "name": "Avatar World ®",
       "developer": "Pazu Games",
@@ -1288,20 +1316,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-18T10:51:24.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "SC"
-    },
-    {
-      "id": "com.NewFolderGames.TaxiDriver",
-      "name": "I Am Taxi Driver",
-      "developer": "Estoty",
-      "url": "https://play.google.com/store/apps/details?id=com.NewFolderGames.TaxiDriver&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/21NqFTC9lghTZWPSf0UJXIf5Sm0V8KeVWrwTm6fDlnY12kbPZrB27xynucuQm_2Uz5kna0Wjba_VMciQyCsZJg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T19:44:35.000Z",
       "genres": [
         "Role Playing"
       ],
@@ -1336,30 +1350,30 @@
       "country": "SC"
     },
     {
-      "id": "com.RastleksGames.TheShootout",
-      "name": "Zombie Apocalypse: Doomsday-Z",
-      "developer": "Freeplay Inc",
-      "url": "https://play.google.com/store/apps/details?id=com.RastleksGames.TheShootout&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/Lb26WrD6Jt6ISq-uMGyTm816k1cZSd8JM8vhtT6-bJOJ6-tITaUZbVsuW0xeDnnTXQ",
+      "id": "com.NewFolderGames.TaxiDriver",
+      "name": "I Am Taxi Driver",
+      "developer": "Estoty",
+      "url": "https://play.google.com/store/apps/details?id=com.NewFolderGames.TaxiDriver&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/21NqFTC9lghTZWPSf0UJXIf5Sm0V8KeVWrwTm6fDlnY12kbPZrB27xynucuQm_2Uz5kna0Wjba_VMciQyCsZJg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-22T12:53:36.000Z",
+      "releaseDate": "2026-02-27T19:44:35.000Z",
       "genres": [
-        "Action"
+        "Role Playing"
       ],
       "country": "SC"
     },
     {
-      "id": "com.soccer.score.star",
-      "name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
+      "id": "com.supercell.brawlstars",
+      "name": "Brawl Stars",
+      "developer": "Supercell",
+      "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=en&gl=SC",
+      "artwork": "https://play-lh.googleusercontent.com/WLJb9DGkxPkiqlvizxSyHnMqPOZATgfd8RH8rEo3L4FM84luI7GYKE8D2qFZNtC2OMsoo-eOy-qquwIRVl-05w",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-29T15:32:33.000Z",
+      "releaseDate": "2026-02-20T13:48:42.000Z",
       "genres": [
-        "Sports"
+        "Action"
       ],
       "country": "SC"
     },
@@ -1388,20 +1402,6 @@
       "releaseDate": "2026-02-28T10:58:01.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "SC"
-    },
-    {
-      "id": "com.Earthkwak.Platformer",
-      "name": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=en&gl=SC",
-      "artwork": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-26T09:16:49.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "SC"
     }

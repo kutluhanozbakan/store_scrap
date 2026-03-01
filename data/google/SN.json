@@ -1,8 +1,22 @@
 {
   "country": "SN",
   "store": "google",
-  "updatedAt": "2026-02-28T21:31:31.196Z",
+  "updatedAt": "2026-03-01T07:53:26.875Z",
   "new": [
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=SN",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T16:35:20.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "SN"
+    },
     {
       "id": "water.sort.color.puzzle.offline.games",
       "name": "Water Sort! Color Sort Puzzle",
@@ -12,6 +26,34 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-28T16:25:39.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "SN"
+    },
+    {
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast: Wonders",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=SN",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T16:08:01.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "SN"
+    },
+    {
+      "id": "com.hungrystudio.mahjong",
+      "name": "Double Tile!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=SN",
+      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T11:25:39.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -116,20 +158,6 @@
       "country": "SN"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=SN",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:27:55.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "SN"
-    },
-    {
       "id": "com.gamepark.cop.simulator.police.games",
       "name": "Police Simulator: Police Games",
       "developer": "GamePark",
@@ -154,20 +182,6 @@
       "releaseDate": "2026-02-26T21:16:50.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "SN"
-    },
-    {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast: Wonders",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=SN",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T16:42:28.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "SN"
     },
@@ -294,20 +308,6 @@
       "releaseDate": "2026-02-25T13:43:34.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "SN"
-    },
-    {
-      "id": "com.hungrystudio.mahjong",
-      "name": "Double Tile!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=SN",
-      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T17:41:11.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "SN"
     },
@@ -853,7 +853,7 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T12:27:55.000Z",
+      "releaseDate": "2026-02-28T16:35:20.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1112,20 +1112,6 @@
       "country": "SN"
     },
     {
-      "id": "com.mobirix.airhockey",
-      "name": "Air Hockey Challenge",
-      "developer": "mobirix",
-      "url": "https://play.google.com/store/apps/details?id=com.mobirix.airhockey&hl=en&gl=SN",
-      "artwork": "https://play-lh.googleusercontent.com/mQVOywpoM-RklcYmwprO9uCbS8UTuoS2vCAzKnpdUlLsc1AfcqBK4v2lW2qoCnIyGg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T02:52:31.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "SN"
-    },
-    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
@@ -1154,6 +1140,20 @@
       "country": "SN"
     },
     {
+      "id": "com.mobirix.airhockey",
+      "name": "Air Hockey Challenge",
+      "developer": "mobirix",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.airhockey&hl=en&gl=SN",
+      "artwork": "https://play-lh.googleusercontent.com/mQVOywpoM-RklcYmwprO9uCbS8UTuoS2vCAzKnpdUlLsc1AfcqBK4v2lW2qoCnIyGg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T02:52:31.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "SN"
+    },
+    {
       "id": "com.nebula.mahjongtile",
       "name": "Mahjong Blast: Wonders",
       "developer": "Nebula  Studio",
@@ -1161,7 +1161,7 @@
       "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T16:42:28.000Z",
+      "releaseDate": "2026-02-28T16:08:01.000Z",
       "genres": [
         "Board"
       ],
@@ -1192,20 +1192,6 @@
       "releaseDate": "2025-07-14T10:46:02.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "SN"
-    },
-    {
-      "id": "com.ffgames.racingincar2",
-      "name": "Racing in Car 2",
-      "developer": "ckgames",
-      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=SN",
-      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-19T14:55:06.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "SN"
     },
@@ -1262,6 +1248,20 @@
       "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "SN"
+    },
+    {
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=SN",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-19T14:55:06.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "SN"
     },

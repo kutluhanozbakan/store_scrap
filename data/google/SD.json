@@ -1,8 +1,22 @@
 {
   "country": "SD",
   "store": "google",
-  "updatedAt": "2026-02-28T21:00:48.510Z",
+  "updatedAt": "2026-03-01T07:52:49.331Z",
   "new": [
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T16:35:20.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "SD"
+    },
     {
       "id": "water.sort.color.puzzle.offline.games",
       "name": "Water Sort! Color Sort Puzzle",
@@ -14,6 +28,20 @@
       "releaseDate": "2026-02-28T16:25:39.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "SD"
+    },
+    {
+      "id": "com.courage.ludo",
+      "name": "Lama Ludo-Ludo&Chatroom",
+      "developer": "Courage. Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.courage.ludo&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/7YZeePU3uHO-OhhU45vZXqJnrOyv3khqCF7Khd6i54-3YRqNnCARoT7yI3_GgX6w5bY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T12:12:50.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "SD"
     },
@@ -56,20 +84,6 @@
       "releaseDate": "2026-02-27T12:31:23.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "SD"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:27:55.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "SD"
     },
@@ -688,20 +702,6 @@
         "Strategy"
       ],
       "country": "SD"
-    },
-    {
-      "id": "com.catchup.ball.goingball",
-      "name": "3D Ball Catch Up - Racing Ball",
-      "developer": "Takenick Innovation",
-      "url": "https://play.google.com/store/apps/details?id=com.catchup.ball.goingball&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/F01h3ZGppzyqRdHMflxbf7KVKOa6VulVk2kcmfZ1vNDHvDy-H7uZuUroKRvKua75dIP0_luT_ar-uInovN4yuQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T08:53:57.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "SD"
     }
   ],
   "updated": [
@@ -888,20 +888,6 @@
       "country": "SD"
     },
     {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "SD"
-    },
-    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -912,6 +898,20 @@
       "releaseDate": "2026-02-27T15:37:40.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "SD"
+    },
+    {
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "SD"
     },
@@ -965,7 +965,7 @@
       "artwork": "https://play-lh.googleusercontent.com/7YZeePU3uHO-OhhU45vZXqJnrOyv3khqCF7Khd6i54-3YRqNnCARoT7yI3_GgX6w5bY",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-10T18:13:44.000Z",
+      "releaseDate": "2026-02-28T12:12:50.000Z",
       "genres": [
         "Board"
       ],
@@ -1021,23 +1021,9 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T12:27:55.000Z",
+      "releaseDate": "2026-02-28T16:35:20.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "SD"
-    },
-    {
-      "id": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
-      "name": "Ramp Car Games: GT Car Stunts",
-      "developer": "Fun Drive Games",
-      "url": "https://play.google.com/store/apps/details?id=com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/AkcgFr9M2qfIcp1fkrQS8Ny6Ludis4_fBO0_VvfdWLJtrRpu0O-2T1v4mn0b1t59yA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T11:35:46.000Z",
-      "genres": [
-        "Strategy"
       ],
       "country": "SD"
     },
@@ -1052,6 +1038,20 @@
       "releaseDate": "2026-01-29T15:32:33.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "SD"
+    },
+    {
+      "id": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
+      "name": "Ramp Car Games: GT Car Stunts",
+      "developer": "Fun Drive Games",
+      "url": "https://play.google.com/store/apps/details?id=com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/AkcgFr9M2qfIcp1fkrQS8Ny6Ludis4_fBO0_VvfdWLJtrRpu0O-2T1v4mn0b1t59yA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T11:35:46.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "SD"
     },

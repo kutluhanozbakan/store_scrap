@@ -1,8 +1,22 @@
 {
   "country": "SL",
   "store": "google",
-  "updatedAt": "2026-02-28T21:31:27.162Z",
+  "updatedAt": "2026-03-01T07:53:21.156Z",
   "new": [
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=SL",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T16:35:20.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "SL"
+    },
     {
       "id": "water.sort.color.puzzle.offline.games",
       "name": "Water Sort! Color Sort Puzzle",
@@ -12,6 +26,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-28T16:25:39.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "SL"
+    },
+    {
+      "id": "com.hungrystudio.mahjong",
+      "name": "Double Tile!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=SL",
+      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T11:25:39.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -88,20 +116,6 @@
       "country": "SL"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=SL",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:27:55.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "SL"
-    },
-    {
       "id": "com.sniffygames.princessbabyshowerparty",
       "name": "Princess BabyShower Party",
       "developer": "Sniffy Games",
@@ -168,20 +182,6 @@
       "releaseDate": "2026-02-25T14:25:48.000Z",
       "genres": [
         "Strategy"
-      ],
-      "country": "SL"
-    },
-    {
-      "id": "com.hungrystudio.mahjong",
-      "name": "Double Tile!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=SL",
-      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T17:41:11.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "SL"
     },
@@ -993,7 +993,7 @@
       "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T17:41:11.000Z",
+      "releaseDate": "2026-02-28T11:25:39.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1035,7 +1035,7 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T12:27:55.000Z",
+      "releaseDate": "2026-02-28T16:35:20.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1154,20 +1154,6 @@
       "country": "SL"
     },
     {
-      "id": "com.zariba.ludo.offline",
-      "name": "Ludo Offline - Board Game",
-      "developer": "Prometheus Interactive LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.zariba.ludo.offline&hl=en&gl=SL",
-      "artwork": "https://play-lh.googleusercontent.com/QiiJOtszeSb8M7ZcFjGAcVYaSD10C60oxXiHr0UAGUZ_H8qZP_L7Js91dOFAP7-koa4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-27T20:28:33.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "SL"
-    },
-    {
       "id": "com.ludo.king",
       "name": "Ludo King®",
       "developer": "Gametion",
@@ -1206,6 +1192,20 @@
       "releaseDate": "2026-01-29T15:32:33.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "SL"
+    },
+    {
+      "id": "com.zariba.ludo.offline",
+      "name": "Ludo Offline - Board Game",
+      "developer": "Prometheus Interactive LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.zariba.ludo.offline&hl=en&gl=SL",
+      "artwork": "https://play-lh.googleusercontent.com/QiiJOtszeSb8M7ZcFjGAcVYaSD10C60oxXiHr0UAGUZ_H8qZP_L7Js91dOFAP7-koa4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-27T20:28:33.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "SL"
     },
