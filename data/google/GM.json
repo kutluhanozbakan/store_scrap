@@ -1,7 +1,7 @@
 {
   "country": "GM",
   "store": "google",
-  "updatedAt": "2026-03-01T11:25:40.400Z",
+  "updatedAt": "2026-03-01T17:31:30.922Z",
   "new": [
     {
       "id": "com.block.juggle",
@@ -140,6 +140,20 @@
       "releaseDate": "2026-02-26T13:15:04.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "GM"
+    },
+    {
+      "id": "com.outfit7.mytalkingtomfree",
+      "name": "My Talking Tom",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T11:55:53.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "GM"
     },
@@ -648,20 +662,6 @@
       "country": "GM"
     },
     {
-      "id": "com.gunshooting.gunops.gungames.strike.gun",
-      "name": "Gun Strike Game 3D",
-      "developer": "Bolt Bridge Games",
-      "url": "https://play.google.com/store/apps/details?id=com.gunshooting.gunops.gungames.strike.gun&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/ff46S84Cd9yHr6VH_7dD-7o5jtLs_pFErvH1dfOx4jgySafV_tv3bD5E4AF7R1LjXqrR",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T09:58:21.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "GM"
-    },
-    {
       "id": "com.rioo.runnersubway",
       "name": "Subway Princess Runner",
       "developer": "Ivy",
@@ -818,20 +818,6 @@
       "country": "GM"
     },
     {
-      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
-      "name": "Shoot Bubble - Pop Bubbles",
-      "developer": "IVYGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T02:18:35.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "GM"
-    },
-    {
       "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
       "name": "Agent Shooter - Shooting Game",
       "developer": "Rebel Actions",
@@ -842,6 +828,20 @@
       "releaseDate": "2026-02-26T10:48:15.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "GM"
+    },
+    {
+      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
+      "name": "Shoot Bubble - Pop Bubbles",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T02:18:35.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "GM"
     },
@@ -972,6 +972,20 @@
       "country": "GM"
     },
     {
+      "id": "com.mobirix.airhockey",
+      "name": "Air Hockey Challenge",
+      "developer": "mobirix",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.airhockey&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/mQVOywpoM-RklcYmwprO9uCbS8UTuoS2vCAzKnpdUlLsc1AfcqBK4v2lW2qoCnIyGg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T02:52:31.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "GM"
+    },
+    {
       "id": "com.ludo.master.hippo",
       "name": "Ludo Master™ - Ludo Board Game",
       "developer": "Hippo Lab",
@@ -1024,20 +1038,6 @@
       "releaseDate": "2026-02-28T16:35:20.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "GM"
-    },
-    {
-      "id": "com.mobirix.airhockey",
-      "name": "Air Hockey Challenge",
-      "developer": "mobirix",
-      "url": "https://play.google.com/store/apps/details?id=com.mobirix.airhockey&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/mQVOywpoM-RklcYmwprO9uCbS8UTuoS2vCAzKnpdUlLsc1AfcqBK4v2lW2qoCnIyGg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T02:52:31.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "GM"
     },
@@ -1364,6 +1364,20 @@
       "country": "GM"
     },
     {
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-19T14:55:06.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "GM"
+    },
+    {
       "id": "net.apex_designs.payback2",
       "name": "Payback 2 - The Battle Sandbox",
       "developer": "Apex Designs Games LLP",
@@ -1388,20 +1402,6 @@
       "releaseDate": "2025-11-03T11:06:12.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "GM"
-    },
-    {
-      "id": "com.ludo.master.hippo.lite",
-      "name": "Ludo Master™ Lite - Dice Game",
-      "developer": "Hippo Lab",
-      "url": "https://play.google.com/store/apps/details?id=com.ludo.master.hippo.lite&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/egOL5r_XtgIV7-0kdc-e7u8lUXpJZIImHE8hU1DU2CzRMf1V04hY8BKQO0RAO13cm0I",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-12T09:13:01.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "GM"
     }
