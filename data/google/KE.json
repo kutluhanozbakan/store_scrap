@@ -1,8 +1,22 @@
 {
   "country": "KE",
   "store": "google",
-  "updatedAt": "2026-02-28T19:37:05.454Z",
+  "updatedAt": "2026-03-01T04:47:20.853Z",
   "new": [
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=KE",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T16:35:20.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "KE"
+    },
     {
       "id": "water.sort.color.puzzle.offline.games",
       "name": "Water Sort! Color Sort Puzzle",
@@ -112,20 +126,6 @@
       "releaseDate": "2026-02-27T12:31:23.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "KE"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=KE",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:27:55.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "KE"
     },
@@ -378,6 +378,20 @@
       "releaseDate": "2026-02-19T12:54:33.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "KE"
+    },
+    {
+      "id": "in.playsimple.wordsearch",
+      "name": "Word Search Explorer",
+      "developer": "PlaySimple Games",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=KE",
+      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T12:52:47.000Z",
+      "genres": [
+        "Word"
       ],
       "country": "KE"
     },
@@ -688,20 +702,6 @@
         "Strategy"
       ],
       "country": "KE"
-    },
-    {
-      "id": "com.football.soccer.league",
-      "name": "Football League 2026",
-      "developer": "MOBILE SOCCER",
-      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=KE",
-      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T12:25:49.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "KE"
     }
   ],
   "updated": [
@@ -916,20 +916,6 @@
       "country": "KE"
     },
     {
-      "id": "net.apex_designs.payback2",
-      "name": "Payback 2 - The Battle Sandbox",
-      "developer": "Apex Designs Games LLP",
-      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=KE",
-      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-08-27T16:01:25.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "KE"
-    },
-    {
       "id": "com.activision.callofduty.shooter",
       "name": "Call of Duty®: Mobile",
       "developer": "Activision Publishing, Inc.",
@@ -940,6 +926,20 @@
       "releaseDate": "2026-02-05T23:03:57.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "KE"
+    },
+    {
+      "id": "net.apex_designs.payback2",
+      "name": "Payback 2 - The Battle Sandbox",
+      "developer": "Apex Designs Games LLP",
+      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=KE",
+      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-27T16:01:25.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "KE"
     },
@@ -1021,7 +1021,7 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T12:27:55.000Z",
+      "releaseDate": "2026-02-28T16:35:20.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1112,6 +1112,20 @@
       "country": "KE"
     },
     {
+      "id": "com.adventure.piano.kpopstar",
+      "name": "Music Piano 2: KPop Star",
+      "developer": "HyperMusic",
+      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=KE",
+      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T10:58:01.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "KE"
+    },
+    {
       "id": "games.joker.crash.rocket",
       "name": "Crash Rocket - Win & Crash",
       "developer": "Joker Game",
@@ -1140,14 +1154,14 @@
       "country": "KE"
     },
     {
-      "id": "com.adventure.piano.kpopstar",
-      "name": "Music Piano 2: KPop Star",
-      "developer": "HyperMusic",
-      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=KE",
-      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
+      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
+      "name": "Fashion Glow: Model & Style",
+      "developer": "Dress Up Games for Girls",
+      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=KE",
+      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-28T10:58:01.000Z",
+      "releaseDate": "2026-01-14T08:31:08.000Z",
       "genres": [
         "Casual"
       ],
@@ -1178,20 +1192,6 @@
       "releaseDate": "2026-02-24T09:05:46.000Z",
       "genres": [
         "Strategy"
-      ],
-      "country": "KE"
-    },
-    {
-      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
-      "name": "Fashion Glow: Model & Style",
-      "developer": "Dress Up Games for Girls",
-      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=KE",
-      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-14T08:31:08.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "KE"
     },
@@ -1336,6 +1336,20 @@
       "country": "KE"
     },
     {
+      "id": "com.gamovation.tileclub",
+      "name": "Tile Club - Match Puzzle Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=KE",
+      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-07T10:41:36.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "KE"
+    },
+    {
       "id": "com.gp.pilot.simulator.airplanegames",
       "name": "Pilot Simulator: Airplane Game",
       "developer": "GamePark",
@@ -1364,16 +1378,16 @@
       "country": "KE"
     },
     {
-      "id": "com.gamovation.tileclub",
-      "name": "Tile Club - Match Puzzle Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=KE",
-      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
+      "id": "com.vectorunit.purple.googleplay",
+      "name": "Beach Buggy Racing",
+      "developer": "Vector Unit",
+      "url": "https://play.google.com/store/apps/details?id=com.vectorunit.purple.googleplay&hl=en&gl=KE",
+      "artwork": "https://play-lh.googleusercontent.com/ZQXNGxMGyXurnCTHHj5JQh52_fWEjXUwYGeJi3VKWOwrEeUjGAvcdCJSySmMGxvZujI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-07T10:41:36.000Z",
+      "releaseDate": "2025-09-22T21:58:50.000Z",
       "genres": [
-        "Puzzle"
+        "Racing"
       ],
       "country": "KE"
     },
@@ -1388,20 +1402,6 @@
       "releaseDate": "2025-10-07T20:50:24.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "KE"
-    },
-    {
-      "id": "com.vectorunit.purple.googleplay",
-      "name": "Beach Buggy Racing",
-      "developer": "Vector Unit",
-      "url": "https://play.google.com/store/apps/details?id=com.vectorunit.purple.googleplay&hl=en&gl=KE",
-      "artwork": "https://play-lh.googleusercontent.com/ZQXNGxMGyXurnCTHHj5JQh52_fWEjXUwYGeJi3VKWOwrEeUjGAvcdCJSySmMGxvZujI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-09-22T21:58:50.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "KE"
     }
