@@ -1,7 +1,7 @@
 {
   "country": "AO",
   "store": "google",
-  "updatedAt": "2026-03-01T15:35:21.126Z",
+  "updatedAt": "2026-03-01T21:48:28.410Z",
   "new": [
     {
       "id": "com.block.juggle",
@@ -196,20 +196,6 @@
       "releaseDate": "2026-02-25T13:56:11.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "AO"
-    },
-    {
-      "id": "games.spearmint.triplecrush",
-      "name": "Tiledom",
-      "developer": "Funvent Studios DMCC",
-      "url": "https://play.google.com/store/apps/details?id=games.spearmint.triplecrush&hl=en&gl=AO",
-      "artwork": "https://play-lh.googleusercontent.com/cDE8yFKapAFacxAmcQiLRlNkHbIWqj05Ey3WIejzJ5M6wvW0OyDOHwU7p_4PiTcqTSaQ0ShC4JeLvMuEe6iL78I",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T08:52:30.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "AO"
     },
@@ -702,6 +688,20 @@
         "Board"
       ],
       "country": "AO"
+    },
+    {
+      "id": "pl.lukok.draughts",
+      "name": "Checkers Online",
+      "developer": "CC  Games",
+      "url": "https://play.google.com/store/apps/details?id=pl.lukok.draughts&hl=en&gl=AO",
+      "artwork": "https://play-lh.googleusercontent.com/Wvqk6zrQ0pfpqxKhoSW08NkobAg8pXye6Q9lCUlvvoDPBUDy3AzTDbG5_uZfV3Qz2w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T13:03:12.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "AO"
     }
   ],
   "updated": [
@@ -832,16 +832,16 @@
       "country": "AO"
     },
     {
-      "id": "com.taprun.fruitmanialine",
-      "name": "Fruit Fancy",
-      "developer": "Tap Run",
-      "url": "https://play.google.com/store/apps/details?id=com.taprun.fruitmanialine&hl=en&gl=AO",
-      "artwork": "https://play-lh.googleusercontent.com/VbDEx6q27ztXqPF-u6tP4bU2mLRhhEFagEem810vAEPp16dE7sf7guXtmUyYhSCQkJgy",
+      "id": "com.soccer.score.star",
+      "name": "Soccer Superstar",
+      "developer": "Real Freestyle Soccer",
+      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=AO",
+      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-14T08:41:11.000Z",
+      "releaseDate": "2026-01-29T15:32:33.000Z",
       "genres": [
-        "Puzzle"
+        "Sports"
       ],
       "country": "AO"
     },
@@ -860,16 +860,16 @@
       "country": "AO"
     },
     {
-      "id": "com.soccer.score.star",
-      "name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=AO",
-      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
+      "id": "com.taprun.fruitmanialine",
+      "name": "Fruit Fancy",
+      "developer": "Tap Run",
+      "url": "https://play.google.com/store/apps/details?id=com.taprun.fruitmanialine&hl=en&gl=AO",
+      "artwork": "https://play-lh.googleusercontent.com/VbDEx6q27ztXqPF-u6tP4bU2mLRhhEFagEem810vAEPp16dE7sf7guXtmUyYhSCQkJgy",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-29T15:32:33.000Z",
+      "releaseDate": "2026-02-14T08:41:11.000Z",
       "genres": [
-        "Sports"
+        "Puzzle"
       ],
       "country": "AO"
     },
@@ -930,20 +930,6 @@
       "country": "AO"
     },
     {
-      "id": "com.rioo.runnersubway",
-      "name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=AO",
-      "artwork": "https://play-lh.googleusercontent.com/hZsC5eP05OC3HeGuOVivBgsCTQZIqkm-6rViFTNuimz_wtxOtZIEM0zLodtkw1QZLg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T07:00:13.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "AO"
-    },
-    {
       "id": "com.ea.gp.fifamobile",
       "name": "EA SPORTS FC™ Mobile Soccer 26",
       "developer": "ELECTRONIC ARTS",
@@ -954,6 +940,20 @@
       "releaseDate": "2026-02-03T01:41:34.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "AO"
+    },
+    {
+      "id": "com.rioo.runnersubway",
+      "name": "Subway Princess Runner",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=AO",
+      "artwork": "https://play-lh.googleusercontent.com/hZsC5eP05OC3HeGuOVivBgsCTQZIqkm-6rViFTNuimz_wtxOtZIEM0zLodtkw1QZLg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T07:00:13.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "AO"
     },
@@ -1070,34 +1070,6 @@
       "country": "AO"
     },
     {
-      "id": "europe.truck.simulator2",
-      "name": "Truckers of Europe 2",
-      "developer": "Wanda Software",
-      "url": "https://play.google.com/store/apps/details?id=europe.truck.simulator2&hl=en&gl=AO",
-      "artwork": "https://play-lh.googleusercontent.com/tS6pdPz6GKrP87gOTTPcBDFMJFd2RsD4ngkl92pqEQp6nkHRIPU30BRM7wB6l5_VaOw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T09:31:02.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "AO"
-    },
-    {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=AO",
-      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T15:37:40.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "AO"
-    },
-    {
       "id": "com.PlayMax.playergames",
       "name": "Stickman Party 234 MiniGames",
       "developer": "PlayMax Game Studio",
@@ -1122,6 +1094,34 @@
       "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "AO"
+    },
+    {
+      "id": "europe.truck.simulator2",
+      "name": "Truckers of Europe 2",
+      "developer": "Wanda Software",
+      "url": "https://play.google.com/store/apps/details?id=europe.truck.simulator2&hl=en&gl=AO",
+      "artwork": "https://play-lh.googleusercontent.com/tS6pdPz6GKrP87gOTTPcBDFMJFd2RsD4ngkl92pqEQp6nkHRIPU30BRM7wB6l5_VaOw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T09:31:02.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "AO"
+    },
+    {
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=AO",
+      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T15:37:40.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "AO"
     },
@@ -1252,20 +1252,6 @@
       "country": "AO"
     },
     {
-      "id": "net.apex_designs.payback2",
-      "name": "Payback 2 - The Battle Sandbox",
-      "developer": "Apex Designs Games LLP",
-      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=AO",
-      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-08-27T16:01:25.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "AO"
-    },
-    {
       "id": "com.firsttouchgames.story",
       "name": "Score! Hero",
       "developer": "First Touch Games Ltd.",
@@ -1276,6 +1262,20 @@
       "releaseDate": "2026-01-27T17:01:42.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "AO"
+    },
+    {
+      "id": "net.apex_designs.payback2",
+      "name": "Payback 2 - The Battle Sandbox",
+      "developer": "Apex Designs Games LLP",
+      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=AO",
+      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-27T16:01:25.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "AO"
     },
@@ -1308,6 +1308,20 @@
       "country": "AO"
     },
     {
+      "id": "com.outfit7.mytalkingangela2",
+      "name": "My Talking Angela 2",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=AO",
+      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T14:20:52.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "AO"
+    },
+    {
       "id": "ball.sort.puzzle.color.bubble.games.magic",
       "name": "Ball Sort Magic - Puzzle Game",
       "developer": "Passion Fruit Joy",
@@ -1318,6 +1332,20 @@
       "releaseDate": "2026-01-22T11:16:52.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "AO"
+    },
+    {
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=AO",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-19T14:55:06.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "AO"
     },
@@ -1336,20 +1364,6 @@
       "country": "AO"
     },
     {
-      "id": "com.outfit7.mytalkingangela2",
-      "name": "My Talking Angela 2",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=AO",
-      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T14:20:52.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "AO"
-    },
-    {
       "id": "com.outfit7.mytalkingtom2",
       "name": "My Talking Tom 2: Pet Game",
       "developer": "Outfit7 Limited",
@@ -1364,30 +1378,16 @@
       "country": "AO"
     },
     {
-      "id": "com.king.candycrushsaga",
-      "name": "Candy Crush Saga",
-      "developer": "King",
-      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=AO",
-      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=AO",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-19T12:54:33.000Z",
+      "releaseDate": "2026-02-12T00:38:27.000Z",
       "genres": [
-        "Casual"
-      ],
-      "country": "AO"
-    },
-    {
-      "id": "com.ffgames.racingincar2",
-      "name": "Racing in Car 2",
-      "developer": "ckgames",
-      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=AO",
-      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-19T14:55:06.000Z",
-      "genres": [
-        "Racing"
+        "Simulation"
       ],
       "country": "AO"
     },
