@@ -1,7 +1,7 @@
 {
   "country": "VE",
   "store": "google",
-  "updatedAt": "2026-03-01T15:01:40.354Z",
+  "updatedAt": "2026-03-01T21:28:19.840Z",
   "new": [
     {
       "id": "com.block.juggle",
@@ -200,6 +200,20 @@
       "country": "VE"
     },
     {
+      "id": "com.creations.runnergame",
+      "name": "Kooply Run™: Play and Create!",
+      "developer": "KOOPLY",
+      "url": "https://play.google.com/store/apps/details?id=com.creations.runnergame&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/gMwKsn2RI__kMbkcH3Ta6JljGJnHdcZaZ_FDpIVUfQXjv9hhoiVLy_WCUQPJI766IQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T14:03:28.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "VE"
+    },
+    {
       "id": "com.moonfrog.ludo.club",
       "name": "Ludo Club - Divertido juego",
       "developer": "Moonfrog",
@@ -238,20 +252,6 @@
       "releaseDate": "2026-02-25T07:05:59.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "VE"
-    },
-    {
-      "id": "com.sinyee.babybus.gameworld.design.home.friends.fun.life.story",
-      "name": "Kalliu Game World: Life Story",
-      "developer": "BabyBus",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.gameworld.design.home.friends.fun.life.story&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/2jVRzVIS6dfQAT5EdxFhL62AB6IHv4uZKMvEIk67_-oxWU-uvJV7lhKEx2_go6yEJZTk5ud5bll-alnLZ_xE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T01:09:20.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "VE"
     },
@@ -720,20 +720,6 @@
       "country": "VE"
     },
     {
-      "id": "com.sybogames.subway.surfers.game",
-      "name": "Subway Surfers City",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T15:55:38.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "VE"
-    },
-    {
       "id": "com.dts.freefireth",
       "name": "Free Fire: Beat Carnival",
       "developer": "GARENA INTERNATIONAL I",
@@ -742,6 +728,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-04T06:43:26.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "VE"
+    },
+    {
+      "id": "com.sybogames.subway.surfers.game",
+      "name": "Subway Surfers City",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T15:55:38.000Z",
       "genres": [
         "Action"
       ],
@@ -776,34 +776,6 @@
       "country": "VE"
     },
     {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "VE"
-    },
-    {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T00:38:27.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "VE"
-    },
-    {
       "id": "com.netease.newspike",
       "name": "Blood Strike - FPS for all",
       "developer": "NetEase Games",
@@ -832,6 +804,34 @@
       "country": "VE"
     },
     {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "VE"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T00:38:27.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "VE"
+    },
+    {
       "id": "com.mobile.legends",
       "name": "Mobile Legends: Bang Bang",
       "developer": "MOONTON",
@@ -842,20 +842,6 @@
       "releaseDate": "2026-02-07T03:26:33.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "VE"
-    },
-    {
-      "id": "com.lockwoodpublishing.avakinlife",
-      "name": "Avakin Life - 3D Virtual World",
-      "developer": "Lockwood Publishing Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.lockwoodpublishing.avakinlife&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/UBpCn5aNhexoCFyR4nnmhpWPrt6D68FtjQHVdtuaYX3n-jor9vAiHqD0RstOMBcTqQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T16:10:26.000Z",
-      "genres": [
-        "Role Playing"
       ],
       "country": "VE"
     },
@@ -902,30 +888,16 @@
       "country": "VE"
     },
     {
-      "id": "net.craftgame.minigame",
-      "name": "Worldsurvival",
-      "developer": "Star12",
-      "url": "https://play.google.com/store/apps/details?id=net.craftgame.minigame&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/1OFeGNKUfkAv58Yr-weOQIrhuGsoqwLOrNdHQHkPc9_3mw-6BKrh5sT1IGaSNTl_tQ",
+      "id": "com.lockwoodpublishing.avakinlife",
+      "name": "Avakin Life - 3D Virtual World",
+      "developer": "Lockwood Publishing Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.lockwoodpublishing.avakinlife&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/UBpCn5aNhexoCFyR4nnmhpWPrt6D68FtjQHVdtuaYX3n-jor9vAiHqD0RstOMBcTqQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T16:46:59.000Z",
+      "releaseDate": "2026-02-24T16:10:26.000Z",
       "genres": [
-        "Simulation"
-      ],
-      "country": "VE"
-    },
-    {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:31:23.000Z",
-      "genres": [
-        "Arcade"
+        "Role Playing"
       ],
       "country": "VE"
     },
@@ -944,6 +916,20 @@
       "country": "VE"
     },
     {
+      "id": "net.craftgame.minigame",
+      "name": "Worldsurvival",
+      "developer": "Star12",
+      "url": "https://play.google.com/store/apps/details?id=net.craftgame.minigame&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/1OFeGNKUfkAv58Yr-weOQIrhuGsoqwLOrNdHQHkPc9_3mw-6BKrh5sT1IGaSNTl_tQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T16:46:59.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "VE"
+    },
+    {
       "id": "com.football.soccer.league",
       "name": "Football League 2026",
       "developer": "MOBILE SOCCER",
@@ -954,20 +940,6 @@
       "releaseDate": "2026-02-11T12:25:49.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "VE"
-    },
-    {
-      "id": "com.superbinogo.jungleboyadventure",
-      "name": "Super Bino Go: Aventuras",
-      "developer": "1SOFT",
-      "url": "https://play.google.com/store/apps/details?id=com.superbinogo.jungleboyadventure&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/-vqLj7_87662Ns0MWHMzr0wxzSpPxKCc6f7fUK8bhyEF8Um7CURGaAWJFuSgoUmgNe4s",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-13T02:49:30.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "VE"
     },
@@ -986,16 +958,30 @@
       "country": "VE"
     },
     {
-      "id": "com.dominovamos.game",
-      "name": "Domino Vamos-Slots Poker Crash",
-      "developer": "SPIREJOY GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.dominovamos.game&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/WGwa3N1ygfvvWPEM0fjaaaVEkGpwfKS4qLP12Untbk98fGstlDPz2hcYfuR-J_F4pWaI",
+      "id": "com.superbinogo.jungleboyadventure",
+      "name": "Super Bino Go: Aventuras",
+      "developer": "1SOFT",
+      "url": "https://play.google.com/store/apps/details?id=com.superbinogo.jungleboyadventure&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/-vqLj7_87662Ns0MWHMzr0wxzSpPxKCc6f7fUK8bhyEF8Um7CURGaAWJFuSgoUmgNe4s",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-03T13:57:30.000Z",
+      "releaseDate": "2026-01-13T02:49:30.000Z",
       "genres": [
-        "Board"
+        "Adventure"
+      ],
+      "country": "VE"
+    },
+    {
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T12:31:23.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "VE"
     },
@@ -1008,6 +994,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-25T13:43:34.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "VE"
+    },
+    {
+      "id": "com.dominovamos.game",
+      "name": "Domino Vamos-Slots Poker Crash",
+      "developer": "SPIREJOY GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.dominovamos.game&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/WGwa3N1ygfvvWPEM0fjaaaVEkGpwfKS4qLP12Untbk98fGstlDPz2hcYfuR-J_F4pWaI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-03T13:57:30.000Z",
       "genres": [
         "Board"
       ],
@@ -1042,6 +1042,20 @@
       "country": "VE"
     },
     {
+      "id": "com.traffic.motorcycle.rider.driving.racing.open.sandbox.world",
+      "name": "Driving Motor Racing Simulator",
+      "developer": "Digital Payment Tech",
+      "url": "https://play.google.com/store/apps/details?id=com.traffic.motorcycle.rider.driving.racing.open.sandbox.world&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/tu3jt-CbX7hZIZbFMe_icuREWduoAvPcp-egP-6O4O5kEbDhjuq1euxqBgGxJofnylBQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T15:35:32.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "VE"
+    },
+    {
       "id": "com.ta.strike.ops",
       "name": "FPS Strike Ops : Modern Arena",
       "developer": "FPS Shooter & Action Game",
@@ -1052,6 +1066,20 @@
       "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "VE"
+    },
+    {
+      "id": "com.Neurononfire.SupremeDuelist",
+      "name": "Supreme Duelist",
+      "developer": "Neron's Brother",
+      "url": "https://play.google.com/store/apps/details?id=com.Neurononfire.SupremeDuelist&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/iRq0R9mN7eGyVENIPDk5muu76VxawBAIkFAYFqauJTFNIvUxzD1_M33HNX4GE8Qk0WqY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T17:04:22.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "VE"
     },
@@ -1070,20 +1098,6 @@
       "country": "VE"
     },
     {
-      "id": "com.traffic.motorcycle.rider.driving.racing.open.sandbox.world",
-      "name": "Driving Motor Racing Simulator",
-      "developer": "Digital Payment Tech",
-      "url": "https://play.google.com/store/apps/details?id=com.traffic.motorcycle.rider.driving.racing.open.sandbox.world&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/tu3jt-CbX7hZIZbFMe_icuREWduoAvPcp-egP-6O4O5kEbDhjuq1euxqBgGxJofnylBQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T15:35:32.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "VE"
-    },
-    {
       "id": "com.pazugames.avatarworld",
       "name": "Avatar World ®",
       "developer": "Pazu Games",
@@ -1094,20 +1108,6 @@
       "releaseDate": "2026-02-18T10:51:24.000Z",
       "genres": [
         "Role Playing"
-      ],
-      "country": "VE"
-    },
-    {
-      "id": "com.Neurononfire.SupremeDuelist",
-      "name": "Supreme Duelist",
-      "developer": "Neron's Brother",
-      "url": "https://play.google.com/store/apps/details?id=com.Neurononfire.SupremeDuelist&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/iRq0R9mN7eGyVENIPDk5muu76VxawBAIkFAYFqauJTFNIvUxzD1_M33HNX4GE8Qk0WqY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T17:04:22.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "VE"
     },
@@ -1154,20 +1154,6 @@
       "country": "VE"
     },
     {
-      "id": "us.kr.baseballnine",
-      "name": "BASEBALL 9",
-      "developer": "playus soft",
-      "url": "https://play.google.com/store/apps/details?id=us.kr.baseballnine&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/Y9GghCslNNk-nWccWvxgCDYvd7yLSwkw0hZ3NVTkSJqigY0ZozK3lv85jR02XOJSDPQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-06T08:40:15.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "VE"
-    },
-    {
       "id": "com.outfit7.mytalkingangela2",
       "name": "My Talking Angela 2",
       "developer": "Outfit7 Limited",
@@ -1182,16 +1168,16 @@
       "country": "VE"
     },
     {
-      "id": "com.unept.leveldevil",
-      "name": "Level Devil - NOT A Troll Game",
-      "developer": "Poki",
-      "url": "https://play.google.com/store/apps/details?id=com.unept.leveldevil&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/VqY_7ZNxG91KHaZguRP3khXdlTR1yQr45RCoiNu6MO41UhN-jlN31YWTQImWFRTw5r0",
+      "id": "us.kr.baseballnine",
+      "name": "BASEBALL 9",
+      "developer": "playus soft",
+      "url": "https://play.google.com/store/apps/details?id=us.kr.baseballnine&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/Y9GghCslNNk-nWccWvxgCDYvd7yLSwkw0hZ3NVTkSJqigY0ZozK3lv85jR02XOJSDPQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T14:49:51.000Z",
+      "releaseDate": "2026-01-06T08:40:15.000Z",
       "genres": [
-        "Action"
+        "Sports"
       ],
       "country": "VE"
     },
@@ -1210,16 +1196,30 @@
       "country": "VE"
     },
     {
-      "id": "com.brain.puzzle.tricky.test.annoying.quest",
-      "name": "Brain Puzzle: Tricky Test",
-      "developer": "SLEEK CHARM LIMITED",
-      "url": "https://play.google.com/store/apps/details?id=com.brain.puzzle.tricky.test.annoying.quest&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/GAW1v5cC_rUq5q1VGTjswJfgIfE8jcF84e7YPG8bY2UZBj_stHbZrxqJMLPzLJtEnjUl_KwwqiMrMLVp7RVY",
+      "id": "com.unept.leveldevil",
+      "name": "Level Devil - NOT A Troll Game",
+      "developer": "Poki",
+      "url": "https://play.google.com/store/apps/details?id=com.unept.leveldevil&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/VqY_7ZNxG91KHaZguRP3khXdlTR1yQr45RCoiNu6MO41UhN-jlN31YWTQImWFRTw5r0",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-09T10:29:02.000Z",
+      "releaseDate": "2026-02-03T14:49:51.000Z",
       "genres": [
-        "Puzzle"
+        "Action"
+      ],
+      "country": "VE"
+    },
+    {
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T16:48:19.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "VE"
     },
@@ -1238,6 +1238,20 @@
       "country": "VE"
     },
     {
+      "id": "com.brain.puzzle.tricky.test.annoying.quest",
+      "name": "Brain Puzzle: Tricky Test",
+      "developer": "SLEEK CHARM LIMITED",
+      "url": "https://play.google.com/store/apps/details?id=com.brain.puzzle.tricky.test.annoying.quest&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/GAW1v5cC_rUq5q1VGTjswJfgIfE8jcF84e7YPG8bY2UZBj_stHbZrxqJMLPzLJtEnjUl_KwwqiMrMLVp7RVY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T10:29:02.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "VE"
+    },
+    {
       "id": "in.playsimple.wordsearch",
       "name": "Word Search Explorer",
       "developer": "PlaySimple Games",
@@ -1248,48 +1262,6 @@
       "releaseDate": "2026-02-19T12:52:47.000Z",
       "genres": [
         "Word"
-      ],
-      "country": "VE"
-    },
-    {
-      "id": "com.aprietaygana.app",
-      "name": "Aprieta Y Gana",
-      "developer": "Rglobal 365",
-      "url": "https://play.google.com/store/apps/details?id=com.aprietaygana.app&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/cV1NN0hZTQRzyUrjScGmMgeGfTjZHc7xePpw_sZS3TDRxueBpMDSmjIiTCmi-UcsIRivKp0Om2SQb-NBA0j23Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-07T16:02:00.000Z",
-      "genres": [
-        "Casino"
-      ],
-      "country": "VE"
-    },
-    {
-      "id": "com.advant.streamer",
-      "name": "Lamar - Idle Vlogger",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T15:26:20.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "VE"
-    },
-    {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T16:48:19.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "VE"
     },
@@ -1322,6 +1294,20 @@
       "country": "VE"
     },
     {
+      "id": "com.aprietaygana.app",
+      "name": "Aprieta Y Gana",
+      "developer": "Rglobal 365",
+      "url": "https://play.google.com/store/apps/details?id=com.aprietaygana.app&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/cV1NN0hZTQRzyUrjScGmMgeGfTjZHc7xePpw_sZS3TDRxueBpMDSmjIiTCmi-UcsIRivKp0Om2SQb-NBA0j23Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-07T16:02:00.000Z",
+      "genres": [
+        "Casino"
+      ],
+      "country": "VE"
+    },
+    {
       "id": "com.skgames.trafficrider",
       "name": "Traffic Rider",
       "developer": "skgames",
@@ -1336,44 +1322,30 @@
       "country": "VE"
     },
     {
-      "id": "com.ea.game.pvz2_row",
-      "name": "Plants vs Zombies™ 2",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.game.pvz2_row&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/r8kGrEySHDwfk2bv1HYmk4K76ioLYeDgr6W5SEAsNhoYlHdu-4kVJdaK9NIyVv9z__0_WOOQpSa2qMkaR9m5JQ",
+      "id": "com.activision.callofduty.shooter",
+      "name": "Call of Duty®: Mobile",
+      "developer": "Activision Publishing, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/cfGSXkDwxa1jW3TlhhkDJBN16-1_KEtEDhnILPcs9rXcC25g14XY6MRGCtlXHFHs0g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-02T06:08:57.000Z",
+      "releaseDate": "2026-02-05T23:03:57.000Z",
       "genres": [
-        "Casual"
+        "Action"
       ],
       "country": "VE"
     },
     {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "id": "com.advant.streamer",
+      "name": "Lamar - Idle Vlogger",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "releaseDate": "2026-02-20T15:26:20.000Z",
       "genres": [
-        "Sports"
-      ],
-      "country": "VE"
-    },
-    {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T15:37:40.000Z",
-      "genres": [
-        "Board"
+        "Simulation"
       ],
       "country": "VE"
     },
@@ -1392,16 +1364,44 @@
       "country": "VE"
     },
     {
-      "id": "com.activision.callofduty.shooter",
-      "name": "Call of Duty®: Mobile",
-      "developer": "Activision Publishing, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter&hl=en&gl=VE",
-      "artwork": "https://play-lh.googleusercontent.com/cfGSXkDwxa1jW3TlhhkDJBN16-1_KEtEDhnILPcs9rXcC25g14XY6MRGCtlXHFHs0g",
+      "id": "com.sprunki.mod.horror.incredibox.monster.beats.music.game",
+      "name": "Sprunki Beat: Full Mod Music",
+      "developer": "Gotstar Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.sprunki.mod.horror.incredibox.monster.beats.music.game&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/O7_TKLHLE3Q0XnE--e5tTXLbJYdfbo7J521cseiShnn4L_a2HnJduwxhKqVjWj4jLg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T23:03:57.000Z",
+      "releaseDate": "2026-01-29T14:50:40.000Z",
       "genres": [
-        "Action"
+        "Music"
+      ],
+      "country": "VE"
+    },
+    {
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "VE"
+    },
+    {
+      "id": "com.ea.game.pvz2_row",
+      "name": "Plants vs Zombies™ 2",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.game.pvz2_row&hl=en&gl=VE",
+      "artwork": "https://play-lh.googleusercontent.com/r8kGrEySHDwfk2bv1HYmk4K76ioLYeDgr6W5SEAsNhoYlHdu-4kVJdaK9NIyVv9z__0_WOOQpSa2qMkaR9m5JQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-02T06:08:57.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "VE"
     }
