@@ -1,8 +1,36 @@
 {
   "country": "PL",
   "store": "google",
-  "updatedAt": "2026-02-28T20:59:43.215Z",
+  "updatedAt": "2026-03-01T07:21:38.087Z",
   "new": [
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T16:35:20.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "PL"
+    },
+    {
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast: Wonders",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T16:08:01.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "PL"
+    },
     {
       "id": "com.grandgames.magicsort",
       "name": "Magic Sort!",
@@ -74,20 +102,6 @@
       "country": "PL"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:27:55.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "PL"
-    },
-    {
       "id": "com.fc.goods.sort.matching.puzzle.triplemaster",
       "name": "Goods Puzzle: Sort Challenge™",
       "developer": "FALCON GAMES",
@@ -126,20 +140,6 @@
       "releaseDate": "2026-02-26T18:50:37.000Z",
       "genres": [
         "Word"
-      ],
-      "country": "PL"
-    },
-    {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast: Wonders",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T16:42:28.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "PL"
     },
@@ -720,20 +720,6 @@
       "country": "PL"
     },
     {
-      "id": "com.sybogames.subway.surfers.game",
-      "name": "Subway Surfers City",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T15:55:38.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "PL"
-    },
-    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -744,6 +730,20 @@
       "releaseDate": "2026-02-27T15:37:40.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "PL"
+    },
+    {
+      "id": "com.sybogames.subway.surfers.game",
+      "name": "Subway Surfers City",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T15:55:38.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "PL"
     },
@@ -783,7 +783,7 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T12:27:55.000Z",
+      "releaseDate": "2026-02-28T16:35:20.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -937,9 +937,23 @@
       "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T16:42:28.000Z",
+      "releaseDate": "2026-02-28T16:08:01.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "PL"
+    },
+    {
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T15:11:48.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "PL"
     },
@@ -986,20 +1000,6 @@
       "country": "PL"
     },
     {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T15:11:48.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "PL"
-    },
-    {
       "id": "com.loomgames.pixelflow",
       "name": "Pixel Flow!",
       "developer": "Loom Games A.Ş.",
@@ -1028,20 +1028,6 @@
       "country": "PL"
     },
     {
-      "id": "com.magic.cyber.piano.tiles.edm.musicgames",
-      "name": "Pop Piano: Music Games",
-      "developer": "Cobby Labs",
-      "url": "https://play.google.com/store/apps/details?id=com.magic.cyber.piano.tiles.edm.musicgames&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/11xNmRHrdqkAEJCotsiisr47VaK4Q4CMeJHkungv4S18mijkBXFDOiESYel8hvLl9Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T14:18:37.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "PL"
-    },
-    {
       "id": "com.tocaboca.tocalifeworld",
       "name": "Toca Boca World",
       "developer": "Toca Boca",
@@ -1052,6 +1038,20 @@
       "releaseDate": "2026-02-26T15:37:59.000Z",
       "genres": [
         "Educational"
+      ],
+      "country": "PL"
+    },
+    {
+      "id": "com.magic.cyber.piano.tiles.edm.musicgames",
+      "name": "Pop Piano: Music Games",
+      "developer": "Cobby Labs",
+      "url": "https://play.google.com/store/apps/details?id=com.magic.cyber.piano.tiles.edm.musicgames&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/11xNmRHrdqkAEJCotsiisr47VaK4Q4CMeJHkungv4S18mijkBXFDOiESYel8hvLl9Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T14:18:37.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "PL"
     },
@@ -1266,6 +1266,20 @@
       "country": "PL"
     },
     {
+      "id": "com.pixel.art.coloring.color.number",
+      "name": "Happy Color®: Color by Number",
+      "developer": "X-FLOW",
+      "url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/paB5-2s6q3uXd3nRE0-2QzCLeLklmemDepD0_Erald5YQUazuiOhMvJ8giFluMAX0w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-20T07:32:35.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "PL"
+    },
+    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
@@ -1308,6 +1322,20 @@
       "country": "PL"
     },
     {
+      "id": "com.fatmerge.global",
+      "name": "Tasty Travels: Merge Game",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/Vkqtl-KE8ZRtHhwV90NQZihrzUKiFhKr2OdrTF_YFFYgXMp22vdlXrPbyM7B0ejv16ArQmI9S26lBcwomY7U2w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T02:48:45.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "PL"
+    },
+    {
       "id": "com.screenshake.dominodreams",
       "name": "Domino Dreams™",
       "developer": "SuperPlay.",
@@ -1318,34 +1346,6 @@
       "releaseDate": "2026-02-19T16:16:23.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "PL"
-    },
-    {
-      "id": "com.pixel.art.coloring.color.number",
-      "name": "Happy Color®: Color by Number",
-      "developer": "X-FLOW",
-      "url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/paB5-2s6q3uXd3nRE0-2QzCLeLklmemDepD0_Erald5YQUazuiOhMvJ8giFluMAX0w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-20T07:32:35.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "PL"
-    },
-    {
-      "id": "co.jointhequest.wholiked",
-      "name": "WhoLiked – Guess Friends Likes",
-      "developer": "I.R.L. Apps",
-      "url": "https://play.google.com/store/apps/details?id=co.jointhequest.wholiked&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/m5gd_WZh_5vd8md1fuaGR0dQ2Pzz7z9NINSo_MeRkKlklAkh70M8MRHYnr1RXM_XMj1OwFFvTNpLgh4zCdt88sk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T22:17:52.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "PL"
     },
@@ -1364,14 +1364,14 @@
       "country": "PL"
     },
     {
-      "id": "com.fatmerge.global",
-      "name": "Tasty Travels: Merge Game",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/Vkqtl-KE8ZRtHhwV90NQZihrzUKiFhKr2OdrTF_YFFYgXMp22vdlXrPbyM7B0ejv16ArQmI9S26lBcwomY7U2w",
+      "id": "co.jointhequest.wholiked",
+      "name": "WhoLiked – Guess Friends Likes",
+      "developer": "I.R.L. Apps",
+      "url": "https://play.google.com/store/apps/details?id=co.jointhequest.wholiked&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/m5gd_WZh_5vd8md1fuaGR0dQ2Pzz7z9NINSo_MeRkKlklAkh70M8MRHYnr1RXM_XMj1OwFFvTNpLgh4zCdt88sk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-12T02:48:45.000Z",
+      "releaseDate": "2026-02-18T22:17:52.000Z",
       "genres": [
         "Casual"
       ],

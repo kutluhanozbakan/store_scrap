@@ -1,8 +1,22 @@
 {
   "country": "PS",
   "store": "google",
-  "updatedAt": "2026-02-28T20:59:56.772Z",
+  "updatedAt": "2026-03-01T07:21:56.742Z",
   "new": [
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=PS",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T16:35:20.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "PS"
+    },
     {
       "id": "com.torquegamers.truck.vehicle.climb.master",
       "name": "Vehicle Expert Truck Drive 3D",
@@ -42,20 +56,6 @@
       "releaseDate": "2026-02-27T12:31:23.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "PS"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=PS",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:27:55.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "PS"
     },
@@ -720,20 +720,6 @@
       "country": "PS"
     },
     {
-      "id": "com.cww.laststronghold",
-      "name": "Last Stronghold: Idle Survival",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.cww.laststronghold&hl=en&gl=PS",
-      "artwork": "https://play-lh.googleusercontent.com/Jx_X9G6TAS2O5W_46l1vuFVk18kL_oztKW_bb2D0q8yZiWWcwZgcjcG_BLMSjTfB5MU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-31T00:02:11.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "PS"
-    },
-    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -744,6 +730,20 @@
       "releaseDate": "2026-02-27T15:37:40.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "PS"
+    },
+    {
+      "id": "com.cww.laststronghold",
+      "name": "Last Stronghold: Idle Survival",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.cww.laststronghold&hl=en&gl=PS",
+      "artwork": "https://play-lh.googleusercontent.com/Jx_X9G6TAS2O5W_46l1vuFVk18kL_oztKW_bb2D0q8yZiWWcwZgcjcG_BLMSjTfB5MU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-31T00:02:11.000Z",
+      "genres": [
+        "Role Playing"
       ],
       "country": "PS"
     },
@@ -902,6 +902,20 @@
       "country": "PS"
     },
     {
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=PS",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T15:11:48.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "PS"
+    },
+    {
       "id": "com.gps.housemakeover.satisfying.clean",
       "name": "House Makeover: ASMR Cleaning",
       "developer": "Mad1 Games",
@@ -940,20 +954,6 @@
       "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "PS"
-    },
-    {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=PS",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T15:11:48.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "PS"
     },
@@ -1021,7 +1021,7 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T12:27:55.000Z",
+      "releaseDate": "2026-02-28T16:35:20.000Z",
       "genres": [
         "Puzzle"
       ],
