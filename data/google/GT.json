@@ -1,7 +1,7 @@
 {
   "country": "GT",
   "store": "google",
-  "updatedAt": "2026-03-01T02:41:44.719Z",
+  "updatedAt": "2026-03-01T11:26:05.699Z",
   "new": [
     {
       "id": "com.block.juggle",
@@ -26,6 +26,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-28T10:58:01.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "GT"
+    },
+    {
+      "id": "com.adventure.piano.musictiles",
+      "name": "Music Piano 5: Demon Piano",
+      "developer": "HyperMusic",
+      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.musictiles&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/QvQHWzQ2AUdSvIu4HpVgg2j_BfiAHD5IDXazFrcm6j9FHG3Q2993oTJBiIL_QK6KrH7m",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T10:24:37.000Z",
       "genres": [
         "Casual"
       ],
@@ -166,20 +180,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-26T16:46:59.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "GT"
-    },
-    {
-      "id": "gg.sunday.catescape",
-      "name": "Cat Escape: Virtual Pet Game",
-      "developer": "Sunday.gg",
-      "url": "https://play.google.com/store/apps/details?id=gg.sunday.catescape&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/56xrkazNFnyErWQtFSTWVwhBJsi637vYflAlv3wFIZvH25hOWoeQf2pmBJ6p6ICVs5M",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T15:29:20.000Z",
       "genres": [
         "Simulation"
       ],
@@ -410,6 +410,20 @@
       "country": "GT"
     },
     {
+      "id": "com.playstrom.my.sticker.room",
+      "name": "My Sticker Room - Decor Game",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/Z_DSIS6IGl9aSW67rlVKoatQLa8oc8cyiSQZ-jjkKpFc5sBao4dg4cfEhGTq5z7S3A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T14:39:09.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "GT"
+    },
+    {
       "id": "com.aim.racing",
       "name": "Extreme Car Driving Simulator",
       "developer": "AxesInMotion Racing",
@@ -420,6 +434,20 @@
       "releaseDate": "2026-02-20T13:51:00.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "GT"
+    },
+    {
+      "id": "com.supercell.brawlstars",
+      "name": "Brawl Stars",
+      "developer": "Supercell",
+      "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/WLJb9DGkxPkiqlvizxSyHnMqPOZATgfd8RH8rEo3L4FM84luI7GYKE8D2qFZNtC2OMsoo-eOy-qquwIRVl-05w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T13:48:42.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "GT"
     },
@@ -564,34 +592,6 @@
       "country": "GT"
     },
     {
-      "id": "com.dreamgames.royalmatch",
-      "name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T12:04:55.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "GT"
-    },
-    {
-      "id": "puzzle.snakes.puzzle.slithereat.gaming",
-      "name": "Snake Puzzle: Slither to Eat",
-      "developer": "Brave HK Limited",
-      "url": "https://play.google.com/store/apps/details?id=puzzle.snakes.puzzle.slithereat.gaming&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/BPmtnHqdOT3BPoya3WYneYUzcDOkYM0wyfSh-197KPQM3l-mnZvDDK-cnCD0UY21tSw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-15T15:35:36.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "GT"
-    },
-    {
       "id": "com.gps.housemakeover.satisfying.clean",
       "name": "House Makeover: ASMR Cleaning",
       "developer": "Mad1 Games",
@@ -634,20 +634,6 @@
       "country": "GT"
     },
     {
-      "id": "com.outfit7.mytalkingtomfriends",
-      "name": "My Talking Tom Friends",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/WY69uGwaQPUx5vS9bxF3sm4mc9N1ZzvVHVqLrZOycExHb6m8A2v5hGoroTRjih1a_d4Y",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T13:03:47.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "GT"
-    },
-    {
       "id": "com.id.gun.shooting.games",
       "name": "Gun Games FPS Shooting Games",
       "developer": "Interactive Dreams Inc",
@@ -658,6 +644,20 @@
       "releaseDate": "2026-02-13T11:59:45.000Z",
       "genres": [
         "Role Playing"
+      ],
+      "country": "GT"
+    },
+    {
+      "id": "com.pf.bmx.cycle.games.extreme.bicycle.games",
+      "name": "BMX Cycle Extreme Bicycle Game",
+      "developer": "PlayFlix",
+      "url": "https://play.google.com/store/apps/details?id=com.pf.bmx.cycle.games.extreme.bicycle.games&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/wuJ5F_BSGLIphrT3sth8YLpWQ0vkuobI-z1Dr0G1ZfCXWoYzwaa7Z1CHKToEGombsA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T05:46:18.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "GT"
     },
@@ -748,20 +748,6 @@
       "country": "GT"
     },
     {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "GT"
-    },
-    {
       "id": "com.Earthkwak.Platformer",
       "name": "Super Bear Adventure",
       "developer": "Earthkwak Games",
@@ -776,16 +762,16 @@
       "country": "GT"
     },
     {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T15:11:48.000Z",
+      "releaseDate": "2026-02-03T01:41:34.000Z",
       "genres": [
-        "Puzzle"
+        "Sports"
       ],
       "country": "GT"
     },
@@ -804,20 +790,6 @@
       "country": "GT"
     },
     {
-      "id": "com.football.soccer.league",
-      "name": "Football League 2026",
-      "developer": "MOBILE SOCCER",
-      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T12:25:49.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "GT"
-    },
-    {
       "id": "com.candyroom.clubcraft",
       "name": "School Party Craft",
       "developer": "Candy Room Games & RabbitCo",
@@ -832,6 +804,34 @@
       "country": "GT"
     },
     {
+      "id": "com.football.soccer.league",
+      "name": "Football League 2026",
+      "developer": "MOBILE SOCCER",
+      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T12:25:49.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "GT"
+    },
+    {
+      "id": "com.sybogames.subway.surfers.game",
+      "name": "Subway Surfers City",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T15:55:38.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "GT"
+    },
+    {
       "id": "com.amelosinteractive.snake",
       "name": "Snake.io - Fun Snake .io Games",
       "developer": "Kooapps Games | Fun Arcade and Casual Action Games",
@@ -842,6 +842,34 @@
       "releaseDate": "2026-02-27T11:05:16.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "GT"
+    },
+    {
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T15:11:48.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "GT"
+    },
+    {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "GT"
     },
@@ -874,20 +902,6 @@
       "country": "GT"
     },
     {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "GT"
-    },
-    {
       "id": "com.xgame.VehicleDriving3D",
       "name": "Real Driving: Vehicle & Park",
       "developer": "XGAME STUDIO",
@@ -898,6 +912,20 @@
       "releaseDate": "2026-01-23T06:55:58.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "GT"
+    },
+    {
+      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
+      "name": "Shoot Bubble - Pop Bubbles",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T02:18:35.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "GT"
     },
@@ -930,48 +958,6 @@
       "country": "GT"
     },
     {
-      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
-      "name": "Shoot Bubble - Pop Bubbles",
-      "developer": "IVYGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T02:18:35.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "GT"
-    },
-    {
-      "id": "com.sybogames.subway.surfers.game",
-      "name": "Subway Surfers City",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T15:55:38.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "GT"
-    },
-    {
-      "id": "com.outfit7.mytalkingtom2",
-      "name": "My Talking Tom 2: Pet Game",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T11:25:29.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "GT"
-    },
-    {
       "id": "com.netease.newspike",
       "name": "Blood Strike - FPS for all",
       "developer": "NetEase Games",
@@ -1000,20 +986,6 @@
       "country": "GT"
     },
     {
-      "id": "com.craft.city.blockbuilder.pro",
-      "name": "Craft Explore: Block Builder",
-      "developer": "Appsgrooves",
-      "url": "https://play.google.com/store/apps/details?id=com.craft.city.blockbuilder.pro&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/YFHDvFUFlCreDkvR1NRPr1KkeF3OdKCZPVmSLzPXs96jHbAxUf4LjFOaWA0WkmTdIK4A2K2G8ZnnKeLimAFM2Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T12:12:25.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "GT"
-    },
-    {
       "id": "com.sega.sonicdash",
       "name": "Sonic Dash: Endless Run",
       "developer": "SEGA",
@@ -1022,20 +994,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-06T16:47:11.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "GT"
-    },
-    {
-      "id": "com.blockgamesstudio.blockworld3d",
-      "name": "Block World 3D: Craft & Build",
-      "developer": "Funburstgame LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T09:17:30.000Z",
       "genres": [
         "Arcade"
       ],
@@ -1056,44 +1014,16 @@
       "country": "GT"
     },
     {
-      "id": "com.traffic.motorcycle.rider.driving.racing.open.sandbox.world",
-      "name": "Driving Motor Racing Simulator",
-      "developer": "Digital Payment Tech",
-      "url": "https://play.google.com/store/apps/details?id=com.traffic.motorcycle.rider.driving.racing.open.sandbox.world&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/tu3jt-CbX7hZIZbFMe_icuREWduoAvPcp-egP-6O4O5kEbDhjuq1euxqBgGxJofnylBQ",
+      "id": "com.blockgamesstudio.blockworld3d",
+      "name": "Block World 3D: Craft & Build",
+      "developer": "Funburstgame LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.blockgamesstudio.blockworld3d&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/p_FjfFIo5D4kaUdgZRf8akGz7cKFmil8wauGCFiJYA9uNiuntlmiXQVBvepM1pYd3s8",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T15:35:32.000Z",
+      "releaseDate": "2026-02-12T09:17:30.000Z",
       "genres": [
-        "Racing"
-      ],
-      "country": "GT"
-    },
-    {
-      "id": "com.rolling.hop.dancing.cats.tiles.musicgames",
-      "name": "Dancing Cats 2: Music Games",
-      "developer": "Cobby Labs",
-      "url": "https://play.google.com/store/apps/details?id=com.rolling.hop.dancing.cats.tiles.musicgames&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/gT89HMPUb-VdmIe-7BQk78PHD859D28TGTdP8Nzm505cBFbVhegvEyfLWDz4jPe2yA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-13T08:44:54.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "GT"
-    },
-    {
-      "id": "com.superbinogo.jungleboyadventure",
-      "name": "Super Bino Go:Adventure Jungle",
-      "developer": "1SOFT",
-      "url": "https://play.google.com/store/apps/details?id=com.superbinogo.jungleboyadventure&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/8vAg805Hbqbg8TWgyqwNRN2JRAO2hNjn-xFeBNESKeDtSmq-2f6SP-eaW7WpgSOI9No",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-13T02:49:30.000Z",
-      "genres": [
-        "Adventure"
+        "Arcade"
       ],
       "country": "GT"
     },
@@ -1112,16 +1042,16 @@
       "country": "GT"
     },
     {
-      "id": "com.gtsy.annoying.punch.game",
-      "name": "Annoying Uncle Punch Game",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
+      "id": "com.outfit7.mytalkingtom2",
+      "name": "My Talking Tom 2: Pet Game",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-19T05:19:01.000Z",
+      "releaseDate": "2026-02-20T11:25:29.000Z",
       "genres": [
-        "Simulation"
+        "Casual"
       ],
       "country": "GT"
     },
@@ -1140,6 +1070,34 @@
       "country": "GT"
     },
     {
+      "id": "com.craft.city.blockbuilder.pro",
+      "name": "Craft Explore: Block Builder",
+      "developer": "Appsgrooves",
+      "url": "https://play.google.com/store/apps/details?id=com.craft.city.blockbuilder.pro&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/YFHDvFUFlCreDkvR1NRPr1KkeF3OdKCZPVmSLzPXs96jHbAxUf4LjFOaWA0WkmTdIK4A2K2G8ZnnKeLimAFM2Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T12:12:25.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "GT"
+    },
+    {
+      "id": "com.traffic.motorcycle.rider.driving.racing.open.sandbox.world",
+      "name": "Driving Motor Racing Simulator",
+      "developer": "Digital Payment Tech",
+      "url": "https://play.google.com/store/apps/details?id=com.traffic.motorcycle.rider.driving.racing.open.sandbox.world&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/tu3jt-CbX7hZIZbFMe_icuREWduoAvPcp-egP-6O4O5kEbDhjuq1euxqBgGxJofnylBQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T15:35:32.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "GT"
+    },
+    {
       "id": "gg.sunday.dog.escape.puzzle",
       "name": "Dog Escape: Cute Pet Care Life",
       "developer": "Sunday.gg",
@@ -1148,20 +1106,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-20T17:46:36.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "GT"
-    },
-    {
-      "id": "com.ction.playergames",
-      "name": "2 3 4 Player Mini Games",
-      "developer": "Better World Games",
-      "url": "https://play.google.com/store/apps/details?id=com.ction.playergames&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/vHuenuu1GqX1BwDaYX86dsbQlmA7vCO0PEdgdXlCEZP5x2_R3pZo0xcI9Mkdn4UW7NA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-28T20:16:32.000Z",
       "genres": [
         "Simulation"
       ],
@@ -1182,16 +1126,16 @@
       "country": "GT"
     },
     {
-      "id": "com.gps.draw.flag.coloring.games",
-      "name": "Satisfying Coloring",
-      "developer": "Mad1 Games",
-      "url": "https://play.google.com/store/apps/details?id=com.gps.draw.flag.coloring.games&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/VLjDQF7_vbOFGFTiPqKw6YXfpuz-LPpPeYQYpnxRIWkTgZ2YGKQ9vKK6S5UsV3SysXU",
+      "id": "com.rolling.hop.dancing.cats.tiles.musicgames",
+      "name": "Dancing Cats 2: Music Games",
+      "developer": "Cobby Labs",
+      "url": "https://play.google.com/store/apps/details?id=com.rolling.hop.dancing.cats.tiles.musicgames&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/gT89HMPUb-VdmIe-7BQk78PHD859D28TGTdP8Nzm505cBFbVhegvEyfLWDz4jPe2yA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-19T11:03:58.000Z",
+      "releaseDate": "2026-01-13T08:44:54.000Z",
       "genres": [
-        "Casual"
+        "Music"
       ],
       "country": "GT"
     },
@@ -1210,6 +1154,20 @@
       "country": "GT"
     },
     {
+      "id": "com.cww.laststronghold",
+      "name": "Last Stronghold: Idle Survival",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.cww.laststronghold&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/Jx_X9G6TAS2O5W_46l1vuFVk18kL_oztKW_bb2D0q8yZiWWcwZgcjcG_BLMSjTfB5MU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-31T00:02:11.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "GT"
+    },
+    {
       "id": "com.media720.games2020",
       "name": "Offline Games No WiFi internet",
       "developer": "Fun Offline Games",
@@ -1224,28 +1182,56 @@
       "country": "GT"
     },
     {
-      "id": "com.firsttouchgames.dls7",
-      "name": "Dream League Soccer 2026",
-      "developer": "First Touch Games Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
+      "id": "com.superbinogo.jungleboyadventure",
+      "name": "Super Bino Go:Adventure Jungle",
+      "developer": "1SOFT",
+      "url": "https://play.google.com/store/apps/details?id=com.superbinogo.jungleboyadventure&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/8vAg805Hbqbg8TWgyqwNRN2JRAO2hNjn-xFeBNESKeDtSmq-2f6SP-eaW7WpgSOI9No",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T16:45:20.000Z",
+      "releaseDate": "2026-01-13T02:49:30.000Z",
       "genres": [
-        "Sports"
+        "Adventure"
       ],
       "country": "GT"
     },
     {
-      "id": "com.adventure.piano.kpopstar",
-      "name": "Music Piano 2: KPop Star",
-      "developer": "HyperMusic",
-      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
+      "id": "com.ction.playergames",
+      "name": "2 3 4 Player Mini Games",
+      "developer": "Better World Games",
+      "url": "https://play.google.com/store/apps/details?id=com.ction.playergames&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/vHuenuu1GqX1BwDaYX86dsbQlmA7vCO0PEdgdXlCEZP5x2_R3pZo0xcI9Mkdn4UW7NA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-28T10:58:01.000Z",
+      "releaseDate": "2025-10-28T20:16:32.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "GT"
+    },
+    {
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T05:19:01.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "GT"
+    },
+    {
+      "id": "com.budgestudios.googleplay.BlueyBLU",
+      "name": "Bluey: Let's Play!",
+      "developer": "Budge Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.BlueyBLU&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/UQhdqtZveHh33j9c5nAEO4OreYC1lINrbgvNH5N1kMVJb40Zvo9vHO-xS1QDPo3BWhd3jITSvGLCmhZ1TDIgy1k",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T15:06:11.000Z",
       "genres": [
         "Casual"
       ],
@@ -1266,14 +1252,42 @@
       "country": "GT"
     },
     {
-      "id": "com.uc.gym.clicker",
-      "name": "Gym Idle Clicker: Fitness Hero",
-      "developer": "Unicorn Studio Official",
-      "url": "https://play.google.com/store/apps/details?id=com.uc.gym.clicker&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/9uzA6qLx2gFUnbq-gxvn2ZZeTweHsZFGvO1kurRydMEWIpwf9q5ATOPzsg2aGgYuvWM",
+      "id": "com.firsttouchgames.dls7",
+      "name": "Dream League Soccer 2026",
+      "developer": "First Touch Games Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T03:20:44.000Z",
+      "releaseDate": "2026-02-24T16:45:20.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "GT"
+    },
+    {
+      "id": "com.gps.draw.flag.coloring.games",
+      "name": "Satisfying Coloring",
+      "developer": "Mad1 Games",
+      "url": "https://play.google.com/store/apps/details?id=com.gps.draw.flag.coloring.games&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/VLjDQF7_vbOFGFTiPqKw6YXfpuz-LPpPeYQYpnxRIWkTgZ2YGKQ9vKK6S5UsV3SysXU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T11:03:58.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "GT"
+    },
+    {
+      "id": "com.adventure.piano.kpopstar",
+      "name": "Music Piano 2: KPop Star",
+      "developer": "HyperMusic",
+      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T10:58:01.000Z",
       "genres": [
         "Casual"
       ],
@@ -1290,34 +1304,6 @@
       "releaseDate": "2026-02-23T08:13:54.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "GT"
-    },
-    {
-      "id": "com.budgestudios.googleplay.BlueyBLU",
-      "name": "Bluey: Let's Play!",
-      "developer": "Budge Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.BlueyBLU&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/UQhdqtZveHh33j9c5nAEO4OreYC1lINrbgvNH5N1kMVJb40Zvo9vHO-xS1QDPo3BWhd3jITSvGLCmhZ1TDIgy1k",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T15:06:11.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "GT"
-    },
-    {
-      "id": "com.get.rbx.counter.videost.rblx.calc",
-      "name": "RBX Counters - Get Rbux Calc",
-      "developer": "Videos Status Zone",
-      "url": "https://play.google.com/store/apps/details?id=com.get.rbx.counter.videost.rblx.calc&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/v_yEK0egrz0dNBpVgqXivLxvLniP2196IT2e1Upbr4c9QvnMc7sGDxEAsOpiTLvOMmW7",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-07-01T07:49:57.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "GT"
     },
@@ -1350,6 +1336,20 @@
       "country": "GT"
     },
     {
+      "id": "com.Neurononfire.SupremeDuelist",
+      "name": "Supreme Duelist",
+      "developer": "Neron's Brother",
+      "url": "https://play.google.com/store/apps/details?id=com.Neurononfire.SupremeDuelist&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/iRq0R9mN7eGyVENIPDk5muu76VxawBAIkFAYFqauJTFNIvUxzD1_M33HNX4GE8Qk0WqY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T17:04:22.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "GT"
+    },
+    {
       "id": "com.king.candycrushsaga",
       "name": "Candy Crush Saga",
       "developer": "King",
@@ -1364,30 +1364,30 @@
       "country": "GT"
     },
     {
-      "id": "com.cww.laststronghold",
-      "name": "Last Stronghold: Idle Survival",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.cww.laststronghold&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/Jx_X9G6TAS2O5W_46l1vuFVk18kL_oztKW_bb2D0q8yZiWWcwZgcjcG_BLMSjTfB5MU",
+      "id": "com.get.rbx.counter.videost.rblx.calc",
+      "name": "RBX Counters - Get Rbux Calc",
+      "developer": "Videos Status Zone",
+      "url": "https://play.google.com/store/apps/details?id=com.get.rbx.counter.videost.rblx.calc&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/v_yEK0egrz0dNBpVgqXivLxvLniP2196IT2e1Upbr4c9QvnMc7sGDxEAsOpiTLvOMmW7",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-31T00:02:11.000Z",
+      "releaseDate": "2025-07-01T07:49:57.000Z",
       "genres": [
-        "Role Playing"
+        "Adventure"
       ],
       "country": "GT"
     },
     {
-      "id": "com.dino.race.master",
-      "name": "Car Race",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=GT",
-      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
+      "id": "com.uc.gym.clicker",
+      "name": "Gym Idle Clicker: Fitness Hero",
+      "developer": "Unicorn Studio Official",
+      "url": "https://play.google.com/store/apps/details?id=com.uc.gym.clicker&hl=en&gl=GT",
+      "artwork": "https://play-lh.googleusercontent.com/9uzA6qLx2gFUnbq-gxvn2ZZeTweHsZFGvO1kurRydMEWIpwf9q5ATOPzsg2aGgYuvWM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-09T02:55:19.000Z",
+      "releaseDate": "2026-02-04T03:20:44.000Z",
       "genres": [
-        "Racing"
+        "Casual"
       ],
       "country": "GT"
     },
