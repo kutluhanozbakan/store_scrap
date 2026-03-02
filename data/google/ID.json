@@ -1,8 +1,22 @@
 {
   "country": "ID",
   "store": "google",
-  "updatedAt": "2026-03-02T13:34:17.055Z",
+  "updatedAt": "2026-03-02T22:47:29.232Z",
   "new": [
+    {
+      "id": "com.outfit7.mytalkingtomfriends2",
+      "name": "My Talking Tom Friends 2",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends2&hl=en&gl=ID",
+      "artwork": "https://play-lh.googleusercontent.com/A7P5WxCz-S5Qi-81l7FbKsl5gomFRBWhh0TY_eIseZOVPT3mliinEFHww5mPFvJvkgI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T14:43:55.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "ID"
+    },
     {
       "id": "com.block.juggle",
       "name": "Block Blast!",
@@ -56,6 +70,20 @@
       "releaseDate": "2026-02-27T21:33:41.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "ID"
+    },
+    {
+      "id": "com.mojang.minecrafttrialpe",
+      "name": "Minecraft Trial",
+      "developer": "Mojang",
+      "url": "https://play.google.com/store/apps/details?id=com.mojang.minecrafttrialpe&hl=en&gl=ID",
+      "artwork": "https://play-lh.googleusercontent.com/DJexP6PO8dL06XvNrjG7plb7SW_SaxuNamO80ab512JA71lBEBUnaJCaZzlqWVrrlEiG",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T20:11:16.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "ID"
     },
@@ -308,20 +336,6 @@
       "releaseDate": "2026-02-25T01:09:20.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "ID"
-    },
-    {
-      "id": "com.mojang.minecrafttrialpe",
-      "name": "Minecraft Trial",
-      "developer": "Mojang",
-      "url": "https://play.google.com/store/apps/details?id=com.mojang.minecrafttrialpe&hl=en&gl=ID",
-      "artwork": "https://play-lh.googleusercontent.com/DJexP6PO8dL06XvNrjG7plb7SW_SaxuNamO80ab512JA71lBEBUnaJCaZzlqWVrrlEiG",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T22:16:58.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "ID"
     },
@@ -688,20 +702,6 @@
         "Puzzle"
       ],
       "country": "ID"
-    },
-    {
-      "id": "com.playgendary.kickthebuddy",
-      "name": "Kick the Buddy－Fun Action Game",
-      "developer": "Playgendary Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.playgendary.kickthebuddy&hl=en&gl=ID",
-      "artwork": "https://play-lh.googleusercontent.com/4zT9waZhwrqSCMVFBXCi7jSzjMRP9LMdR4ZylVTd4KRRBy0aK79-IZvQWawRTSb-CLE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T14:04:33.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "ID"
     }
   ],
   "updated": [
@@ -846,20 +846,6 @@
       "country": "ID"
     },
     {
-      "id": "com.ludo.king",
-      "name": "Ludo King®",
-      "developer": "Gametion",
-      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=ID",
-      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T09:46:13.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "ID"
-    },
-    {
       "id": "net.verlygamedev.herexsimulatorindonesiamax",
       "name": "Herex Simulator Indonesia Max",
       "developer": "VerlyGameDev",
@@ -870,6 +856,20 @@
       "releaseDate": "2026-02-23T20:49:33.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "ID"
+    },
+    {
+      "id": "com.ludo.king",
+      "name": "Ludo King®",
+      "developer": "Gametion",
+      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=ID",
+      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T09:46:13.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "ID"
     },
@@ -902,20 +902,6 @@
       "country": "ID"
     },
     {
-      "id": "com.playstrom.my.sticker.room",
-      "name": "My Sticker Room - Decor Game",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=ID",
-      "artwork": "https://play-lh.googleusercontent.com/Z_DSIS6IGl9aSW67rlVKoatQLa8oc8cyiSQZ-jjkKpFc5sBao4dg4cfEhGTq5z7S3A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T14:39:09.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "ID"
-    },
-    {
       "id": "com.puzzlegames.puzzlebrickslegend",
       "name": "Color Block: Combo Blast",
       "developer": "Ivy",
@@ -930,16 +916,16 @@
       "country": "ID"
     },
     {
-      "id": "com.wildspike.wormszone",
-      "name": "Worms Zone .io - Hungry Snake",
-      "developer": "CASUAL AZUR GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=ID",
-      "artwork": "https://play-lh.googleusercontent.com/POqfKIQbCqXQvPt8ml0-YMD4BPU_x0VnnRGBQEFg2E5MgevIqpmANAAxbU90SwlRAhw",
+      "id": "com.playstrom.my.sticker.room",
+      "name": "My Sticker Room - Decor Game",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=ID",
+      "artwork": "https://play-lh.googleusercontent.com/Z_DSIS6IGl9aSW67rlVKoatQLa8oc8cyiSQZ-jjkKpFc5sBao4dg4cfEhGTq5z7S3A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-10T11:39:50.000Z",
+      "releaseDate": "2026-02-20T14:39:09.000Z",
       "genres": [
-        "Action"
+        "Simulation"
       ],
       "country": "ID"
     },
@@ -954,6 +940,20 @@
       "releaseDate": "2025-12-24T15:18:09.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "ID"
+    },
+    {
+      "id": "com.wildspike.wormszone",
+      "name": "Worms Zone .io - Hungry Snake",
+      "developer": "CASUAL AZUR GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=ID",
+      "artwork": "https://play-lh.googleusercontent.com/POqfKIQbCqXQvPt8ml0-YMD4BPU_x0VnnRGBQEFg2E5MgevIqpmANAAxbU90SwlRAhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T11:39:50.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "ID"
     },
@@ -1000,16 +1000,16 @@
       "country": "ID"
     },
     {
-      "id": "com.bunbunstudio.magicblocktiles",
-      "name": "Music Piano 7: Rush Song Games",
-      "developer": "Melodya Muses",
-      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=ID",
-      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
+      "id": "com.football.soccer.league",
+      "name": "Football League 2026",
+      "developer": "MOBILE SOCCER",
+      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=ID",
+      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-25T01:15:33.000Z",
+      "releaseDate": "2026-02-11T12:25:49.000Z",
       "genres": [
-        "Music"
+        "Sports"
       ],
       "country": "ID"
     },
@@ -1028,16 +1028,16 @@
       "country": "ID"
     },
     {
-      "id": "com.football.soccer.league",
-      "name": "Football League 2026",
-      "developer": "MOBILE SOCCER",
-      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=ID",
-      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
+      "id": "com.bunbunstudio.magicblocktiles",
+      "name": "Music Piano 7: Rush Song Games",
+      "developer": "Melodya Muses",
+      "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=ID",
+      "artwork": "https://play-lh.googleusercontent.com/vwi8uQfOJ8nzR8ZZc7XL7NV7garMH9-HvPe5E8Rf-d-aV7tRqxlePchEQxX9Cc7vtJTh",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T12:25:49.000Z",
+      "releaseDate": "2026-02-25T01:15:33.000Z",
       "genres": [
-        "Sports"
+        "Music"
       ],
       "country": "ID"
     },
@@ -1052,20 +1052,6 @@
       "releaseDate": "2026-02-10T14:18:37.000Z",
       "genres": [
         "Music"
-      ],
-      "country": "ID"
-    },
-    {
-      "id": "com.miniclip.eightballpool",
-      "name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=ID",
-      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T11:45:50.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "ID"
     },
@@ -1098,16 +1084,16 @@
       "country": "ID"
     },
     {
-      "id": "com.pazugames.avatarworld",
-      "name": "Avatar World ®",
-      "developer": "Pazu Games",
-      "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld&hl=en&gl=ID",
-      "artwork": "https://play-lh.googleusercontent.com/LnX6GD073ysfflkl2jX8NBcDxdG6ZV8xBkbo985dJgR2v2xdsKD6nIA-EtIl2cFwfHTPKaraLh4U4uq7iH1b",
+      "id": "com.miniclip.eightballpool",
+      "name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=ID",
+      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-18T10:51:24.000Z",
+      "releaseDate": "2026-02-18T11:45:50.000Z",
       "genres": [
-        "Role Playing"
+        "Sports"
       ],
       "country": "ID"
     },
@@ -1154,6 +1140,20 @@
       "country": "ID"
     },
     {
+      "id": "com.pazugames.avatarworld",
+      "name": "Avatar World ®",
+      "developer": "Pazu Games",
+      "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld&hl=en&gl=ID",
+      "artwork": "https://play-lh.googleusercontent.com/LnX6GD073ysfflkl2jX8NBcDxdG6ZV8xBkbo985dJgR2v2xdsKD6nIA-EtIl2cFwfHTPKaraLh4U4uq7iH1b",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T10:51:24.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "ID"
+    },
+    {
       "id": "com.outfit7.mytalkingtomfriends",
       "name": "My Talking Tom Friends",
       "developer": "Outfit7 Limited",
@@ -1196,6 +1196,20 @@
       "country": "ID"
     },
     {
+      "id": "com.matteljv.uno",
+      "name": "UNO!™",
+      "developer": "Mattel163 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.matteljv.uno&hl=en&gl=ID",
+      "artwork": "https://play-lh.googleusercontent.com/yAn20u0xsnzgIKZTaFGgkPnEOV1LPKh00_rEccAnQeljyXDESWneIl9C28c7JT-petqf7AD_ZlIIDMrYah7p",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T09:29:49.000Z",
+      "genres": [
+        "Card"
+      ],
+      "country": "ID"
+    },
+    {
       "id": "com.netease.newspike",
       "name": "Blood Strike - FPS for all",
       "developer": "NetEase Games",
@@ -1210,16 +1224,16 @@
       "country": "ID"
     },
     {
-      "id": "com.matteljv.uno",
-      "name": "UNO!™",
-      "developer": "Mattel163 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.matteljv.uno&hl=en&gl=ID",
-      "artwork": "https://play-lh.googleusercontent.com/yAn20u0xsnzgIKZTaFGgkPnEOV1LPKh00_rEccAnQeljyXDESWneIl9C28c7JT-petqf7AD_ZlIIDMrYah7p",
+      "id": "com.snake.io.slither.worms",
+      "name": "Snake Lite® - Worm Snake Game",
+      "developer": "Hippo Lab",
+      "url": "https://play.google.com/store/apps/details?id=com.snake.io.slither.worms&hl=en&gl=ID",
+      "artwork": "https://play-lh.googleusercontent.com/unaCabpPBNL2HiMCyjCIO81ab1XGJU2ZnNYOdobeg60bEfc8zoIcudRA10SjJlSHkQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T09:29:49.000Z",
+      "releaseDate": "2026-01-08T09:51:08.000Z",
       "genres": [
-        "Card"
+        "Action"
       ],
       "country": "ID"
     },
@@ -1238,20 +1252,6 @@
       "country": "ID"
     },
     {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=ID",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "ID"
-    },
-    {
       "id": "com.idbsstudio.cumidaratmultiplayer",
       "name": "Cumi Darat Multiplayer",
       "developer": "IDBS Studio",
@@ -1266,16 +1266,16 @@
       "country": "ID"
     },
     {
-      "id": "com.snake.io.slither.worms",
-      "name": "Snake Lite® - Worm Snake Game",
-      "developer": "Hippo Lab",
-      "url": "https://play.google.com/store/apps/details?id=com.snake.io.slither.worms&hl=en&gl=ID",
-      "artwork": "https://play-lh.googleusercontent.com/unaCabpPBNL2HiMCyjCIO81ab1XGJU2ZnNYOdobeg60bEfc8zoIcudRA10SjJlSHkQ",
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=ID",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-08T09:51:08.000Z",
+      "releaseDate": "2026-02-03T01:41:34.000Z",
       "genres": [
-        "Action"
+        "Sports"
       ],
       "country": "ID"
     },
@@ -1364,16 +1364,16 @@
       "country": "ID"
     },
     {
-      "id": "com.kitkagames.fallbuddies",
-      "name": "Stumble Guys",
-      "developer": "Scopely",
-      "url": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies&hl=en&gl=ID",
-      "artwork": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
+      "id": "com.magicgames.dessert.crush.stick",
+      "name": "Dessert Crush",
+      "developer": "YounEXE",
+      "url": "https://play.google.com/store/apps/details?id=com.magicgames.dessert.crush.stick&hl=en&gl=ID",
+      "artwork": "https://play-lh.googleusercontent.com/XPuUY92MZgK8SGNz71TPLcReNc8QjdR0dkMwcD_biAE64KJEKbWo7Q5O7lM5_WV6oVE",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T11:02:02.000Z",
+      "releaseDate": "2026-02-25T11:21:58.000Z",
       "genres": [
-        "Action"
+        "Casual"
       ],
       "country": "ID"
     },
@@ -1392,14 +1392,14 @@
       "country": "ID"
     },
     {
-      "id": "com.playgendary.kickthebuddy",
-      "name": "Kick the Buddy－Fun Action Game",
-      "developer": "Playgendary Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.playgendary.kickthebuddy&hl=en&gl=ID",
-      "artwork": "https://play-lh.googleusercontent.com/4zT9waZhwrqSCMVFBXCi7jSzjMRP9LMdR4ZylVTd4KRRBy0aK79-IZvQWawRTSb-CLE",
+      "id": "com.kitkagames.fallbuddies",
+      "name": "Stumble Guys",
+      "developer": "Scopely",
+      "url": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies&hl=en&gl=ID",
+      "artwork": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T14:04:33.000Z",
+      "releaseDate": "2026-02-24T11:02:02.000Z",
       "genres": [
         "Action"
       ],
