@@ -1,8 +1,50 @@
 {
   "country": "KI",
   "store": "google",
-  "updatedAt": "2026-03-03T11:59:55.599Z",
+  "updatedAt": "2026-03-03T22:47:52.047Z",
   "new": [
+    {
+      "id": "com.Neurononfire.SupremeDuelist",
+      "name": "Supreme Duelist",
+      "developer": "Neron's Brother",
+      "url": "https://play.google.com/store/apps/details?id=com.Neurononfire.SupremeDuelist&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/iRq0R9mN7eGyVENIPDk5muu76VxawBAIkFAYFqauJTFNIvUxzD1_M33HNX4GE8Qk0WqY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T17:24:50.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "KI"
+    },
+    {
+      "id": "org.ppsspp.ppsspp",
+      "name": "PPSSPP - PSP emulator",
+      "developer": "Henrik Rydgård",
+      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T15:58:32.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "KI"
+    },
+    {
+      "id": "air.ynfo.stickergo",
+      "name": "Sticker GO!",
+      "developer": "Ganko",
+      "url": "https://play.google.com/store/apps/details?id=air.ynfo.stickergo&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/EWkIO0Mx40HtsawyCBpLzf3tZ4jU69TXhWQqYyWgjLq6-UX4M22EaVZzyOU7JQXVoM4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T15:28:09.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "KI"
+    },
     {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
@@ -28,20 +70,6 @@
       "releaseDate": "2026-03-03T09:36:28.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "KI"
-    },
-    {
-      "id": "air.ynfo.stickergo",
-      "name": "Sticker GO!",
-      "developer": "Ganko",
-      "url": "https://play.google.com/store/apps/details?id=air.ynfo.stickergo&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/EWkIO0Mx40HtsawyCBpLzf3tZ4jU69TXhWQqYyWgjLq6-UX4M22EaVZzyOU7JQXVoM4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T21:25:11.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "KI"
     },
@@ -200,20 +228,6 @@
       "country": "KI"
     },
     {
-      "id": "com.vincentb.MobControl",
-      "name": "Mob Control",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T16:59:15.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "KI"
-    },
-    {
       "id": "com.wood.block.sudoku.puzzle.bm",
       "name": "Block Crush!",
       "developer": "Wonderful  Studio",
@@ -252,20 +266,6 @@
       "releaseDate": "2026-02-27T12:31:23.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "KI"
-    },
-    {
-      "id": "com.gamebrain.hexasort",
-      "name": "Hexa Sort",
-      "developer": "Lion Studios Plus",
-      "url": "https://play.google.com/store/apps/details?id=com.gamebrain.hexasort&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/Fb6LOiEok5OKRnkUqk_AO1fTi7oznCPeftYhZk7bnRwucG91oUWeZ5RoXGx7i5V1CA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T11:11:35.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "KI"
     },
@@ -382,6 +382,20 @@
       "country": "KI"
     },
     {
+      "id": "com.ecffri.arrows",
+      "name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore UG",
+      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/f3szQ-tBQ5FVtiO2hwnJ6Gg4LbckQ9qKD099oiFqlvDo78uaD85Zn9G4o-W9390XnQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T19:36:00.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "KI"
+    },
+    {
       "id": "io.supercent.linkedcubic",
       "name": "Snake Clash!",
       "developer": "Supercent, Inc.",
@@ -448,20 +462,6 @@
       "releaseDate": "2026-02-19T12:52:47.000Z",
       "genres": [
         "Word"
-      ],
-      "country": "KI"
-    },
-    {
-      "id": "com.MadOut.BIG",
-      "name": "MadOut 2: Grand Auto Racing",
-      "developer": "MadOut Games LLC FZ",
-      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/dYeAjuPFJGv-XfIiKEzuR6ACSG-4pBjs31DZcjn_qRoQ2WfMzm5iKFKNLEjGERYQ6Cn-",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T07:16:00.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "KI"
     },
@@ -592,6 +592,20 @@
       "country": "KI"
     },
     {
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T10:53:41.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "KI"
+    },
+    {
       "id": "com.gp.pilot.simulator.airplanegames",
       "name": "Pilot Simulator: Airplane Game",
       "developer": "GamePark",
@@ -688,20 +702,6 @@
         "Puzzle"
       ],
       "country": "KI"
-    },
-    {
-      "id": "com.stac.kfu",
-      "name": "Glam Screw Puzzle",
-      "developer": "Khyber School",
-      "url": "https://play.google.com/store/apps/details?id=com.stac.kfu&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/MLAq-Ma6keZxVF6wYqKsQQCrk24sqZRBVngfvQFo35rJPLusjRPNHcphlCdcn2G5CTs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T13:01:12.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "KI"
     }
   ],
   "updated": [
@@ -713,7 +713,7 @@
       "artwork": "https://play-lh.googleusercontent.com/EWkIO0Mx40HtsawyCBpLzf3tZ4jU69TXhWQqYyWgjLq6-UX4M22EaVZzyOU7JQXVoM4",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-02T21:25:11.000Z",
+      "releaseDate": "2026-03-03T15:28:09.000Z",
       "genres": [
         "Board"
       ],
@@ -748,20 +748,6 @@
       "country": "KI"
     },
     {
-      "id": "com.catchup.ball.goingball",
-      "name": "3D Ball Catch Up - Racing Ball",
-      "developer": "Takenick Innovation",
-      "url": "https://play.google.com/store/apps/details?id=com.catchup.ball.goingball&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/F01h3ZGppzyqRdHMflxbf7KVKOa6VulVk2kcmfZ1vNDHvDy-H7uZuUroKRvKua75dIP0_luT_ar-uInovN4yuQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T08:53:57.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "KI"
-    },
-    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -772,6 +758,20 @@
       "releaseDate": "2026-02-27T15:37:40.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "KI"
+    },
+    {
+      "id": "com.catchup.ball.goingball",
+      "name": "3D Ball Catch Up - Racing Ball",
+      "developer": "Takenick Innovation",
+      "url": "https://play.google.com/store/apps/details?id=com.catchup.ball.goingball&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/F01h3ZGppzyqRdHMflxbf7KVKOa6VulVk2kcmfZ1vNDHvDy-H7uZuUroKRvKua75dIP0_luT_ar-uInovN4yuQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T08:53:57.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "KI"
     },
@@ -846,20 +846,6 @@
       "country": "KI"
     },
     {
-      "id": "es.cabmagazine.bingoencasa",
-      "name": "Bingo at Home",
-      "developer": "CAB Magazine Online SL",
-      "url": "https://play.google.com/store/apps/details?id=es.cabmagazine.bingoencasa&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/Jfoo2qRlZba6SfsxAjld5FZvHoO_RrCKWofeD9sp2nO2OINfbSIsIhNAaOEmu6HabQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2024-12-18T10:57:38.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "KI"
-    },
-    {
       "id": "com.id.gun.shooting.games",
       "name": "Gun Games FPS Shooting Games",
       "developer": "Interactive Dreams Inc",
@@ -870,6 +856,20 @@
       "releaseDate": "2026-02-13T11:59:45.000Z",
       "genres": [
         "Role Playing"
+      ],
+      "country": "KI"
+    },
+    {
+      "id": "es.cabmagazine.bingoencasa",
+      "name": "Bingo at Home",
+      "developer": "CAB Magazine Online SL",
+      "url": "https://play.google.com/store/apps/details?id=es.cabmagazine.bingoencasa&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/Jfoo2qRlZba6SfsxAjld5FZvHoO_RrCKWofeD9sp2nO2OINfbSIsIhNAaOEmu6HabQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2024-12-18T10:57:38.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "KI"
     },
@@ -902,16 +902,16 @@
       "country": "KI"
     },
     {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "id": "com.boat.fishing.simulator",
+      "name": "Boat Fishing Simulator",
+      "developer": "Skyloft Yazılım Bilişim ve Anonim Şirketi",
+      "url": "https://play.google.com/store/apps/details?id=com.boat.fishing.simulator&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/tVUBC4vB-qhCazWEAJ97013TPTE6muZ17w4PSAUWPFH_Umv8QXj5NJG6--JRJCpOW5rSScqk2GhHNaee5ElvTw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "releaseDate": "2026-01-12T07:59:15.000Z",
       "genres": [
-        "Adventure"
+        "Simulation"
       ],
       "country": "KI"
     },
@@ -930,16 +930,16 @@
       "country": "KI"
     },
     {
-      "id": "com.haunteddorm.mihuan",
-      "name": "Haunted Dorm",
-      "developer": "Mihuan Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.haunteddorm.mihuan&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/2xuaeiD3Gzj5XwOmSFKKSc19s69fZc2hrmfdi_7D2wxA5dP-DOQtuCQ7unli0xRFmx8",
+      "id": "com.tarboosh.collectemall",
+      "name": "Collect Em All! Clear the Dots",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.tarboosh.collectemall&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/1Zgbqux8C1W0by560urxm1cowz3l0QaCogMRjXXNkGRUennrde8hfSkk40k5uDWZkvc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-16T08:47:16.000Z",
+      "releaseDate": "2026-01-14T18:34:19.000Z",
       "genres": [
-        "Strategy"
+        "Casual"
       ],
       "country": "KI"
     },
@@ -958,16 +958,30 @@
       "country": "KI"
     },
     {
-      "id": "com.boat.fishing.simulator",
-      "name": "Boat Fishing Simulator",
-      "developer": "Skyloft Yazılım Bilişim ve Anonim Şirketi",
-      "url": "https://play.google.com/store/apps/details?id=com.boat.fishing.simulator&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/tVUBC4vB-qhCazWEAJ97013TPTE6muZ17w4PSAUWPFH_Umv8QXj5NJG6--JRJCpOW5rSScqk2GhHNaee5ElvTw",
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-12T07:59:15.000Z",
+      "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
-        "Simulation"
+        "Adventure"
+      ],
+      "country": "KI"
+    },
+    {
+      "id": "com.haunteddorm.mihuan",
+      "name": "Haunted Dorm",
+      "developer": "Mihuan Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.haunteddorm.mihuan&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/2xuaeiD3Gzj5XwOmSFKKSc19s69fZc2hrmfdi_7D2wxA5dP-DOQtuCQ7unli0xRFmx8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-16T08:47:16.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "KI"
     },
@@ -982,20 +996,6 @@
       "releaseDate": "2026-03-02T13:08:35.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "KI"
-    },
-    {
-      "id": "com.tarboosh.collectemall",
-      "name": "Collect Em All! Clear the Dots",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.tarboosh.collectemall&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/1Zgbqux8C1W0by560urxm1cowz3l0QaCogMRjXXNkGRUennrde8hfSkk40k5uDWZkvc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-14T18:34:19.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "KI"
     },
@@ -1056,6 +1056,20 @@
       "country": "KI"
     },
     {
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T13:11:21.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "KI"
+    },
+    {
       "id": "com.chillingo.robberybobfree.android.row",
       "name": "Robbery Bob - King of Sneak",
       "developer": "Deca_Games",
@@ -1070,16 +1084,16 @@
       "country": "KI"
     },
     {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "id": "com.Neurononfire.SupremeDuelist",
+      "name": "Supreme Duelist",
+      "developer": "Neron's Brother",
+      "url": "https://play.google.com/store/apps/details?id=com.Neurononfire.SupremeDuelist&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/iRq0R9mN7eGyVENIPDk5muu76VxawBAIkFAYFqauJTFNIvUxzD1_M33HNX4GE8Qk0WqY",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-02T13:11:21.000Z",
+      "releaseDate": "2026-03-03T17:24:50.000Z",
       "genres": [
-        "Board"
+        "Action"
       ],
       "country": "KI"
     },
@@ -1098,30 +1112,16 @@
       "country": "KI"
     },
     {
-      "id": "com.Neurononfire.SupremeDuelist",
-      "name": "Supreme Duelist",
-      "developer": "Neron's Brother",
-      "url": "https://play.google.com/store/apps/details?id=com.Neurononfire.SupremeDuelist&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/iRq0R9mN7eGyVENIPDk5muu76VxawBAIkFAYFqauJTFNIvUxzD1_M33HNX4GE8Qk0WqY",
+      "id": "com.kmar966.app.housiebingo",
+      "name": "Lucky Bingo",
+      "developer": "TEMAURIWORLD",
+      "url": "https://play.google.com/store/apps/details?id=com.kmar966.app.housiebingo&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/MuBDxwiywAvuQ3LOyWbSjOGyJfXY6WIY6y5UN2G_K33QlLEU_M8oDL3MklvMAXkp9UyC",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T17:04:22.000Z",
+      "releaseDate": "2026-02-27T23:20:37.000Z",
       "genres": [
-        "Action"
-      ],
-      "country": "KI"
-    },
-    {
-      "id": "com.hypgames.sniperbattle",
-      "name": "Sniper Battle: 3D War Shooter",
-      "developer": "HypGames.",
-      "url": "https://play.google.com/store/apps/details?id=com.hypgames.sniperbattle&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/ZeKohQagqDzcgUTvJpdAQoLTMPUkTPa-4_C4fVr4Y1fvn02ecZXHXJKBJDzcaSf499A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T01:33:17.000Z",
-      "genres": [
-        "Action"
+        "Card"
       ],
       "country": "KI"
     },
@@ -1140,62 +1140,6 @@
       "country": "KI"
     },
     {
-      "id": "com.kmar966.app.housiebingo",
-      "name": "Lucky Bingo",
-      "developer": "TEMAURIWORLD",
-      "url": "https://play.google.com/store/apps/details?id=com.kmar966.app.housiebingo&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/MuBDxwiywAvuQ3LOyWbSjOGyJfXY6WIY6y5UN2G_K33QlLEU_M8oDL3MklvMAXkp9UyC",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T23:20:37.000Z",
-      "genres": [
-        "Card"
-      ],
-      "country": "KI"
-    },
-    {
-      "id": "bible.wordgame.words.connect.crossword.cookies",
-      "name": "Bible Word Puzzle - Word Games",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=bible.wordgame.words.connect.crossword.cookies&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/RBqXF3b_dCTdTSjlF6NyUFelL-0MajS6uBo4xzT9wBVPQvuZzIyb8lIG3btKTOdFyg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T12:22:22.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "KI"
-    },
-    {
-      "id": "com.firsttouchgames.dls7",
-      "name": "Dream League Soccer 2026",
-      "developer": "First Touch Games Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T18:33:48.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "KI"
-    },
-    {
-      "id": "com.adventure.piano.musictiles",
-      "name": "Music Piano 5: Demon Piano",
-      "developer": "HyperMusic",
-      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.musictiles&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/QvQHWzQ2AUdSvIu4HpVgg2j_BfiAHD5IDXazFrcm6j9FHG3Q2993oTJBiIL_QK6KrH7m",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T10:24:37.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "KI"
-    },
-    {
       "id": "com.gamee.kingdom.royale.match3.blast.escape",
       "name": "Kingdom Match: Royal Adventure",
       "developer": "GameeStudio",
@@ -1210,42 +1154,14 @@
       "country": "KI"
     },
     {
-      "id": "com.mobile.legends",
-      "name": "Mobile Legends: Bang Bang",
-      "developer": "MOONTON",
-      "url": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/Op7v9XdsyxjrKImMD5RLyiLRCAHs3DMQFANwfsuMTw1hq0lH4j8tOqD3Fd7zyr4ixmC0xoqqRkQDBjAd46NsFQ",
+      "id": "com.hypgames.sniperbattle",
+      "name": "Sniper Battle: 3D War Shooter",
+      "developer": "HypGames.",
+      "url": "https://play.google.com/store/apps/details?id=com.hypgames.sniperbattle&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/ZeKohQagqDzcgUTvJpdAQoLTMPUkTPa-4_C4fVr4Y1fvn02ecZXHXJKBJDzcaSf499A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-07T03:26:33.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "KI"
-    },
-    {
-      "id": "com.maxgames.stickwarlegacy",
-      "name": "Stick War: Legacy",
-      "developer": "Max Games Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.maxgames.stickwarlegacy&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/ORpdNiFMJhZEUB_lXhlf_ez2pBkugwKoc_RxW4S5ic7cyf021hE22tXmAxHWadK2OKs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T23:52:04.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "KI"
-    },
-    {
-      "id": "com.ForgeGames.SpecialForcesGroup2",
-      "name": "Special Forces Group 2",
-      "developer": "ForgeGames Mobile",
-      "url": "https://play.google.com/store/apps/details?id=com.ForgeGames.SpecialForcesGroup2&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/GR2lZuHq4IbY74vnPZ1dg7gdDYwYrpmJDFayNImeHaBDYx4XDLlEN_lcbPM8BAxlTKU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2024-10-25T15:41:01.000Z",
+      "releaseDate": "2026-02-28T01:33:17.000Z",
       "genres": [
         "Action"
       ],
@@ -1280,6 +1196,104 @@
       "country": "KI"
     },
     {
+      "id": "bible.wordgame.words.connect.crossword.cookies",
+      "name": "Bible Word Puzzle - Word Games",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=bible.wordgame.words.connect.crossword.cookies&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/RBqXF3b_dCTdTSjlF6NyUFelL-0MajS6uBo4xzT9wBVPQvuZzIyb8lIG3btKTOdFyg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T12:22:22.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "KI"
+    },
+    {
+      "id": "com.firsttouchgames.dls7",
+      "name": "Dream League Soccer 2026",
+      "developer": "First Touch Games Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T18:33:48.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "KI"
+    },
+    {
+      "id": "com.ForgeGames.SpecialForcesGroup2",
+      "name": "Special Forces Group 2",
+      "developer": "ForgeGames Mobile",
+      "url": "https://play.google.com/store/apps/details?id=com.ForgeGames.SpecialForcesGroup2&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/GR2lZuHq4IbY74vnPZ1dg7gdDYwYrpmJDFayNImeHaBDYx4XDLlEN_lcbPM8BAxlTKU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2024-10-25T15:41:01.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "KI"
+    },
+    {
+      "id": "com.mobile.legends",
+      "name": "Mobile Legends: Bang Bang",
+      "developer": "MOONTON",
+      "url": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/Op7v9XdsyxjrKImMD5RLyiLRCAHs3DMQFANwfsuMTw1hq0lH4j8tOqD3Fd7zyr4ixmC0xoqqRkQDBjAd46NsFQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-07T03:26:33.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "KI"
+    },
+    {
+      "id": "com.adventure.piano.musictiles",
+      "name": "Music Piano 5: Demon Piano",
+      "developer": "HyperMusic",
+      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.musictiles&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/QvQHWzQ2AUdSvIu4HpVgg2j_BfiAHD5IDXazFrcm6j9FHG3Q2993oTJBiIL_QK6KrH7m",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T10:24:37.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "KI"
+    },
+    {
+      "id": "com.dino.race.master",
+      "name": "Car Race",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-09T02:55:19.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "KI"
+    },
+    {
+      "id": "com.maxgames.stickwarlegacy",
+      "name": "Stick War: Legacy",
+      "developer": "Max Games Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.maxgames.stickwarlegacy&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/ORpdNiFMJhZEUB_lXhlf_ez2pBkugwKoc_RxW4S5ic7cyf021hE22tXmAxHWadK2OKs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T23:52:04.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "KI"
+    },
+    {
       "id": "com.ludo.king",
       "name": "Ludo King®",
       "developer": "Gametion",
@@ -1308,6 +1322,20 @@
       "country": "KI"
     },
     {
+      "id": "com.higame.brain.twist.tricky.puzzle",
+      "name": "Prison Puzzle: Brain Twist",
+      "developer": "HIGAME LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.higame.brain.twist.tricky.puzzle&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/D98i4j50j9-2uH6S0ogm6KKUfq4qyZHo5XLzumjxIpe_Y-CJHSO1Bf4JIY_BDy-HBQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T08:31:29.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "KI"
+    },
+    {
       "id": "dasi.prs2.lumberchopper",
       "name": "Idle Lumber Chopper Empire Inc",
       "developer": "Supercent, Inc.",
@@ -1318,20 +1346,6 @@
       "releaseDate": "2026-02-09T09:27:51.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "KI"
-    },
-    {
-      "id": "com.wombat.bingocards",
-      "name": "Bingo!! cards",
-      "developer": "Jose L. Balanza",
-      "url": "https://play.google.com/store/apps/details?id=com.wombat.bingocards&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/Li3rKypftj9zU9-UtLYH1f4DmX8IIv6w2f2b8JXpsldVXNkg2eXNIrT8WoI5aJS719Wt",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-08-20T13:25:00.000Z",
-      "genres": [
-        "Casino"
       ],
       "country": "KI"
     },
@@ -1350,58 +1364,44 @@
       "country": "KI"
     },
     {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
+      "id": "com.outfit7.mytalkingtom2",
+      "name": "My Talking Tom 2: Pet Game",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T12:31:23.000Z",
+      "releaseDate": "2026-02-20T11:25:29.000Z",
       "genres": [
-        "Arcade"
+        "Casual"
       ],
       "country": "KI"
     },
     {
-      "id": "com.rubygames.assassin",
-      "name": "Hunter Assassin",
-      "developer": "Ruby Games AS",
-      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
+      "id": "com.gamovation.tileclub",
+      "name": "Tile Club - Match Puzzle Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T13:15:04.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "KI"
-    },
-    {
-      "id": "com.higame.brain.twist.tricky.puzzle",
-      "name": "Prison Puzzle: Brain Twist",
-      "developer": "HIGAME LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.higame.brain.twist.tricky.puzzle&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/D98i4j50j9-2uH6S0ogm6KKUfq4qyZHo5XLzumjxIpe_Y-CJHSO1Bf4JIY_BDy-HBQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T08:31:29.000Z",
+      "releaseDate": "2026-01-07T10:41:36.000Z",
       "genres": [
         "Puzzle"
       ],
       "country": "KI"
     },
     {
-      "id": "com.dino.race.master",
-      "name": "Car Race",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
+      "id": "game.piano.music.tiles.challenge",
+      "name": "Piano Game: Classic Music Song",
+      "developer": "Dream Tiles Piano Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=game.piano.music.tiles.challenge&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/gVa8sVgS9LBuv4rOl8ZM_g7KPiGijciriFnm0iRvSWtZcaesKEcEgUXhZvEDahS5pyo",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-09T02:55:19.000Z",
+      "releaseDate": "2026-01-25T09:03:23.000Z",
       "genres": [
-        "Racing"
+        "Music"
       ],
       "country": "KI"
     }
