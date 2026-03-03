@@ -1,7 +1,7 @@
 {
   "country": "PK",
   "store": "google",
-  "updatedAt": "2026-03-02T16:59:57.089Z",
+  "updatedAt": "2026-03-03T02:55:12.750Z",
   "new": [
     {
       "id": "com.miniclip.carrom",
@@ -42,6 +42,20 @@
       "releaseDate": "2026-03-02T12:44:44.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "PK"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=PK",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T11:56:34.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "PK"
     },
@@ -112,20 +126,6 @@
       "releaseDate": "2026-03-02T04:41:08.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "PK"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=PK",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T16:35:20.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "PK"
     },
@@ -818,20 +818,6 @@
       "country": "PK"
     },
     {
-      "id": "com.zams.car.parking.game",
-      "name": "Prado Parking Game: Car Games",
-      "developer": "Zamsolutions",
-      "url": "https://play.google.com/store/apps/details?id=com.zams.car.parking.game&hl=en&gl=PK",
-      "artwork": "https://play-lh.googleusercontent.com/cn2Nwf-s0dzhRf-3XsFeV46-pYVhsx1FR6Pwwrot9GomqObP6-WYTbDYFAvk0Zg-Sw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T13:09:31.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "PK"
-    },
-    {
       "id": "polbengdeveloper.nadin",
       "name": "97Blitz Frenzy",
       "developer": "Polbeng Developer",
@@ -842,6 +828,20 @@
       "releaseDate": "2026-02-20T10:51:26.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "PK"
+    },
+    {
+      "id": "com.zams.car.parking.game",
+      "name": "Prado Parking Game: Car Games",
+      "developer": "Zamsolutions",
+      "url": "https://play.google.com/store/apps/details?id=com.zams.car.parking.game&hl=en&gl=PK",
+      "artwork": "https://play-lh.googleusercontent.com/cn2Nwf-s0dzhRf-3XsFeV46-pYVhsx1FR6Pwwrot9GomqObP6-WYTbDYFAvk0Zg-Sw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T13:09:31.000Z",
+      "genres": [
+        "Role Playing"
       ],
       "country": "PK"
     },
@@ -860,20 +860,6 @@
       "country": "PK"
     },
     {
-      "id": "com.superking.ludo.star",
-      "name": "Ludo STAR",
-      "developer": "Gameberry Labs",
-      "url": "https://play.google.com/store/apps/details?id=com.superking.ludo.star&hl=en&gl=PK",
-      "artwork": "https://play-lh.googleusercontent.com/6r2izm-ID9r6SsovbrroDLzEP6owwy883SV6I0kl5gg-QJwri86Wo80r18w673_b5Og",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-23T13:13:12.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "PK"
-    },
-    {
       "id": "com.nautilus.realcricket",
       "name": "Real Cricket™ Online Games",
       "developer": "KRAFTON, Inc.",
@@ -884,6 +870,20 @@
       "releaseDate": "2026-02-04T12:07:50.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "PK"
+    },
+    {
+      "id": "com.superking.ludo.star",
+      "name": "Ludo STAR",
+      "developer": "Gameberry Labs",
+      "url": "https://play.google.com/store/apps/details?id=com.superking.ludo.star&hl=en&gl=PK",
+      "artwork": "https://play-lh.googleusercontent.com/6r2izm-ID9r6SsovbrroDLzEP6owwy883SV6I0kl5gg-QJwri86Wo80r18w673_b5Og",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-23T13:13:12.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "PK"
     },
@@ -1028,16 +1028,16 @@
       "country": "PK"
     },
     {
-      "id": "br.pipacombate3d.maiworm",
-      "name": "Kite Flying India VS Pakistan",
-      "developer": "Maiworm Digital Strategy",
-      "url": "https://play.google.com/store/apps/details?id=br.pipacombate3d.maiworm&hl=en&gl=PK",
-      "artwork": "https://play-lh.googleusercontent.com/pABziCosJTXlLP9Ri0NqKjmzkNM5L7dVr8np0QcL3fGexET-DeJIhuYVvvsgsAnC3A",
+      "id": "com.vincentb.MobControl",
+      "name": "Mob Control",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=PK",
+      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-21T23:08:30.000Z",
+      "releaseDate": "2026-02-27T16:59:15.000Z",
       "genres": [
-        "Sports"
+        "Arcade"
       ],
       "country": "PK"
     },
@@ -1056,16 +1056,16 @@
       "country": "PK"
     },
     {
-      "id": "com.vincentb.MobControl",
-      "name": "Mob Control",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=PK",
-      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
+      "id": "br.pipacombate3d.maiworm",
+      "name": "Kite Flying India VS Pakistan",
+      "developer": "Maiworm Digital Strategy",
+      "url": "https://play.google.com/store/apps/details?id=br.pipacombate3d.maiworm&hl=en&gl=PK",
+      "artwork": "https://play-lh.googleusercontent.com/pABziCosJTXlLP9Ri0NqKjmzkNM5L7dVr8np0QcL3fGexET-DeJIhuYVvvsgsAnC3A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T16:59:15.000Z",
+      "releaseDate": "2025-10-21T23:08:30.000Z",
       "genres": [
-        "Arcade"
+        "Sports"
       ],
       "country": "PK"
     },
@@ -1098,20 +1098,6 @@
       "country": "PK"
     },
     {
-      "id": "com.traffic.motorcycle.rider.driving.racing.open.sandbox.world",
-      "name": "Driving Motor Racing Simulator",
-      "developer": "Digital Payment Tech",
-      "url": "https://play.google.com/store/apps/details?id=com.traffic.motorcycle.rider.driving.racing.open.sandbox.world&hl=en&gl=PK",
-      "artwork": "https://play-lh.googleusercontent.com/tu3jt-CbX7hZIZbFMe_icuREWduoAvPcp-egP-6O4O5kEbDhjuq1euxqBgGxJofnylBQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T15:35:32.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "PK"
-    },
-    {
       "id": "renaldi.crudwithsqlite",
       "name": "97Chibi Flyers",
       "developer": "Polbeng Developer",
@@ -1122,6 +1108,20 @@
       "releaseDate": "2026-02-21T07:00:08.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "PK"
+    },
+    {
+      "id": "com.traffic.motorcycle.rider.driving.racing.open.sandbox.world",
+      "name": "Driving Motor Racing Simulator",
+      "developer": "Digital Payment Tech",
+      "url": "https://play.google.com/store/apps/details?id=com.traffic.motorcycle.rider.driving.racing.open.sandbox.world&hl=en&gl=PK",
+      "artwork": "https://play-lh.googleusercontent.com/tu3jt-CbX7hZIZbFMe_icuREWduoAvPcp-egP-6O4O5kEbDhjuq1euxqBgGxJofnylBQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T15:35:32.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "PK"
     },
@@ -1322,20 +1322,6 @@
       "country": "PK"
     },
     {
-      "id": "com.gf.busdriving.publictransport.citypassenger.drivinggames",
-      "name": "Bus Simulator : 3D Bus Games",
-      "developer": "GamePark",
-      "url": "https://play.google.com/store/apps/details?id=com.gf.busdriving.publictransport.citypassenger.drivinggames&hl=en&gl=PK",
-      "artwork": "https://play-lh.googleusercontent.com/rp9LqQcNwWly8QgjZnDdiK8gSHQyUAHTVzC5DQBFDC-Fm3eHZobtoFTUAlsdRBcatpI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-20T12:05:35.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "PK"
-    },
-    {
       "id": "com.legendary.kite.flying",
       "name": "Kite Basant: Kite Flying Games",
       "developer": "Legendary Cluster Arena",
@@ -1346,6 +1332,20 @@
       "releaseDate": "2026-02-03T14:30:14.000Z",
       "genres": [
         "Strategy"
+      ],
+      "country": "PK"
+    },
+    {
+      "id": "com.gf.busdriving.publictransport.citypassenger.drivinggames",
+      "name": "Bus Simulator : 3D Bus Games",
+      "developer": "GamePark",
+      "url": "https://play.google.com/store/apps/details?id=com.gf.busdriving.publictransport.citypassenger.drivinggames&hl=en&gl=PK",
+      "artwork": "https://play-lh.googleusercontent.com/rp9LqQcNwWly8QgjZnDdiK8gSHQyUAHTVzC5DQBFDC-Fm3eHZobtoFTUAlsdRBcatpI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-20T12:05:35.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "PK"
     },
@@ -1399,7 +1399,7 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-28T16:35:20.000Z",
+      "releaseDate": "2026-03-02T11:56:34.000Z",
       "genres": [
         "Puzzle"
       ],
