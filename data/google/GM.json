@@ -1,8 +1,50 @@
 {
   "country": "GM",
   "store": "google",
-  "updatedAt": "2026-03-03T10:51:43.689Z",
+  "updatedAt": "2026-03-03T21:39:14.427Z",
   "new": [
+    {
+      "id": "org.ppsspp.ppsspp",
+      "name": "PPSSPP - PSP emulator",
+      "developer": "Henrik Rydgård",
+      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T15:58:32.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "GM"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T10:28:49.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "GM"
+    },
+    {
+      "id": "com.imangi.templerun",
+      "name": "Temple Run",
+      "developer": "Imangi Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/onlNBInQHIZtB2rY24BwrEsUUKwE753ao1BAvvhOw2ePEN1IHIUjaR3gvlGd3jyKTdg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T09:37:31.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "GM"
+    },
     {
       "id": "eu.nordeus.topeleven.android",
       "name": "Top Eleven Be a Soccer Manager",
@@ -620,16 +662,16 @@
       "country": "GM"
     },
     {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-12T00:38:27.000Z",
+      "releaseDate": "2026-02-11T15:11:48.000Z",
       "genres": [
-        "Simulation"
+        "Puzzle"
       ],
       "country": "GM"
     },
@@ -658,48 +700,6 @@
       "releaseDate": "2026-02-11T11:35:46.000Z",
       "genres": [
         "Strategy"
-      ],
-      "country": "GM"
-    },
-    {
-      "id": "com.gunshooting.gunops.gungames.strike.gun",
-      "name": "Gun Strike Game 3D",
-      "developer": "Bolt Bridge Games",
-      "url": "https://play.google.com/store/apps/details?id=com.gunshooting.gunops.gungames.strike.gun&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/ff46S84Cd9yHr6VH_7dD-7o5jtLs_pFErvH1dfOx4jgySafV_tv3bD5E4AF7R1LjXqrR",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T09:58:21.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "GM"
-    },
-    {
-      "id": "com.zdb.c23.traffic.driving.simulator",
-      "name": "Ultimate Traffic Driving Car",
-      "developer": "Motion Technology",
-      "url": "https://play.google.com/store/apps/details?id=com.zdb.c23.traffic.driving.simulator&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/k8CXdIqmzWZcfl_NgfG_A7uk9VDxByq-GY7WGKOg1kZZAJnPswXRzvI52vHqiMBheBU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T10:13:27.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "GM"
-    },
-    {
-      "id": "com.rioo.runnersubway",
-      "name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/hZsC5eP05OC3HeGuOVivBgsCTQZIqkm-6rViFTNuimz_wtxOtZIEM0zLodtkw1QZLg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T07:00:13.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "GM"
     }
@@ -734,20 +734,6 @@
       "country": "GM"
     },
     {
-      "id": "com.fxroyale.app",
-      "name": "Trading Arena-Crypto Simulator",
-      "developer": "Edusystems OU",
-      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T21:13:51.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "GM"
-    },
-    {
       "id": "com.football.soccer.league",
       "name": "Football League 2026",
       "developer": "MOBILE SOCCER",
@@ -758,6 +744,20 @@
       "releaseDate": "2026-02-11T12:25:49.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "GM"
+    },
+    {
+      "id": "com.fxroyale.app",
+      "name": "Trading Arena-Crypto Simulator",
+      "developer": "Edusystems OU",
+      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T21:13:51.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "GM"
     },
@@ -909,23 +909,9 @@
       "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-07-14T10:46:02.000Z",
+      "releaseDate": "2026-03-03T15:58:32.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "GM"
-    },
-    {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T15:37:40.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "GM"
     },
@@ -944,6 +930,20 @@
       "country": "GM"
     },
     {
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T15:37:40.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "GM"
+    },
+    {
       "id": "com.aceviral.petrun",
       "name": "Pet Run - Puppy Dog Game",
       "developer": "Ace Viral",
@@ -954,20 +954,6 @@
       "releaseDate": "2026-02-06T11:28:13.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "GM"
-    },
-    {
-      "id": "com.yoyofun.mother.care.life.surgery.hospital.free.offline.doctor.games",
-      "name": "Mother Hospital Doctor Games",
-      "developer": "Cupcake Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.yoyofun.mother.care.life.surgery.hospital.free.offline.doctor.games&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/3FRau1uavl6vHZAv9cwQcbDt2BQ4rPPAiXeJQZ3cos9ciNYQ_eFdC24kwVGnoiljSg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-22T12:47:41.000Z",
-      "genres": [
-        "Role Playing"
       ],
       "country": "GM"
     },
@@ -986,6 +972,20 @@
       "country": "GM"
     },
     {
+      "id": "com.yoyofun.mother.care.life.surgery.hospital.free.offline.doctor.games",
+      "name": "Mother Hospital Doctor Games",
+      "developer": "Cupcake Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.yoyofun.mother.care.life.surgery.hospital.free.offline.doctor.games&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/3FRau1uavl6vHZAv9cwQcbDt2BQ4rPPAiXeJQZ3cos9ciNYQ_eFdC24kwVGnoiljSg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-22T12:47:41.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "GM"
+    },
+    {
       "id": "ball.sort.color.puz.game.puzzle",
       "name": "Ball Sort - Color Puz Game",
       "developer": "Infinite Joy Ltd.",
@@ -996,20 +996,6 @@
       "releaseDate": "2026-02-03T09:39:56.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "GM"
-    },
-    {
-      "id": "com.ludo.master.hippo",
-      "name": "Ludo Master™ - Ludo Board Game",
-      "developer": "Hippo Lab",
-      "url": "https://play.google.com/store/apps/details?id=com.ludo.master.hippo&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/w4hT0PH6yHVUY3trO3ICmTOzGt9x3UPrwZsC9uAF3CmuCPtS2CD6lwjUIeEIqcjxHEw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T10:48:46.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "GM"
     },
@@ -1028,6 +1014,20 @@
       "country": "GM"
     },
     {
+      "id": "com.ludo.master.hippo",
+      "name": "Ludo Master™ - Ludo Board Game",
+      "developer": "Hippo Lab",
+      "url": "https://play.google.com/store/apps/details?id=com.ludo.master.hippo&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/w4hT0PH6yHVUY3trO3ICmTOzGt9x3UPrwZsC9uAF3CmuCPtS2CD6lwjUIeEIqcjxHEw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T10:48:46.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "GM"
+    },
+    {
       "id": "com.gp.pilot.simulator.airplanegames",
       "name": "Pilot Simulator: Airplane Game",
       "developer": "GamePark",
@@ -1038,20 +1038,6 @@
       "releaseDate": "2026-02-13T10:51:12.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "GM"
-    },
-    {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "GM"
     },
@@ -1070,6 +1056,20 @@
       "country": "GM"
     },
     {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "GM"
+    },
+    {
       "id": "com.soccer.score.star",
       "name": "Soccer Superstar",
       "developer": "Real Freestyle Soccer",
@@ -1080,6 +1080,20 @@
       "releaseDate": "2026-01-29T15:32:33.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "GM"
+    },
+    {
+      "id": "com.mega.game.drop.gamvix",
+      "name": "Mega Win: Drop",
+      "developer": "Gabriel Garuti Paiva Cracco",
+      "url": "https://play.google.com/store/apps/details?id=com.mega.game.drop.gamvix&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/7hJrC9JhzgPJk8e-pK_LNBDZjIL2ttM_k0kUOy2-9QRtdgRu4onMHGTzail6EHHZn6SxWFDkanvQLmVhD0vdRw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-23T14:19:48.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "GM"
     },
@@ -1119,23 +1133,9 @@
       "artwork": "https://play-lh.googleusercontent.com/onlNBInQHIZtB2rY24BwrEsUUKwE753ao1BAvvhOw2ePEN1IHIUjaR3gvlGd3jyKTdg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-28T18:58:12.000Z",
+      "releaseDate": "2026-03-03T09:37:31.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "GM"
-    },
-    {
-      "id": "com.mega.game.drop.gamvix",
-      "name": "Mega Win: Drop",
-      "developer": "Gabriel Garuti Paiva Cracco",
-      "url": "https://play.google.com/store/apps/details?id=com.mega.game.drop.gamvix&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/7hJrC9JhzgPJk8e-pK_LNBDZjIL2ttM_k0kUOy2-9QRtdgRu4onMHGTzail6EHHZn6SxWFDkanvQLmVhD0vdRw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-23T14:19:48.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "GM"
     },
@@ -1196,14 +1196,14 @@
       "country": "GM"
     },
     {
-      "id": "eu.nordeus.topeleven.android",
-      "name": "Top Eleven Be a Soccer Manager",
-      "developer": "Nordeus",
-      "url": "https://play.google.com/store/apps/details?id=eu.nordeus.topeleven.android&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/syHICcpM4rKF6_vACJknkvXhHRBju_P7P93E3cNR701Rc3alNdC1NpTvPxlhDGvvgT9pHVzfR2gOvyvFesXGrHU",
+      "id": "com.firsttouchgames.mpx",
+      "name": "Ultimate Clash Soccer",
+      "developer": "First Touch Games Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.mpx&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/Yfp5nIXNElPEG-SjODHbLwQnc_61oJy5gP4GLsLc-3wNTAz9DuQkYtqXUA31DG41W-M",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-02T16:22:14.000Z",
+      "releaseDate": "2025-09-02T11:20:43.000Z",
       "genres": [
         "Sports"
       ],
@@ -1224,20 +1224,6 @@
       "country": "GM"
     },
     {
-      "id": "com.firsttouchgames.mpx",
-      "name": "Ultimate Clash Soccer",
-      "developer": "First Touch Games Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.mpx&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/Yfp5nIXNElPEG-SjODHbLwQnc_61oJy5gP4GLsLc-3wNTAz9DuQkYtqXUA31DG41W-M",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-09-02T11:20:43.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "GM"
-    },
-    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
@@ -1245,7 +1231,7 @@
       "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-12T00:38:27.000Z",
+      "releaseDate": "2026-03-03T10:28:49.000Z",
       "genres": [
         "Simulation"
       ],
@@ -1266,16 +1252,16 @@
       "country": "GM"
     },
     {
-      "id": "com.tas.bowman.game3d.archer",
-      "name": "Archer Assassin Shooting Game",
-      "developer": "Team AS Studio Pvt Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.tas.bowman.game3d.archer&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/691obSFksIm1uQFkGkqekv8611FOoc31sD-d-ZXAlJOl2TuTsTcT9zlNzP8XRVTazyeV",
+      "id": "com.ction.playergames",
+      "name": "2 3 4 Player Mini Games",
+      "developer": "Better World Games",
+      "url": "https://play.google.com/store/apps/details?id=com.ction.playergames&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/vHuenuu1GqX1BwDaYX86dsbQlmA7vCO0PEdgdXlCEZP5x2_R3pZo0xcI9Mkdn4UW7NA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-28T01:12:12.000Z",
+      "releaseDate": "2025-10-28T20:16:32.000Z",
       "genres": [
-        "Strategy"
+        "Simulation"
       ],
       "country": "GM"
     },
@@ -1294,20 +1280,6 @@
       "country": "GM"
     },
     {
-      "id": "com.ction.playergames",
-      "name": "2 3 4 Player Mini Games",
-      "developer": "Better World Games",
-      "url": "https://play.google.com/store/apps/details?id=com.ction.playergames&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/vHuenuu1GqX1BwDaYX86dsbQlmA7vCO0PEdgdXlCEZP5x2_R3pZo0xcI9Mkdn4UW7NA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-28T20:16:32.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "GM"
-    },
-    {
       "id": "com.gamovation.tileclub",
       "name": "Tile Club - Match Puzzle Game",
       "developer": "GamoVation",
@@ -1318,20 +1290,6 @@
       "releaseDate": "2026-01-07T10:41:36.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "GM"
-    },
-    {
-      "id": "com.bubbleshooter.popbubbles.collectcards",
-      "name": "Bubble Shooter",
-      "developer": "IVYGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.collectcards&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/C0hM-Dn_TvuA0gmg9PnveFMyuDOunQO8hhIWJGatOhO9ZIlZxKfes0aqnfHniAcSUBZp",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T08:25:03.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "GM"
     },
@@ -1350,30 +1308,16 @@
       "country": "GM"
     },
     {
-      "id": "com.gg.highway.racing.car.rider",
-      "name": "Real Highway Car Racing Games",
-      "developer": "CupTie Fun Games",
-      "url": "https://play.google.com/store/apps/details?id=com.gg.highway.racing.car.rider&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/esaumZWqvMwVabMGc4bPXxLOq-eLnSYtRRwyDVhkHYyn1fC170JqBer4rUaL0cTh_iI",
+      "id": "com.tas.bowman.game3d.archer",
+      "name": "Archer Assassin Shooting Game",
+      "developer": "Team AS Studio Pvt Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.tas.bowman.game3d.archer&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/691obSFksIm1uQFkGkqekv8611FOoc31sD-d-ZXAlJOl2TuTsTcT9zlNzP8XRVTazyeV",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-17T07:28:13.000Z",
+      "releaseDate": "2026-02-28T01:12:12.000Z",
       "genres": [
-        "Racing"
-      ],
-      "country": "GM"
-    },
-    {
-      "id": "com.KillerBeanStudios.KillerBeanUnleashed",
-      "name": "Killer Bean Unleashed",
-      "developer": "Killer Bean Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.KillerBeanStudios.KillerBeanUnleashed&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/XdSQbC_NkY1XUlfTvyNNEkRXU9g68667dUc4L8Iqp6pAMojj64COFf8SDJ-Dh--wkZo",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-03T01:06:14.000Z",
-      "genres": [
-        "Action"
+        "Strategy"
       ],
       "country": "GM"
     },
@@ -1392,16 +1336,72 @@
       "country": "GM"
     },
     {
-      "id": "net.apex_designs.payback2",
-      "name": "Payback 2 - The Battle Sandbox",
-      "developer": "Apex Designs Games LLP",
-      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=GM",
-      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
+      "id": "eu.nordeus.topeleven.android",
+      "name": "Top Eleven Be a Soccer Manager",
+      "developer": "Nordeus",
+      "url": "https://play.google.com/store/apps/details?id=eu.nordeus.topeleven.android&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/syHICcpM4rKF6_vACJknkvXhHRBju_P7P93E3cNR701Rc3alNdC1NpTvPxlhDGvvgT9pHVzfR2gOvyvFesXGrHU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-08-27T16:01:25.000Z",
+      "releaseDate": "2026-03-02T16:22:14.000Z",
       "genres": [
-        "Arcade"
+        "Sports"
+      ],
+      "country": "GM"
+    },
+    {
+      "id": "com.KillerBeanStudios.KillerBeanUnleashed",
+      "name": "Killer Bean Unleashed",
+      "developer": "Killer Bean Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.KillerBeanStudios.KillerBeanUnleashed&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/XdSQbC_NkY1XUlfTvyNNEkRXU9g68667dUc4L8Iqp6pAMojj64COFf8SDJ-Dh--wkZo",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-03T01:06:14.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "GM"
+    },
+    {
+      "id": "com.bubbleshooter.popbubbles.collectcards",
+      "name": "Bubble Shooter",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.collectcards&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/C0hM-Dn_TvuA0gmg9PnveFMyuDOunQO8hhIWJGatOhO9ZIlZxKfes0aqnfHniAcSUBZp",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T08:25:03.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "GM"
+    },
+    {
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-19T14:55:06.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "GM"
+    },
+    {
+      "id": "com.gamepark.cop.simulator.police.games",
+      "name": "Police Simulator: Police Games",
+      "developer": "GamePark",
+      "url": "https://play.google.com/store/apps/details?id=com.gamepark.cop.simulator.police.games&hl=en&gl=GM",
+      "artwork": "https://play-lh.googleusercontent.com/QwPIUPB3w0JXeRQakO_2ij4GrHQ1e6yuUYHIBRV_JmHxSChSzoOQf6kWvusy2yVvjfUW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T10:34:21.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "GM"
     }

@@ -1,8 +1,36 @@
 {
   "country": "ET",
   "store": "google",
-  "updatedAt": "2026-03-03T09:57:42.660Z",
+  "updatedAt": "2026-03-03T21:38:03.320Z",
   "new": [
+    {
+      "id": "org.ppsspp.ppsspp",
+      "name": "PPSSPP - PSP emulator",
+      "developer": "Henrik Rydgård",
+      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T15:58:32.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "ET"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T10:28:49.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "ET"
+    },
     {
       "id": "com.starplay.spider.fighter.openworld",
       "name": "Spider Fighter 3: Action Game",
@@ -264,20 +292,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-24T17:56:45.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "ET"
-    },
-    {
-      "id": "com.trophygames.truckmanager",
-      "name": "Truck Manager - 2026",
-      "developer": "Xombat Development - Airline manager games",
-      "url": "https://play.google.com/store/apps/details?id=com.trophygames.truckmanager&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/He7qU9QUyAi1YytGfzXuGKFRKv_BQ2oAjWA4Foa77-lqEx2iOOdABfwQuGdCOjsls9M",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T14:18:19.000Z",
       "genres": [
         "Simulation"
       ],
@@ -648,20 +662,6 @@
       "country": "ET"
     },
     {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T00:38:27.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "ET"
-    },
-    {
       "id": "com.football.soccer.league",
       "name": "Football League 2026",
       "developer": "MOBILE SOCCER",
@@ -804,20 +804,6 @@
       "country": "ET"
     },
     {
-      "id": "com.bubbleshooter.popbubbles.collectcards",
-      "name": "Bubble Shooter",
-      "developer": "IVYGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.collectcards&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/C0hM-Dn_TvuA0gmg9PnveFMyuDOunQO8hhIWJGatOhO9ZIlZxKfes0aqnfHniAcSUBZp",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T08:25:03.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "ET"
-    },
-    {
       "id": "europe.truck.simulator2",
       "name": "Truckers of Europe 2",
       "developer": "Wanda Software",
@@ -832,6 +818,20 @@
       "country": "ET"
     },
     {
+      "id": "com.bubbleshooter.popbubbles.collectcards",
+      "name": "Bubble Shooter",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.collectcards&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/C0hM-Dn_TvuA0gmg9PnveFMyuDOunQO8hhIWJGatOhO9ZIlZxKfes0aqnfHniAcSUBZp",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T08:25:03.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "ET"
+    },
+    {
       "id": "com.catchup.ball.goingball",
       "name": "3D Ball Catch Up - Racing Ball",
       "developer": "Takenick Innovation",
@@ -840,20 +840,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-11T08:53:57.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "ET"
-    },
-    {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:31:23.000Z",
       "genres": [
         "Arcade"
       ],
@@ -874,20 +860,6 @@
       "country": "ET"
     },
     {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "ET"
-    },
-    {
       "id": "com.zams.car.parking.game",
       "name": "Prado Parking Game: Car Games",
       "developer": "Zamsolutions",
@@ -902,16 +874,30 @@
       "country": "ET"
     },
     {
-      "id": "com.dts.freefireth",
-      "name": "Free Fire x JUJUTSU KAISEN",
-      "developer": "GARENA INTERNATIONAL I",
-      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/-6LwMoL2ZWR3pl3s1fvwiYil-vrLS8q2n6Lg8rJ_I_uSAXtFD7OEO-KziVFxIlfuhezB7jsMYnf5COn4S1iu",
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-04T06:43:26.000Z",
+      "releaseDate": "2026-02-27T12:31:23.000Z",
       "genres": [
-        "Action"
+        "Arcade"
+      ],
+      "country": "ET"
+    },
+    {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "ET"
     },
@@ -930,14 +916,14 @@
       "country": "ET"
     },
     {
-      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
-      "name": "Agent Shooter - Shooting Game",
-      "developer": "Rebel Actions",
-      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
+      "id": "com.dts.freefireth",
+      "name": "Free Fire x JUJUTSU KAISEN",
+      "developer": "GARENA INTERNATIONAL I",
+      "url": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/-6LwMoL2ZWR3pl3s1fvwiYil-vrLS8q2n6Lg8rJ_I_uSAXtFD7OEO-KziVFxIlfuhezB7jsMYnf5COn4S1iu",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-02T13:08:35.000Z",
+      "releaseDate": "2026-02-04T06:43:26.000Z",
       "genres": [
         "Action"
       ],
@@ -958,6 +944,20 @@
       "country": "ET"
     },
     {
+      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
+      "name": "Agent Shooter - Shooting Game",
+      "developer": "Rebel Actions",
+      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T13:08:35.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "ET"
+    },
+    {
       "id": "com.tencent.ig",
       "name": "PUBG MOBILE",
       "developer": "Level Infinite",
@@ -968,20 +968,6 @@
       "releaseDate": "2025-12-29T01:31:07.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "ET"
-    },
-    {
-      "id": "com.rioo.runnersubway",
-      "name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/hZsC5eP05OC3HeGuOVivBgsCTQZIqkm-6rViFTNuimz_wtxOtZIEM0zLodtkw1QZLg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T07:00:13.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "ET"
     },
@@ -1000,34 +986,6 @@
       "country": "ET"
     },
     {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "ET"
-    },
-    {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T00:38:27.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "ET"
-    },
-    {
       "id": "com.ludo.king",
       "name": "Ludo King®",
       "developer": "Gametion",
@@ -1042,6 +1000,20 @@
       "country": "ET"
     },
     {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T10:28:49.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "ET"
+    },
+    {
       "id": "com.andregal.android.poolbilliard",
       "name": "Pool Billiards offline",
       "developer": "Andregal",
@@ -1052,6 +1024,20 @@
       "releaseDate": "2026-02-14T17:33:38.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "ET"
+    },
+    {
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "ET"
     },
@@ -1084,16 +1070,16 @@
       "country": "ET"
     },
     {
-      "id": "com.adventure.piano.musictiles",
-      "name": "Music Piano 5: Demon Piano",
-      "developer": "HyperMusic",
-      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.musictiles&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/QvQHWzQ2AUdSvIu4HpVgg2j_BfiAHD5IDXazFrcm6j9FHG3Q2993oTJBiIL_QK6KrH7m",
+      "id": "com.rioo.runnersubway",
+      "name": "Subway Princess Runner",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/hZsC5eP05OC3HeGuOVivBgsCTQZIqkm-6rViFTNuimz_wtxOtZIEM0zLodtkw1QZLg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-28T10:24:37.000Z",
+      "releaseDate": "2026-02-09T07:00:13.000Z",
       "genres": [
-        "Casual"
+        "Arcade"
       ],
       "country": "ET"
     },
@@ -1108,6 +1094,20 @@
       "releaseDate": "2026-02-20T13:51:00.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "ET"
+    },
+    {
+      "id": "com.adventure.piano.musictiles",
+      "name": "Music Piano 5: Demon Piano",
+      "developer": "HyperMusic",
+      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.musictiles&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/QvQHWzQ2AUdSvIu4HpVgg2j_BfiAHD5IDXazFrcm6j9FHG3Q2993oTJBiIL_QK6KrH7m",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T10:24:37.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "ET"
     },
@@ -1140,20 +1140,6 @@
       "country": "ET"
     },
     {
-      "id": "com.soccer.score.star",
-      "name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:32:33.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "ET"
-    },
-    {
       "id": "com.xgame.VehicleDriving3D",
       "name": "Real Driving: Vehicle & Park",
       "developer": "XGAME STUDIO",
@@ -1164,6 +1150,20 @@
       "releaseDate": "2026-01-23T06:55:58.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "ET"
+    },
+    {
+      "id": "com.soccer.score.star",
+      "name": "Soccer Superstar",
+      "developer": "Real Freestyle Soccer",
+      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T15:32:33.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "ET"
     },
@@ -1238,6 +1238,20 @@
       "country": "ET"
     },
     {
+      "id": "ball.blast.bubble.pop.shooter.permainan.bola.buble",
+      "name": "Bubble Pop - Shoot Bubble Game",
+      "developer": "WizSprint",
+      "url": "https://play.google.com/store/apps/details?id=ball.blast.bubble.pop.shooter.permainan.bola.buble&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/q1Wikmc0zq_j9xaDChi-oIAv7-OPlWWenbvL4xkRB3bVvyI3ycHHbAhCPI8CnI92Ng",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-28T04:28:18.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "ET"
+    },
+    {
       "id": "com.atesgamestudio.rollance",
       "name": "Rollance : Adventure Balls",
       "developer": "CASUAL AZUR GAMES",
@@ -1266,14 +1280,14 @@
       "country": "ET"
     },
     {
-      "id": "ball.blast.bubble.pop.shooter.permainan.bola.buble",
-      "name": "Bubble Pop - Shoot Bubble Game",
-      "developer": "WizSprint",
-      "url": "https://play.google.com/store/apps/details?id=ball.blast.bubble.pop.shooter.permainan.bola.buble&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/q1Wikmc0zq_j9xaDChi-oIAv7-OPlWWenbvL4xkRB3bVvyI3ycHHbAhCPI8CnI92Ng",
+      "id": "com.wispg6golds.surge.denm",
+      "name": "Wisp Spin: Golden Surge",
+      "developer": "Helpfulogen",
+      "url": "https://play.google.com/store/apps/details?id=com.wispg6golds.surge.denm&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/fzJphIAaNM7D0D_m7NV-tzoVf_2wOlmimN-bbflz80KvmJ6pgFeJvth0-CutOoms-ovHO1DivhUJr0NeH2alS9g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-08-28T04:28:18.000Z",
+      "releaseDate": "2025-12-17T08:07:15.000Z",
       "genres": [
         "Casual"
       ],
@@ -1294,6 +1308,20 @@
       "country": "ET"
     },
     {
+      "id": "com.bettergames.truck.drivingschool.simulator",
+      "name": "Truck Games - Driving School",
+      "developer": "Better Games Studio Pty Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.bettergames.truck.drivingschool.simulator&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/WiHAkl3Qhw2GrZf-angvlDNRPhSG_nkLmwZ_xT8QuN5TC69eGT-kHDjy3xZWyqTPuQc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T09:05:46.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "ET"
+    },
+    {
       "id": "com.pf.bmx.cycle.games.extreme.bicycle.games",
       "name": "BMX Cycle Extreme Bicycle Game",
       "developer": "PlayFlix",
@@ -1304,34 +1332,6 @@
       "releaseDate": "2026-02-13T05:46:18.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "ET"
-    },
-    {
-      "id": "com.rasugames.pls",
-      "name": "Pro League Soccer",
-      "developer": "Rasu Games",
-      "url": "https://play.google.com/store/apps/details?id=com.rasugames.pls&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/H5-3R_RxnB6J8y-SPsR38sa0aS06pX48obGw6H2MVw5qxsbz62I4w9KIZxqanfp5_vT3",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-03T11:06:12.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "ET"
-    },
-    {
-      "id": "com.wispg6golds.surge.denm",
-      "name": "Wisp Spin: Golden Surge",
-      "developer": "Helpfulogen",
-      "url": "https://play.google.com/store/apps/details?id=com.wispg6golds.surge.denm&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/fzJphIAaNM7D0D_m7NV-tzoVf_2wOlmimN-bbflz80KvmJ6pgFeJvth0-CutOoms-ovHO1DivhUJr0NeH2alS9g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-17T08:07:15.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "ET"
     },
@@ -1350,16 +1350,16 @@
       "country": "ET"
     },
     {
-      "id": "com.bettergames.truck.drivingschool.simulator",
-      "name": "Truck Games - Driving School",
-      "developer": "Better Games Studio Pty Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.bettergames.truck.drivingschool.simulator&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/WiHAkl3Qhw2GrZf-angvlDNRPhSG_nkLmwZ_xT8QuN5TC69eGT-kHDjy3xZWyqTPuQc",
+      "id": "com.rasugames.pls",
+      "name": "Pro League Soccer",
+      "developer": "Rasu Games",
+      "url": "https://play.google.com/store/apps/details?id=com.rasugames.pls&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/H5-3R_RxnB6J8y-SPsR38sa0aS06pX48obGw6H2MVw5qxsbz62I4w9KIZxqanfp5_vT3",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T09:05:46.000Z",
+      "releaseDate": "2025-11-03T11:06:12.000Z",
       "genres": [
-        "Strategy"
+        "Sports"
       ],
       "country": "ET"
     },
