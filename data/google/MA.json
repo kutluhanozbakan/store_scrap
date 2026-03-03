@@ -1,8 +1,22 @@
 {
   "country": "MA",
   "store": "google",
-  "updatedAt": "2026-03-03T13:19:50.413Z",
+  "updatedAt": "2026-03-03T23:14:09.893Z",
   "new": [
+    {
+      "id": "com.masomo.headball2",
+      "name": "Head Ball 2 - Foot en Ligne",
+      "developer": "Masomo Gaming",
+      "url": "https://play.google.com/store/apps/details?id=com.masomo.headball2&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/7t4GRbuVmvUKzo-2dkt7ccygoFjc2zX3_jVLr6fIXAiJmHLdQvdfbhbKbS8awRekm9vL",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T14:57:43.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "MA"
+    },
     {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
@@ -42,20 +56,6 @@
       "releaseDate": "2026-03-02T13:08:35.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.Aria.TidyMaster.mi",
-      "name": "Perfect Girl:ASMR Tidy Game",
-      "developer": "ARIA STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.Aria.TidyMaster.mi&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/XfeRJyH63V_1KNSw56ywg7-podMENplXx7Co1RaPcfBjZpM9LhwqsN7MxAWBEy-9xQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T12:56:34.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "MA"
     },
@@ -634,6 +634,20 @@
       "country": "MA"
     },
     {
+      "id": "com.orbitalknight.ridiculousfreekick",
+      "name": "Crazy Kick! Fun Football game",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.orbitalknight.ridiculousfreekick&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/q5qjJBfbG7fkW2sH-nD-MUOl-JXrUqrQYAyeNao7gsyTpbGcgUP8EEY5PLkSs3OSZg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T17:05:31.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "MA"
+    },
+    {
       "id": "com.traffic.motorcycle.rider.driving.racing.open.sandbox.world",
       "name": "Driving Motor Racing Simulator",
       "developer": "Digital Payment Tech",
@@ -686,20 +700,6 @@
       "releaseDate": "2026-02-13T10:53:41.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.yalla.yallagames",
-      "name": "Yalla Ludo - Ludo&Jackaroo",
-      "developer": "Aviva Sun",
-      "url": "https://play.google.com/store/apps/details?id=com.yalla.yallagames&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/p7_G7W7KQO_UO09jAekkwaw4yqEmOQvY6QExD63pPMiK_DVeEPDLacZdXsnvgvXeSuCe",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T08:10:51.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "MA"
     }
@@ -832,16 +832,16 @@
       "country": "MA"
     },
     {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T21:16:50.000Z",
+      "releaseDate": "2026-02-24T16:48:19.000Z",
       "genres": [
-        "Adventure"
+        "Arcade"
       ],
       "country": "MA"
     },
@@ -860,16 +860,30 @@
       "country": "MA"
     },
     {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
+      "id": "com.miniclip.eightballpool",
+      "name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T16:48:19.000Z",
+      "releaseDate": "2026-02-18T11:45:50.000Z",
       "genres": [
-        "Arcade"
+        "Sports"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T21:16:50.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "MA"
     },
@@ -884,20 +898,6 @@
       "releaseDate": "2026-02-03T14:49:51.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.miniclip.eightballpool",
-      "name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T11:45:50.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "MA"
     },
@@ -958,20 +958,6 @@
       "country": "MA"
     },
     {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "MA"
-    },
-    {
       "id": "io.voodoo.holeio",
       "name": "Hole.io",
       "developer": "VOODOO",
@@ -982,6 +968,20 @@
       "releaseDate": "2026-02-13T10:53:41.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "MA"
     },
@@ -1084,20 +1084,6 @@
       "country": "MA"
     },
     {
-      "id": "com.aim.racing",
-      "name": "Extreme Car Driving Simulator",
-      "developer": "AxesInMotion Racing",
-      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/4FcOEy8DK_gNKdR9szjd5d0m1h1cxyzHb3ejxk4IcuAi5JcMcyp-f61Wag2-SHlLt-s",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T13:51:00.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "MA"
-    },
-    {
       "id": "com.outfit7.mytalkingtomfree",
       "name": "My Talking Tom",
       "developer": "Outfit7 Limited",
@@ -1108,6 +1094,20 @@
       "releaseDate": "2026-02-26T11:55:53.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.aim.racing",
+      "name": "Extreme Car Driving Simulator",
+      "developer": "AxesInMotion Racing",
+      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/4FcOEy8DK_gNKdR9szjd5d0m1h1cxyzHb3ejxk4IcuAi5JcMcyp-f61Wag2-SHlLt-s",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T13:51:00.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "MA"
     },
@@ -1126,16 +1126,16 @@
       "country": "MA"
     },
     {
-      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
-      "name": "Fashion Glow: Model & Style",
-      "developer": "Dress Up Games for Girls",
-      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
+      "id": "com.ansangha.drdriving",
+      "name": "Dr. Driving",
+      "developer": "SUD Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-14T08:31:08.000Z",
+      "releaseDate": "2025-08-25T07:34:27.000Z",
       "genres": [
-        "Casual"
+        "Racing"
       ],
       "country": "MA"
     },
@@ -1154,30 +1154,16 @@
       "country": "MA"
     },
     {
-      "id": "com.ansangha.drdriving",
-      "name": "Dr. Driving",
-      "developer": "SUD Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
+      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
+      "name": "Fashion Glow: Model & Style",
+      "developer": "Dress Up Games for Girls",
+      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-08-25T07:34:27.000Z",
+      "releaseDate": "2026-01-14T08:31:08.000Z",
       "genres": [
-        "Racing"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "europe.truck.simulator2",
-      "name": "Truckers of Europe 2",
-      "developer": "Wanda Software",
-      "url": "https://play.google.com/store/apps/details?id=europe.truck.simulator2&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/tS6pdPz6GKrP87gOTTPcBDFMJFd2RsD4ngkl92pqEQp6nkHRIPU30BRM7wB6l5_VaOw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T09:31:02.000Z",
-      "genres": [
-        "Simulation"
+        "Casual"
       ],
       "country": "MA"
     },
@@ -1196,14 +1182,14 @@
       "country": "MA"
     },
     {
-      "id": "com.WandaSoftware.TruckersofEurope3",
-      "name": "Truckers of Europe 3",
+      "id": "europe.truck.simulator2",
+      "name": "Truckers of Europe 2",
       "developer": "Wanda Software",
-      "url": "https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/FwKtLtLulWDsEawc5dOelxZyvzTQK6gEZUmqLkpEIlVJjiyPtikvwpWEkSrsgREt9yCg",
+      "url": "https://play.google.com/store/apps/details?id=europe.truck.simulator2&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/tS6pdPz6GKrP87gOTTPcBDFMJFd2RsD4ngkl92pqEQp6nkHRIPU30BRM7wB6l5_VaOw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T13:09:51.000Z",
+      "releaseDate": "2026-02-19T09:31:02.000Z",
       "genres": [
         "Simulation"
       ],
@@ -1224,16 +1210,16 @@
       "country": "MA"
     },
     {
-      "id": "com.zuuks.truck.simulator.ultimate",
-      "name": "Truck Simulator : Ultimate",
-      "developer": "Zuuks Games",
-      "url": "https://play.google.com/store/apps/details?id=com.zuuks.truck.simulator.ultimate&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/JoSjpnw113F0re_89aZ8pwLwrgrJ7x4I_VLVgP82GV_pY1513fR5QfJCGzpPFnmws2I",
+      "id": "com.masomo.headball2",
+      "name": "Head Ball 2 - Foot en Ligne",
+      "developer": "Masomo Gaming",
+      "url": "https://play.google.com/store/apps/details?id=com.masomo.headball2&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/7t4GRbuVmvUKzo-2dkt7ccygoFjc2zX3_jVLr6fIXAiJmHLdQvdfbhbKbS8awRekm9vL",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-28T16:49:37.000Z",
+      "releaseDate": "2026-03-03T14:57:43.000Z",
       "genres": [
-        "Simulation"
+        "Sports"
       ],
       "country": "MA"
     },
@@ -1252,58 +1238,16 @@
       "country": "MA"
     },
     {
-      "id": "com.masomo.headball2",
-      "name": "Head Ball 2 - Foot en Ligne",
-      "developer": "Masomo Gaming",
-      "url": "https://play.google.com/store/apps/details?id=com.masomo.headball2&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/7t4GRbuVmvUKzo-2dkt7ccygoFjc2zX3_jVLr6fIXAiJmHLdQvdfbhbKbS8awRekm9vL",
+      "id": "com.zuuks.truck.simulator.ultimate",
+      "name": "Truck Simulator : Ultimate",
+      "developer": "Zuuks Games",
+      "url": "https://play.google.com/store/apps/details?id=com.zuuks.truck.simulator.ultimate&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/JoSjpnw113F0re_89aZ8pwLwrgrJ7x4I_VLVgP82GV_pY1513fR5QfJCGzpPFnmws2I",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-12T08:18:39.000Z",
+      "releaseDate": "2026-01-28T16:49:37.000Z",
       "genres": [
-        "Sports"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.media720.games2020",
-      "name": "Offline Games No WiFi internet",
-      "developer": "Fun Offline Games",
-      "url": "https://play.google.com/store/apps/details?id=com.media720.games2020&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/eET3qc7rMWqPZfkk2jsGedhWGoMrbi763h57Etf5fuL6SgcwrjjpA2M94mehfsGznQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T21:33:41.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.cww.laststronghold",
-      "name": "Last Stronghold: Idle Survival",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.cww.laststronghold&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/Jx_X9G6TAS2O5W_46l1vuFVk18kL_oztKW_bb2D0q8yZiWWcwZgcjcG_BLMSjTfB5MU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-31T00:02:11.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "MA"
-    },
-    {
-      "id": "com.europosit.pixelcoloring",
-      "name": "Pixel Art - Color by Number",
-      "developer": "Easybrain",
-      "url": "https://play.google.com/store/apps/details?id=com.europosit.pixelcoloring&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/6uxzOzSLRNbcY7fe0k8F4UcP9Z-Km3mcC7GwKxchM41UjJwv85TK4IVL4cOtAtHHddG_t6tdTx_vhFFWsJ2hDw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T15:41:52.000Z",
-      "genres": [
-        "Puzzle"
+        "Simulation"
       ],
       "country": "MA"
     },
@@ -1322,6 +1266,20 @@
       "country": "MA"
     },
     {
+      "id": "com.europosit.pixelcoloring",
+      "name": "Pixel Art - Color by Number",
+      "developer": "Easybrain",
+      "url": "https://play.google.com/store/apps/details?id=com.europosit.pixelcoloring&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/6uxzOzSLRNbcY7fe0k8F4UcP9Z-Km3mcC7GwKxchM41UjJwv85TK4IVL4cOtAtHHddG_t6tdTx_vhFFWsJ2hDw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T15:41:52.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MA"
+    },
+    {
       "id": "com.yalla.yallagames",
       "name": "Yalla Ludo - Ludo&Jackaroo",
       "developer": "Aviva Sun",
@@ -1336,14 +1294,42 @@
       "country": "MA"
     },
     {
-      "id": "com.homedesign.restore.asmr.games",
-      "name": "Home Makeover: ASMR Game",
-      "developer": "Happy Giggles",
-      "url": "https://play.google.com/store/apps/details?id=com.homedesign.restore.asmr.games&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/5PKuhy9WvL6v-5klhBM60A8uvCylSxNKc-RnOkCMtKToQwZF5o75Bx-Wgx2GDfU14cg",
+      "id": "com.cww.laststronghold",
+      "name": "Last Stronghold: Idle Survival",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.cww.laststronghold&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/Jx_X9G6TAS2O5W_46l1vuFVk18kL_oztKW_bb2D0q8yZiWWcwZgcjcG_BLMSjTfB5MU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T14:32:45.000Z",
+      "releaseDate": "2026-01-31T00:02:11.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.WandaSoftware.TruckersofEurope3",
+      "name": "Truckers of Europe 3",
+      "developer": "Wanda Software",
+      "url": "https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/FwKtLtLulWDsEawc5dOelxZyvzTQK6gEZUmqLkpEIlVJjiyPtikvwpWEkSrsgREt9yCg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T13:09:51.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MA"
+    },
+    {
+      "id": "com.media720.games2020",
+      "name": "Offline Games No WiFi internet",
+      "developer": "Fun Offline Games",
+      "url": "https://play.google.com/store/apps/details?id=com.media720.games2020&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/eET3qc7rMWqPZfkk2jsGedhWGoMrbi763h57Etf5fuL6SgcwrjjpA2M94mehfsGznQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T21:33:41.000Z",
       "genres": [
         "Casual"
       ],
@@ -1378,6 +1364,20 @@
       "country": "MA"
     },
     {
+      "id": "com.homedesign.restore.asmr.games",
+      "name": "Home Makeover: ASMR Game",
+      "developer": "Happy Giggles",
+      "url": "https://play.google.com/store/apps/details?id=com.homedesign.restore.asmr.games&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/5PKuhy9WvL6v-5klhBM60A8uvCylSxNKc-RnOkCMtKToQwZF5o75Bx-Wgx2GDfU14cg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T14:32:45.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MA"
+    },
+    {
       "id": "com.outfit7.mytalkingangela2",
       "name": "My Talking Angela 2",
       "developer": "Outfit7 Limited",
@@ -1392,16 +1392,16 @@
       "country": "MA"
     },
     {
-      "id": "com.MadOut.BIG",
-      "name": "MadOut 2: Grand Auto Racing",
-      "developer": "MadOut Games LLC FZ",
-      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=MA",
-      "artwork": "https://play-lh.googleusercontent.com/dYeAjuPFJGv-XfIiKEzuR6ACSG-4pBjs31DZcjn_qRoQ2WfMzm5iKFKNLEjGERYQ6Cn-",
+      "id": "com.wn.hairtattoo",
+      "name": "Hair Tattoo: Barber Shop Game",
+      "developer": "CASUAL AZUR GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.wn.hairtattoo&hl=en&gl=MA",
+      "artwork": "https://play-lh.googleusercontent.com/Dw_pZoY41t04LApsX6CIScF7kc7wFo-kUZKOIoeqeemwuwD7hSEGVy7XrHGd9dnYfQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-19T07:16:00.000Z",
+      "releaseDate": "2026-02-18T08:12:12.000Z",
       "genres": [
-        "Racing"
+        "Simulation"
       ],
       "country": "MA"
     }

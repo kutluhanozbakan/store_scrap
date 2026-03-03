@@ -1,8 +1,22 @@
 {
   "country": "ML",
   "store": "google",
-  "updatedAt": "2026-03-03T13:20:25.442Z",
+  "updatedAt": "2026-03-03T23:14:42.593Z",
   "new": [
+    {
+      "id": "org.ppsspp.ppsspp",
+      "name": "PPSSPP - PSP emulator",
+      "developer": "Henrik Rydgård",
+      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T15:58:32.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "ML"
+    },
     {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
@@ -154,6 +168,20 @@
       "releaseDate": "2026-03-02T13:07:58.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "ML"
+    },
+    {
+      "id": "com.tas.westernsurvival.shooterwar",
+      "name": "Western Survival Shooting Game",
+      "developer": "Team AS Studio Pvt Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.tas.westernsurvival.shooterwar&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/Ze5ic1Q9geRp3vrDCVx-BbZWSTLfhpN8xR95OIQxTKgVpwC_SbhWT52kWDdNroj4bLk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T12:16:52.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "ML"
     },
@@ -322,20 +350,6 @@
       "releaseDate": "2026-02-26T13:15:04.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "ML"
-    },
-    {
-      "id": "com.gamee.kingdom.royale.match3.blast.escape",
-      "name": "Kingdom Match: Royal Adventure",
-      "developer": "GameeStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.gamee.kingdom.royale.match3.blast.escape&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/_rC8deserIKuXMyraF54oN8DUXgJPq77yKwCJv9fV5EceRT7bDugNIhufiYKZOMjYqRWOcMknkj-tGtZmsCzRok",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T10:20:38.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "ML"
     },
@@ -688,20 +702,6 @@
         "Puzzle"
       ],
       "country": "ML"
-    },
-    {
-      "id": "com.football.soccer.league",
-      "name": "Football League 2026",
-      "developer": "MOBILE SOCCER",
-      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T12:25:49.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "ML"
     }
   ],
   "updated": [
@@ -734,16 +734,16 @@
       "country": "ML"
     },
     {
-      "id": "org.ppsspp.ppsspp",
-      "name": "PPSSPP - PSP emulator",
-      "developer": "Henrik Rydgård",
-      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
+      "id": "com.mega.game.drop.gamvix",
+      "name": "Mega Win: Drop",
+      "developer": "Gabriel Garuti Paiva Cracco",
+      "url": "https://play.google.com/store/apps/details?id=com.mega.game.drop.gamvix&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/7hJrC9JhzgPJk8e-pK_LNBDZjIL2ttM_k0kUOy2-9QRtdgRu4onMHGTzail6EHHZn6SxWFDkanvQLmVhD0vdRw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-07-14T10:46:02.000Z",
+      "releaseDate": "2026-02-23T14:19:48.000Z",
       "genres": [
-        "Action"
+        "Puzzle"
       ],
       "country": "ML"
     },
@@ -762,6 +762,20 @@
       "country": "ML"
     },
     {
+      "id": "org.ppsspp.ppsspp",
+      "name": "PPSSPP - PSP emulator",
+      "developer": "Henrik Rydgård",
+      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T15:58:32.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "ML"
+    },
+    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -772,20 +786,6 @@
       "releaseDate": "2026-02-27T15:37:40.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "ML"
-    },
-    {
-      "id": "com.mega.game.drop.gamvix",
-      "name": "Mega Win: Drop",
-      "developer": "Gabriel Garuti Paiva Cracco",
-      "url": "https://play.google.com/store/apps/details?id=com.mega.game.drop.gamvix&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/7hJrC9JhzgPJk8e-pK_LNBDZjIL2ttM_k0kUOy2-9QRtdgRu4onMHGTzail6EHHZn6SxWFDkanvQLmVhD0vdRw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-23T14:19:48.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "ML"
     },
@@ -860,20 +860,6 @@
       "country": "ML"
     },
     {
-      "id": "com.bubbleshooter.popbubbles.collectcards",
-      "name": "Bubble Shooter",
-      "developer": "IVYGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.collectcards&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/C0hM-Dn_TvuA0gmg9PnveFMyuDOunQO8hhIWJGatOhO9ZIlZxKfes0aqnfHniAcSUBZp",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T08:25:03.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "ML"
-    },
-    {
       "id": "com.ludo.king",
       "name": "Ludo King®",
       "developer": "Gametion",
@@ -884,6 +870,20 @@
       "releaseDate": "2026-02-13T09:46:13.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "ML"
+    },
+    {
+      "id": "com.bubbleshooter.popbubbles.collectcards",
+      "name": "Bubble Shooter",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.collectcards&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/C0hM-Dn_TvuA0gmg9PnveFMyuDOunQO8hhIWJGatOhO9ZIlZxKfes0aqnfHniAcSUBZp",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T08:25:03.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "ML"
     },
@@ -944,20 +944,6 @@
       "country": "ML"
     },
     {
-      "id": "ball.sort.color.puz.game.puzzle",
-      "name": "Ball Sort - Color Puz Game",
-      "developer": "Infinite Joy Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=ball.sort.color.puz.game.puzzle&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/4oeX8CJbwfvyeiz3G9gSDGUku7ilvOJxC3sDaDQGZUyBJKd60F12kxB1fQPE45W1Qgc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T09:39:56.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "ML"
-    },
-    {
       "id": "com.catchup.ball.goingball",
       "name": "3D Ball Catch Up - Racing Ball",
       "developer": "Takenick Innovation",
@@ -968,6 +954,20 @@
       "releaseDate": "2026-02-11T08:53:57.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "ML"
+    },
+    {
+      "id": "ball.sort.color.puz.game.puzzle",
+      "name": "Ball Sort - Color Puz Game",
+      "developer": "Infinite Joy Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=ball.sort.color.puz.game.puzzle&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/4oeX8CJbwfvyeiz3G9gSDGUku7ilvOJxC3sDaDQGZUyBJKd60F12kxB1fQPE45W1Qgc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T09:39:56.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "ML"
     },
@@ -986,20 +986,6 @@
       "country": "ML"
     },
     {
-      "id": "com.soccer.score.star",
-      "name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:32:33.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "ML"
-    },
-    {
       "id": "com.footballquiz.triviaquestionsandanswers",
       "name": "Football Quiz Trivia Questions",
       "developer": "Pipi Chick Studio",
@@ -1010,6 +996,20 @@
       "releaseDate": "2026-02-04T14:59:49.000Z",
       "genres": [
         "Trivia"
+      ],
+      "country": "ML"
+    },
+    {
+      "id": "com.soccer.score.star",
+      "name": "Soccer Superstar",
+      "developer": "Real Freestyle Soccer",
+      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T15:32:33.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "ML"
     },
@@ -1042,34 +1042,6 @@
       "country": "ML"
     },
     {
-      "id": "com.fxroyale.app",
-      "name": "Trading Arena-Crypto Simulator",
-      "developer": "Edusystems OU",
-      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T21:13:51.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "ML"
-    },
-    {
-      "id": "com.tiktaktoeexm.gamenew",
-      "name": "Tic Tac Toe: Classic & Modern",
-      "developer": "Sunstone-Dev",
-      "url": "https://play.google.com/store/apps/details?id=com.tiktaktoeexm.gamenew&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/o5cke3WwmTMtbGrlAnbfNTZd4cI1lrx-vgScZwIxC9XL1pxdMBD2pd63Ubtd-G75W5Y",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-07-21T12:43:27.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "ML"
-    },
-    {
       "id": "com.oakever.tiletrip",
       "name": "Tile Explorer - Triple Match",
       "developer": "Oakever Games",
@@ -1098,16 +1070,30 @@
       "country": "ML"
     },
     {
-      "id": "com.imangi.templerun2",
-      "name": "Temple Run 2: Endless Escape",
-      "developer": "Imangi Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
+      "id": "com.tiktaktoeexm.gamenew",
+      "name": "Tic Tac Toe: Classic & Modern",
+      "developer": "Sunstone-Dev",
+      "url": "https://play.google.com/store/apps/details?id=com.tiktaktoeexm.gamenew&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/o5cke3WwmTMtbGrlAnbfNTZd4cI1lrx-vgScZwIxC9XL1pxdMBD2pd63Ubtd-G75W5Y",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-17T14:25:25.000Z",
+      "releaseDate": "2025-07-21T12:43:27.000Z",
       "genres": [
-        "Action"
+        "Puzzle"
+      ],
+      "country": "ML"
+    },
+    {
+      "id": "com.fxroyale.app",
+      "name": "Trading Arena-Crypto Simulator",
+      "developer": "Edusystems OU",
+      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T21:13:51.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "ML"
     },
@@ -1126,14 +1112,14 @@
       "country": "ML"
     },
     {
-      "id": "com.appsalt.specialopsforce",
-      "name": "Special Ops Force",
-      "developer": "Appsalt",
-      "url": "https://play.google.com/store/apps/details?id=com.appsalt.specialopsforce&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/qKKF0ac1TBj6A3q2mooJdao-hsy3Q52Pm1zoToUtpQeiE5i61DMo0GgLuI1d7PLSBF3Ej7r_ap-MlWGm9U6Rcg",
+      "id": "com.imangi.templerun2",
+      "name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-30T07:57:21.000Z",
+      "releaseDate": "2026-02-17T14:25:25.000Z",
       "genres": [
         "Action"
       ],
@@ -1182,6 +1168,20 @@
       "country": "ML"
     },
     {
+      "id": "com.appsalt.specialopsforce",
+      "name": "Special Ops Force",
+      "developer": "Appsalt",
+      "url": "https://play.google.com/store/apps/details?id=com.appsalt.specialopsforce&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/qKKF0ac1TBj6A3q2mooJdao-hsy3Q52Pm1zoToUtpQeiE5i61DMo0GgLuI1d7PLSBF3Ej7r_ap-MlWGm9U6Rcg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T07:57:21.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "ML"
+    },
+    {
       "id": "com.dreamgames.royalmatch",
       "name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -1192,20 +1192,6 @@
       "releaseDate": "2026-02-16T12:04:55.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "ML"
-    },
-    {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "ML"
     },
@@ -1238,6 +1224,20 @@
       "country": "ML"
     },
     {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "ML"
+    },
+    {
       "id": "com.core.biggame.marble.android",
       "name": "Marble Match Origin",
       "developer": "LeisureLab Studios",
@@ -1252,16 +1252,16 @@
       "country": "ML"
     },
     {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "id": "com.rioo.runnersubway",
+      "name": "Subway Princess Runner",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/hZsC5eP05OC3HeGuOVivBgsCTQZIqkm-6rViFTNuimz_wtxOtZIEM0zLodtkw1QZLg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-03T10:28:49.000Z",
+      "releaseDate": "2026-02-09T07:00:13.000Z",
       "genres": [
-        "Simulation"
+        "Arcade"
       ],
       "country": "ML"
     },
@@ -1280,6 +1280,34 @@
       "country": "ML"
     },
     {
+      "id": "com.tap4fun.reignofwar",
+      "name": "Invasion: Aerial Warfare",
+      "developer": "Tap4fun (Hong Kong) Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.tap4fun.reignofwar&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/7ae3WC3pqXqzZV4_M2jxNLOLrpvnWplWHlT5109NHkbHD3y-zlKDr7PdjR0-WWcF09s",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T11:47:42.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "ML"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T10:28:49.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "ML"
+    },
+    {
       "id": "com.zeudion.cryptofunapps",
       "name": "CryptoFun - Trading Simulator",
       "developer": "Zeudion OÜ",
@@ -1290,20 +1318,6 @@
       "releaseDate": "2025-12-07T07:39:08.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "ML"
-    },
-    {
-      "id": "com.rioo.runnersubway",
-      "name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/hZsC5eP05OC3HeGuOVivBgsCTQZIqkm-6rViFTNuimz_wtxOtZIEM0zLodtkw1QZLg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T07:00:13.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "ML"
     },
@@ -1336,20 +1350,6 @@
       "country": "ML"
     },
     {
-      "id": "com.tap4fun.reignofwar",
-      "name": "Invasion: Aerial Warfare",
-      "developer": "Tap4fun (Hong Kong) Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.tap4fun.reignofwar&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/7ae3WC3pqXqzZV4_M2jxNLOLrpvnWplWHlT5109NHkbHD3y-zlKDr7PdjR0-WWcF09s",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T11:47:42.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "ML"
-    },
-    {
       "id": "com.gp.pilot.simulator.airplanegames",
       "name": "Pilot Simulator: Airplane Game",
       "developer": "GamePark",
@@ -1364,28 +1364,28 @@
       "country": "ML"
     },
     {
-      "id": "com.refuelgames.rally",
-      "name": "Rally Fury - Extreme Racing",
-      "developer": "Refuel Games Pty Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.refuelgames.rally&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/UVjsYY6tnVq2qqtuz0BexvhIA080C-pfWalPy3Py4GD4nE-dt_mAZxuAOVgEod3teLU",
+      "id": "fi.twomenandadog.zombiecatchers",
+      "name": "Zombie Catchers : Hunt & sell",
+      "developer": "Deca Games",
+      "url": "https://play.google.com/store/apps/details?id=fi.twomenandadog.zombiecatchers&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/voHkJov0A6_3rSeZqX1D85KtKQ8pbyInBfsTq5VCUbBok_asWHn1bszJXLg0WYd3dj0Y",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-18T01:24:07.000Z",
+      "releaseDate": "2026-02-27T08:09:14.000Z",
       "genres": [
-        "Racing"
+        "Action"
       ],
       "country": "ML"
     },
     {
-      "id": "com.animal.hunter.sniper",
-      "name": "Animal Hunter: Wild Shooting",
-      "developer": "Fun Fun Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.animal.hunter.sniper&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/pd0Voe0O6zBPbVAdSBaVuBdQqiVSHe8V3wIhtuYpuIZS5Owam7E35TGxGkxHP3bUYf4",
+      "id": "com.tencent.ig",
+      "name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-02T10:54:02.000Z",
+      "releaseDate": "2025-12-29T01:31:07.000Z",
       "genres": [
         "Action"
       ],
