@@ -1,7 +1,7 @@
 {
   "country": "DZ",
   "store": "google",
-  "updatedAt": "2026-03-02T21:39:49.377Z",
+  "updatedAt": "2026-03-03T09:57:05.760Z",
   "new": [
     {
       "id": "com.starplay.spider.fighter.openworld",
@@ -14,6 +14,20 @@
       "releaseDate": "2026-03-02T15:29:46.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "DZ"
+    },
+    {
+      "id": "com.hungrystudio.mahjong",
+      "name": "Double Tile!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T14:45:57.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "DZ"
     },
@@ -46,6 +60,20 @@
       "country": "DZ"
     },
     {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T11:56:34.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "DZ"
+    },
+    {
       "id": "com.amelosinteractive.snake",
       "name": "Snake.io - Fun Snake .io Games",
       "developer": "Kooapps Games | Fun Arcade and Casual Action Games",
@@ -56,34 +84,6 @@
       "releaseDate": "2026-03-02T09:35:50.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "DZ"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T16:35:20.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "DZ"
-    },
-    {
-      "id": "com.hungrystudio.mahjong",
-      "name": "Double Tile!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T11:25:39.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "DZ"
     },
@@ -720,6 +720,20 @@
       "country": "DZ"
     },
     {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T11:56:34.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "DZ"
+    },
+    {
       "id": "com.dts.freefireth",
       "name": "Free Fire: Lost Treasure",
       "developer": "GARENA INTERNATIONAL I",
@@ -734,16 +748,16 @@
       "country": "DZ"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-28T16:35:20.000Z",
+      "releaseDate": "2026-02-24T16:48:19.000Z",
       "genres": [
-        "Puzzle"
+        "Arcade"
       ],
       "country": "DZ"
     },
@@ -776,16 +790,16 @@
       "country": "DZ"
     },
     {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T16:48:19.000Z",
+      "releaseDate": "2026-02-12T00:38:27.000Z",
       "genres": [
-        "Arcade"
+        "Simulation"
       ],
       "country": "DZ"
     },
@@ -818,20 +832,6 @@
       "country": "DZ"
     },
     {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T00:38:27.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "DZ"
-    },
-    {
       "id": "com.lockwoodpublishing.avakinlife",
       "name": "Avakin Life - 3D Virtual World",
       "developer": "Lockwood Publishing Ltd",
@@ -842,34 +842,6 @@
       "releaseDate": "2026-02-24T16:10:26.000Z",
       "genres": [
         "Role Playing"
-      ],
-      "country": "DZ"
-    },
-    {
-      "id": "jp.konami.pesam",
-      "name": "eFootball™",
-      "developer": "KONAMI",
-      "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/o-iscF0u9uAm9jaems25nNUw3cIgxrzIELVTy-DPKb3CxN0_HLBcaWoeetZca_BBOp_u_NXeyQKz0nJkXiFMkA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T01:25:55.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "DZ"
-    },
-    {
-      "id": "com.miniclip.eightballpool",
-      "name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T11:45:50.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "DZ"
     },
@@ -888,6 +860,34 @@
       "country": "DZ"
     },
     {
+      "id": "com.miniclip.eightballpool",
+      "name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T11:45:50.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "DZ"
+    },
+    {
+      "id": "jp.konami.pesam",
+      "name": "eFootball™",
+      "developer": "KONAMI",
+      "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/o-iscF0u9uAm9jaems25nNUw3cIgxrzIELVTy-DPKb3CxN0_HLBcaWoeetZca_BBOp_u_NXeyQKz0nJkXiFMkA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T01:25:55.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "DZ"
+    },
+    {
       "id": "com.candyroom.clubcraft",
       "name": "School Party Craft",
       "developer": "Candy Room Games & RabbitCo",
@@ -898,34 +898,6 @@
       "releaseDate": "2026-01-28T21:11:32.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "DZ"
-    },
-    {
-      "id": "com.run.tower.defense",
-      "name": "Kingshot",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T09:09:20.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "DZ"
-    },
-    {
-      "id": "com.hfa.us.car.dive.simulator.offline",
-      "name": "US Car Drive Simulator offline",
-      "developer": "Health fitness app",
-      "url": "https://play.google.com/store/apps/details?id=com.hfa.us.car.dive.simulator.offline&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/kpHffkd8WNExya_ZqQ6-ympDLZBKc_4xbfMRD5WsBNZnQaL5fbSCBmRO4qZFPny_BLPwqbhg90OGDH44OIU15Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T07:34:49.000Z",
-      "genres": [
-        "Strategy"
       ],
       "country": "DZ"
     },
@@ -944,16 +916,16 @@
       "country": "DZ"
     },
     {
-      "id": "com.ction.playergames",
-      "name": "2 3 4 Player Mini Games",
-      "developer": "Better World Games",
-      "url": "https://play.google.com/store/apps/details?id=com.ction.playergames&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/vHuenuu1GqX1BwDaYX86dsbQlmA7vCO0PEdgdXlCEZP5x2_R3pZo0xcI9Mkdn4UW7NA",
+      "id": "com.run.tower.defense",
+      "name": "Kingshot",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-28T20:16:32.000Z",
+      "releaseDate": "2026-02-03T09:09:20.000Z",
       "genres": [
-        "Simulation"
+        "Strategy"
       ],
       "country": "DZ"
     },
@@ -972,30 +944,30 @@
       "country": "DZ"
     },
     {
-      "id": "com.sega.sonicdash",
-      "name": "Sonic Dash: Endless Run",
-      "developer": "SEGA",
-      "url": "https://play.google.com/store/apps/details?id=com.sega.sonicdash&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/4F-WwVKAs56rT6DGSfu1-9sW4MqSjenlIUqWS1K_8iB25ktsHKXXScAwJonvwo7DuMA",
+      "id": "com.ction.playergames",
+      "name": "2 3 4 Player Mini Games",
+      "developer": "Better World Games",
+      "url": "https://play.google.com/store/apps/details?id=com.ction.playergames&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/vHuenuu1GqX1BwDaYX86dsbQlmA7vCO0PEdgdXlCEZP5x2_R3pZo0xcI9Mkdn4UW7NA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T16:47:11.000Z",
+      "releaseDate": "2025-10-28T20:16:32.000Z",
       "genres": [
-        "Arcade"
+        "Simulation"
       ],
       "country": "DZ"
     },
     {
-      "id": "com.ludo.king",
-      "name": "Ludo King®",
-      "developer": "Gametion",
-      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
+      "id": "com.hfa.us.car.dive.simulator.offline",
+      "name": "US Car Drive Simulator offline",
+      "developer": "Health fitness app",
+      "url": "https://play.google.com/store/apps/details?id=com.hfa.us.car.dive.simulator.offline&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/kpHffkd8WNExya_ZqQ6-ympDLZBKc_4xbfMRD5WsBNZnQaL5fbSCBmRO4qZFPny_BLPwqbhg90OGDH44OIU15Q",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T09:46:13.000Z",
+      "releaseDate": "2026-02-03T07:34:49.000Z",
       "genres": [
-        "Board"
+        "Strategy"
       ],
       "country": "DZ"
     },
@@ -1028,6 +1000,34 @@
       "country": "DZ"
     },
     {
+      "id": "com.sega.sonicdash",
+      "name": "Sonic Dash: Endless Run",
+      "developer": "SEGA",
+      "url": "https://play.google.com/store/apps/details?id=com.sega.sonicdash&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/4F-WwVKAs56rT6DGSfu1-9sW4MqSjenlIUqWS1K_8iB25ktsHKXXScAwJonvwo7DuMA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T16:47:11.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "DZ"
+    },
+    {
+      "id": "com.ludo.king",
+      "name": "Ludo King®",
+      "developer": "Gametion",
+      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T09:46:13.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "DZ"
+    },
+    {
       "id": "com.zytoona.wordscrush",
       "name": "كلمات كراش - لعبة تسلية وتحدي ",
       "developer": "Zytoona",
@@ -1056,16 +1056,16 @@
       "country": "DZ"
     },
     {
-      "id": "io.voodoo.holeio",
-      "name": "Hole.io",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "id": "com.traffic.motorcycle.rider.driving.racing.open.sandbox.world",
+      "name": "Driving Motor Racing Simulator",
+      "developer": "Digital Payment Tech",
+      "url": "https://play.google.com/store/apps/details?id=com.traffic.motorcycle.rider.driving.racing.open.sandbox.world&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/tu3jt-CbX7hZIZbFMe_icuREWduoAvPcp-egP-6O4O5kEbDhjuq1euxqBgGxJofnylBQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T10:53:41.000Z",
+      "releaseDate": "2026-02-13T15:35:32.000Z",
       "genres": [
-        "Arcade"
+        "Racing"
       ],
       "country": "DZ"
     },
@@ -1098,56 +1098,14 @@
       "country": "DZ"
     },
     {
-      "id": "com.traffic.motorcycle.rider.driving.racing.open.sandbox.world",
-      "name": "Driving Motor Racing Simulator",
-      "developer": "Digital Payment Tech",
-      "url": "https://play.google.com/store/apps/details?id=com.traffic.motorcycle.rider.driving.racing.open.sandbox.world&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/tu3jt-CbX7hZIZbFMe_icuREWduoAvPcp-egP-6O4O5kEbDhjuq1euxqBgGxJofnylBQ",
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T15:35:32.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "DZ"
-    },
-    {
-      "id": "com.dvloper.granny",
-      "name": "Granny",
-      "developer": "DVloper",
-      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-01T14:35:20.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "DZ"
-    },
-    {
-      "id": "com.media720.games2020",
-      "name": "Offline Games No WiFi internet",
-      "developer": "Fun Offline Games",
-      "url": "https://play.google.com/store/apps/details?id=com.media720.games2020&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/eET3qc7rMWqPZfkk2jsGedhWGoMrbi763h57Etf5fuL6SgcwrjjpA2M94mehfsGznQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T21:33:41.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "DZ"
-    },
-    {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "releaseDate": "2026-02-13T10:53:41.000Z",
       "genres": [
         "Arcade"
       ],
@@ -1168,6 +1126,48 @@
       "country": "DZ"
     },
     {
+      "id": "com.dvloper.granny",
+      "name": "Granny",
+      "developer": "DVloper",
+      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-01T14:35:20.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "DZ"
+    },
+    {
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "DZ"
+    },
+    {
+      "id": "com.media720.games2020",
+      "name": "Offline Games No WiFi internet",
+      "developer": "Fun Offline Games",
+      "url": "https://play.google.com/store/apps/details?id=com.media720.games2020&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/eET3qc7rMWqPZfkk2jsGedhWGoMrbi763h57Etf5fuL6SgcwrjjpA2M94mehfsGznQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T21:33:41.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "DZ"
+    },
+    {
       "id": "com.netease.newspikeme",
       "name": "Blood Strike Max",
       "developer": "Stellar Gate Games",
@@ -1182,20 +1182,6 @@
       "country": "DZ"
     },
     {
-      "id": "com.matteljv.uno",
-      "name": "UNO!™",
-      "developer": "Mattel163 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.matteljv.uno&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/yAn20u0xsnzgIKZTaFGgkPnEOV1LPKh00_rEccAnQeljyXDESWneIl9C28c7JT-petqf7AD_ZlIIDMrYah7p",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T09:29:49.000Z",
-      "genres": [
-        "Card"
-      ],
-      "country": "DZ"
-    },
-    {
       "id": "com.masomo.headball2",
       "name": "Head Ball 2 - Foot en Ligne",
       "developer": "Masomo Gaming",
@@ -1204,20 +1190,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-12T08:18:39.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "DZ"
-    },
-    {
-      "id": "com.firsttouchgames.dls7",
-      "name": "Dream League Soccer 2026",
-      "developer": "First Touch Games Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T18:33:48.000Z",
       "genres": [
         "Sports"
       ],
@@ -1238,30 +1210,30 @@
       "country": "DZ"
     },
     {
-      "id": "com.ansangha.drdriving",
-      "name": "Dr. Driving",
-      "developer": "SUD Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
+      "id": "com.matteljv.uno",
+      "name": "UNO!™",
+      "developer": "Mattel163 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.matteljv.uno&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/yAn20u0xsnzgIKZTaFGgkPnEOV1LPKh00_rEccAnQeljyXDESWneIl9C28c7JT-petqf7AD_ZlIIDMrYah7p",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-08-25T07:34:27.000Z",
+      "releaseDate": "2026-01-23T09:29:49.000Z",
       "genres": [
-        "Racing"
+        "Card"
       ],
       "country": "DZ"
     },
     {
-      "id": "com.adventure.piano.kpopstar",
-      "name": "Music Piano 2: KPop Star",
-      "developer": "HyperMusic",
-      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
+      "id": "com.firsttouchgames.dls7",
+      "name": "Dream League Soccer 2026",
+      "developer": "First Touch Games Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-28T10:58:01.000Z",
+      "releaseDate": "2026-02-27T18:33:48.000Z",
       "genres": [
-        "Casual"
+        "Sports"
       ],
       "country": "DZ"
     },
@@ -1280,34 +1252,6 @@
       "country": "DZ"
     },
     {
-      "id": "com.tencent.ig",
-      "name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-29T01:31:07.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "DZ"
-    },
-    {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T15:37:40.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "DZ"
-    },
-    {
       "id": "com.id.gun.shooting.games",
       "name": "Gun Games FPS Shooting Games",
       "developer": "Interactive Dreams Inc",
@@ -1318,6 +1262,34 @@
       "releaseDate": "2026-02-13T11:59:45.000Z",
       "genres": [
         "Role Playing"
+      ],
+      "country": "DZ"
+    },
+    {
+      "id": "com.ansangha.drdriving",
+      "name": "Dr. Driving",
+      "developer": "SUD Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-25T07:34:27.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "DZ"
+    },
+    {
+      "id": "com.tencent.ig",
+      "name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-29T01:31:07.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "DZ"
     },
@@ -1336,6 +1308,34 @@
       "country": "DZ"
     },
     {
+      "id": "com.adventure.piano.kpopstar",
+      "name": "Music Piano 2: KPop Star",
+      "developer": "HyperMusic",
+      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T10:58:01.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "DZ"
+    },
+    {
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T15:37:40.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "DZ"
+    },
+    {
       "id": "com.azurgames.stackball",
       "name": "Stack Ball - Crash Platforms",
       "developer": "CASUAL AZUR GAMES",
@@ -1350,14 +1350,28 @@
       "country": "DZ"
     },
     {
-      "id": "com.atesgamestudio.rollance",
-      "name": "Rollance : Adventure Balls",
-      "developer": "CASUAL AZUR GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.atesgamestudio.rollance&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/nvF8c1Xym9P4X8lva7irs84bdeHUYcvhgToaQM6RgYn372anFhNOD_ZlwdD5pOoF9Q",
+      "id": "com.gps.draw.flag.coloring.games",
+      "name": "Satisfying Coloring",
+      "developer": "Mad1 Games",
+      "url": "https://play.google.com/store/apps/details?id=com.gps.draw.flag.coloring.games&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/VLjDQF7_vbOFGFTiPqKw6YXfpuz-LPpPeYQYpnxRIWkTgZ2YGKQ9vKK6S5UsV3SysXU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T11:42:37.000Z",
+      "releaseDate": "2026-02-19T11:03:58.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "DZ"
+    },
+    {
+      "id": "com.imangi.templerun2",
+      "name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=DZ",
+      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T14:25:25.000Z",
       "genres": [
         "Action"
       ],
@@ -1388,20 +1402,6 @@
       "releaseDate": "2025-12-08T14:58:29.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "DZ"
-    },
-    {
-      "id": "com.imangi.templerun2",
-      "name": "Temple Run 2: Endless Escape",
-      "developer": "Imangi Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=DZ",
-      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T14:25:25.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "DZ"
     }
