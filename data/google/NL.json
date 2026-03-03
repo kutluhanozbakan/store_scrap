@@ -1,8 +1,36 @@
 {
   "country": "NL",
   "store": "google",
-  "updatedAt": "2026-03-03T02:54:21.235Z",
+  "updatedAt": "2026-03-03T14:09:53.166Z",
   "new": [
+    {
+      "id": "gg.sunday.dog.escape.puzzle",
+      "name": "Dog Escape: Cute Pet Care Life",
+      "developer": "Sunday.gg",
+      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T10:39:30.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "NL"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T10:28:49.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "NL"
+    },
     {
       "id": "com.pixel.art.coloring.color.number",
       "name": "Happy Color®: Color by Number",
@@ -14,20 +42,6 @@
       "releaseDate": "2026-03-02T20:13:11.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "NL"
-    },
-    {
-      "id": "gg.sunday.dog.escape.puzzle",
-      "name": "Dog Escape: Cute Pet Care Life",
-      "developer": "Sunday.gg",
-      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T17:16:41.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "NL"
     },
@@ -60,22 +74,8 @@
       "country": "NL"
     },
     {
-      "id": "water.sort.color.puzzle.offline.games",
-      "name": "Water Sort! Color Sort Puzzle",
-      "developer": "Bobodoo Game",
-      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/FGKE522gd5FND6fnX-_GdhSe9eoU0IqSBJ3gV8nUEYnOTMubjov8cvlC2FQXMgbb29NA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T15:07:34.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "NL"
-    },
-    {
       "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast: Wonders",
+      "name": "Mahjong Blast",
       "developer": "Nebula  Studio",
       "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=NL",
       "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
@@ -152,6 +152,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-28T09:18:28.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "NL"
+    },
+    {
+      "id": "com.cedargames.tileclear",
+      "name": "Tile Clear - Puzzle Game",
+      "developer": "Cedar Games Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.cedargames.tileclear&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/NBGbFnv5rrm9rLT6t6vCC5LcxGn3TLGwtgI7wO8i61E04CwWD5_wskBSNF65MCf2GhKjlumetQ87nkNZp74f",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T06:13:56.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -336,20 +350,6 @@
       "releaseDate": "2026-02-25T19:36:00.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "NL"
-    },
-    {
-      "id": "com.gof.global",
-      "name": "Whiteout Survival",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.gof.global&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/gtcDOls1xCaV_qtRKx3dsk75bNBqel81gWkhK2xvgq5KKHj_71lnZjXYO6He97w0j-U",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T15:26:57.000Z",
-      "genres": [
-        "Strategy"
       ],
       "country": "NL"
     },
@@ -776,6 +776,20 @@
       "country": "NL"
     },
     {
+      "id": "com.sled.surfers.game",
+      "name": "Sled Surfers",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/dtrjuQilrP1js6mDnl7mFPerlmnwUPwhYESlGriPKxwlUhWJ1yQ0r52EIvXrc-S5vqY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T17:36:54.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "NL"
+    },
+    {
       "id": "com.mergegames.gossipharbor",
       "name": "Gossip Harbor®: Merge & Story",
       "developer": "Microfun Limited",
@@ -804,22 +818,8 @@
       "country": "NL"
     },
     {
-      "id": "com.sled.surfers.game",
-      "name": "Sled Surfers",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/dtrjuQilrP1js6mDnl7mFPerlmnwUPwhYESlGriPKxwlUhWJ1yQ0r52EIvXrc-S5vqY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T17:36:54.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "NL"
-    },
-    {
       "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast: Wonders",
+      "name": "Mahjong Blast",
       "developer": "Nebula  Studio",
       "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=NL",
       "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
@@ -874,20 +874,6 @@
       "country": "NL"
     },
     {
-      "id": "com.playrix.township",
-      "name": "Township",
-      "developer": "Playrix",
-      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T17:54:54.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "NL"
-    },
-    {
       "id": "com.magic.cyber.piano.tiles.edm.musicgames",
       "name": "Pop Piano: Music Games",
       "developer": "Cobby Labs",
@@ -912,6 +898,20 @@
       "releaseDate": "2026-03-02T17:08:27.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "NL"
+    },
+    {
+      "id": "com.playrix.township",
+      "name": "Township",
+      "developer": "Playrix",
+      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T17:54:54.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "NL"
     },
@@ -944,20 +944,6 @@
       "country": "NL"
     },
     {
-      "id": "com.run.tower.defense",
-      "name": "Kingshot",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T09:09:20.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "NL"
-    },
-    {
       "id": "io.voodoo.paper2",
       "name": "Paper.io 2",
       "developer": "VOODOO",
@@ -966,20 +952,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-24T16:48:19.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "NL"
-    },
-    {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:31:23.000Z",
       "genres": [
         "Arcade"
       ],
@@ -1000,16 +972,30 @@
       "country": "NL"
     },
     {
-      "id": "com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter",
-      "name": "Rainbow Six Mobile",
-      "developer": "Ubisoft Nova",
-      "url": "https://play.google.com/store/apps/details?id=com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/QIH2nL3HlU9UcEL8MuDJtunxs3dSTY9LXeWx4fQMU0XdOzEG8xQ0DVXa6nz4hbNvwrDI_FYOHcvi1up7KAT81A",
+      "id": "com.run.tower.defense",
+      "name": "Kingshot",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-10T13:57:55.000Z",
+      "releaseDate": "2026-02-03T09:09:20.000Z",
       "genres": [
-        "Action"
+        "Strategy"
+      ],
+      "country": "NL"
+    },
+    {
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T12:31:23.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "NL"
     },
@@ -1021,7 +1007,7 @@
       "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-12T00:38:27.000Z",
+      "releaseDate": "2026-03-03T10:28:49.000Z",
       "genres": [
         "Simulation"
       ],
@@ -1112,6 +1098,104 @@
       "country": "NL"
     },
     {
+      "id": "com.monopoly.dream.idle.king",
+      "name": "Top Tycoon: Coin Theme Empire",
+      "developer": "BeheFun Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.monopoly.dream.idle.king&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/YSofgpw9fVAdL8ARICBntM6H2SchRLC7e-NYczRc-1I_gCQaN8U7y49ikrl3GfUYXW4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-15T14:29:01.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "NL"
+    },
+    {
+      "id": "com.arrow.out",
+      "name": "Arrow Out",
+      "developer": "Lion Studios Plus",
+      "url": "https://play.google.com/store/apps/details?id=com.arrow.out&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/i4S66jnxU0h4mBg7aURDxn2gUkQmkq2U09Z-QpwxGnoEl_zjS2Fmo49_Nh3eTlYGB6hg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T19:11:28.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "NL"
+    },
+    {
+      "id": "gg.sunday.dog.escape.puzzle",
+      "name": "Dog Escape: Cute Pet Care Life",
+      "developer": "Sunday.gg",
+      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T10:39:30.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "NL"
+    },
+    {
+      "id": "com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter",
+      "name": "Rainbow Six Mobile",
+      "developer": "Ubisoft Nova",
+      "url": "https://play.google.com/store/apps/details?id=com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/QIH2nL3HlU9UcEL8MuDJtunxs3dSTY9LXeWx4fQMU0XdOzEG8xQ0DVXa6nz4hbNvwrDI_FYOHcvi1up7KAT81A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T13:57:55.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "NL"
+    },
+    {
+      "id": "com.oakever.jigsawcard",
+      "name": "Jigsawcard Solitaire Puzzle",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.jigsawcard&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/PZTHuvocowzHTJJ-DSWITmX2gB00UVdXdQM6UKmtzTFTZHq4QLHvhht19UMfaRYa9gfzp1gHB_JFXMY7HtEz6Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T09:18:28.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "NL"
+    },
+    {
+      "id": "com.tencent.ig",
+      "name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-29T01:31:07.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "NL"
+    },
+    {
+      "id": "com.robtopx.geometryjumplite",
+      "name": "Geometry Dash Lite",
+      "developer": "RobTop Games",
+      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T14:03:50.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "NL"
+    },
+    {
       "id": "com.grandgames.magicsort",
       "name": "Magic Sort!",
       "developer": "Grand Games A.Ş.",
@@ -1140,84 +1224,56 @@
       "country": "NL"
     },
     {
-      "id": "com.monopoly.dream.idle.king",
-      "name": "Top Tycoon: Coin Theme Empire",
-      "developer": "BeheFun Games Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.monopoly.dream.idle.king&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/YSofgpw9fVAdL8ARICBntM6H2SchRLC7e-NYczRc-1I_gCQaN8U7y49ikrl3GfUYXW4",
+      "id": "com.fc.goods.sort.matching.puzzle.triplemaster",
+      "name": "Goods Puzzle: Sort Challenge™",
+      "developer": "FALCON GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.fc.goods.sort.matching.puzzle.triplemaster&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/F4r_imTe0hKKnVfrOUxbS8oumI6LpU-UgFbOW0VHoYQ_FnrcXq0p3QRR96u5wNANm2A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-15T14:29:01.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "NL"
-    },
-    {
-      "id": "gg.sunday.dog.escape.puzzle",
-      "name": "Dog Escape: Cute Pet Care Life",
-      "developer": "Sunday.gg",
-      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T17:16:41.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "NL"
-    },
-    {
-      "id": "com.robtopx.geometryjumplite",
-      "name": "Geometry Dash Lite",
-      "developer": "RobTop Games",
-      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T14:03:50.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "NL"
-    },
-    {
-      "id": "com.tencent.ig",
-      "name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-29T01:31:07.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "NL"
-    },
-    {
-      "id": "com.arrow.out",
-      "name": "Arrow Out",
-      "developer": "Lion Studios Plus",
-      "url": "https://play.google.com/store/apps/details?id=com.arrow.out&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/i4S66jnxU0h4mBg7aURDxn2gUkQmkq2U09Z-QpwxGnoEl_zjS2Fmo49_Nh3eTlYGB6hg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T19:11:28.000Z",
+      "releaseDate": "2026-02-27T03:52:18.000Z",
       "genres": [
         "Puzzle"
       ],
       "country": "NL"
     },
     {
-      "id": "com.oakever.jigsawcard",
-      "name": "Jigsawcard Solitaire Puzzle",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.jigsawcard&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/PZTHuvocowzHTJJ-DSWITmX2gB00UVdXdQM6UKmtzTFTZHq4QLHvhht19UMfaRYa9gfzp1gHB_JFXMY7HtEz6Q",
+      "id": "com.funplus.ts.global",
+      "name": "Tiles Survive!",
+      "developer": "FunPlus International AG",
+      "url": "https://play.google.com/store/apps/details?id=com.funplus.ts.global&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/zckZa4Pytdr9QxK-Xv6XlbJo62tZV4pk3VPLBnuUXzR-pmM5nWWHUbo3MT1Lu9xxIRye",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-28T09:18:28.000Z",
+      "releaseDate": "2026-02-03T15:45:58.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "NL"
+    },
+    {
+      "id": "com.innersloth.spacemafia",
+      "name": "Among Us",
+      "developer": "Innersloth LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T19:19:24.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "NL"
+    },
+    {
+      "id": "com.playstrom.dop4",
+      "name": "DOP 4: Draw One Part",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.playstrom.dop4&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/xCTDSJzuaJkDH_dNtGek7H6CO2oi4tNopjrXHtvZ4EumFr_5vs2RMJ-Htikhj5Aw8Q8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T10:39:35.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1238,48 +1294,6 @@
       "country": "NL"
     },
     {
-      "id": "com.innersloth.spacemafia",
-      "name": "Among Us",
-      "developer": "Innersloth LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T19:19:24.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "NL"
-    },
-    {
-      "id": "com.funplus.ts.global",
-      "name": "Tiles Survive!",
-      "developer": "FunPlus International AG",
-      "url": "https://play.google.com/store/apps/details?id=com.funplus.ts.global&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/zckZa4Pytdr9QxK-Xv6XlbJo62tZV4pk3VPLBnuUXzR-pmM5nWWHUbo3MT1Lu9xxIRye",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T15:45:58.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "NL"
-    },
-    {
-      "id": "com.fc.goods.sort.matching.puzzle.triplemaster",
-      "name": "Goods Puzzle: Sort Challenge™",
-      "developer": "FALCON GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.fc.goods.sort.matching.puzzle.triplemaster&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/F4r_imTe0hKKnVfrOUxbS8oumI6LpU-UgFbOW0VHoYQ_FnrcXq0p3QRR96u5wNANm2A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T03:52:18.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "NL"
-    },
-    {
       "id": "com.playstrom.my.sticker.room",
       "name": "My Sticker Room - Decor Game",
       "developer": "SayGames Ltd",
@@ -1290,34 +1304,6 @@
       "releaseDate": "2026-02-20T14:39:09.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "NL"
-    },
-    {
-      "id": "com.minigames.antistress.relaxinggames.toys",
-      "name": "Antistress Relaxing Mini Games",
-      "developer": "CAT Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.minigames.antistress.relaxinggames.toys&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/GyxH6OelloeKh9B0iWbTpGKeK3qSnVEhKl6MoiCnvLXTniWuITKjEQjrNACCA-XsmxooB1fKWxoXhaYVfLFqiA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-29T06:05:28.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "NL"
-    },
-    {
-      "id": "com.playstrom.dop4",
-      "name": "DOP 4: Draw One Part",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.playstrom.dop4&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/xCTDSJzuaJkDH_dNtGek7H6CO2oi4tNopjrXHtvZ4EumFr_5vs2RMJ-Htikhj5Aw8Q8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T10:39:35.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "NL"
     },
@@ -1350,58 +1336,72 @@
       "country": "NL"
     },
     {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "id": "com.nianticlabs.pokemongo",
+      "name": "Pokémon GO",
+      "developer": "Niantic, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/39hjeqmhsub4abx84Q4CpCQgMN9ktgwDlUWm7_ZusCZYs8EIXwSuz8C9rVL7Fj4FKmRAKVwvI3Cl2IIDTzx80A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "releaseDate": "2026-02-17T04:38:26.000Z",
       "genres": [
-        "Sports"
+        "Adventure"
       ],
       "country": "NL"
     },
     {
-      "id": "com.pronetis.ironball2",
-      "name": "Going Balls",
-      "developer": "Supersonic Studios LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.pronetis.ironball2&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/a8zcuqCydhNbHi-lsqas4V3G93TRcglFCFmS65IH7bUcaPx_o8bpTfDX0jTjFiVDS2Jhsd9VKJr85FQiEG-gumk",
+      "id": "com.minigames.antistress.relaxinggames.toys",
+      "name": "Antistress Relaxing Mini Games",
+      "developer": "CAT Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.minigames.antistress.relaxinggames.toys&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/GyxH6OelloeKh9B0iWbTpGKeK3qSnVEhKl6MoiCnvLXTniWuITKjEQjrNACCA-XsmxooB1fKWxoXhaYVfLFqiA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T11:14:24.000Z",
+      "releaseDate": "2025-12-29T06:05:28.000Z",
       "genres": [
         "Casual"
       ],
       "country": "NL"
     },
     {
-      "id": "com.ecffri.arrows",
-      "name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore UG",
-      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/f3szQ-tBQ5FVtiO2hwnJ6Gg4LbckQ9qKD099oiFqlvDo78uaD85Zn9G4o-W9390XnQ",
+      "id": "com.advant.streamer",
+      "name": "Lamar - Idle Vlogger",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-25T19:36:00.000Z",
+      "releaseDate": "2026-02-20T15:26:20.000Z",
       "genres": [
-        "Puzzle"
+        "Simulation"
       ],
       "country": "NL"
     },
     {
-      "id": "in.playsimple.wordsearch",
-      "name": "Word Search Explorer",
-      "developer": "PlaySimple Games",
-      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
+      "id": "com.fc.p.gp.skincare.makeup.makeover.asmr.game",
+      "name": "Skincare Time: Makeover ASMR",
+      "developer": "FALCON GAME",
+      "url": "https://play.google.com/store/apps/details?id=com.fc.p.gp.skincare.makeup.makeover.asmr.game&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/_mkiIvECi3kK6XWgQHQRD_DGPAXRYZ_VBpmtZOm80f9N5B5wy8XVSXfwAtEKY5meLRQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-19T12:52:47.000Z",
+      "releaseDate": "2026-02-02T06:43:13.000Z",
       "genres": [
-        "Word"
+        "Simulation"
+      ],
+      "country": "NL"
+    },
+    {
+      "id": "com.playgendary.kickthebuddy",
+      "name": "Kick the Buddy－Fun Action Game",
+      "developer": "Playgendary Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.playgendary.kickthebuddy&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/4zT9waZhwrqSCMVFBXCi7jSzjMRP9LMdR4ZylVTd4KRRBy0aK79-IZvQWawRTSb-CLE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T14:04:33.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "NL"
     }
