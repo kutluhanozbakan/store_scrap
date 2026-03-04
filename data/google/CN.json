@@ -1,8 +1,22 @@
 {
   "country": "CN",
   "store": "google",
-  "updatedAt": "2026-03-03T20:53:32.868Z",
+  "updatedAt": "2026-03-04T08:00:14.224Z",
   "new": [
+    {
+      "id": "com.tapblaze.pizzabusiness",
+      "name": "Good Pizza, Great Pizza",
+      "developer": "TapBlaze",
+      "url": "https://play.google.com/store/apps/details?id=com.tapblaze.pizzabusiness&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/aZN-hLvbt5WUHi7GBbbpi0DyB024bCNvCMO1g9f_NLziXZCIbEL3GBCOD4m04FyEiHuNWs0ROWBqNKyEh9Ra9g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T06:01:24.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "CN"
+    },
     {
       "id": "com.world.war.defence",
       "name": "WWII Defense: RTS Army TD game",
@@ -32,14 +46,14 @@
       "country": "CN"
     },
     {
-      "id": "com.Neurononfire.SupremeDuelist",
-      "name": "Supreme Duelist",
-      "developer": "Neron's Brother",
-      "url": "https://play.google.com/store/apps/details?id=com.Neurononfire.SupremeDuelist&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/iRq0R9mN7eGyVENIPDk5muu76VxawBAIkFAYFqauJTFNIvUxzD1_M33HNX4GE8Qk0WqY",
+      "id": "org.ppsspp.ppsspp",
+      "name": "PPSSPP - PSP emulator",
+      "developer": "Henrik Rydgård",
+      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-03T17:24:50.000Z",
+      "releaseDate": "2026-03-03T15:58:32.000Z",
       "genres": [
         "Action"
       ],
@@ -70,6 +84,34 @@
       "releaseDate": "2026-03-03T13:03:03.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.wood.block.sudoku.puzzle.bm",
+      "name": "Block Crush!",
+      "developer": "Wonderful  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T12:20:05.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.topwar.gp",
+      "name": "Top War: Battle Game",
+      "developer": "RiverGame",
+      "url": "https://play.google.com/store/apps/details?id=com.topwar.gp&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/J_4kcCrgNmQdEcMgWG5_ZX5o5Z3GFnkcapT17K3tDf4WOWJ1C29J0yTqFKcGc2m0gXo",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T10:46:22.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "CN"
     },
@@ -242,20 +284,6 @@
       "country": "CN"
     },
     {
-      "id": "com.halfbrick.jetpackjoyride",
-      "name": "Jetpack Joyride",
-      "developer": "Halfbrick Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.halfbrick.jetpackjoyride&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/tqCoBs5_3KuWgy8slKi30a9Ku2diQupMUGHx-weSTjT5tUom_YwJTNJH2lj46J9-8AzU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-01T22:30:37.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "CN"
-    },
-    {
       "id": "com.os.airforce",
       "name": "1945 Air Force: Plane Shooter",
       "developer": "1SOFT",
@@ -266,6 +294,34 @@
       "releaseDate": "2026-02-28T07:22:29.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.fansipan.epic.stickman.survival.rpg.idle.game",
+      "name": "Epic Stickman: Idle RPG War",
+      "developer": "Fansipan Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.fansipan.epic.stickman.survival.rpg.idle.game&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/FrHw-XQCgYnDjYCerjI3-HTjYid3EMHoC1VuuDsew1tDCiiF2qVBk4IS0k68C2xkfI6P",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T04:11:07.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.hyperbeard.pocketlove",
+      "name": "Pocket Love",
+      "developer": "HyperBeard",
+      "url": "https://play.google.com/store/apps/details?id=com.hyperbeard.pocketlove&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/UdgUop5EY0WE8t4DXBKnS5U-RGkeESduiXWZ_BzRx-i04dsAWjU858KSqhIbuz7HvA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T00:31:54.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "CN"
     },
@@ -312,34 +368,6 @@
       "country": "CN"
     },
     {
-      "id": "com.grandgames.magicsort",
-      "name": "Magic Sort!",
-      "developer": "Grand Games A.Ş.",
-      "url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T17:23:38.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.wood.block.sudoku.puzzle.bm",
-      "name": "Block Crush!",
-      "developer": "Wonderful  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T16:30:59.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CN"
-    },
-    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -354,16 +382,16 @@
       "country": "CN"
     },
     {
-      "id": "com.topwar.gp",
-      "name": "Top War: Battle Game",
-      "developer": "RiverGame",
-      "url": "https://play.google.com/store/apps/details?id=com.topwar.gp&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/J_4kcCrgNmQdEcMgWG5_ZX5o5Z3GFnkcapT17K3tDf4WOWJ1C29J0yTqFKcGc2m0gXo",
+      "id": "com.iterationone.nightclubtycoon",
+      "name": "Idle Nightclub Tycoon",
+      "developer": "Iteration One GmbH",
+      "url": "https://play.google.com/store/apps/details?id=com.iterationone.nightclubtycoon&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/Y1FjpFOXAWPHorU2GkuUalB5JdEwbgwTYJhlhnFu2vGV3UvJ4V68dOL0wSqSlY2rCfI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T09:34:45.000Z",
+      "releaseDate": "2026-02-27T11:41:33.000Z",
       "genres": [
-        "Strategy"
+        "Simulation"
       ],
       "country": "CN"
     },
@@ -378,20 +406,6 @@
       "releaseDate": "2026-02-27T03:52:18.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.tapblaze.pizzabusiness",
-      "name": "Good Pizza, Great Pizza",
-      "developer": "TapBlaze",
-      "url": "https://play.google.com/store/apps/details?id=com.tapblaze.pizzabusiness&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/aZN-hLvbt5WUHi7GBbbpi0DyB024bCNvCMO1g9f_NLziXZCIbEL3GBCOD4m04FyEiHuNWs0ROWBqNKyEh9Ra9g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T00:18:44.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "CN"
     },
@@ -522,20 +536,6 @@
       "country": "CN"
     },
     {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T16:48:19.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "CN"
-    },
-    {
       "id": "com.nordcurrent.canteenhd",
       "name": "Cooking Fever: Restaurant Game",
       "developer": "Nordcurrent Games",
@@ -564,6 +564,20 @@
       "country": "CN"
     },
     {
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T07:21:42.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "CN"
+    },
+    {
       "id": "me.funkin.fnf",
       "name": "Friday Night Funkin'",
       "developer": "The Funkin' Crew Inc.",
@@ -588,6 +602,20 @@
       "releaseDate": "2026-02-23T15:02:51.000Z",
       "genres": [
         "Strategy"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.luckyskeletonstudios.idlebanktycoon",
+      "name": "Idle Bank Tycoon: Money Empire",
+      "developer": "Kolibri Games",
+      "url": "https://play.google.com/store/apps/details?id=com.luckyskeletonstudios.idlebanktycoon&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/M5BhmZrwy2w0RrvSn_483n_MNAwzEwVWEObm8mbVaQpeIxHwHyh4JmkXniA0PWNE8Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-23T11:06:45.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "CN"
     },
@@ -674,34 +702,6 @@
         "Role Playing"
       ],
       "country": "CN"
-    },
-    {
-      "id": "com.playstrom.my.sticker.room",
-      "name": "My Sticker Room - Decor Game",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/Z_DSIS6IGl9aSW67rlVKoatQLa8oc8cyiSQZ-jjkKpFc5sBao4dg4cfEhGTq5z7S3A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T14:39:09.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.aim.racing",
-      "name": "Extreme Car Driving Simulator",
-      "developer": "AxesInMotion Racing",
-      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/4FcOEy8DK_gNKdR9szjd5d0m1h1cxyzHb3ejxk4IcuAi5JcMcyp-f61Wag2-SHlLt-s",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T13:51:00.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "CN"
     }
   ],
   "updated": [
@@ -748,6 +748,20 @@
       "country": "CN"
     },
     {
+      "id": "com.topwar.gp",
+      "name": "Top War: Battle Game",
+      "developer": "RiverGame",
+      "url": "https://play.google.com/store/apps/details?id=com.topwar.gp&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/J_4kcCrgNmQdEcMgWG5_ZX5o5Z3GFnkcapT17K3tDf4WOWJ1C29J0yTqFKcGc2m0gXo",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T10:46:22.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "CN"
+    },
+    {
       "id": "com.kamagames.pokerist",
       "name": "Texas Hold'em Poker: Pokerist",
       "developer": "KamaGames",
@@ -758,20 +772,6 @@
       "releaseDate": "2026-02-04T16:11:21.000Z",
       "genres": [
         "Card"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.media720.games2020",
-      "name": "Offline Games No WiFi internet",
-      "developer": "Fun Offline Games",
-      "url": "https://play.google.com/store/apps/details?id=com.media720.games2020&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/eET3qc7rMWqPZfkk2jsGedhWGoMrbi763h57Etf5fuL6SgcwrjjpA2M94mehfsGznQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T21:33:41.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "CN"
     },
@@ -790,6 +790,20 @@
       "country": "CN"
     },
     {
+      "id": "com.miniclip.plagueinc",
+      "name": "Plague Inc.",
+      "developer": "Ndemic Creations",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.plagueinc&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/qLgeusnY6S6JC_qB7s1qz5rPzrzMIuiXDvQN2R9qZhuQb3xTw4adMD0-Ktk12LrLwFB_wn_ftNVvLDsixSBeGQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T18:16:43.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "CN"
+    },
+    {
       "id": "com.sybogames.subway.surfers.game",
       "name": "Subway Surfers City",
       "developer": "SYBO Games",
@@ -804,16 +818,16 @@
       "country": "CN"
     },
     {
-      "id": "com.topwar.gp",
-      "name": "Top War: Battle Game",
-      "developer": "RiverGame",
-      "url": "https://play.google.com/store/apps/details?id=com.topwar.gp&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/J_4kcCrgNmQdEcMgWG5_ZX5o5Z3GFnkcapT17K3tDf4WOWJ1C29J0yTqFKcGc2m0gXo",
+      "id": "com.media720.games2020",
+      "name": "Offline Games No WiFi internet",
+      "developer": "Fun Offline Games",
+      "url": "https://play.google.com/store/apps/details?id=com.media720.games2020&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/eET3qc7rMWqPZfkk2jsGedhWGoMrbi763h57Etf5fuL6SgcwrjjpA2M94mehfsGznQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T09:34:45.000Z",
+      "releaseDate": "2026-02-27T21:33:41.000Z",
       "genres": [
-        "Strategy"
+        "Casual"
       ],
       "country": "CN"
     },
@@ -828,20 +842,6 @@
       "releaseDate": "2026-02-18T11:45:50.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.miniclip.plagueinc",
-      "name": "Plague Inc.",
-      "developer": "Ndemic Creations",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.plagueinc&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/qLgeusnY6S6JC_qB7s1qz5rPzrzMIuiXDvQN2R9qZhuQb3xTw4adMD0-Ktk12LrLwFB_wn_ftNVvLDsixSBeGQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T18:16:43.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "CN"
     },
@@ -888,14 +888,14 @@
       "country": "CN"
     },
     {
-      "id": "com.MadOut.BIG",
-      "name": "MadOut 2: Grand Auto Racing",
-      "developer": "MadOut Games LLC FZ",
-      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/dYeAjuPFJGv-XfIiKEzuR6ACSG-4pBjs31DZcjn_qRoQ2WfMzm5iKFKNLEjGERYQ6Cn-",
+      "id": "com.carxtech.sr",
+      "name": "CarX Street",
+      "developer": "CarX Technologies",
+      "url": "https://play.google.com/store/apps/details?id=com.carxtech.sr&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/B8INYkehIFue2QH_RoTQ6Rs5VndWrgUaKdscFCMWQwOQW13jwQE1YyBryuQA00XAshc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-19T07:16:00.000Z",
+      "releaseDate": "2026-02-13T15:33:53.000Z",
       "genres": [
         "Racing"
       ],
@@ -912,48 +912,6 @@
       "releaseDate": "2026-02-12T11:09:49.000Z",
       "genres": [
         "Music"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.playgendary.kickthebuddy",
-      "name": "Kick the Buddy－Fun Action Game",
-      "developer": "Playgendary Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.playgendary.kickthebuddy&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/4zT9waZhwrqSCMVFBXCi7jSzjMRP9LMdR4ZylVTd4KRRBy0aK79-IZvQWawRTSb-CLE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T13:03:03.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.carxtech.sr",
-      "name": "CarX Street",
-      "developer": "CarX Technologies",
-      "url": "https://play.google.com/store/apps/details?id=com.carxtech.sr&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/B8INYkehIFue2QH_RoTQ6Rs5VndWrgUaKdscFCMWQwOQW13jwQE1YyBryuQA00XAshc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T15:33:53.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "easy.sudoku.puzzle.solver.free",
-      "name": "Sudoku - Classic Sudoku Puzzle",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=easy.sudoku.puzzle.solver.free&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/hYLElG0RAgn60XE6cfgsPPW_JB63PEVWvDtvhipAGvTpxBX5YgLGt3UXvnJ_kRwKhnE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T14:24:33.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "CN"
     },
@@ -986,14 +944,70 @@
       "country": "CN"
     },
     {
-      "id": "com.ecffri.arrows",
-      "name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore UG",
-      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/f3szQ-tBQ5FVtiO2hwnJ6Gg4LbckQ9qKD099oiFqlvDo78uaD85Zn9G4o-W9390XnQ",
+      "id": "com.MadOut.BIG",
+      "name": "MadOut 2: Grand Auto Racing",
+      "developer": "MadOut Games LLC FZ",
+      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/dYeAjuPFJGv-XfIiKEzuR6ACSG-4pBjs31DZcjn_qRoQ2WfMzm5iKFKNLEjGERYQ6Cn-",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-25T19:36:00.000Z",
+      "releaseDate": "2026-02-19T07:16:00.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "easy.sudoku.puzzle.solver.free",
+      "name": "Sudoku - Classic Sudoku Puzzle",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=easy.sudoku.puzzle.solver.free&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/hYLElG0RAgn60XE6cfgsPPW_JB63PEVWvDtvhipAGvTpxBX5YgLGt3UXvnJ_kRwKhnE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T14:24:33.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.playgendary.kickthebuddy",
+      "name": "Kick the Buddy－Fun Action Game",
+      "developer": "Playgendary Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.playgendary.kickthebuddy&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/4zT9waZhwrqSCMVFBXCi7jSzjMRP9LMdR4ZylVTd4KRRBy0aK79-IZvQWawRTSb-CLE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T13:03:03.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.wood.block.sudoku.puzzle.bm",
+      "name": "Block Crush!",
+      "developer": "Wonderful  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T12:20:05.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.ustwogames.mv3",
+      "name": "Monument Valley 3",
+      "developer": "ustwo games",
+      "url": "https://play.google.com/store/apps/details?id=com.ustwogames.mv3&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/39VXXXNq7ZnBmGJDcNw7N0vdwIYEP4kgFbYDRBYn-XL68sBpfQRqkYPkRMBNDLF6rNA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T15:19:44.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1028,30 +1042,16 @@
       "country": "CN"
     },
     {
-      "id": "com.oxiwyle.modernage2",
-      "name": "MA 2 – President Simulator",
-      "developer": "Oxiwyle",
-      "url": "https://play.google.com/store/apps/details?id=com.oxiwyle.modernage2&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/EPWPFUYgw5Io02mDFwY25c8Q8-PKbIZJ35xIVf-QpIZVflN04MDMEFwT9vHAhEQC5wVI",
+      "id": "com.mkarpenko.worldbox",
+      "name": "WorldBox - Sandbox God Sim",
+      "developer": "Mako Mako",
+      "url": "https://play.google.com/store/apps/details?id=com.mkarpenko.worldbox&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/XD7-X-5qk_37o2OyLeOPuPjuY1rD0O4COKX-TOh_efoHoVQkmSzk00fSUB6a7FU7a_E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-02T22:47:41.000Z",
+      "releaseDate": "2025-09-12T19:15:59.000Z",
       "genres": [
-        "Strategy"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.wood.block.sudoku.puzzle.bm",
-      "name": "Block Crush!",
-      "developer": "Wonderful  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T16:30:59.000Z",
-      "genres": [
-        "Puzzle"
+        "Simulation"
       ],
       "country": "CN"
     },
@@ -1070,20 +1070,6 @@
       "country": "CN"
     },
     {
-      "id": "com.mkarpenko.worldbox",
-      "name": "WorldBox - Sandbox God Sim",
-      "developer": "Mako Mako",
-      "url": "https://play.google.com/store/apps/details?id=com.mkarpenko.worldbox&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/XD7-X-5qk_37o2OyLeOPuPjuY1rD0O4COKX-TOh_efoHoVQkmSzk00fSUB6a7FU7a_E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-09-12T19:15:59.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "CN"
-    },
-    {
       "id": "io.voodoo.holeio",
       "name": "Hole.io",
       "developer": "VOODOO",
@@ -1094,6 +1080,20 @@
       "releaseDate": "2026-02-13T10:53:41.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.ecffri.arrows",
+      "name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore UG",
+      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/f3szQ-tBQ5FVtiO2hwnJ6Gg4LbckQ9qKD099oiFqlvDo78uaD85Zn9G4o-W9390XnQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T19:36:00.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "CN"
     },
@@ -1112,30 +1112,30 @@
       "country": "CN"
     },
     {
-      "id": "com.ustwogames.mv3",
-      "name": "Monument Valley 3",
-      "developer": "ustwo games",
-      "url": "https://play.google.com/store/apps/details?id=com.ustwogames.mv3&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/39VXXXNq7ZnBmGJDcNw7N0vdwIYEP4kgFbYDRBYn-XL68sBpfQRqkYPkRMBNDLF6rNA",
+      "id": "com.nekki.shadowfight3",
+      "name": "Shadow Fight 3 - RPG fighting",
+      "developer": "NEKKI",
+      "url": "https://play.google.com/store/apps/details?id=com.nekki.shadowfight3&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/mNbe4RCs92XXpSmrheXWLs4Dl9OO6NcVdneyYSGKupzmjPo8-5wm51mS-uli5ylWWgt1",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-25T15:19:44.000Z",
+      "releaseDate": "2026-02-20T16:30:49.000Z",
       "genres": [
-        "Puzzle"
+        "Role Playing"
       ],
       "country": "CN"
     },
     {
-      "id": "state.countryballs.dictators.io",
-      "name": "Country Balls: World War",
-      "developer": "MAD PIXEL GAMES LTD",
-      "url": "https://play.google.com/store/apps/details?id=state.countryballs.dictators.io&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/nlXcABEtmUkzWql8yUPynSU-2YiLWAW6S1Q0uhvSs3AgAAOC3bHSnWBZmlbErAhWSegA",
+      "id": "com.hitappsgames.wordsolitaire",
+      "name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games",
+      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.wordsolitaire&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/PrVcy5lS_K5t-HHnRoWSr4lwIWX-s-1mbsOYevHcmaMDfoTtT2blvfmN8vsOEvaG49W1fcJSiNdFYAq9rLWc2W8",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-18T13:23:30.000Z",
+      "releaseDate": "2026-02-19T13:13:38.000Z",
       "genres": [
-        "Strategy"
+        "Word"
       ],
       "country": "CN"
     },
@@ -1148,20 +1148,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-01-29T21:05:43.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.unept.leveldevil",
-      "name": "Level Devil - NOT A Troll Game",
-      "developer": "Poki",
-      "url": "https://play.google.com/store/apps/details?id=com.unept.leveldevil&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/VqY_7ZNxG91KHaZguRP3khXdlTR1yQr45RCoiNu6MO41UhN-jlN31YWTQImWFRTw5r0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T14:49:51.000Z",
       "genres": [
         "Action"
       ],
@@ -1182,100 +1168,30 @@
       "country": "CN"
     },
     {
-      "id": "com.innersloth.spacemafia",
-      "name": "Among Us",
-      "developer": "Innersloth LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "id": "com.oxiwyle.modernage2",
+      "name": "MA 2 – President Simulator",
+      "developer": "Oxiwyle",
+      "url": "https://play.google.com/store/apps/details?id=com.oxiwyle.modernage2&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/EPWPFUYgw5Io02mDFwY25c8Q8-PKbIZJ35xIVf-QpIZVflN04MDMEFwT9vHAhEQC5wVI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-18T19:19:24.000Z",
+      "releaseDate": "2026-02-02T22:47:41.000Z",
       "genres": [
-        "Action"
+        "Strategy"
       ],
       "country": "CN"
     },
     {
-      "id": "com.nekki.shadowfight3",
-      "name": "Shadow Fight 3 - RPG fighting",
-      "developer": "NEKKI",
-      "url": "https://play.google.com/store/apps/details?id=com.nekki.shadowfight3&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/mNbe4RCs92XXpSmrheXWLs4Dl9OO6NcVdneyYSGKupzmjPo8-5wm51mS-uli5ylWWgt1",
+      "id": "state.countryballs.dictators.io",
+      "name": "Country Balls: World War",
+      "developer": "MAD PIXEL GAMES LTD",
+      "url": "https://play.google.com/store/apps/details?id=state.countryballs.dictators.io&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/nlXcABEtmUkzWql8yUPynSU-2YiLWAW6S1Q0uhvSs3AgAAOC3bHSnWBZmlbErAhWSegA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T16:30:49.000Z",
+      "releaseDate": "2026-02-18T13:23:30.000Z",
       "genres": [
-        "Role Playing"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.chess",
-      "name": "Chess - Play and Learn Online",
-      "developer": "Chess.com",
-      "url": "https://play.google.com/store/apps/details?id=com.chess&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/a7R5nyeaX8lIEWdBOxjlvbyq9LcFwh3XMvNtBPEKR3LPGgdvgGrec4sJwn8tUaaSkw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T18:18:39.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.rocket.holeit",
-      "name": "Hole it!",
-      "developer": "Supersonic Studios LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.rocket.holeit&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/QhcS1S50sgx5CjlspUIgfGIc06KydCQIaCTj7gPXZgIc64owBJAqlr7Q7hv4tfdKRlY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-01T11:03:11.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.tapblaze.pizzabusiness",
-      "name": "Good Pizza, Great Pizza",
-      "developer": "TapBlaze",
-      "url": "https://play.google.com/store/apps/details?id=com.tapblaze.pizzabusiness&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/aZN-hLvbt5WUHi7GBbbpi0DyB024bCNvCMO1g9f_NLziXZCIbEL3GBCOD4m04FyEiHuNWs0ROWBqNKyEh9Ra9g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T00:18:44.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.hitappsgames.wordsolitaire",
-      "name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games",
-      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.wordsolitaire&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/PrVcy5lS_K5t-HHnRoWSr4lwIWX-s-1mbsOYevHcmaMDfoTtT2blvfmN8vsOEvaG49W1fcJSiNdFYAq9rLWc2W8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T13:13:38.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "me.funkin.fnf",
-      "name": "Friday Night Funkin'",
-      "developer": "The Funkin' Crew Inc.",
-      "url": "https://play.google.com/store/apps/details?id=me.funkin.fnf&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/eH7CbOlUv_4ysRxicJbncfdfK3nsA_YtIpu8cvPRi2rRvXAQOLwXhoNybAwHptYIpbY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T02:31:19.000Z",
-      "genres": [
-        "Music"
+        "Strategy"
       ],
       "country": "CN"
     },
@@ -1294,6 +1210,104 @@
       "country": "CN"
     },
     {
+      "id": "com.innersloth.spacemafia",
+      "name": "Among Us",
+      "developer": "Innersloth LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T19:19:24.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T10:28:49.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.tapblaze.pizzabusiness",
+      "name": "Good Pizza, Great Pizza",
+      "developer": "TapBlaze",
+      "url": "https://play.google.com/store/apps/details?id=com.tapblaze.pizzabusiness&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/aZN-hLvbt5WUHi7GBbbpi0DyB024bCNvCMO1g9f_NLziXZCIbEL3GBCOD4m04FyEiHuNWs0ROWBqNKyEh9Ra9g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T06:01:24.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.chess",
+      "name": "Chess - Play and Learn Online",
+      "developer": "Chess.com",
+      "url": "https://play.google.com/store/apps/details?id=com.chess&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/a7R5nyeaX8lIEWdBOxjlvbyq9LcFwh3XMvNtBPEKR3LPGgdvgGrec4sJwn8tUaaSkw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T18:18:39.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.paradyme.solarsmash",
+      "name": "Solar Smash",
+      "developer": "Paradyme Games",
+      "url": "https://play.google.com/store/apps/details?id=com.paradyme.solarsmash&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/9oKsgghjeohO1ztpmG6SrIMAVLn8sAhwsRGKHuOaqfMghYWiFHJ1osjwf_fAaMQZA5Y",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-06T11:43:02.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.rocket.holeit",
+      "name": "Hole it!",
+      "developer": "Supersonic Studios LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.rocket.holeit&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/QhcS1S50sgx5CjlspUIgfGIc06KydCQIaCTj7gPXZgIc64owBJAqlr7Q7hv4tfdKRlY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-01T11:03:11.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.riotgames.league.teamfighttactics",
+      "name": "TFT: Teamfight Tactics",
+      "developer": "Riot Games, Inc",
+      "url": "https://play.google.com/store/apps/details?id=com.riotgames.league.teamfighttactics&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/jkXPSNafg6vNxKWXDiZ-Nbo6Wx4rGIKIuPQOGR9lJEc3735liKw3hKF8Bovje8Q7OK4",
+      "price": "Free",
+      "isFree": false,
+      "releaseDate": "2026-02-13T02:28:29.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "CN"
+    },
+    {
       "id": "com.oakever.tiletrip",
       "name": "Tile Explorer - Triple Match",
       "developer": "Oakever Games",
@@ -1304,6 +1318,48 @@
       "releaseDate": "2026-02-11T15:11:48.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.gamedevltd.wwh",
+      "name": "World War Heroes — WW2 PvP FPS",
+      "developer": "Azur Interactive Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.gamedevltd.wwh&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/XP4VnD-IKzUydY7u-EyRiS00h2VBTDw3O5di1tALTKnGlgNWA4OAUJafjPOkPQlSXAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T20:24:57.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.studiowildcard.arkuse",
+      "name": "ARK: Ultimate Mobile Edition",
+      "developer": "Studio Wildcard",
+      "url": "https://play.google.com/store/apps/details?id=com.studiowildcard.arkuse&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/lnDJEp7CpsYkpoAqfLvAxSEFtHMV4s2DjoxkXMboLJzz8-XuEWjm6OaHIYmWMUxeQw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T19:52:03.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "CN"
+    },
+    {
+      "id": "com.unept.leveldevil",
+      "name": "Level Devil - NOT A Troll Game",
+      "developer": "Poki",
+      "url": "https://play.google.com/store/apps/details?id=com.unept.leveldevil&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/VqY_7ZNxG91KHaZguRP3khXdlTR1yQr45RCoiNu6MO41UhN-jlN31YWTQImWFRTw5r0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T14:49:51.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "CN"
     },
@@ -1322,30 +1378,16 @@
       "country": "CN"
     },
     {
-      "id": "com.bravestars.savethedog.drawgame",
-      "name": "Save The Pets",
-      "developer": "Bravestars Games",
-      "url": "https://play.google.com/store/apps/details?id=com.bravestars.savethedog.drawgame&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/M30GFPRmi5D5ZNEB8VMCgXs6kM_dz_C2wzIFu2pMfSqZZUu0M3R2YBt0WB6S5nIOyA",
+      "id": "me.funkin.fnf",
+      "name": "Friday Night Funkin'",
+      "developer": "The Funkin' Crew Inc.",
+      "url": "https://play.google.com/store/apps/details?id=me.funkin.fnf&hl=en&gl=CN",
+      "artwork": "https://play-lh.googleusercontent.com/eH7CbOlUv_4ysRxicJbncfdfK3nsA_YtIpu8cvPRi2rRvXAQOLwXhoNybAwHptYIpbY",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-29T03:48:45.000Z",
+      "releaseDate": "2026-02-24T02:31:19.000Z",
       "genres": [
-        "Puzzle"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.football.soccer.league",
-      "name": "Football League 2026",
-      "developer": "MOBILE SOCCER",
-      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T12:25:49.000Z",
-      "genres": [
-        "Sports"
+        "Music"
       ],
       "country": "CN"
     },
@@ -1360,48 +1402,6 @@
       "releaseDate": "2026-02-25T22:08:05.000Z",
       "genres": [
         "Strategy"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.rapidfiregames.backpackbrawl",
-      "name": "Backpack Brawl — Hero Battles",
-      "developer": "Azur Interactive Games Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.rapidfiregames.backpackbrawl&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/WHTTqig9pqPSGj2k82DsdPZNhtAF0m-4nEU-JfPG278T-s3y1w7yK8rxOvQ-0Dv5dzpWJLiWarg8hxZtZ9KFFQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T15:02:04.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "com.skgames.trafficrider",
-      "name": "Traffic Rider",
-      "developer": "skgames",
-      "url": "https://play.google.com/store/apps/details?id=com.skgames.trafficrider&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/590AflDt-hW2t85Cit_ODJPJdRiMMRn2cSF0vYNfsBpjm895x1zDy0npbD7IlDCvmNvI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-08T14:58:29.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "CN"
-    },
-    {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=CN",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T10:28:49.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "CN"
     }
