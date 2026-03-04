@@ -1,8 +1,36 @@
 {
   "country": "SD",
   "store": "google",
-  "updatedAt": "2026-03-03T15:59:07.540Z",
+  "updatedAt": "2026-03-04T02:49:49.399Z",
   "new": [
+    {
+      "id": "org.ppsspp.ppsspp",
+      "name": "PPSSPP - PSP emulator",
+      "developer": "Henrik Rydgård",
+      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T15:58:32.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "SD"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T14:57:54.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "SD"
+    },
     {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
@@ -74,16 +102,16 @@
       "country": "SD"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "id": "com.tas.westernsurvival.shooterwar",
+      "name": "Western Survival Shooting Game",
+      "developer": "Team AS Studio Pvt Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.tas.westernsurvival.shooterwar&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/Ze5ic1Q9geRp3vrDCVx-BbZWSTLfhpN8xR95OIQxTKgVpwC_SbhWT52kWDdNroj4bLk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-02T11:56:34.000Z",
+      "releaseDate": "2026-03-02T12:16:52.000Z",
       "genres": [
-        "Puzzle"
+        "Strategy"
       ],
       "country": "SD"
     },
@@ -674,51 +702,9 @@
         "Racing"
       ],
       "country": "SD"
-    },
-    {
-      "id": "com.football.soccer.league",
-      "name": "Football League 2026",
-      "developer": "MOBILE SOCCER",
-      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T12:25:49.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "SD"
-    },
-    {
-      "id": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
-      "name": "Ramp Car Games: GT Car Stunts",
-      "developer": "Fun Drive Games",
-      "url": "https://play.google.com/store/apps/details?id=com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/AkcgFr9M2qfIcp1fkrQS8Ny6Ludis4_fBO0_VvfdWLJtrRpu0O-2T1v4mn0b1t59yA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T11:35:46.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "SD"
     }
   ],
   "updated": [
-    {
-      "id": "com.tiktaktoeexm.gamenew",
-      "name": "Tic Tac Toe: Classic & Modern",
-      "developer": "Sunstone-Dev",
-      "url": "https://play.google.com/store/apps/details?id=com.tiktaktoeexm.gamenew&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/o5cke3WwmTMtbGrlAnbfNTZd4cI1lrx-vgScZwIxC9XL1pxdMBD2pd63Ubtd-G75W5Y",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-07-21T12:43:27.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "SD"
-    },
     {
       "id": "com.zams.car.parking.game",
       "name": "Prado Parking Game: Car Games",
@@ -730,6 +716,20 @@
       "releaseDate": "2026-02-18T13:09:31.000Z",
       "genres": [
         "Role Playing"
+      ],
+      "country": "SD"
+    },
+    {
+      "id": "com.tiktaktoeexm.gamenew",
+      "name": "Tic Tac Toe: Classic & Modern",
+      "developer": "Sunstone-Dev",
+      "url": "https://play.google.com/store/apps/details?id=com.tiktaktoeexm.gamenew&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/o5cke3WwmTMtbGrlAnbfNTZd4cI1lrx-vgScZwIxC9XL1pxdMBD2pd63Ubtd-G75W5Y",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-07-21T12:43:27.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "SD"
     },
@@ -818,16 +818,16 @@
       "country": "SD"
     },
     {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
+      "id": "com.igs.bus.simulator.bus.games",
+      "name": "Bus Simulator - 3D Bus Games",
+      "developer": "Innovative Gaming Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.igs.bus.simulator.bus.games&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/7wvk5zJNI--xrIkJlKZbuL9ixMHezfYPM8ajL2RyHR8ZL5FZbs_BdmzpULRtXAUxf48",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "releaseDate": "2025-12-18T17:53:55.000Z",
       "genres": [
-        "Arcade"
+        "Role Playing"
       ],
       "country": "SD"
     },
@@ -846,16 +846,16 @@
       "country": "SD"
     },
     {
-      "id": "com.igs.bus.simulator.bus.games",
-      "name": "Bus Simulator - 3D Bus Games",
-      "developer": "Innovative Gaming Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.igs.bus.simulator.bus.games&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/7wvk5zJNI--xrIkJlKZbuL9ixMHezfYPM8ajL2RyHR8ZL5FZbs_BdmzpULRtXAUxf48",
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-18T17:53:55.000Z",
+      "releaseDate": "2025-10-22T00:32:35.000Z",
       "genres": [
-        "Role Playing"
+        "Arcade"
       ],
       "country": "SD"
     },
@@ -909,7 +909,7 @@
       "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-07-14T10:46:02.000Z",
+      "releaseDate": "2026-03-03T15:58:32.000Z",
       "genres": [
         "Action"
       ],
@@ -940,20 +940,6 @@
       "releaseDate": "2026-02-27T18:33:48.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "SD"
-    },
-    {
-      "id": "com.gg.highway.racing.car.rider",
-      "name": "Real Highway Car Racing Games",
-      "developer": "CupTie Fun Games",
-      "url": "https://play.google.com/store/apps/details?id=com.gg.highway.racing.car.rider&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/esaumZWqvMwVabMGc4bPXxLOq-eLnSYtRRwyDVhkHYyn1fC170JqBer4rUaL0cTh_iI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T07:28:13.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "SD"
     },
@@ -993,23 +979,23 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-02T11:56:34.000Z",
+      "releaseDate": "2026-03-03T14:57:54.000Z",
       "genres": [
         "Puzzle"
       ],
       "country": "SD"
     },
     {
-      "id": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
-      "name": "Ramp Car Games: GT Car Stunts",
-      "developer": "Fun Drive Games",
-      "url": "https://play.google.com/store/apps/details?id=com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/AkcgFr9M2qfIcp1fkrQS8Ny6Ludis4_fBO0_VvfdWLJtrRpu0O-2T1v4mn0b1t59yA",
+      "id": "com.gg.highway.racing.car.rider",
+      "name": "Real Highway Car Racing Games",
+      "developer": "CupTie Fun Games",
+      "url": "https://play.google.com/store/apps/details?id=com.gg.highway.racing.car.rider&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/esaumZWqvMwVabMGc4bPXxLOq-eLnSYtRRwyDVhkHYyn1fC170JqBer4rUaL0cTh_iI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T11:35:46.000Z",
+      "releaseDate": "2026-02-17T07:28:13.000Z",
       "genres": [
-        "Strategy"
+        "Racing"
       ],
       "country": "SD"
     },
@@ -1024,6 +1010,20 @@
       "releaseDate": "2025-12-18T03:34:14.000Z",
       "genres": [
         "Word"
+      ],
+      "country": "SD"
+    },
+    {
+      "id": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
+      "name": "Ramp Car Games: GT Car Stunts",
+      "developer": "Fun Drive Games",
+      "url": "https://play.google.com/store/apps/details?id=com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/AkcgFr9M2qfIcp1fkrQS8Ny6Ludis4_fBO0_VvfdWLJtrRpu0O-2T1v4mn0b1t59yA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T11:35:46.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "SD"
     },
@@ -1112,20 +1112,6 @@
       "country": "SD"
     },
     {
-      "id": "com.outfit7.mytalkingtomfree",
-      "name": "My Talking Tom",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T11:55:53.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "SD"
-    },
-    {
       "id": "com.id.gun.shooting.games",
       "name": "Gun Games FPS Shooting Games",
       "developer": "Interactive Dreams Inc",
@@ -1140,20 +1126,6 @@
       "country": "SD"
     },
     {
-      "id": "com.MadOut.BIG",
-      "name": "MadOut 2: Grand Auto Racing",
-      "developer": "MadOut Games LLC FZ",
-      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/dYeAjuPFJGv-XfIiKEzuR6ACSG-4pBjs31DZcjn_qRoQ2WfMzm5iKFKNLEjGERYQ6Cn-",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T07:16:00.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "SD"
-    },
-    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
@@ -1164,6 +1136,34 @@
       "releaseDate": "2026-03-03T10:28:49.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "SD"
+    },
+    {
+      "id": "com.outfit7.mytalkingtomfree",
+      "name": "My Talking Tom",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T11:55:53.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "SD"
+    },
+    {
+      "id": "com.MadOut.BIG",
+      "name": "MadOut 2: Grand Auto Racing",
+      "developer": "MadOut Games LLC FZ",
+      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/dYeAjuPFJGv-XfIiKEzuR6ACSG-4pBjs31DZcjn_qRoQ2WfMzm5iKFKNLEjGERYQ6Cn-",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T07:16:00.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "SD"
     },
@@ -1224,34 +1224,6 @@
       "country": "SD"
     },
     {
-      "id": "com.tg.offroadjeep.offroadgame.offroaddriving.citydriving.vehiclesimulator",
-      "name": "Land Cruiser Jeep 4x4 Game 3D",
-      "developer": "TRY Games",
-      "url": "https://play.google.com/store/apps/details?id=com.tg.offroadjeep.offroadgame.offroaddriving.citydriving.vehiclesimulator&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/GYr197a_OQ3WBcS0OC2a9iHaqcEy8VCwf2grvZK7fA6b1IO4C6wFj2TXJjp3WvopTLCgv7YFw8D0bR7pccb9VA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-22T07:35:19.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "SD"
-    },
-    {
-      "id": "pion.fashion.glow.makeover.dress.up.model.style.makeup.girl",
-      "name": "Fashion Glow: Model & Style",
-      "developer": "Dress Up Games for Girls",
-      "url": "https://play.google.com/store/apps/details?id=pion.fashion.glow.makeover.dress.up.model.style.makeup.girl&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/WVea0129E4Zafs-zjsmrrOWIxN_8IUp4GJYqmIW7Hiz39CGvCtzd6qR4V3XJjq2NAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-14T08:31:08.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "SD"
-    },
-    {
       "id": "com.ffgames.racingincar2",
       "name": "Racing in Car 2",
       "developer": "ckgames",
@@ -1262,6 +1234,20 @@
       "releaseDate": "2025-12-19T14:55:06.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "SD"
+    },
+    {
+      "id": "com.tg.offroadjeep.offroadgame.offroaddriving.citydriving.vehiclesimulator",
+      "name": "Land Cruiser Jeep 4x4 Game 3D",
+      "developer": "TRY Games",
+      "url": "https://play.google.com/store/apps/details?id=com.tg.offroadjeep.offroadgame.offroaddriving.citydriving.vehiclesimulator&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/GYr197a_OQ3WBcS0OC2a9iHaqcEy8VCwf2grvZK7fA6b1IO4C6wFj2TXJjp3WvopTLCgv7YFw8D0bR7pccb9VA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-22T07:35:19.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "SD"
     },
@@ -1308,20 +1294,6 @@
       "country": "SD"
     },
     {
-      "id": "com.nuomondo.millionaire.quiz",
-      "name": "Millionaire - Quiz & Trivia",
-      "developer": "Trivia & Quiz Games by Nuomondo",
-      "url": "https://play.google.com/store/apps/details?id=com.nuomondo.millionaire.quiz&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/Sw6e7Qz4DeHQ0LQ8Ck3xuLgIBnDEWiOGoMbZezIvyvGsdXoVd36vQ7kG07BD_s2Mm9M",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T15:49:34.000Z",
-      "genres": [
-        "Trivia"
-      ],
-      "country": "SD"
-    },
-    {
       "id": "com.horus.warzone",
       "name": "War Zone: Fight For Homeland",
       "developer": "Horus Entertainment",
@@ -1336,16 +1308,16 @@
       "country": "SD"
     },
     {
-      "id": "water.sort.color.puzzle.offline.games",
-      "name": "Water Sort! Color Sort Puzzle",
-      "developer": "Bobodoo Game",
-      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/FGKE522gd5FND6fnX-_GdhSe9eoU0IqSBJ3gV8nUEYnOTMubjov8cvlC2FQXMgbb29NA",
+      "id": "com.nuomondo.millionaire.quiz",
+      "name": "Millionaire - Quiz & Trivia",
+      "developer": "Trivia & Quiz Games by Nuomondo",
+      "url": "https://play.google.com/store/apps/details?id=com.nuomondo.millionaire.quiz&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/Sw6e7Qz4DeHQ0LQ8Ck3xuLgIBnDEWiOGoMbZezIvyvGsdXoVd36vQ7kG07BD_s2Mm9M",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-02T15:07:34.000Z",
+      "releaseDate": "2026-02-20T15:49:34.000Z",
       "genres": [
-        "Puzzle"
+        "Trivia"
       ],
       "country": "SD"
     },
@@ -1358,6 +1330,34 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-01-07T10:41:36.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "SD"
+    },
+    {
+      "id": "com.ansangha.drdriving",
+      "name": "Dr. Driving",
+      "developer": "SUD Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-25T07:34:27.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "SD"
+    },
+    {
+      "id": "water.sort.color.puzzle.offline.games",
+      "name": "Water Sort! Color Sort Puzzle",
+      "developer": "Bobodoo Game",
+      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/FGKE522gd5FND6fnX-_GdhSe9eoU0IqSBJ3gV8nUEYnOTMubjov8cvlC2FQXMgbb29NA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T15:07:34.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1378,30 +1378,30 @@
       "country": "SD"
     },
     {
-      "id": "com.xgame.trafficmoto",
-      "name": "Moto Race Go",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.xgame.trafficmoto&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/1Q2tg9zP1CbjxZZAZPLxVaE9WNbJqLWAzY38MpCpNANKi9j_oSeEk2UumPzNHlbUL1oJ3ZHWgJMpqa4ssLruNg",
+      "id": "com.gzl.drivebus.parking.game",
+      "name": "Modern Bus Simulator: Bus Game",
+      "developer": "GAMEXIS",
+      "url": "https://play.google.com/store/apps/details?id=com.gzl.drivebus.parking.game&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/03OfE36EEv2uuutNmUY14Q_UucNWdRBBdtQtyi_38fmsrFogMexAAF27M-W4puxy870",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-28T10:36:06.000Z",
+      "releaseDate": "2026-02-20T07:47:45.000Z",
       "genres": [
         "Racing"
       ],
       "country": "SD"
     },
     {
-      "id": "com.ansangha.drdriving",
-      "name": "Dr. Driving",
-      "developer": "SUD Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=SD",
-      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
+      "id": "com.alien.shooter.galaxy.attack",
+      "name": "Galaxy Attack: Shooting Game",
+      "developer": "1SOFT",
+      "url": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack&hl=en&gl=SD",
+      "artwork": "https://play-lh.googleusercontent.com/0VU1tELbaW2f8vgJYqW_RyZF6DrWY177bYFPt8oXT5esZzFl4V2c39zWlxhDWKo5Mtc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-08-25T07:34:27.000Z",
+      "releaseDate": "2026-02-27T10:38:12.000Z",
       "genres": [
-        "Racing"
+        "Arcade"
       ],
       "country": "SD"
     }
