@@ -1,8 +1,36 @@
 {
   "country": "ET",
   "store": "google",
-  "updatedAt": "2026-03-04T08:54:41.718Z",
+  "updatedAt": "2026-03-04T19:23:53.776Z",
   "new": [
+    {
+      "id": "com.creations.runnergame",
+      "name": "Kooply Run™: Play and Create!",
+      "developer": "KOOPLY",
+      "url": "https://play.google.com/store/apps/details?id=com.creations.runnergame&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/gMwKsn2RI__kMbkcH3Ta6JljGJnHdcZaZ_FDpIVUfQXjv9hhoiVLy_WCUQPJI766IQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T10:47:21.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "ET"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T08:49:55.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "ET"
+    },
     {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
@@ -98,20 +126,6 @@
       "releaseDate": "2026-03-03T11:58:35.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "ET"
-    },
-    {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T10:28:49.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "ET"
     },
@@ -280,20 +294,6 @@
       "releaseDate": "2026-02-26T11:55:53.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "ET"
-    },
-    {
-      "id": "com.creations.runnergame",
-      "name": "Kooply Run™: Play and Create!",
-      "developer": "KOOPLY",
-      "url": "https://play.google.com/store/apps/details?id=com.creations.runnergame&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/gMwKsn2RI__kMbkcH3Ta6JljGJnHdcZaZ_FDpIVUfQXjv9hhoiVLy_WCUQPJI766IQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T14:03:28.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "ET"
     },
@@ -846,20 +846,6 @@
       "country": "ET"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T14:57:54.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "ET"
-    },
-    {
       "id": "com.bubbleshooter.popbubbles.collectcards",
       "name": "Bubble Shooter",
       "developer": "IVYGAMES",
@@ -870,6 +856,20 @@
       "releaseDate": "2026-02-03T08:25:03.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "ET"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T14:57:54.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "ET"
     },
@@ -1000,16 +1000,16 @@
       "country": "ET"
     },
     {
-      "id": "com.rioo.runnersubway",
-      "name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/hZsC5eP05OC3HeGuOVivBgsCTQZIqkm-6rViFTNuimz_wtxOtZIEM0zLodtkw1QZLg",
+      "id": "com.andregal.android.poolbilliard",
+      "name": "Pool Billiards offline",
+      "developer": "Andregal",
+      "url": "https://play.google.com/store/apps/details?id=com.andregal.android.poolbilliard&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/prsJFxj_daaTKEn6F1sW2aSsMT-2dBe41HGx9J31jWd3xAPU2rTDBbm-tlLpWacmyyHF",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-09T07:00:13.000Z",
+      "releaseDate": "2026-02-14T17:33:38.000Z",
       "genres": [
-        "Arcade"
+        "Casual"
       ],
       "country": "ET"
     },
@@ -1028,20 +1028,6 @@
       "country": "ET"
     },
     {
-      "id": "com.andregal.android.poolbilliard",
-      "name": "Pool Billiards offline",
-      "developer": "Andregal",
-      "url": "https://play.google.com/store/apps/details?id=com.andregal.android.poolbilliard&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/prsJFxj_daaTKEn6F1sW2aSsMT-2dBe41HGx9J31jWd3xAPU2rTDBbm-tlLpWacmyyHF",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-14T17:33:38.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "ET"
-    },
-    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
@@ -1049,9 +1035,23 @@
       "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-03T10:28:49.000Z",
+      "releaseDate": "2026-03-04T08:49:55.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "ET"
+    },
+    {
+      "id": "com.rioo.runnersubway",
+      "name": "Subway Princess Runner",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/hZsC5eP05OC3HeGuOVivBgsCTQZIqkm-6rViFTNuimz_wtxOtZIEM0zLodtkw1QZLg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T07:00:13.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "ET"
     },
@@ -1126,16 +1126,16 @@
       "country": "ET"
     },
     {
-      "id": "com.hungrystudio.mahjong",
-      "name": "Double Tile!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-03T11:58:35.000Z",
+      "releaseDate": "2026-03-04T07:14:23.000Z",
       "genres": [
-        "Puzzle"
+        "Board"
       ],
       "country": "ET"
     },
@@ -1150,20 +1150,6 @@
       "releaseDate": "2025-08-27T16:01:25.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "ET"
-    },
-    {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T07:14:23.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "ET"
     },
@@ -1224,20 +1210,6 @@
       "country": "ET"
     },
     {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T21:11:32.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "ET"
-    },
-    {
       "id": "ball.blast.bubble.pop.shooter.permainan.bola.buble",
       "name": "Bubble Pop - Shoot Bubble Game",
       "developer": "WizSprint",
@@ -1248,6 +1220,34 @@
       "releaseDate": "2025-08-28T04:28:18.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "ET"
+    },
+    {
+      "id": "com.hungrystudio.mahjong",
+      "name": "Double Tile!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/BgXf2_jjSTT2CYFr16Z-3a8wwpAmFGM_6_HCOUdFO-SFwYfRJRDAI9nuzoQZG5aCZhUEFLVi-RvoNliuPaVEnvw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T11:58:35.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "ET"
+    },
+    {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T21:11:32.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "ET"
     },
@@ -1322,20 +1322,6 @@
       "country": "ET"
     },
     {
-      "id": "com.outfit7.mytalkingtomfree",
-      "name": "My Talking Tom",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T11:55:53.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "ET"
-    },
-    {
       "id": "com.bettergames.truck.drivingschool.simulator",
       "name": "Truck Games - Driving School",
       "developer": "Better Games Studio Pty Ltd",
@@ -1346,6 +1332,20 @@
       "releaseDate": "2026-02-24T09:05:46.000Z",
       "genres": [
         "Strategy"
+      ],
+      "country": "ET"
+    },
+    {
+      "id": "com.outfit7.mytalkingtomfree",
+      "name": "My Talking Tom",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T11:55:53.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "ET"
     },
@@ -1392,16 +1392,16 @@
       "country": "ET"
     },
     {
-      "id": "com.unept.leveldevil",
-      "name": "Level Devil - NOT A Troll Game",
-      "developer": "Poki",
-      "url": "https://play.google.com/store/apps/details?id=com.unept.leveldevil&hl=en&gl=ET",
-      "artwork": "https://play-lh.googleusercontent.com/VqY_7ZNxG91KHaZguRP3khXdlTR1yQr45RCoiNu6MO41UhN-jlN31YWTQImWFRTw5r0",
+      "id": "com.ludo.master.hippo.lite",
+      "name": "Ludo Master™ Lite - Dice Game",
+      "developer": "Hippo Lab",
+      "url": "https://play.google.com/store/apps/details?id=com.ludo.master.hippo.lite&hl=en&gl=ET",
+      "artwork": "https://play-lh.googleusercontent.com/egOL5r_XtgIV7-0kdc-e7u8lUXpJZIImHE8hU1DU2CzRMf1V04hY8BKQO0RAO13cm0I",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T14:49:51.000Z",
+      "releaseDate": "2025-12-12T09:13:01.000Z",
       "genres": [
-        "Action"
+        "Board"
       ],
       "country": "ET"
     }
