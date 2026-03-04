@@ -1,7 +1,7 @@
 {
   "country": "KR",
   "store": "google",
-  "updatedAt": "2026-03-04T11:04:51.397Z",
+  "updatedAt": "2026-03-04T20:43:50.592Z",
   "new": [
     {
       "id": "com.noriworks.gm",
@@ -9,6 +9,18 @@
       "developer": "Noriworks",
       "url": "https://play.google.com/store/apps/details?id=com.noriworks.gm",
       "artwork": "https://play-lh.googleusercontent.com/DVEqH3C7L7wsAT09PUFFFHrpWs8ciWIbLQxB2O9jidLuwUHJ-Suz2u3lzbfCf4uKy4o",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "KR"
+    },
+    {
+      "id": "com.netmarble.stonkey",
+      "name": "StoneAge: Idle Adventure",
+      "developer": "Netmarble",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.stonkey",
+      "artwork": "https://play-lh.googleusercontent.com/mHJqRu4jWQURdoJTkJYcqPvd1atYDkx4EGEuv3olhT8MFdDW1jYNGyFLmOkr8plJmQZmmSc7v744iYJk09Nc7A",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -340,6 +352,18 @@
       "country": "KR"
     },
     {
+      "id": "com.hitappsgames.wordsolitaire",
+      "name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games",
+      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.wordsolitaire",
+      "artwork": "https://play-lh.googleusercontent.com/PrVcy5lS_K5t-HHnRoWSr4lwIWX-s-1mbsOYevHcmaMDfoTtT2blvfmN8vsOEvaG49W1fcJSiNdFYAq9rLWc2W8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "KR"
+    },
+    {
       "id": "com.dreamgames.royalmatch",
       "name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -357,18 +381,6 @@
       "developer": "Supercent, Inc.",
       "url": "https://play.google.com/store/apps/details?id=io.supercent.weaponrpg",
       "artwork": "https://play-lh.googleusercontent.com/GOjkk4uB3HYnNR5t3bTcUNUR_KSvj2J8J54dA0Vy-UOrgJYJwU4mpAH5yq2wsn1EZuk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "KR"
-    },
-    {
-      "id": "com.hitappsgames.wordsolitaire",
-      "name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games",
-      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.wordsolitaire",
-      "artwork": "https://play-lh.googleusercontent.com/PrVcy5lS_K5t-HHnRoWSr4lwIWX-s-1mbsOYevHcmaMDfoTtT2blvfmN8vsOEvaG49W1fcJSiNdFYAq9rLWc2W8",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -438,7 +450,7 @@
     {
       "id": "sheep.animal.parking.puzzle.game.jam",
       "name": "Sheep Dash: Sheep Away",
-      "developer": "Yelo Hood",
+      "developer": "Snap Brain Games",
       "url": "https://play.google.com/store/apps/details?id=sheep.animal.parking.puzzle.game.jam",
       "artwork": "https://play-lh.googleusercontent.com/kl66iWEo6PaSHzE3Gp4oYx22-Kn4REFbQborB288N4le8ErrHIXRn6wINcJVfDnXo4zLZAOjdoRVyDuD7G9X",
       "price": "Free",
@@ -472,18 +484,6 @@
       "country": "KR"
     },
     {
-      "id": "com.sled.surfers.game",
-      "name": "Sled Surfers",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game",
-      "artwork": "https://play-lh.googleusercontent.com/dtrjuQilrP1js6mDnl7mFPerlmnwUPwhYESlGriPKxwlUhWJ1yQ0r52EIvXrc-S5vqY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "KR"
-    },
-    {
       "id": "com.pocket.sort.coin.puzzle.game",
       "name": "Pocket Sort: Coin Merge Puzzle",
       "developer": "SayGames Ltd",
@@ -496,11 +496,11 @@
       "country": "KR"
     },
     {
-      "id": "water.jam.sort.bottle.match.game",
-      "name": "Water Jam Sort: Water Sort",
-      "developer": "Easetouch",
-      "url": "https://play.google.com/store/apps/details?id=water.jam.sort.bottle.match.game",
-      "artwork": "https://play-lh.googleusercontent.com/yN2TR1vQ-8CGTpcZAPDRs6FREoiMCZGP_k6nRDfAKowsmdhVNZx-473xzziuyFc3bpM",
+      "id": "com.sled.surfers.game",
+      "name": "Sled Surfers",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game",
+      "artwork": "https://play-lh.googleusercontent.com/dtrjuQilrP1js6mDnl7mFPerlmnwUPwhYESlGriPKxwlUhWJ1yQ0r52EIvXrc-S5vqY",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -513,6 +513,18 @@
       "developer": "Snap Brain Games",
       "url": "https://play.google.com/store/apps/details?id=defense.roguelike.cell.shoot.survivor",
       "artwork": "https://play-lh.googleusercontent.com/N1yisVV28Qko2j6TrpveiMg1ApYjay3Tf0SJ-d-5IFjThCS4e4AzJ4Ivz_1lOzQOLUx3",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "KR"
+    },
+    {
+      "id": "water.jam.sort.bottle.match.game",
+      "name": "Water Jam Sort: Water Sort",
+      "developer": "Easetouch",
+      "url": "https://play.google.com/store/apps/details?id=water.jam.sort.bottle.match.game",
+      "artwork": "https://play-lh.googleusercontent.com/yN2TR1vQ-8CGTpcZAPDRs6FREoiMCZGP_k6nRDfAKowsmdhVNZx-473xzziuyFc3bpM",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -544,6 +556,18 @@
       "country": "KR"
     },
     {
+      "id": "com.grandgames.magicsort",
+      "name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort",
+      "artwork": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "KR"
+    },
+    {
       "id": "com.supercell.brawlstars",
       "name": "Brawl Stars",
       "developer": "Supercell",
@@ -568,35 +592,11 @@
       "country": "KR"
     },
     {
-      "id": "com.grandgames.magicsort",
-      "name": "Magic Sort!",
-      "developer": "Grand Games A.Ş.",
-      "url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort",
-      "artwork": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "KR"
-    },
-    {
       "id": "com.whoyaho.tanghulu",
       "name": "Tanghulu Master - Mukbang ASMR",
       "developer": "Whoyaho Corp.",
       "url": "https://play.google.com/store/apps/details?id=com.whoyaho.tanghulu",
       "artwork": "https://play-lh.googleusercontent.com/aUA2ULhVbePpQxyc89HZLnQUd_Dz1vXXo0TwX_g8ms10vWn0gvbFTXQDhZV0bv50uWTq",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "KR"
-    },
-    {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -618,6 +618,18 @@
       "country": "KR"
     },
     {
+      "id": "com.netmarble.stonkey",
+      "name": "StoneAge: Idle Adventure",
+      "developer": "Netmarble",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.stonkey",
+      "artwork": "https://play-lh.googleusercontent.com/mHJqRu4jWQURdoJTkJYcqPvd1atYDkx4EGEuv3olhT8MFdDW1jYNGyFLmOkr8plJmQZmmSc7v744iYJk09Nc7A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "KR"
+    },
+    {
       "id": "com.mocacorp.sudoku",
       "name": "Sudoku",
       "developer": "Moca",
@@ -942,6 +954,18 @@
       "country": "KR"
     },
     {
+      "id": "com.hitappsgames.wordsolitaire",
+      "name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games",
+      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.wordsolitaire",
+      "artwork": "https://play-lh.googleusercontent.com/PrVcy5lS_K5t-HHnRoWSr4lwIWX-s-1mbsOYevHcmaMDfoTtT2blvfmN8vsOEvaG49W1fcJSiNdFYAq9rLWc2W8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "KR"
+    },
+    {
       "id": "com.dreamgames.royalmatch",
       "name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -959,18 +983,6 @@
       "developer": "Supercent, Inc.",
       "url": "https://play.google.com/store/apps/details?id=io.supercent.weaponrpg",
       "artwork": "https://play-lh.googleusercontent.com/GOjkk4uB3HYnNR5t3bTcUNUR_KSvj2J8J54dA0Vy-UOrgJYJwU4mpAH5yq2wsn1EZuk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "KR"
-    },
-    {
-      "id": "com.hitappsgames.wordsolitaire",
-      "name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games",
-      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.wordsolitaire",
-      "artwork": "https://play-lh.googleusercontent.com/PrVcy5lS_K5t-HHnRoWSr4lwIWX-s-1mbsOYevHcmaMDfoTtT2blvfmN8vsOEvaG49W1fcJSiNdFYAq9rLWc2W8",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1040,7 +1052,7 @@
     {
       "id": "sheep.animal.parking.puzzle.game.jam",
       "name": "Sheep Dash: Sheep Away",
-      "developer": "Yelo Hood",
+      "developer": "Snap Brain Games",
       "url": "https://play.google.com/store/apps/details?id=sheep.animal.parking.puzzle.game.jam",
       "artwork": "https://play-lh.googleusercontent.com/kl66iWEo6PaSHzE3Gp4oYx22-Kn4REFbQborB288N4le8ErrHIXRn6wINcJVfDnXo4zLZAOjdoRVyDuD7G9X",
       "price": "Free",
@@ -1074,18 +1086,6 @@
       "country": "KR"
     },
     {
-      "id": "com.sled.surfers.game",
-      "name": "Sled Surfers",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game",
-      "artwork": "https://play-lh.googleusercontent.com/dtrjuQilrP1js6mDnl7mFPerlmnwUPwhYESlGriPKxwlUhWJ1yQ0r52EIvXrc-S5vqY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "KR"
-    },
-    {
       "id": "com.pocket.sort.coin.puzzle.game",
       "name": "Pocket Sort: Coin Merge Puzzle",
       "developer": "SayGames Ltd",
@@ -1098,11 +1098,11 @@
       "country": "KR"
     },
     {
-      "id": "water.jam.sort.bottle.match.game",
-      "name": "Water Jam Sort: Water Sort",
-      "developer": "Easetouch",
-      "url": "https://play.google.com/store/apps/details?id=water.jam.sort.bottle.match.game",
-      "artwork": "https://play-lh.googleusercontent.com/yN2TR1vQ-8CGTpcZAPDRs6FREoiMCZGP_k6nRDfAKowsmdhVNZx-473xzziuyFc3bpM",
+      "id": "com.sled.surfers.game",
+      "name": "Sled Surfers",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game",
+      "artwork": "https://play-lh.googleusercontent.com/dtrjuQilrP1js6mDnl7mFPerlmnwUPwhYESlGriPKxwlUhWJ1yQ0r52EIvXrc-S5vqY",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1115,6 +1115,18 @@
       "developer": "Snap Brain Games",
       "url": "https://play.google.com/store/apps/details?id=defense.roguelike.cell.shoot.survivor",
       "artwork": "https://play-lh.googleusercontent.com/N1yisVV28Qko2j6TrpveiMg1ApYjay3Tf0SJ-d-5IFjThCS4e4AzJ4Ivz_1lOzQOLUx3",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "KR"
+    },
+    {
+      "id": "water.jam.sort.bottle.match.game",
+      "name": "Water Jam Sort: Water Sort",
+      "developer": "Easetouch",
+      "url": "https://play.google.com/store/apps/details?id=water.jam.sort.bottle.match.game",
+      "artwork": "https://play-lh.googleusercontent.com/yN2TR1vQ-8CGTpcZAPDRs6FREoiMCZGP_k6nRDfAKowsmdhVNZx-473xzziuyFc3bpM",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
@@ -1146,6 +1158,18 @@
       "country": "KR"
     },
     {
+      "id": "com.grandgames.magicsort",
+      "name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort",
+      "artwork": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": null,
+      "genres": [],
+      "country": "KR"
+    },
+    {
       "id": "com.supercell.brawlstars",
       "name": "Brawl Stars",
       "developer": "Supercell",
@@ -1170,35 +1194,11 @@
       "country": "KR"
     },
     {
-      "id": "com.grandgames.magicsort",
-      "name": "Magic Sort!",
-      "developer": "Grand Games A.Ş.",
-      "url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort",
-      "artwork": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "KR"
-    },
-    {
       "id": "com.whoyaho.tanghulu",
       "name": "Tanghulu Master - Mukbang ASMR",
       "developer": "Whoyaho Corp.",
       "url": "https://play.google.com/store/apps/details?id=com.whoyaho.tanghulu",
       "artwork": "https://play-lh.googleusercontent.com/aUA2ULhVbePpQxyc89HZLnQUd_Dz1vXXo0TwX_g8ms10vWn0gvbFTXQDhZV0bv50uWTq",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": null,
-      "genres": [],
-      "country": "KR"
-    },
-    {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
       "price": "Free",
       "isFree": true,
       "releaseDate": null,
