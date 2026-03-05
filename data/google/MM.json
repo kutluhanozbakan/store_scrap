@@ -1,7 +1,7 @@
 {
   "country": "MM",
   "store": "google",
-  "updatedAt": "2026-03-04T21:20:44.643Z",
+  "updatedAt": "2026-03-05T09:57:54.544Z",
   "new": [
     {
       "id": "com.candyroom.clubcraft",
@@ -14,6 +14,20 @@
       "releaseDate": "2026-03-04T18:38:23.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.sybogames.subway.surfers.game",
+      "name": "Subway Surfers City",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T15:04:45.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "MM"
     },
@@ -232,7 +246,7 @@
       "name": "Offline Games No WiFi internet",
       "developer": "Fun Offline Games",
       "url": "https://play.google.com/store/apps/details?id=com.media720.games2020&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/eET3qc7rMWqPZfkk2jsGedhWGoMrbi763h57Etf5fuL6SgcwrjjpA2M94mehfsGznQ",
+      "artwork": "https://play-lh.googleusercontent.com/0wlT5LXzQ11V9xnpBUeRGrl9KR9JHyqkx1M2sFZETeuy0a_4oU_Mqokhefs4uAwObpVyaNYzyyhDrRRqGCemJ7c",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-27T21:33:41.000Z",
@@ -330,7 +344,7 @@
       "name": "My Talking Tom",
       "developer": "Outfit7 Limited",
       "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
+      "artwork": "https://play-lh.googleusercontent.com/NYdtBII04HwY8fU2-BgU7_xAYJwfz2TUTou3D5R0lGiIjeyAy0n4oLDJdwUXII5sdA",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-26T11:55:53.000Z",
@@ -378,20 +392,6 @@
       "releaseDate": "2026-02-24T09:05:46.000Z",
       "genres": [
         "Strategy"
-      ],
-      "country": "MM"
-    },
-    {
-      "id": "com.sybogames.subway.surfers.game",
-      "name": "Subway Surfers City",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T15:55:38.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "MM"
     },
@@ -564,20 +564,6 @@
       "country": "MM"
     },
     {
-      "id": "com.outfit7.herodash",
-      "name": "Talking Tom Hero Dash",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.herodash&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/uVydUn_7JJQcZDUWc4mMpX63rDtYgMDEGjxzFxDHdk33KQrHtWW54_Wb4mXCRUIGb94",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T12:38:33.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "MM"
-    },
-    {
       "id": "com.id.gun.shooting.games",
       "name": "Gun Games FPS Shooting Games",
       "developer": "Interactive Dreams Inc",
@@ -702,6 +688,20 @@
         "Puzzle"
       ],
       "country": "MM"
+    },
+    {
+      "id": "com.unicc.uni",
+      "name": "Uni - Craft your world",
+      "developer": "UniccPlay",
+      "url": "https://play.google.com/store/apps/details?id=com.unicc.uni&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/gwmqDf6ke1QQxMlsVb73D0c69iiI8nxSlHGoaj3aoFoemtlNCtCea8xY4vYQABZ2rBk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T12:29:40.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "MM"
     }
   ],
   "updated": [
@@ -742,20 +742,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-26T21:16:50.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "MM"
-    },
-    {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T18:38:23.000Z",
       "genres": [
         "Adventure"
       ],
@@ -804,6 +790,20 @@
       "country": "MM"
     },
     {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T18:38:23.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "MM"
+    },
+    {
       "id": "com.id.gun.shooting.games",
       "name": "Gun Games FPS Shooting Games",
       "developer": "Interactive Dreams Inc",
@@ -818,20 +818,6 @@
       "country": "MM"
     },
     {
-      "id": "com.PlayMax.playergames",
-      "name": "Stickman Party 234 MiniGames",
-      "developer": "PlayMax Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-22T00:32:35.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "MM"
-    },
-    {
       "id": "com.susm.prises",
       "name": "Zorba Totem",
       "developer": "Best Prizes",
@@ -842,6 +828,20 @@
       "releaseDate": "2026-02-03T08:53:37.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "MM"
     },
@@ -944,16 +944,16 @@
       "country": "MM"
     },
     {
-      "id": "com.crazy.mastercraft.block.game",
-      "name": "Master minecraft mcpe mod",
-      "developer": "Ali Abbas",
-      "url": "https://play.google.com/store/apps/details?id=com.crazy.mastercraft.block.game&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/zt8yQXW0u-UHZUARE_GlIZjEmpIlNM8Nzc74D1gQPqDDfT3Hq2GRFERDRuXYsnumfwc",
+      "id": "com.basav.lif.ery",
+      "name": "Jolly Roger Puzzle",
+      "developer": "Best Prizes",
+      "url": "https://play.google.com/store/apps/details?id=com.basav.lif.ery&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/J9N_0a_lf628kO6o_T6Arcp-5bqKHtQiUldX2ax5C9wbBBrhHfmx1LT9LYUzf0NA2Kaof_uBPjQ3HyTCVQlVTg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-12T12:32:45.000Z",
+      "releaseDate": "2026-01-27T03:51:26.000Z",
       "genres": [
-        "Adventure"
+        "Casual"
       ],
       "country": "MM"
     },
@@ -972,30 +972,16 @@
       "country": "MM"
     },
     {
-      "id": "com.basav.lif.ery",
-      "name": "Jolly Roger Puzzle",
-      "developer": "Best Prizes",
-      "url": "https://play.google.com/store/apps/details?id=com.basav.lif.ery&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/J9N_0a_lf628kO6o_T6Arcp-5bqKHtQiUldX2ax5C9wbBBrhHfmx1LT9LYUzf0NA2Kaof_uBPjQ3HyTCVQlVTg",
+      "id": "com.crazy.mastercraft.block.game",
+      "name": "Master minecraft mcpe mod",
+      "developer": "Ali Abbas",
+      "url": "https://play.google.com/store/apps/details?id=com.crazy.mastercraft.block.game&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/zt8yQXW0u-UHZUARE_GlIZjEmpIlNM8Nzc74D1gQPqDDfT3Hq2GRFERDRuXYsnumfwc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-27T03:51:26.000Z",
+      "releaseDate": "2026-01-12T12:32:45.000Z",
       "genres": [
-        "Casual"
-      ],
-      "country": "MM"
-    },
-    {
-      "id": "com.wildspike.wormszone",
-      "name": "Worms Zone .io - Hungry Snake",
-      "developer": "CASUAL AZUR GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/CAzbHXAoHmFdalAgHDCya19XrpdWtYeATxh2fKQSQcZun3V-2NSs7DJZ1gm5ndxGfg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T13:04:41.000Z",
-      "genres": [
-        "Action"
+        "Adventure"
       ],
       "country": "MM"
     },
@@ -1014,20 +1000,6 @@
       "country": "MM"
     },
     {
-      "id": "com.levelinfinite.sgameGlobal",
-      "name": "Honor of Kings",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/hEm5NVeEv7UfFJaK8GZdfWe7p3DB_VvYx57qIEHbR0tMV_NToziH0Vbgd6CxLiWF-iURpAe-jsC_UGUDt0diPQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T08:18:06.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "MM"
-    },
-    {
       "id": "com.snake.io.slither.worms",
       "name": "Snake Lite® - Worm Snake Game",
       "developer": "Hippo Lab",
@@ -1036,6 +1008,34 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-01-08T09:51:08.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.wildspike.wormszone",
+      "name": "Worms Zone .io - Hungry Snake",
+      "developer": "CASUAL AZUR GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/CAzbHXAoHmFdalAgHDCya19XrpdWtYeATxh2fKQSQcZun3V-2NSs7DJZ1gm5ndxGfg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T13:04:41.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.levelinfinite.sgameGlobal",
+      "name": "Honor of Kings",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/hEm5NVeEv7UfFJaK8GZdfWe7p3DB_VvYx57qIEHbR0tMV_NToziH0Vbgd6CxLiWF-iURpAe-jsC_UGUDt0diPQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T08:18:06.000Z",
       "genres": [
         "Action"
       ],
@@ -1066,20 +1066,6 @@
       "releaseDate": "2026-03-04T13:07:21.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "MM"
-    },
-    {
-      "id": "com.dvloper.granny",
-      "name": "Granny",
-      "developer": "DVloper",
-      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-01T14:35:20.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "MM"
     },
@@ -1126,6 +1112,34 @@
       "country": "MM"
     },
     {
+      "id": "com.dsadasdsa.gfhjak",
+      "name": "Super FaFaFa",
+      "developer": "Proziran Technologies Pvt. Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dsadasdsa.gfhjak&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/DxNlKPtjm0SgQZIR38lwAyM1HYITJAmgVtWUGJMtzsxDw3AhdyM49Mmb0WyeqlCoC4mD2eD2QA4LuQ1AZRUTDw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-15T13:48:55.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.dvloper.granny",
+      "name": "Granny",
+      "developer": "DVloper",
+      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-01T14:35:20.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "MM"
+    },
+    {
       "id": "com.genigames.going.up.rooftop.parkour.run",
       "name": "Going Up Rooftop - Parkour 3D",
       "developer": "GenI Games",
@@ -1154,20 +1168,6 @@
       "country": "MM"
     },
     {
-      "id": "com.outfit7.mytalkingangela2",
-      "name": "My Talking Angela 2",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T14:20:52.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MM"
-    },
-    {
       "id": "com.firsttouchgames.dls7",
       "name": "Dream League Soccer 2026",
       "developer": "First Touch Games Ltd.",
@@ -1178,34 +1178,6 @@
       "releaseDate": "2026-02-27T18:33:48.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "MM"
-    },
-    {
-      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
-      "name": "Shoot Bubble - Pop Bubbles",
-      "developer": "IVYGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T02:18:35.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MM"
-    },
-    {
-      "id": "com.dsadasdsa.gfhjak",
-      "name": "Super FaFaFa",
-      "developer": "Proziran Technologies Pvt. Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dsadasdsa.gfhjak&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/DxNlKPtjm0SgQZIR38lwAyM1HYITJAmgVtWUGJMtzsxDw3AhdyM49Mmb0WyeqlCoC4mD2eD2QA4LuQ1AZRUTDw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-15T13:48:55.000Z",
-      "genres": [
-        "Strategy"
       ],
       "country": "MM"
     },
@@ -1238,30 +1210,30 @@
       "country": "MM"
     },
     {
-      "id": "com.moon.craft.buildingcraft",
-      "name": "Town Building Life Simulator",
-      "developer": "XGame Global",
-      "url": "https://play.google.com/store/apps/details?id=com.moon.craft.buildingcraft&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/G5R2W3S_SD2347tHCtfue5hJma4VY1-e6V7Vf7kmAxsIZ9jy0x9NDXeQwp7fJm0EWA",
+      "id": "com.outfit7.mytalkingangela2",
+      "name": "My Talking Angela 2",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-03T09:20:48.000Z",
+      "releaseDate": "2026-02-16T14:20:52.000Z",
       "genres": [
-        "Simulation"
+        "Casual"
       ],
       "country": "MM"
     },
     {
-      "id": "com.starplay.spider.fighter.openworld",
-      "name": "Spider Fighter 3: Action Game",
-      "developer": "Starplay FZCO",
-      "url": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter.openworld&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/HGJGoIR7ZpHDMhRuaYJz_M5k8L0DCwXPcSBDGt217ye4o40LSaXTPHI-XIyiPbRw7g",
+      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
+      "name": "Shoot Bubble - Pop Bubbles",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-02T15:29:46.000Z",
+      "releaseDate": "2026-02-06T02:18:35.000Z",
       "genres": [
-        "Action"
+        "Casual"
       ],
       "country": "MM"
     },
@@ -1276,20 +1248,6 @@
       "releaseDate": "2026-02-11T06:48:39.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "MM"
-    },
-    {
-      "id": "com.combineinc.streetracing.driftthreeD",
-      "name": "Street Racing 3D",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.combineinc.streetracing.driftthreeD&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/nM3nHVAK1oJIcU5BpjQMowaOuru_RNXwAb1y-BP6BGEwWTiAZvWrwPzMhrSfKzaGAHAf",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-27T09:42:57.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "MM"
     },
@@ -1322,16 +1280,30 @@
       "country": "MM"
     },
     {
-      "id": "com.techplay.suksesbersama",
-      "name": "Bubble Shooter Rush",
-      "developer": "Sukses Bertekno",
-      "url": "https://play.google.com/store/apps/details?id=com.techplay.suksesbersama&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/Ihldhh2x0O-l_lZ1du9l5uKklsTQ88WGM3X4hjYYCs8hGmvbaOwSPkfhvC5jBbmXvnUgouv_GJyZiQuELevls3s",
+      "id": "com.starplay.spider.fighter.openworld",
+      "name": "Spider Fighter 3: Action Game",
+      "developer": "Starplay FZCO",
+      "url": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter.openworld&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/HGJGoIR7ZpHDMhRuaYJz_M5k8L0DCwXPcSBDGt217ye4o40LSaXTPHI-XIyiPbRw7g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-22T06:03:53.000Z",
+      "releaseDate": "2026-03-02T15:29:46.000Z",
       "genres": [
-        "Strategy"
+        "Action"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.combineinc.streetracing.driftthreeD",
+      "name": "Street Racing 3D",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.combineinc.streetracing.driftthreeD&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/nM3nHVAK1oJIcU5BpjQMowaOuru_RNXwAb1y-BP6BGEwWTiAZvWrwPzMhrSfKzaGAHAf",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-27T09:42:57.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "MM"
     },
@@ -1350,6 +1322,34 @@
       "country": "MM"
     },
     {
+      "id": "com.techplay.suksesbersama",
+      "name": "Bubble Shooter Rush",
+      "developer": "Sukses Bertekno",
+      "url": "https://play.google.com/store/apps/details?id=com.techplay.suksesbersama&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/Ihldhh2x0O-l_lZ1du9l5uKklsTQ88WGM3X4hjYYCs8hGmvbaOwSPkfhvC5jBbmXvnUgouv_GJyZiQuELevls3s",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-22T06:03:53.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.outfit7.mytalkingtomfree",
+      "name": "My Talking Tom",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/NYdtBII04HwY8fU2-BgU7_xAYJwfz2TUTou3D5R0lGiIjeyAy0n4oLDJdwUXII5sdA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T11:55:53.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "MM"
+    },
+    {
       "id": "com.soccer.score.star",
       "name": "Soccer Superstar",
       "developer": "Real Freestyle Soccer",
@@ -1364,30 +1364,16 @@
       "country": "MM"
     },
     {
-      "id": "com.outfit7.mytalkingtomfree",
-      "name": "My Talking Tom",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/HoLy5be7HmxYbE2HR8eZ6NI1N7UHnoT3g4D_cdm29AMKZReJRWQG2K_LNE0Ed1HPpg",
+      "id": "com.moon.craft.buildingcraft",
+      "name": "Town Building Life Simulator",
+      "developer": "XGame Global",
+      "url": "https://play.google.com/store/apps/details?id=com.moon.craft.buildingcraft&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/G5R2W3S_SD2347tHCtfue5hJma4VY1-e6V7Vf7kmAxsIZ9jy0x9NDXeQwp7fJm0EWA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T11:55:53.000Z",
+      "releaseDate": "2026-03-03T09:20:48.000Z",
       "genres": [
-        "Casual"
-      ],
-      "country": "MM"
-    },
-    {
-      "id": "com.outfit7.mytalkingtomfriends",
-      "name": "My Talking Tom Friends",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=en&gl=MM",
-      "artwork": "https://play-lh.googleusercontent.com/WY69uGwaQPUx5vS9bxF3sm4mc9N1ZzvVHVqLrZOycExHb6m8A2v5hGoroTRjih1a_d4Y",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T13:03:47.000Z",
-      "genres": [
-        "Casual"
+        "Simulation"
       ],
       "country": "MM"
     },
@@ -1402,6 +1388,20 @@
       "releaseDate": "2025-10-23T13:25:32.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "MM"
+    },
+    {
+      "id": "com.outfit7.mytalkingtomfriends",
+      "name": "My Talking Tom Friends",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=en&gl=MM",
+      "artwork": "https://play-lh.googleusercontent.com/WY69uGwaQPUx5vS9bxF3sm4mc9N1ZzvVHVqLrZOycExHb6m8A2v5hGoroTRjih1a_d4Y",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T13:03:47.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "MM"
     }
