@@ -1,8 +1,36 @@
 {
   "country": "VN",
   "store": "google",
-  "updatedAt": "2026-03-06T14:56:55.875Z",
+  "updatedAt": "2026-03-06T23:32:12.102Z",
   "new": [
+    {
+      "id": "com.youmusic.magictiles",
+      "name": "Magic Tiles 3™ - Piano Game",
+      "developer": "AMANOTES PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=VN",
+      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T17:27:27.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "VN"
+    },
+    {
+      "id": "vn.corochti.returntochildhood",
+      "name": "Return to Childhood - Life Sim",
+      "developer": "COROCHTI",
+      "url": "https://play.google.com/store/apps/details?id=vn.corochti.returntochildhood&hl=en&gl=VN",
+      "artwork": "https://play-lh.googleusercontent.com/RehMx3qzrUku5CLlWtYoDKaVrmWMN_dCGtXC3IbEG6WBMwirpemIGX87A3RvbNPouJ1lbc3OkjTJH-ZHVYYXTw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T16:32:36.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "VN"
+    },
     {
       "id": "com.hookah.sandboxinspace",
       "name": "Sandbox In Space",
@@ -42,20 +70,6 @@
       "releaseDate": "2026-03-06T10:41:43.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "VN"
-    },
-    {
-      "id": "vn.corochti.returntochildhood",
-      "name": "Return to Childhood - Life Sim",
-      "developer": "COROCHTI",
-      "url": "https://play.google.com/store/apps/details?id=vn.corochti.returntochildhood&hl=en&gl=VN",
-      "artwork": "https://play-lh.googleusercontent.com/RehMx3qzrUku5CLlWtYoDKaVrmWMN_dCGtXC3IbEG6WBMwirpemIGX87A3RvbNPouJ1lbc3OkjTJH-ZHVYYXTw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T09:47:20.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "VN"
     },
@@ -688,20 +702,6 @@
         "Casual"
       ],
       "country": "VN"
-    },
-    {
-      "id": "com.youmusic.magictiles",
-      "name": "Magic Tiles 3™ - Piano Game",
-      "developer": "AMANOTES PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=VN",
-      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T08:58:53.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "VN"
     }
   ],
   "updated": [
@@ -937,7 +937,7 @@
       "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T08:58:53.000Z",
+      "releaseDate": "2026-03-06T17:27:27.000Z",
       "genres": [
         "Music"
       ],
@@ -1084,20 +1084,6 @@
       "country": "VN"
     },
     {
-      "id": "game.block.puzzle.blastit",
-      "name": "BLASTit: Block Puzzle Game",
-      "developer": "Smart Media4U Technology Pte.Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=game.block.puzzle.blastit&hl=en&gl=VN",
-      "artwork": "https://play-lh.googleusercontent.com/1LKp_W_xl7v1OeMdLCySwYnfdWcxHo3CKTC5-X9bL0wFV2mWapH4_oYw_KNx-0QPCA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T07:51:34.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "VN"
-    },
-    {
       "id": "com.five2.play.tienlen.tienlen",
       "name": "Tiến Lên - Tiến Lên",
       "developer": "52PLAY GAME",
@@ -1126,16 +1112,16 @@
       "country": "VN"
     },
     {
-      "id": "com.hookah.sandboxinspace",
-      "name": "Sandbox In Space",
-      "developer": "HOOKAH GAMES IT SERVICE L.L.C",
-      "url": "https://play.google.com/store/apps/details?id=com.hookah.sandboxinspace&hl=en&gl=VN",
-      "artwork": "https://play-lh.googleusercontent.com/pOLUTYKGYtMrOya4lUJgwDmFbkUXG4pJJZbrz-yZUFfy3HWFYE_N0eNZrZ9zF1-etuPX",
+      "id": "game.block.puzzle.blastit",
+      "name": "BLASTit: Block Puzzle Game",
+      "developer": "Smart Media4U Technology Pte.Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=game.block.puzzle.blastit&hl=en&gl=VN",
+      "artwork": "https://play-lh.googleusercontent.com/1LKp_W_xl7v1OeMdLCySwYnfdWcxHo3CKTC5-X9bL0wFV2mWapH4_oYw_KNx-0QPCA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T14:28:44.000Z",
+      "releaseDate": "2026-02-11T07:51:34.000Z",
       "genres": [
-        "Simulation"
+        "Puzzle"
       ],
       "country": "VN"
     },
@@ -1154,6 +1140,20 @@
       "country": "VN"
     },
     {
+      "id": "com.hookah.sandboxinspace",
+      "name": "Sandbox In Space",
+      "developer": "HOOKAH GAMES IT SERVICE L.L.C",
+      "url": "https://play.google.com/store/apps/details?id=com.hookah.sandboxinspace&hl=en&gl=VN",
+      "artwork": "https://play-lh.googleusercontent.com/pOLUTYKGYtMrOya4lUJgwDmFbkUXG4pJJZbrz-yZUFfy3HWFYE_N0eNZrZ9zF1-etuPX",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T14:28:44.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "VN"
+    },
+    {
       "id": "com.fun.brain.game",
       "name": "Brain Puzzle: Tricky Quest",
       "developer": "JoyGame Studio",
@@ -1168,20 +1168,6 @@
       "country": "VN"
     },
     {
-      "id": "com.my.cooking.pho.restaurant",
-      "name": "Pho Master: Cooking Fever",
-      "developer": "Brocker Bus Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.my.cooking.pho.restaurant&hl=en&gl=VN",
-      "artwork": "https://play-lh.googleusercontent.com/OsMCha9j74Drud7Ukvso959cW2o1ra6VGUndrkJGonOFml4DZa033urI4kkIBMU5eJs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T10:51:51.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "VN"
-    },
-    {
       "id": "com.sybogames.subway.surfers.game",
       "name": "Subway Surfers City",
       "developer": "SYBO Games",
@@ -1192,6 +1178,20 @@
       "releaseDate": "2026-03-04T15:04:45.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "VN"
+    },
+    {
+      "id": "com.my.cooking.pho.restaurant",
+      "name": "Pho Master: Cooking Fever",
+      "developer": "Brocker Bus Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.my.cooking.pho.restaurant&hl=en&gl=VN",
+      "artwork": "https://play-lh.googleusercontent.com/OsMCha9j74Drud7Ukvso959cW2o1ra6VGUndrkJGonOFml4DZa033urI4kkIBMU5eJs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T10:51:51.000Z",
+      "genres": [
+        "Role Playing"
       ],
       "country": "VN"
     },
@@ -1224,20 +1224,6 @@
       "country": "VN"
     },
     {
-      "id": "com.mmircil.cnb2",
-      "name": "Crafting and Building",
-      "developer": "GeneRe",
-      "url": "https://play.google.com/store/apps/details?id=com.mmircil.cnb2&hl=en&gl=VN",
-      "artwork": "https://play-lh.googleusercontent.com/MdlAVHNAfIuMHJA6y7vJXINGeJ9wSxIG3dT7CAlZZ5fS3EEUS8_R57O0TJDN0vbmjEo",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T14:22:36.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "VN"
-    },
-    {
       "id": "com.ta.strike.ops",
       "name": "FPS Strike Ops : Modern Arena",
       "developer": "FPS Shooter & Action Game",
@@ -1252,16 +1238,16 @@
       "country": "VN"
     },
     {
-      "id": "com.gtsy.annoying.punch.game",
-      "name": "Annoying Uncle Punch Game",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=VN",
-      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
+      "id": "com.mmircil.cnb2",
+      "name": "Crafting and Building",
+      "developer": "GeneRe",
+      "url": "https://play.google.com/store/apps/details?id=com.mmircil.cnb2&hl=en&gl=VN",
+      "artwork": "https://play-lh.googleusercontent.com/MdlAVHNAfIuMHJA6y7vJXINGeJ9wSxIG3dT7CAlZZ5fS3EEUS8_R57O0TJDN0vbmjEo",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-04T07:08:33.000Z",
+      "releaseDate": "2026-03-02T14:22:36.000Z",
       "genres": [
-        "Simulation"
+        "Adventure"
       ],
       "country": "VN"
     },
@@ -1294,14 +1280,28 @@
       "country": "VN"
     },
     {
-      "id": "com.game.fashion.magic.princess.dressup",
-      "name": "Magic Fashion: Doll Dressup",
-      "developer": "XGame Global",
-      "url": "https://play.google.com/store/apps/details?id=com.game.fashion.magic.princess.dressup&hl=en&gl=VN",
-      "artwork": "https://play-lh.googleusercontent.com/cwEmmKCuHBPWBOUjClAaJnDrr4eiz1gq7bHp7EczWo-7qw6acqtfHDSPyJHDXaNaRH6p7yirMkgH9DMKvO-_kg",
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=VN",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-12T10:30:36.000Z",
+      "releaseDate": "2026-03-04T07:08:33.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "VN"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=VN",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T08:49:55.000Z",
       "genres": [
         "Simulation"
       ],
@@ -1322,30 +1322,16 @@
       "country": "VN"
     },
     {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=VN",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "id": "com.game.fashion.magic.princess.dressup",
+      "name": "Magic Fashion: Doll Dressup",
+      "developer": "XGame Global",
+      "url": "https://play.google.com/store/apps/details?id=com.game.fashion.magic.princess.dressup&hl=en&gl=VN",
+      "artwork": "https://play-lh.googleusercontent.com/cwEmmKCuHBPWBOUjClAaJnDrr4eiz1gq7bHp7EczWo-7qw6acqtfHDSPyJHDXaNaRH6p7yirMkgH9DMKvO-_kg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-04T08:49:55.000Z",
+      "releaseDate": "2026-02-12T10:30:36.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "VN"
-    },
-    {
-      "id": "com.piano.pocket.music",
-      "name": "Pocket Piano",
-      "developer": "SYNTHJOY GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.piano.pocket.music&hl=en&gl=VN",
-      "artwork": "https://play-lh.googleusercontent.com/2dvMOoG2-iAyEdqntA0pmqkCeL-O35WwCZpTBcZ3AnBcZbIIU7YpnvrlUn8EYInGvvA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T07:49:28.000Z",
-      "genres": [
-        "Music"
       ],
       "country": "VN"
     },
@@ -1388,6 +1374,20 @@
       "releaseDate": "2026-02-27T01:40:18.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "VN"
+    },
+    {
+      "id": "com.piano.pocket.music",
+      "name": "Pocket Piano",
+      "developer": "SYNTHJOY GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.piano.pocket.music&hl=en&gl=VN",
+      "artwork": "https://play-lh.googleusercontent.com/2dvMOoG2-iAyEdqntA0pmqkCeL-O35WwCZpTBcZ3AnBcZbIIU7YpnvrlUn8EYInGvvA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T07:49:28.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "VN"
     },
