@@ -1,19 +1,19 @@
 {
   "country": "LA",
   "store": "google",
-  "updatedAt": "2026-03-06T11:00:46.791Z",
+  "updatedAt": "2026-03-06T20:00:35.486Z",
   "new": [
     {
-      "id": "com.snake.io.slither.worms",
-      "name": "Snake Lite® - Worm Snake Game",
-      "developer": "Hippo Lab",
-      "url": "https://play.google.com/store/apps/details?id=com.snake.io.slither.worms&hl=en&gl=LA",
-      "artwork": "https://play-lh.googleusercontent.com/unaCabpPBNL2HiMCyjCIO81ab1XGJU2ZnNYOdobeg60bEfc8zoIcudRA10SjJlSHkQ",
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=LA",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T08:03:51.000Z",
+      "releaseDate": "2026-03-06T13:15:52.000Z",
       "genres": [
-        "Action"
+        "Arcade"
       ],
       "country": "LA"
     },
@@ -25,9 +25,23 @@
       "artwork": "https://play-lh.googleusercontent.com/UHH8oy-SXSF1jBXlR6DrprLo1UXm5nJrdOqQMvqskrJnZwOSNNRdlNTwh2-Kj11a0pu8OWnDEcIlzL-PQaeF0GI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T06:49:43.000Z",
+      "releaseDate": "2026-03-06T11:03:52.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "LA"
+    },
+    {
+      "id": "com.snake.io.slither.worms",
+      "name": "Snake Lite® - Worm Snake Game",
+      "developer": "Hippo Lab",
+      "url": "https://play.google.com/store/apps/details?id=com.snake.io.slither.worms&hl=en&gl=LA",
+      "artwork": "https://play-lh.googleusercontent.com/unaCabpPBNL2HiMCyjCIO81ab1XGJU2ZnNYOdobeg60bEfc8zoIcudRA10SjJlSHkQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T08:03:51.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "LA"
     },
@@ -688,20 +702,6 @@
         "Casual"
       ],
       "country": "LA"
-    },
-    {
-      "id": "com.outfit7.herodash",
-      "name": "Talking Tom Hero Dash",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.herodash&hl=en&gl=LA",
-      "artwork": "https://play-lh.googleusercontent.com/uVydUn_7JJQcZDUWc4mMpX63rDtYgMDEGjxzFxDHdk33KQrHtWW54_Wb4mXCRUIGb94",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T12:38:33.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "LA"
     }
   ],
   "updated": [
@@ -1042,6 +1042,20 @@
       "country": "LA"
     },
     {
+      "id": "com.miniclip.eightballpool",
+      "name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=LA",
+      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T11:45:50.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "LA"
+    },
+    {
       "id": "com.traffic.motorcycle.rider.driving.racing.open.sandbox.world",
       "name": "Driving Motor Racing Simulator",
       "developer": "Digital Payment Tech",
@@ -1063,23 +1077,9 @@
       "artwork": "https://play-lh.googleusercontent.com/UHH8oy-SXSF1jBXlR6DrprLo1UXm5nJrdOqQMvqskrJnZwOSNNRdlNTwh2-Kj11a0pu8OWnDEcIlzL-PQaeF0GI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T06:49:43.000Z",
+      "releaseDate": "2026-03-06T11:03:52.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "LA"
-    },
-    {
-      "id": "com.miniclip.eightballpool",
-      "name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=LA",
-      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T11:45:50.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "LA"
     },
@@ -1154,20 +1154,6 @@
       "country": "LA"
     },
     {
-      "id": "com.outfit7.mytalkingtom2",
-      "name": "My Talking Tom 2: Pet Game",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=LA",
-      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T11:25:29.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "LA"
-    },
-    {
       "id": "com.ta.strike.ops",
       "name": "FPS Strike Ops : Modern Arena",
       "developer": "FPS Shooter & Action Game",
@@ -1182,16 +1168,16 @@
       "country": "LA"
     },
     {
-      "id": "com.pf.bmx.cycle.games.extreme.bicycle.games",
-      "name": "BMX Cycle Extreme Bicycle Game",
-      "developer": "PlayFlix",
-      "url": "https://play.google.com/store/apps/details?id=com.pf.bmx.cycle.games.extreme.bicycle.games&hl=en&gl=LA",
-      "artwork": "https://play-lh.googleusercontent.com/wuJ5F_BSGLIphrT3sth8YLpWQ0vkuobI-z1Dr0G1ZfCXWoYzwaa7Z1CHKToEGombsA",
+      "id": "com.outfit7.mytalkingtom2",
+      "name": "My Talking Tom 2: Pet Game",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=LA",
+      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T05:46:18.000Z",
+      "releaseDate": "2026-02-20T11:25:29.000Z",
       "genres": [
-        "Racing"
+        "Casual"
       ],
       "country": "LA"
     },
@@ -1210,6 +1196,20 @@
       "country": "LA"
     },
     {
+      "id": "com.pf.bmx.cycle.games.extreme.bicycle.games",
+      "name": "BMX Cycle Extreme Bicycle Game",
+      "developer": "PlayFlix",
+      "url": "https://play.google.com/store/apps/details?id=com.pf.bmx.cycle.games.extreme.bicycle.games&hl=en&gl=LA",
+      "artwork": "https://play-lh.googleusercontent.com/wuJ5F_BSGLIphrT3sth8YLpWQ0vkuobI-z1Dr0G1ZfCXWoYzwaa7Z1CHKToEGombsA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T05:46:18.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "LA"
+    },
+    {
       "id": "com.mobilechess.gp",
       "name": "Magic Chess: Go Go",
       "developer": "Vizta Games",
@@ -1224,6 +1224,20 @@
       "country": "LA"
     },
     {
+      "id": "com.loltap.farmland",
+      "name": "Farm Land - Farming life game",
+      "developer": "Homa",
+      "url": "https://play.google.com/store/apps/details?id=com.loltap.farmland&hl=en&gl=LA",
+      "artwork": "https://play-lh.googleusercontent.com/tD58VAhX1FSZIiusN5VwNsS8-8SyRlx_6D-oW4Bj3kFHzuIZR36BD1u9rOAz1I-VbA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-04T13:18:44.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "LA"
+    },
+    {
       "id": "io.voodoo.holeio",
       "name": "Hole.io",
       "developer": "VOODOO",
@@ -1231,7 +1245,7 @@
       "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T10:53:41.000Z",
+      "releaseDate": "2026-03-06T13:15:52.000Z",
       "genres": [
         "Arcade"
       ],
@@ -1252,20 +1266,6 @@
       "country": "LA"
     },
     {
-      "id": "com.loltap.farmland",
-      "name": "Farm Land - Farming life game",
-      "developer": "Homa",
-      "url": "https://play.google.com/store/apps/details?id=com.loltap.farmland&hl=en&gl=LA",
-      "artwork": "https://play-lh.googleusercontent.com/tD58VAhX1FSZIiusN5VwNsS8-8SyRlx_6D-oW4Bj3kFHzuIZR36BD1u9rOAz1I-VbA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-04T13:18:44.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "LA"
-    },
-    {
       "id": "com.Neurononfire.SupremeDuelist",
       "name": "Supreme Duelist",
       "developer": "Neron's Brother",
@@ -1280,20 +1280,6 @@
       "country": "LA"
     },
     {
-      "id": "com.fungames.blockcraft",
-      "name": "Block Craft 3D：Building Game",
-      "developer": "Wildlife Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=en&gl=LA",
-      "artwork": "https://play-lh.googleusercontent.com/n37lIFSnvlxFSzdIEhCCLdP5DTLPye2pykbhj490_LHKQaRHQ_Ae7PhaBaUFU3qdiyM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T16:44:08.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "LA"
-    },
-    {
       "id": "com.fingersoft.hillclimb",
       "name": "Hill Climb Racing",
       "developer": "Fingersoft",
@@ -1304,6 +1290,20 @@
       "releaseDate": "2026-02-23T08:13:54.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "LA"
+    },
+    {
+      "id": "com.fungames.blockcraft",
+      "name": "Block Craft 3D：Building Game",
+      "developer": "Wildlife Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=en&gl=LA",
+      "artwork": "https://play-lh.googleusercontent.com/n37lIFSnvlxFSzdIEhCCLdP5DTLPye2pykbhj490_LHKQaRHQ_Ae7PhaBaUFU3qdiyM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T16:44:08.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "LA"
     },
@@ -1350,20 +1350,6 @@
       "country": "LA"
     },
     {
-      "id": "com.dongbasiki.snowrace3d.snowball",
-      "name": "Ice Runner Battle: Snow Race",
-      "developer": "Dongbasiki",
-      "url": "https://play.google.com/store/apps/details?id=com.dongbasiki.snowrace3d.snowball&hl=en&gl=LA",
-      "artwork": "https://play-lh.googleusercontent.com/py0ov31CCxo4RLj9qlBrzTFtUoMIXEZP3tyGZNZeJPDj2Jq-nlyBvyn4fVkwtPXapq6-LBEhvK5Kv98vJ5DdDA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-19T12:08:48.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "LA"
-    },
-    {
       "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
       "name": "Agent Shooter - Shooting Game",
       "developer": "Rebel Actions",
@@ -1374,6 +1360,20 @@
       "releaseDate": "2026-03-02T13:08:35.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "LA"
+    },
+    {
+      "id": "com.dongbasiki.snowrace3d.snowball",
+      "name": "Ice Runner Battle: Snow Race",
+      "developer": "Dongbasiki",
+      "url": "https://play.google.com/store/apps/details?id=com.dongbasiki.snowrace3d.snowball&hl=en&gl=LA",
+      "artwork": "https://play-lh.googleusercontent.com/py0ov31CCxo4RLj9qlBrzTFtUoMIXEZP3tyGZNZeJPDj2Jq-nlyBvyn4fVkwtPXapq6-LBEhvK5Kv98vJ5DdDA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-19T12:08:48.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "LA"
     },
@@ -1392,16 +1392,16 @@
       "country": "LA"
     },
     {
-      "id": "com.lockwoodpublishing.avakinlife",
-      "name": "Avakin Life - 3D Virtual World",
-      "developer": "Lockwood Publishing Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.lockwoodpublishing.avakinlife&hl=en&gl=LA",
-      "artwork": "https://play-lh.googleusercontent.com/UBpCn5aNhexoCFyR4nnmhpWPrt6D68FtjQHVdtuaYX3n-jor9vAiHqD0RstOMBcTqQ",
+      "id": "com.advant.streamer",
+      "name": "Lamar - Idle Vlogger",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=LA",
+      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T16:10:26.000Z",
+      "releaseDate": "2026-02-20T15:26:20.000Z",
       "genres": [
-        "Role Playing"
+        "Simulation"
       ],
       "country": "LA"
     }
