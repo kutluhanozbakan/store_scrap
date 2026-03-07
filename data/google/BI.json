@@ -1,7 +1,7 @@
 {
   "country": "BI",
   "store": "google",
-  "updatedAt": "2026-03-07T10:40:37.155Z",
+  "updatedAt": "2026-03-07T16:34:16.843Z",
   "new": [
     {
       "id": "water.sort.color.puzzle.offline.games",
@@ -154,6 +154,20 @@
       "releaseDate": "2026-03-05T08:10:09.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "BI"
+    },
+    {
+      "id": "com.bubbleshooter.popbubbles.collectcards",
+      "name": "Bubble Shooter",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.collectcards&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/C0hM-Dn_TvuA0gmg9PnveFMyuDOunQO8hhIWJGatOhO9ZIlZxKfes0aqnfHniAcSUBZp",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T07:43:52.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "BI"
     },
@@ -438,6 +452,20 @@
       "country": "BI"
     },
     {
+      "id": "com.outfit7.mytalkingtomfree",
+      "name": "My Talking Tom",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/NYdtBII04HwY8fU2-BgU7_xAYJwfz2TUTou3D5R0lGiIjeyAy0n4oLDJdwUXII5sdA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T11:55:53.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "BI"
+    },
+    {
       "id": "com.flightsimulator.airplane3d.airportsimulator.airplane.flying",
       "name": "Flight Simulator Airplane Game",
       "developer": "HiveMind Games Inc.",
@@ -674,34 +702,6 @@
         "Strategy"
       ],
       "country": "BI"
-    },
-    {
-      "id": "com.blacklightsw.ludo",
-      "name": "Ludo SuperStar- Board Game",
-      "developer": "BlackLight Studio Games",
-      "url": "https://play.google.com/store/apps/details?id=com.blacklightsw.ludo&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/DE3Pnn2lQ0vrudHmK8gKC_WKzXHNjUJ6mU1B76fX3hHQAhaVTtHL50a3AUrdbOZNaJWG",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T10:16:37.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "BI"
-    },
-    {
-      "id": "com.summer.mahjong.pair.up",
-      "name": "Mahjong Pair Up",
-      "developer": "summer affica",
-      "url": "https://play.google.com/store/apps/details?id=com.summer.mahjong.pair.up&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/9zEhorIqK7SnzixicQ31g0M9dAlBdWCEkaN73o-vDGUDNewZuoYVvBzZXFwJnJh4xqnw-eJRR4Ym1fHd5JaAPeU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T15:12:22.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "BI"
     }
   ],
   "updated": [
@@ -748,16 +748,16 @@
       "country": "BI"
     },
     {
-      "id": "ball.sort.color.puz.game.puzzle",
-      "name": "Ball Sort - Color Puz Game",
-      "developer": "Infinite Joy Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=ball.sort.color.puz.game.puzzle&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/4oeX8CJbwfvyeiz3G9gSDGUku7ilvOJxC3sDaDQGZUyBJKd60F12kxB1fQPE45W1Qgc",
+      "id": "com.board.treasure102",
+      "name": "Roobet",
+      "developer": "Poiskilr",
+      "url": "https://play.google.com/store/apps/details?id=com.board.treasure102&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/JNOoo8iemTnvzeNQRs53ZvVXeHzfr-VsB5jq87bq3FmdbPK2ZrTWYyUYKRK1yZiUe-tbZ-k_LM7JP-08KY34",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T09:39:56.000Z",
+      "releaseDate": "2026-02-28T16:51:05.000Z",
       "genres": [
-        "Puzzle"
+        "Arcade"
       ],
       "country": "BI"
     },
@@ -776,28 +776,14 @@
       "country": "BI"
     },
     {
-      "id": "com.board.treasure102",
-      "name": "Roobet",
-      "developer": "Poiskilr",
-      "url": "https://play.google.com/store/apps/details?id=com.board.treasure102&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/JNOoo8iemTnvzeNQRs53ZvVXeHzfr-VsB5jq87bq3FmdbPK2ZrTWYyUYKRK1yZiUe-tbZ-k_LM7JP-08KY34",
+      "id": "ball.sort.color.puz.game.puzzle",
+      "name": "Ball Sort - Color Puz Game",
+      "developer": "Infinite Joy Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=ball.sort.color.puz.game.puzzle&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/4oeX8CJbwfvyeiz3G9gSDGUku7ilvOJxC3sDaDQGZUyBJKd60F12kxB1fQPE45W1Qgc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-28T16:51:05.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "BI"
-    },
-    {
-      "id": "com.hungrystudio.mahjong",
-      "name": "Double Tile!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/X5NGhTzKUZvS0Iuw96qg6ExRf-i3x9nXW_BgtFv39fHdn5yP2uwIHiNGEmgOMn7cqV0rbOROWm4vsp-7hRdr",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T11:33:35.000Z",
+      "releaseDate": "2026-02-03T09:39:56.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -814,6 +800,20 @@
       "releaseDate": "2026-01-22T11:16:52.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "BI"
+    },
+    {
+      "id": "com.hungrystudio.mahjong",
+      "name": "Double Tile!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/X5NGhTzKUZvS0Iuw96qg6ExRf-i3x9nXW_BgtFv39fHdn5yP2uwIHiNGEmgOMn7cqV0rbOROWm4vsp-7hRdr",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T11:33:35.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "BI"
     },
@@ -986,16 +986,16 @@
       "country": "BI"
     },
     {
-      "id": "org.betup",
-      "name": "Sports Betting Game - BET UP",
-      "developer": "UPAPP",
-      "url": "https://play.google.com/store/apps/details?id=org.betup&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/olQNP7WvXaO8QHSJfVsBNDMaWhQuG6glVXxFHCnGqdjFCw0lkGxyDCIhiz7XrMeXAxo",
+      "id": "com.gp.pilot.simulator.airplanegames",
+      "name": "Pilot Simulator: Airplane Game",
+      "developer": "GamePark",
+      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-07-23T07:48:30.000Z",
+      "releaseDate": "2026-02-13T10:51:12.000Z",
       "genres": [
-        "Sports"
+        "Simulation"
       ],
       "country": "BI"
     },
@@ -1014,16 +1014,16 @@
       "country": "BI"
     },
     {
-      "id": "com.gp.pilot.simulator.airplanegames",
-      "name": "Pilot Simulator: Airplane Game",
-      "developer": "GamePark",
-      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
+      "id": "com.andregal.android.poolbilliard",
+      "name": "Pool Billiards offline",
+      "developer": "Andregal",
+      "url": "https://play.google.com/store/apps/details?id=com.andregal.android.poolbilliard&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/prsJFxj_daaTKEn6F1sW2aSsMT-2dBe41HGx9J31jWd3xAPU2rTDBbm-tlLpWacmyyHF",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T10:51:12.000Z",
+      "releaseDate": "2026-02-14T17:33:38.000Z",
       "genres": [
-        "Simulation"
+        "Casual"
       ],
       "country": "BI"
     },
@@ -1042,14 +1042,112 @@
       "country": "BI"
     },
     {
-      "id": "com.andregal.android.poolbilliard",
-      "name": "Pool Billiards offline",
-      "developer": "Andregal",
-      "url": "https://play.google.com/store/apps/details?id=com.andregal.android.poolbilliard&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/prsJFxj_daaTKEn6F1sW2aSsMT-2dBe41HGx9J31jWd3xAPU2rTDBbm-tlLpWacmyyHF",
+      "id": "pl.lukok.draughts",
+      "name": "Checkers Online",
+      "developer": "CC  Games",
+      "url": "https://play.google.com/store/apps/details?id=pl.lukok.draughts&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/Wvqk6zrQ0pfpqxKhoSW08NkobAg8pXye6Q9lCUlvvoDPBUDy3AzTDbG5_uZfV3Qz2w",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-14T17:33:38.000Z",
+      "releaseDate": "2026-03-05T13:00:51.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "BI"
+    },
+    {
+      "id": "com.hyperkani.trialbike",
+      "name": "Stunt Bike Extreme",
+      "developer": "Hyperkani",
+      "url": "https://play.google.com/store/apps/details?id=com.hyperkani.trialbike&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/NRovxU1rnnI2BzDw989gmkSb8DOnEmgybKJysHKE4-5WSWonNXFwGJGDXMppfxHBkI4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T06:24:08.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "BI"
+    },
+    {
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "BI"
+    },
+    {
+      "id": "com.classic.ludo.dice.board.game",
+      "name": "Ludo Classic Multiplayer Game",
+      "developer": "Dreamland Games Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.classic.ludo.dice.board.game&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/4OVQS1_zzmZ8VGKXcCTlYr5-9R91unGwceeGll6v_2kCIeji8gKRqRqla97Nsilgc0-l",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T10:48:07.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "BI"
+    },
+    {
+      "id": "com.gamovation.tileclub",
+      "name": "Tile Club - Match Puzzle Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-07T10:41:36.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "BI"
+    },
+    {
+      "id": "com.puzzlegamesclassic.puzzlegame",
+      "name": "Puzzle Game",
+      "developer": "Block Puzzle Games 2018",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzlegamesclassic.puzzlegame&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/HfuesTiHqmFhcF_4rBN5NOuqIQlVcbZ_-boo-Yj1DMtiKLkwm8aLlTRU04Flg5mIh2M",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-27T12:13:41.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "BI"
+    },
+    {
+      "id": "org.betup",
+      "name": "Sports Betting Game - BET UP",
+      "developer": "UPAPP",
+      "url": "https://play.google.com/store/apps/details?id=org.betup&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/olQNP7WvXaO8QHSJfVsBNDMaWhQuG6glVXxFHCnGqdjFCw0lkGxyDCIhiz7XrMeXAxo",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-07-23T07:48:30.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "BI"
+    },
+    {
+      "id": "com.vm3.global",
+      "name": "Truck Star",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.vm3.global&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/bcvxHCVs5go0uzGohpwDu-Zid76pUDAlLY-XwbXtlGjrsv9wj2KWoW4kCWfMevxtfCbIMUQqqgZv-n8F-YD2SF0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T02:19:35.000Z",
       "genres": [
         "Casual"
       ],
@@ -1070,100 +1168,16 @@
       "country": "BI"
     },
     {
-      "id": "com.hyperkani.trialbike",
-      "name": "Stunt Bike Extreme",
-      "developer": "Hyperkani",
-      "url": "https://play.google.com/store/apps/details?id=com.hyperkani.trialbike&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/NRovxU1rnnI2BzDw989gmkSb8DOnEmgybKJysHKE4-5WSWonNXFwGJGDXMppfxHBkI4",
+      "id": "com.gg.karate.fighting.game",
+      "name": "Kung Fu Game - Fighting Games",
+      "developer": "Offline Games Gallery",
+      "url": "https://play.google.com/store/apps/details?id=com.gg.karate.fighting.game&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/fbVfb62Wlj6IOvDaZx6jBMrSAgkk64_OmYsLV641mzv8tkT6TzVgmDLsNx0ndMO-1G4",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-19T06:24:08.000Z",
+      "releaseDate": "2025-12-22T11:10:53.000Z",
       "genres": [
-        "Racing"
-      ],
-      "country": "BI"
-    },
-    {
-      "id": "com.gamovation.tileclub",
-      "name": "Tile Club - Match Puzzle Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-07T10:41:36.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "BI"
-    },
-    {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "BI"
-    },
-    {
-      "id": "pl.lukok.draughts",
-      "name": "Checkers Online",
-      "developer": "CC  Games",
-      "url": "https://play.google.com/store/apps/details?id=pl.lukok.draughts&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/Wvqk6zrQ0pfpqxKhoSW08NkobAg8pXye6Q9lCUlvvoDPBUDy3AzTDbG5_uZfV3Qz2w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T13:00:51.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "BI"
-    },
-    {
-      "id": "com.puzzlegamesclassic.puzzlegame",
-      "name": "Puzzle Game",
-      "developer": "Block Puzzle Games 2018",
-      "url": "https://play.google.com/store/apps/details?id=com.puzzlegamesclassic.puzzlegame&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/HfuesTiHqmFhcF_4rBN5NOuqIQlVcbZ_-boo-Yj1DMtiKLkwm8aLlTRU04Flg5mIh2M",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-27T12:13:41.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "BI"
-    },
-    {
-      "id": "com.classic.ludo.dice.board.game",
-      "name": "Ludo Classic Multiplayer Game",
-      "developer": "Dreamland Games Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.classic.ludo.dice.board.game&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/4OVQS1_zzmZ8VGKXcCTlYr5-9R91unGwceeGll6v_2kCIeji8gKRqRqla97Nsilgc0-l",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T10:48:07.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "BI"
-    },
-    {
-      "id": "com.vm3.global",
-      "name": "Truck Star",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.vm3.global&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/bcvxHCVs5go0uzGohpwDu-Zid76pUDAlLY-XwbXtlGjrsv9wj2KWoW4kCWfMevxtfCbIMUQqqgZv-n8F-YD2SF0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T02:19:35.000Z",
-      "genres": [
-        "Casual"
+        "Action"
       ],
       "country": "BI"
     },
@@ -1182,16 +1196,16 @@
       "country": "BI"
     },
     {
-      "id": "com.zams.car.parking.game",
-      "name": "Prado Parking Game: Car Games",
-      "developer": "Zamsolutions",
-      "url": "https://play.google.com/store/apps/details?id=com.zams.car.parking.game&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/cn2Nwf-s0dzhRf-3XsFeV46-pYVhsx1FR6Pwwrot9GomqObP6-WYTbDYFAvk0Zg-Sw",
+      "id": "com.pf.bmx.cycle.games.extreme.bicycle.games",
+      "name": "BMX Cycle Extreme Bicycle Game",
+      "developer": "PlayFlix",
+      "url": "https://play.google.com/store/apps/details?id=com.pf.bmx.cycle.games.extreme.bicycle.games&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/wuJ5F_BSGLIphrT3sth8YLpWQ0vkuobI-z1Dr0G1ZfCXWoYzwaa7Z1CHKToEGombsA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T11:51:55.000Z",
+      "releaseDate": "2026-02-13T05:46:18.000Z",
       "genres": [
-        "Role Playing"
+        "Racing"
       ],
       "country": "BI"
     },
@@ -1204,20 +1218,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-28T10:36:06.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "BI"
-    },
-    {
-      "id": "com.pf.bmx.cycle.games.extreme.bicycle.games",
-      "name": "BMX Cycle Extreme Bicycle Game",
-      "developer": "PlayFlix",
-      "url": "https://play.google.com/store/apps/details?id=com.pf.bmx.cycle.games.extreme.bicycle.games&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/wuJ5F_BSGLIphrT3sth8YLpWQ0vkuobI-z1Dr0G1ZfCXWoYzwaa7Z1CHKToEGombsA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T05:46:18.000Z",
       "genres": [
         "Racing"
       ],
@@ -1238,16 +1238,16 @@
       "country": "BI"
     },
     {
-      "id": "com.gg.karate.fighting.game",
-      "name": "Kung Fu Game - Fighting Games",
-      "developer": "Offline Games Gallery",
-      "url": "https://play.google.com/store/apps/details?id=com.gg.karate.fighting.game&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/fbVfb62Wlj6IOvDaZx6jBMrSAgkk64_OmYsLV641mzv8tkT6TzVgmDLsNx0ndMO-1G4",
+      "id": "com.zams.car.parking.game",
+      "name": "Prado Parking Game: Car Games",
+      "developer": "Zamsolutions",
+      "url": "https://play.google.com/store/apps/details?id=com.zams.car.parking.game&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/cn2Nwf-s0dzhRf-3XsFeV46-pYVhsx1FR6Pwwrot9GomqObP6-WYTbDYFAvk0Zg-Sw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-22T11:10:53.000Z",
+      "releaseDate": "2026-03-06T11:51:55.000Z",
       "genres": [
-        "Action"
+        "Role Playing"
       ],
       "country": "BI"
     },
@@ -1266,6 +1266,20 @@
       "country": "BI"
     },
     {
+      "id": "com.soccer.score.star",
+      "name": "Soccer Superstar",
+      "developer": "Real Freestyle Soccer",
+      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T15:32:33.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "BI"
+    },
+    {
       "id": "com.tarboosh.collectemall",
       "name": "Collect Em All! Clear the Dots",
       "developer": "VOODOO",
@@ -1274,34 +1288,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-01-14T18:34:19.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "BI"
-    },
-    {
-      "id": "mahjong.solitaire.puzzle.game",
-      "name": "Mahjong Solitaire-Match Master",
-      "developer": "Flyfox Games",
-      "url": "https://play.google.com/store/apps/details?id=mahjong.solitaire.puzzle.game&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/qVReZ2cyKE0LUX7bkZsOyD-SrpjzeawpQ4hVISF-3msOjX56Zs6VONnaBkuErLPtKmKmRUQQNqSZ9fzjk0dI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T16:11:18.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "BI"
-    },
-    {
-      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
-      "name": "Shoot Bubble - Pop Bubbles",
-      "developer": "IVYGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T10:52:13.000Z",
       "genres": [
         "Casual"
       ],
@@ -1322,16 +1308,16 @@
       "country": "BI"
     },
     {
-      "id": "com.soccer.score.star",
-      "name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
+      "id": "mahjong.solitaire.puzzle.game",
+      "name": "Mahjong Solitaire-Match Master",
+      "developer": "Flyfox Games",
+      "url": "https://play.google.com/store/apps/details?id=mahjong.solitaire.puzzle.game&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/qVReZ2cyKE0LUX7bkZsOyD-SrpjzeawpQ4hVISF-3msOjX56Zs6VONnaBkuErLPtKmKmRUQQNqSZ9fzjk0dI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-29T15:32:33.000Z",
+      "releaseDate": "2026-03-05T16:11:18.000Z",
       "genres": [
-        "Sports"
+        "Puzzle"
       ],
       "country": "BI"
     },
@@ -1350,16 +1336,16 @@
       "country": "BI"
     },
     {
-      "id": "water.sort.color.puzzle.offline.games",
-      "name": "Water Sort! Color Sort Puzzle",
-      "developer": "Bobodoo Game",
-      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/FGKE522gd5FND6fnX-_GdhSe9eoU0IqSBJ3gV8nUEYnOTMubjov8cvlC2FQXMgbb29NA",
+      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
+      "name": "Shoot Bubble - Pop Bubbles",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T17:49:10.000Z",
+      "releaseDate": "2026-03-05T10:52:13.000Z",
       "genres": [
-        "Puzzle"
+        "Casual"
       ],
       "country": "BI"
     },
@@ -1378,6 +1364,34 @@
       "country": "BI"
     },
     {
+      "id": "water.sort.color.puzzle.offline.games",
+      "name": "Water Sort! Color Sort Puzzle",
+      "developer": "Bobodoo Game",
+      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/FGKE522gd5FND6fnX-_GdhSe9eoU0IqSBJ3gV8nUEYnOTMubjov8cvlC2FQXMgbb29NA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T17:49:10.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "BI"
+    },
+    {
+      "id": "com.PlayMax.playergames",
+      "name": "Stickman Party 234 MiniGames",
+      "developer": "PlayMax Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames&hl=en&gl=BI",
+      "artwork": "https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-22T00:32:35.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "BI"
+    },
+    {
       "id": "net.apex_designs.payback2",
       "name": "Payback 2 - The Battle Sandbox",
       "developer": "Apex Designs Games LLP",
@@ -1388,20 +1402,6 @@
       "releaseDate": "2025-08-27T16:01:25.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "BI"
-    },
-    {
-      "id": "com.combineinc.streetracing.driftthreeD",
-      "name": "Street Racing 3D",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.combineinc.streetracing.driftthreeD&hl=en&gl=BI",
-      "artwork": "https://play-lh.googleusercontent.com/nM3nHVAK1oJIcU5BpjQMowaOuru_RNXwAb1y-BP6BGEwWTiAZvWrwPzMhrSfKzaGAHAf",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-27T09:42:57.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "BI"
     }
