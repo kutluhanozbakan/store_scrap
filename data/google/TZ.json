@@ -1,7 +1,7 @@
 {
   "country": "TZ",
   "store": "google",
-  "updatedAt": "2026-03-06T22:51:42.560Z",
+  "updatedAt": "2026-03-07T09:46:58.652Z",
   "new": [
     {
       "id": "water.sort.color.puzzle.offline.games",
@@ -12,6 +12,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-06T17:49:10.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "TZ"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T16:58:46.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -42,48 +56,6 @@
       "releaseDate": "2026-03-06T14:00:43.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "TZ"
-    },
-    {
-      "id": "com.dsonline.jewelpopper",
-      "name": "Jewel popper - Play & Win",
-      "developer": "Blazing App Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.dsonline.jewelpopper&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/AdapuHkNANZ4dlFtH1Oyk_X7b4bwLXSOtSF6Wec3_DhK29sBw2APt6nOF5UB5GVMMTI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T13:11:34.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "TZ"
-    },
-    {
-      "id": "com.zams.car.parking.game",
-      "name": "Prado Parking Game: Car Games",
-      "developer": "Zamsolutions",
-      "url": "https://play.google.com/store/apps/details?id=com.zams.car.parking.game&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/cn2Nwf-s0dzhRf-3XsFeV46-pYVhsx1FR6Pwwrot9GomqObP6-WYTbDYFAvk0Zg-Sw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T11:51:55.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "TZ"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T06:47:57.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "TZ"
     },
@@ -200,6 +172,20 @@
       "country": "TZ"
     },
     {
+      "id": "com.pevans.sportpesa.tz",
+      "name": "Sportpesa Tanzania",
+      "developer": "Kentech S.L.U.",
+      "url": "https://play.google.com/store/apps/details?id=com.pevans.sportpesa.tz&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/PHwSQ1pbG2ZXVqwpi1eSOerGO2pbcAxwnXTFiHGIDQFLKlaYZHkoSA_7nNMw58tCDyI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T04:50:01.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "TZ"
+    },
+    {
       "id": "com.oakever.tiletrip",
       "name": "Tile Explorer - Triple Match",
       "developer": "Oakever Games",
@@ -238,6 +224,20 @@
       "releaseDate": "2026-03-04T12:34:41.000Z",
       "genres": [
         "Music"
+      ],
+      "country": "TZ"
+    },
+    {
+      "id": "com.tas.bowman.game3d.archer",
+      "name": "Archer Assassin Shooting Game",
+      "developer": "Team AS Studio Pvt Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.tas.bowman.game3d.archer&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/691obSFksIm1uQFkGkqekv8611FOoc31sD-d-ZXAlJOl2TuTsTcT9zlNzP8XRVTazyeV",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T11:07:46.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "TZ"
     },
@@ -368,20 +368,6 @@
       "country": "TZ"
     },
     {
-      "id": "com.imangi.templerun",
-      "name": "Temple Run",
-      "developer": "Imangi Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/onlNBInQHIZtB2rY24BwrEsUUKwE753ao1BAvvhOw2ePEN1IHIUjaR3gvlGd3jyKTdg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T09:37:31.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "TZ"
-    },
-    {
       "id": "com.gameiavo.wedding.makeup.fashion.stylist",
       "name": "Indian Wedding: DressUp Makeup",
       "developer": "GameiAvo",
@@ -434,6 +420,20 @@
       "releaseDate": "2026-03-02T12:44:44.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "TZ"
+    },
+    {
+      "id": "com.tas.westernsurvival.shooterwar",
+      "name": "Western Survival Shooting Game",
+      "developer": "Team AS Studio Pvt Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.tas.westernsurvival.shooterwar&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/Ze5ic1Q9geRp3vrDCVx-BbZWSTLfhpN8xR95OIQxTKgVpwC_SbhWT52kWDdNroj4bLk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T12:16:52.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "TZ"
     },
@@ -550,6 +550,20 @@
       "country": "TZ"
     },
     {
+      "id": "com.NikitaPokruchin.ALTCITYOnline",
+      "name": "Grand Hustle RP: Online Game",
+      "developer": "LEVEL 26 GAMES - FZCO",
+      "url": "https://play.google.com/store/apps/details?id=com.NikitaPokruchin.ALTCITYOnline&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/JdK_yVt5NwjXEQhX0-4r193EzGjR4OPF0732vsINZ5yQ0cqY8swtEfZ4e4I5o5Pk9dnI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T17:27:16.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "TZ"
+    },
+    {
       "id": "com.trophygames.truckmanager",
       "name": "Truck Manager - 2026",
       "developer": "Xombat Development - Airline manager games",
@@ -574,20 +588,6 @@
       "releaseDate": "2026-02-24T09:05:46.000Z",
       "genres": [
         "Strategy"
-      ],
-      "country": "TZ"
-    },
-    {
-      "id": "com.visnalize.win7simu",
-      "name": "Win7 Simu",
-      "developer": "Visnalize",
-      "url": "https://play.google.com/store/apps/details?id=com.visnalize.win7simu&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/hhIHRXxOzAzFb6leGaZ-GZ9SvXe21dfYNLMtTJP-YbiCIqWCr383lQQwjKjbJBrgtNk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T03:35:51.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "TZ"
     },
@@ -720,6 +720,20 @@
       "country": "TZ"
     },
     {
+      "id": "jp.konami.pesam",
+      "name": "eFootball™",
+      "developer": "KONAMI",
+      "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/o-iscF0u9uAm9jaems25nNUw3cIgxrzIELVTy-DPKb3CxN0_HLBcaWoeetZca_BBOp_u_NXeyQKz0nJkXiFMkA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T00:47:50.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "TZ"
+    },
+    {
       "id": "com.pevans.sportpesa.tz",
       "name": "Sportpesa Tanzania",
       "developer": "Kentech S.L.U.",
@@ -727,23 +741,9 @@
       "artwork": "https://play-lh.googleusercontent.com/PHwSQ1pbG2ZXVqwpi1eSOerGO2pbcAxwnXTFiHGIDQFLKlaYZHkoSA_7nNMw58tCDyI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-29T15:33:15.000Z",
+      "releaseDate": "2026-03-05T04:50:01.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "TZ"
-    },
-    {
-      "id": "com.fxroyale.app",
-      "name": "Trading Arena-Crypto Simulator",
-      "developer": "Edusystems OU",
-      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T18:10:11.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "TZ"
     },
@@ -776,16 +776,16 @@
       "country": "TZ"
     },
     {
-      "id": "jp.konami.pesam",
-      "name": "eFootball™",
-      "developer": "KONAMI",
-      "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/o-iscF0u9uAm9jaems25nNUw3cIgxrzIELVTy-DPKb3CxN0_HLBcaWoeetZca_BBOp_u_NXeyQKz0nJkXiFMkA",
+      "id": "com.fxroyale.app",
+      "name": "Trading Arena-Crypto Simulator",
+      "developer": "Edusystems OU",
+      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-04T00:47:50.000Z",
+      "releaseDate": "2026-03-03T18:10:11.000Z",
       "genres": [
-        "Sports"
+        "Simulation"
       ],
       "country": "TZ"
     },
@@ -818,16 +818,16 @@
       "country": "TZ"
     },
     {
-      "id": "tz.co.gsbtz",
-      "name": "Gal Sport Betting Tanzania",
-      "developer": "Servtech Holdings",
-      "url": "https://play.google.com/store/apps/details?id=tz.co.gsbtz&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/l4j4NRjZAka12rTDViTZWnqJUwyZ2AAd33X5Ghhlz7qTrPS6qglU1mnokeOEiOAJOxk",
+      "id": "ball.sort.color.puz.game.puzzle",
+      "name": "Ball Sort - Color Puz Game",
+      "developer": "Infinite Joy Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=ball.sort.color.puz.game.puzzle&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/4oeX8CJbwfvyeiz3G9gSDGUku7ilvOJxC3sDaDQGZUyBJKd60F12kxB1fQPE45W1Qgc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-11-04T14:14:37.000Z",
+      "releaseDate": "2026-02-03T09:39:56.000Z",
       "genres": [
-        "Casino"
+        "Puzzle"
       ],
       "country": "TZ"
     },
@@ -846,14 +846,28 @@
       "country": "TZ"
     },
     {
-      "id": "ball.sort.color.puz.game.puzzle",
-      "name": "Ball Sort - Color Puz Game",
-      "developer": "Infinite Joy Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=ball.sort.color.puz.game.puzzle&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/4oeX8CJbwfvyeiz3G9gSDGUku7ilvOJxC3sDaDQGZUyBJKd60F12kxB1fQPE45W1Qgc",
+      "id": "tz.co.gsbtz",
+      "name": "Gal Sport Betting Tanzania",
+      "developer": "Servtech Holdings",
+      "url": "https://play.google.com/store/apps/details?id=tz.co.gsbtz&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/l4j4NRjZAka12rTDViTZWnqJUwyZ2AAd33X5Ghhlz7qTrPS6qglU1mnokeOEiOAJOxk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T09:39:56.000Z",
+      "releaseDate": "2025-11-04T14:14:37.000Z",
+      "genres": [
+        "Casino"
+      ],
+      "country": "TZ"
+    },
+    {
+      "id": "com.gamovation.tileclub",
+      "name": "Tile Club - Match Puzzle Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-07T10:41:36.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -888,20 +902,6 @@
       "country": "TZ"
     },
     {
-      "id": "com.gamovation.tileclub",
-      "name": "Tile Club - Match Puzzle Game",
-      "developer": "GamoVation",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/IN1pi8lXoNFv2ioamP9jM_pvBzt4eNwWpZ_C6LHVgoq31fkkNVCiuEU-YROQEJjTug",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-07T10:41:36.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "TZ"
-    },
-    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -930,20 +930,6 @@
       "country": "TZ"
     },
     {
-      "id": "com.combineinc.streetracing.driftthreeD",
-      "name": "Street Racing 3D",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.combineinc.streetracing.driftthreeD&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/nM3nHVAK1oJIcU5BpjQMowaOuru_RNXwAb1y-BP6BGEwWTiAZvWrwPzMhrSfKzaGAHAf",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-27T09:42:57.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "TZ"
-    },
-    {
       "id": "com.llx1",
       "name": "Starlit Destiny",
       "developer": "andepants",
@@ -954,6 +940,20 @@
       "releaseDate": "2025-08-07T13:50:18.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "TZ"
+    },
+    {
+      "id": "com.combineinc.streetracing.driftthreeD",
+      "name": "Street Racing 3D",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.combineinc.streetracing.driftthreeD&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/nM3nHVAK1oJIcU5BpjQMowaOuru_RNXwAb1y-BP6BGEwWTiAZvWrwPzMhrSfKzaGAHAf",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-27T09:42:57.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "TZ"
     },
@@ -972,34 +972,6 @@
       "country": "TZ"
     },
     {
-      "id": "com.ffgames.racingincar2",
-      "name": "Racing in Car 2",
-      "developer": "ckgames",
-      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-19T14:55:06.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "TZ"
-    },
-    {
-      "id": "com.w1n.slot.app.game",
-      "name": "1w (1win) - Official App",
-      "developer": "UV CORPORATIONS LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.w1n.slot.app.game&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/ZCjP7JpNOGt3H8FTNQ1FcxtSGZANOidfcieR1RHfpzyJfm6VZlfZUhIgYd9sbCvuoFtOUYXcD3jxJFdNxc6fwkQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-13T16:14:29.000Z",
-      "genres": [
-        "Casino"
-      ],
-      "country": "TZ"
-    },
-    {
       "id": "com.xgame.VehicleDriving3D",
       "name": "Real Driving: Vehicle & Park",
       "developer": "XGAME STUDIO",
@@ -1010,6 +982,20 @@
       "releaseDate": "2026-01-23T06:55:58.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "TZ"
+    },
+    {
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-19T14:55:06.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "TZ"
     },
@@ -1036,6 +1022,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-12T11:58:19.000Z",
+      "genres": [
+        "Casino"
+      ],
+      "country": "TZ"
+    },
+    {
+      "id": "com.w1n.slot.app.game",
+      "name": "1w (1win) - Official App",
+      "developer": "UV CORPORATIONS LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.w1n.slot.app.game&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/ZCjP7JpNOGt3H8FTNQ1FcxtSGZANOidfcieR1RHfpzyJfm6VZlfZUhIgYd9sbCvuoFtOUYXcD3jxJFdNxc6fwkQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-13T16:14:29.000Z",
       "genres": [
         "Casino"
       ],
@@ -1070,6 +1070,20 @@
       "country": "TZ"
     },
     {
+      "id": "com.miniclip.realsniper",
+      "name": "Pure Sniper: Gun Shooter Games",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.realsniper&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/D3NtyLCIKLg2VR4hUNyGVgBWICfHj5kkKL6mxGB0n4wLKMGdvhibY66VFPd7aSOR1TI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T21:05:43.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "TZ"
+    },
+    {
       "id": "com.andregal.android.poolbilliard",
       "name": "Pool Billiards offline",
       "developer": "Andregal",
@@ -1098,34 +1112,6 @@
       "country": "TZ"
     },
     {
-      "id": "com.hungrystudio.mahjong",
-      "name": "Double Tile!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/X5NGhTzKUZvS0Iuw96qg6ExRf-i3x9nXW_BgtFv39fHdn5yP2uwIHiNGEmgOMn7cqV0rbOROWm4vsp-7hRdr",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T11:33:35.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "TZ"
-    },
-    {
-      "id": "com.miniclip.realsniper",
-      "name": "Pure Sniper: Gun Shooter Games",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.realsniper&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/D3NtyLCIKLg2VR4hUNyGVgBWICfHj5kkKL6mxGB0n4wLKMGdvhibY66VFPd7aSOR1TI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T21:05:43.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "TZ"
-    },
-    {
       "id": "com.gamovation.quickcheckers",
       "name": "Checkers - Online & Offline",
       "developer": "GamoVation",
@@ -1140,20 +1126,6 @@
       "country": "TZ"
     },
     {
-      "id": "ball.sort.puzzle.color.bubble.games.magic",
-      "name": "Ball Sort Magic - Puzzle Game",
-      "developer": "Passion Fruit Joy",
-      "url": "https://play.google.com/store/apps/details?id=ball.sort.puzzle.color.bubble.games.magic&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/2LFoNpVRsnkG8xrDMUN5y-ZZymdRwjIfeYXHdBirrVW_kkqtAO1FPYVWpf42mZ_XIg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-22T11:16:52.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "TZ"
-    },
-    {
       "id": "com.dreamgames.royalmatch",
       "name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -1164,6 +1136,34 @@
       "releaseDate": "2026-02-16T12:04:55.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "TZ"
+    },
+    {
+      "id": "com.hungrystudio.mahjong",
+      "name": "Double Tile!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/X5NGhTzKUZvS0Iuw96qg6ExRf-i3x9nXW_BgtFv39fHdn5yP2uwIHiNGEmgOMn7cqV0rbOROWm4vsp-7hRdr",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T11:33:35.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "TZ"
+    },
+    {
+      "id": "ball.sort.puzzle.color.bubble.games.magic",
+      "name": "Ball Sort Magic - Puzzle Game",
+      "developer": "Passion Fruit Joy",
+      "url": "https://play.google.com/store/apps/details?id=ball.sort.puzzle.color.bubble.games.magic&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/2LFoNpVRsnkG8xrDMUN5y-ZZymdRwjIfeYXHdBirrVW_kkqtAO1FPYVWpf42mZ_XIg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-22T11:16:52.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "TZ"
     },
@@ -1192,6 +1192,20 @@
       "releaseDate": "2026-02-20T13:30:18.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "TZ"
+    },
+    {
+      "id": "com.refuelgames.rally",
+      "name": "Rally Fury - Extreme Racing",
+      "developer": "Refuel Games Pty Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.refuelgames.rally&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/UVjsYY6tnVq2qqtuz0BexvhIA080C-pfWalPy3Py4GD4nE-dt_mAZxuAOVgEod3teLU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-18T01:24:07.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "TZ"
     },
@@ -1238,20 +1252,6 @@
       "country": "TZ"
     },
     {
-      "id": "com.refuelgames.rally",
-      "name": "Rally Fury - Extreme Racing",
-      "developer": "Refuel Games Pty Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.refuelgames.rally&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/UVjsYY6tnVq2qqtuz0BexvhIA080C-pfWalPy3Py4GD4nE-dt_mAZxuAOVgEod3teLU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-18T01:24:07.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "TZ"
-    },
-    {
       "id": "com.aag.world.football.league",
       "name": "FSL26 : Football Soccer League",
       "developer": "Action Arena Games",
@@ -1280,6 +1280,20 @@
       "country": "TZ"
     },
     {
+      "id": "com.ea.game.nfs14_row",
+      "name": "Need for Speed™ No Limits",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.game.nfs14_row&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/rDAmDCGhyX7FcXYJcR0QrcO04uWgdiQaiWw6oA3T93oK4Xq8qOof0-J_qtw2XFYpKg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T03:29:13.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "TZ"
+    },
+    {
       "id": "com.miniclip.eightballpool",
       "name": "8 Ball Pool",
       "developer": "Miniclip.com",
@@ -1290,20 +1304,6 @@
       "releaseDate": "2026-02-18T11:45:50.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "TZ"
-    },
-    {
-      "id": "com.WandaSoftware.TruckersofEurope3",
-      "name": "Truckers of Europe 3",
-      "developer": "Wanda Software",
-      "url": "https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/FwKtLtLulWDsEawc5dOelxZyvzTQK6gEZUmqLkpEIlVJjiyPtikvwpWEkSrsgREt9yCg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T13:24:09.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "TZ"
     },
@@ -1322,44 +1322,16 @@
       "country": "TZ"
     },
     {
-      "id": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
-      "name": "Ramp Car Games: GT Car Stunts",
-      "developer": "Fun Drive Games",
-      "url": "https://play.google.com/store/apps/details?id=com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/AkcgFr9M2qfIcp1fkrQS8Ny6Ludis4_fBO0_VvfdWLJtrRpu0O-2T1v4mn0b1t59yA",
+      "id": "com.WandaSoftware.TruckersofEurope3",
+      "name": "Truckers of Europe 3",
+      "developer": "Wanda Software",
+      "url": "https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/FwKtLtLulWDsEawc5dOelxZyvzTQK6gEZUmqLkpEIlVJjiyPtikvwpWEkSrsgREt9yCg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T11:35:46.000Z",
+      "releaseDate": "2026-03-05T13:24:09.000Z",
       "genres": [
-        "Strategy"
-      ],
-      "country": "TZ"
-    },
-    {
-      "id": "com.igs.bus.simulator.bus.games",
-      "name": "Bus Simulator - 3D Bus Games",
-      "developer": "Innovative Gaming Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.igs.bus.simulator.bus.games&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/7wvk5zJNI--xrIkJlKZbuL9ixMHezfYPM8ajL2RyHR8ZL5FZbs_BdmzpULRtXAUxf48",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-18T17:53:55.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "TZ"
-    },
-    {
-      "id": "com.ea.game.nfs14_row",
-      "name": "Need for Speed™ No Limits",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.game.nfs14_row&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/rDAmDCGhyX7FcXYJcR0QrcO04uWgdiQaiWw6oA3T93oK4Xq8qOof0-J_qtw2XFYpKg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T03:29:13.000Z",
-      "genres": [
-        "Racing"
+        "Simulation"
       ],
       "country": "TZ"
     },
@@ -1378,16 +1350,30 @@
       "country": "TZ"
     },
     {
-      "id": "com.igoldtech.streetchaser",
-      "name": "Street Chaser",
-      "developer": "iGold Technologies Private Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.igoldtech.streetchaser&hl=en&gl=TZ",
-      "artwork": "https://play-lh.googleusercontent.com/BFyWSNUxrWOZ8yNnWiuoQNjF8-jYrFVzYKkLAusvB0qwW5Np9lspRLA3de38fnPC2jo",
+      "id": "com.zdb.c23.traffic.driving.simulator",
+      "name": "Ultimate Traffic Driving Car",
+      "developer": "Motion Technology",
+      "url": "https://play.google.com/store/apps/details?id=com.zdb.c23.traffic.driving.simulator&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/k8CXdIqmzWZcfl_NgfG_A7uk9VDxByq-GY7WGKOg1kZZAJnPswXRzvI52vHqiMBheBU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-10-07T20:50:24.000Z",
+      "releaseDate": "2026-03-05T09:50:49.000Z",
       "genres": [
-        "Adventure"
+        "Racing"
+      ],
+      "country": "TZ"
+    },
+    {
+      "id": "com.igs.bus.simulator.bus.games",
+      "name": "Bus Simulator - 3D Bus Games",
+      "developer": "Innovative Gaming Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.igs.bus.simulator.bus.games&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/7wvk5zJNI--xrIkJlKZbuL9ixMHezfYPM8ajL2RyHR8ZL5FZbs_BdmzpULRtXAUxf48",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-18T17:53:55.000Z",
+      "genres": [
+        "Role Playing"
       ],
       "country": "TZ"
     },
@@ -1402,6 +1388,20 @@
       "releaseDate": "2026-02-05T23:03:57.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "TZ"
+    },
+    {
+      "id": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
+      "name": "Ramp Car Games: GT Car Stunts",
+      "developer": "Fun Drive Games",
+      "url": "https://play.google.com/store/apps/details?id=com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks&hl=en&gl=TZ",
+      "artwork": "https://play-lh.googleusercontent.com/AkcgFr9M2qfIcp1fkrQS8Ny6Ludis4_fBO0_VvfdWLJtrRpu0O-2T1v4mn0b1t59yA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T11:35:46.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "TZ"
     }
