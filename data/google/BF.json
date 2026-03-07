@@ -1,7 +1,7 @@
 {
   "country": "BF",
   "store": "google",
-  "updatedAt": "2026-03-06T23:57:09.399Z",
+  "updatedAt": "2026-03-07T10:40:20.720Z",
   "new": [
     {
       "id": "water.sort.color.puzzle.offline.games",
@@ -12,6 +12,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-06T17:49:10.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "BF"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T16:58:46.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -42,34 +56,6 @@
       "releaseDate": "2026-03-06T14:00:43.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "BF"
-    },
-    {
-      "id": "com.zams.car.parking.game",
-      "name": "Prado Parking Game: Car Games",
-      "developer": "Zamsolutions",
-      "url": "https://play.google.com/store/apps/details?id=com.zams.car.parking.game&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/cn2Nwf-s0dzhRf-3XsFeV46-pYVhsx1FR6Pwwrot9GomqObP6-WYTbDYFAvk0Zg-Sw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T11:51:55.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "BF"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T06:47:57.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "BF"
     },
@@ -154,6 +140,20 @@
       "releaseDate": "2026-03-05T07:43:52.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "BF"
+    },
+    {
+      "id": "com.fungames.battletanksbeta",
+      "name": "War Machines：Tanks Battle Game",
+      "developer": "Wildlife Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/4raH0eEBz-bDwfeVvqFlf88YfKkF59Gktu8BCeDQnVZ4l21zW67C6Da6Anl0SkDFRHQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T16:28:29.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "BF"
     },
@@ -294,20 +294,6 @@
       "releaseDate": "2026-03-03T12:16:10.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "BF"
-    },
-    {
-      "id": "com.sniffygames.princessbabyshowerparty",
-      "name": "Princess BabyShower Party",
-      "developer": "Sniffy Games",
-      "url": "https://play.google.com/store/apps/details?id=com.sniffygames.princessbabyshowerparty&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/PF0YR4fu0MBK6gW7N0Wm1XaRcOZbCuXVQ1seTIjWpN76_il1itNPsvNCOakvekcXijPA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T08:55:43.000Z",
-      "genres": [
-        "Role Playing"
       ],
       "country": "BF"
     },
@@ -494,16 +480,16 @@
       "country": "BF"
     },
     {
-      "id": "com.sega.sonicdash",
-      "name": "Sonic Dash: Endless Run",
-      "developer": "SEGA",
-      "url": "https://play.google.com/store/apps/details?id=com.sega.sonicdash&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/4F-WwVKAs56rT6DGSfu1-9sW4MqSjenlIUqWS1K_8iB25ktsHKXXScAwJonvwo7DuMA",
+      "id": "com.run.tower.defense",
+      "name": "Kingshot",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T14:59:56.000Z",
+      "releaseDate": "2026-02-27T15:06:36.000Z",
       "genres": [
-        "Arcade"
+        "Strategy"
       ],
       "country": "BF"
     },
@@ -592,16 +578,16 @@
       "country": "BF"
     },
     {
-      "id": "com.tgg.tribalkickheroes.zouu.app",
-      "name": "Tribal Kick Heroes 2026",
-      "developer": "THE YARD GRILL LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.tgg.tribalkickheroes.zouu.app&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/dxRH1n-0-OBYQwKkoFKiFUkSAQC18nBX1q7qfz-azc-dx9AHtlROHczpZga8Pd8-ERH8p4tlPDwWLCqCVCwp",
+      "id": "com.gamee.kingdom.royale.match3.blast.escape",
+      "name": "Kingdom Match: Royal Adventure",
+      "developer": "GameeStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.gamee.kingdom.royale.match3.blast.escape&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/_rC8deserIKuXMyraF54oN8DUXgJPq77yKwCJv9fV5EceRT7bDugNIhufiYKZOMjYqRWOcMknkj-tGtZmsCzRok",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T06:44:54.000Z",
+      "releaseDate": "2026-02-26T10:20:38.000Z",
       "genres": [
-        "Casino"
+        "Casual"
       ],
       "country": "BF"
     },
@@ -702,6 +688,20 @@
         "Simulation"
       ],
       "country": "BF"
+    },
+    {
+      "id": "com.imangi.templerun2",
+      "name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T14:25:25.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "BF"
     }
   ],
   "updated": [
@@ -720,20 +720,6 @@
       "country": "BF"
     },
     {
-      "id": "com.fxroyale.app",
-      "name": "Trading Arena-Crypto Simulator",
-      "developer": "Edusystems OU",
-      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T18:10:11.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "BF"
-    },
-    {
       "id": "com.firsttouchgames.dls7",
       "name": "Dream League Soccer 2026",
       "developer": "First Touch Games Ltd.",
@@ -744,6 +730,20 @@
       "releaseDate": "2026-02-27T18:33:48.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "BF"
+    },
+    {
+      "id": "com.fxroyale.app",
+      "name": "Trading Arena-Crypto Simulator",
+      "developer": "Edusystems OU",
+      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T18:10:11.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "BF"
     },
@@ -804,6 +804,34 @@
       "country": "BF"
     },
     {
+      "id": "com.board.treasure102",
+      "name": "Roobet",
+      "developer": "Poiskilr",
+      "url": "https://play.google.com/store/apps/details?id=com.board.treasure102&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/JNOoo8iemTnvzeNQRs53ZvVXeHzfr-VsB5jq87bq3FmdbPK2ZrTWYyUYKRK1yZiUe-tbZ-k_LM7JP-08KY34",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T16:51:05.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "BF"
+    },
+    {
+      "id": "ball.sort.color.puz.game.puzzle",
+      "name": "Ball Sort - Color Puz Game",
+      "developer": "Infinite Joy Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=ball.sort.color.puz.game.puzzle&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/4oeX8CJbwfvyeiz3G9gSDGUku7ilvOJxC3sDaDQGZUyBJKd60F12kxB1fQPE45W1Qgc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T09:39:56.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "BF"
+    },
+    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -846,20 +874,6 @@
       "country": "BF"
     },
     {
-      "id": "ball.sort.color.puz.game.puzzle",
-      "name": "Ball Sort - Color Puz Game",
-      "developer": "Infinite Joy Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=ball.sort.color.puz.game.puzzle&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/4oeX8CJbwfvyeiz3G9gSDGUku7ilvOJxC3sDaDQGZUyBJKd60F12kxB1fQPE45W1Qgc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T09:39:56.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "BF"
-    },
-    {
       "id": "com.cqqtudio.neo.zamani.android",
       "name": "NEO ZAMANI",
       "developer": "Ms khan",
@@ -870,6 +884,20 @@
       "releaseDate": "2025-12-05T10:40:25.000Z",
       "genres": [
         "Casino"
+      ],
+      "country": "BF"
+    },
+    {
+      "id": "com.tiktaktoeexm.gamenew",
+      "name": "Tic Tac Toe: Classic & Modern",
+      "developer": "Sunstone-Dev",
+      "url": "https://play.google.com/store/apps/details?id=com.tiktaktoeexm.gamenew&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/o5cke3WwmTMtbGrlAnbfNTZd4cI1lrx-vgScZwIxC9XL1pxdMBD2pd63Ubtd-G75W5Y",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-07-21T12:43:27.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "BF"
     },
@@ -902,20 +930,6 @@
       "country": "BF"
     },
     {
-      "id": "com.tiktaktoeexm.gamenew",
-      "name": "Tic Tac Toe: Classic & Modern",
-      "developer": "Sunstone-Dev",
-      "url": "https://play.google.com/store/apps/details?id=com.tiktaktoeexm.gamenew&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/o5cke3WwmTMtbGrlAnbfNTZd4cI1lrx-vgScZwIxC9XL1pxdMBD2pd63Ubtd-G75W5Y",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-07-21T12:43:27.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "BF"
-    },
-    {
       "id": "com.soccer.score.star",
       "name": "Soccer Superstar",
       "developer": "Real Freestyle Soccer",
@@ -926,34 +940,6 @@
       "releaseDate": "2026-01-29T15:32:33.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "BF"
-    },
-    {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:31:23.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "BF"
-    },
-    {
-      "id": "ball.sort.puzzle.color.bubble.games.magic",
-      "name": "Ball Sort Magic - Puzzle Game",
-      "developer": "Passion Fruit Joy",
-      "url": "https://play.google.com/store/apps/details?id=ball.sort.puzzle.color.bubble.games.magic&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/2LFoNpVRsnkG8xrDMUN5y-ZZymdRwjIfeYXHdBirrVW_kkqtAO1FPYVWpf42mZ_XIg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-22T11:16:52.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "BF"
     },
@@ -986,72 +972,30 @@
       "country": "BF"
     },
     {
-      "id": "com.firsttouchgames.story",
-      "name": "Score! Hero",
-      "developer": "First Touch Games Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.story&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/ufqvcHKWB7NVjQ1wLtacnwSj-Jx6PtYuGJtxTp09eGTRtBHSD5Q8gzw-Jq-PBhaH4UXPnUskWfZrMDaGZd8h",
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-27T17:01:42.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "BF"
-    },
-    {
-      "id": "com.board.treasure102",
-      "name": "Roobet",
-      "developer": "Poiskilr",
-      "url": "https://play.google.com/store/apps/details?id=com.board.treasure102&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/JNOoo8iemTnvzeNQRs53ZvVXeHzfr-VsB5jq87bq3FmdbPK2ZrTWYyUYKRK1yZiUe-tbZ-k_LM7JP-08KY34",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T16:51:05.000Z",
+      "releaseDate": "2026-02-27T12:31:23.000Z",
       "genres": [
         "Arcade"
       ],
       "country": "BF"
     },
     {
-      "id": "com.hungrystudio.mahjong",
-      "name": "Double Tile!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/X5NGhTzKUZvS0Iuw96qg6ExRf-i3x9nXW_BgtFv39fHdn5yP2uwIHiNGEmgOMn7cqV0rbOROWm4vsp-7hRdr",
+      "id": "ball.sort.puzzle.color.bubble.games.magic",
+      "name": "Ball Sort Magic - Puzzle Game",
+      "developer": "Passion Fruit Joy",
+      "url": "https://play.google.com/store/apps/details?id=ball.sort.puzzle.color.bubble.games.magic&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/2LFoNpVRsnkG8xrDMUN5y-ZZymdRwjIfeYXHdBirrVW_kkqtAO1FPYVWpf42mZ_XIg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-05T11:33:35.000Z",
+      "releaseDate": "2026-01-22T11:16:52.000Z",
       "genres": [
-        "Puzzle"
-      ],
-      "country": "BF"
-    },
-    {
-      "id": "com.rubygames.assassin",
-      "name": "Hunter Assassin",
-      "developer": "Ruby Games AS",
-      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T13:15:04.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "BF"
-    },
-    {
-      "id": "com.miniclip.realsniper",
-      "name": "Pure Sniper: Gun Shooter Games",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.realsniper&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/D3NtyLCIKLg2VR4hUNyGVgBWICfHj5kkKL6mxGB0n4wLKMGdvhibY66VFPd7aSOR1TI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T21:05:43.000Z",
-      "genres": [
-        "Action"
+        "Casual"
       ],
       "country": "BF"
     },
@@ -1070,16 +1014,44 @@
       "country": "BF"
     },
     {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "id": "com.firsttouchgames.story",
+      "name": "Score! Hero",
+      "developer": "First Touch Games Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.story&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/ufqvcHKWB7NVjQ1wLtacnwSj-Jx6PtYuGJtxTp09eGTRtBHSD5Q8gzw-Jq-PBhaH4UXPnUskWfZrMDaGZd8h",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-04T08:49:55.000Z",
+      "releaseDate": "2026-01-27T17:01:42.000Z",
       "genres": [
-        "Simulation"
+        "Sports"
+      ],
+      "country": "BF"
+    },
+    {
+      "id": "com.hungrystudio.mahjong",
+      "name": "Double Tile!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/X5NGhTzKUZvS0Iuw96qg6ExRf-i3x9nXW_BgtFv39fHdn5yP2uwIHiNGEmgOMn7cqV0rbOROWm4vsp-7hRdr",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T11:33:35.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "BF"
+    },
+    {
+      "id": "com.miniclip.realsniper",
+      "name": "Pure Sniper: Gun Shooter Games",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.realsniper&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/D3NtyLCIKLg2VR4hUNyGVgBWICfHj5kkKL6mxGB0n4wLKMGdvhibY66VFPd7aSOR1TI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T21:05:43.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "BF"
     },
@@ -1098,6 +1070,62 @@
       "country": "BF"
     },
     {
+      "id": "com.outfit7.mytalkingangelafree",
+      "name": "My Talking Angela",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/rdMpsc5VkkG4JGHIFqNREbWBzXxkZBHN7ZA86DqcZEMmtwWy58NLVDuqWgoG2XCAu4Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T13:56:11.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "BF"
+    },
+    {
+      "id": "eu.nordeus.topeleven.android",
+      "name": "Top Eleven Be a Soccer Manager",
+      "developer": "Nordeus",
+      "url": "https://play.google.com/store/apps/details?id=eu.nordeus.topeleven.android&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/syHICcpM4rKF6_vACJknkvXhHRBju_P7P93E3cNR701Rc3alNdC1NpTvPxlhDGvvgT9pHVzfR2gOvyvFesXGrHU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T16:22:14.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "BF"
+    },
+    {
+      "id": "com.rubygames.assassin",
+      "name": "Hunter Assassin",
+      "developer": "Ruby Games AS",
+      "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/PTxkeud-aHNGqo85reN70CUWs5DF0HTKNMIbM7lrxS1WdTD-G2X8X6szmD4CGlI7wg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T13:15:04.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "BF"
+    },
+    {
+      "id": "com.funcell.pawndon",
+      "name": "Pawn to Don - Crime Story",
+      "developer": "Funcell Games Pvt Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.funcell.pawndon&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/t9PABHlIc47dLtU4gIzY1uJN6BhveVlB2ipgvlhGaVGfqWk1ybed0eyBpZ3CwVSmTPyl-KfsHk7YpVYS3psCU9I",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T13:51:45.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "BF"
+    },
+    {
       "id": "com.iioo.sunset.sports.adventure.android",
       "name": "Savanna Sports Quest",
       "developer": "THE YARD GRILL LTD",
@@ -1106,6 +1134,34 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-26T06:32:40.000Z",
+      "genres": [
+        "Casino"
+      ],
+      "country": "BF"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T08:49:55.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "BF"
+    },
+    {
+      "id": "tinysoft.casino.slots.slot.machines",
+      "name": "777 Casino Slot Machines",
+      "developer": "TINYSOFT - slots, slot machines & casino games",
+      "url": "https://play.google.com/store/apps/details?id=tinysoft.casino.slots.slot.machines&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/MzN5TzoUHFxsjHjivXBnzVRuIuS8JShTfdZhJpabOMLWb50xqZ6uaw2-QfUIOU3Tbywe8qhMKXYMGuPG_DhU8g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T13:40:40.000Z",
       "genres": [
         "Casino"
       ],
@@ -1126,58 +1182,16 @@
       "country": "BF"
     },
     {
-      "id": "com.funcell.pawndon",
-      "name": "Pawn to Don - Crime Story",
-      "developer": "Funcell Games Pvt Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.funcell.pawndon&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/t9PABHlIc47dLtU4gIzY1uJN6BhveVlB2ipgvlhGaVGfqWk1ybed0eyBpZ3CwVSmTPyl-KfsHk7YpVYS3psCU9I",
+      "id": "com.chillingo.robberybobfree.android.row",
+      "name": "Robbery Bob - King of Sneak",
+      "developer": "Deca_Games",
+      "url": "https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/H3jfnH0UVoITHIsLUqrK5R-Gsw7_4sfzDdrND-uoZJAGQsYXCu20ccmnZcK74hYyGcY",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-03T13:51:45.000Z",
+      "releaseDate": "2025-10-23T13:25:32.000Z",
       "genres": [
-        "Role Playing"
-      ],
-      "country": "BF"
-    },
-    {
-      "id": "eu.nordeus.topeleven.android",
-      "name": "Top Eleven Be a Soccer Manager",
-      "developer": "Nordeus",
-      "url": "https://play.google.com/store/apps/details?id=eu.nordeus.topeleven.android&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/syHICcpM4rKF6_vACJknkvXhHRBju_P7P93E3cNR701Rc3alNdC1NpTvPxlhDGvvgT9pHVzfR2gOvyvFesXGrHU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T16:22:14.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "BF"
-    },
-    {
-      "id": "com.outfit7.mytalkingangelafree",
-      "name": "My Talking Angela",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/rdMpsc5VkkG4JGHIFqNREbWBzXxkZBHN7ZA86DqcZEMmtwWy58NLVDuqWgoG2XCAu4Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T13:56:11.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "BF"
-    },
-    {
-      "id": "tinysoft.casino.slots.slot.machines",
-      "name": "777 Casino Slot Machines",
-      "developer": "TINYSOFT - slots, slot machines & casino games",
-      "url": "https://play.google.com/store/apps/details?id=tinysoft.casino.slots.slot.machines&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/MzN5TzoUHFxsjHjivXBnzVRuIuS8JShTfdZhJpabOMLWb50xqZ6uaw2-QfUIOU3Tbywe8qhMKXYMGuPG_DhU8g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T13:40:40.000Z",
-      "genres": [
-        "Casino"
+        "Action"
       ],
       "country": "BF"
     },
@@ -1196,20 +1210,6 @@
       "country": "BF"
     },
     {
-      "id": "com.chillingo.robberybobfree.android.row",
-      "name": "Robbery Bob - King of Sneak",
-      "developer": "Deca_Games",
-      "url": "https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/H3jfnH0UVoITHIsLUqrK5R-Gsw7_4sfzDdrND-uoZJAGQsYXCu20ccmnZcK74hYyGcY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-23T13:25:32.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "BF"
-    },
-    {
       "id": "com.ludo.master.hippo.lite",
       "name": "Ludo Master™ Lite - Dice Game",
       "developer": "Hippo Lab",
@@ -1220,48 +1220,6 @@
       "releaseDate": "2025-12-12T09:13:01.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "BF"
-    },
-    {
-      "id": "water.sort.color.puzzle.offline.games",
-      "name": "Water Sort! Color Sort Puzzle",
-      "developer": "Bobodoo Game",
-      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/FGKE522gd5FND6fnX-_GdhSe9eoU0IqSBJ3gV8nUEYnOTMubjov8cvlC2FQXMgbb29NA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T17:49:10.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "BF"
-    },
-    {
-      "id": "com.winquizstoo.sportquizsapp",
-      "name": "Fanatics Sportsbook",
-      "developer": "Tech 9",
-      "url": "https://play.google.com/store/apps/details?id=com.winquizstoo.sportquizsapp&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/GDSMcOzR2UB_HxwI_RJ2QY1uf6lnqEP6sor3JaUENJKfzm1IrAwbpcMiNfwzQm-PO80G5JzbpZlMAVIDG4ZB",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T13:24:35.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "BF"
-    },
-    {
-      "id": "com.core.biggame.marble.android",
-      "name": "Marble Match Origin",
-      "developer": "LeisureLab Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.core.biggame.marble.android&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/7n2SG17uCxeJbpjA5ELLCGjDrHpUGLUsc7iiH-fISlaSBvEwAbhGxbz3Wy-GLYPDVm4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-21T09:31:15.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "BF"
     },
@@ -1280,14 +1238,28 @@
       "country": "BF"
     },
     {
-      "id": "com.king.candycrushsodasaga",
-      "name": "Candy Crush Soda Saga",
-      "developer": "King",
-      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsodasaga&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/EdYMqphxFLNjWYRDzZ0pFKxbYgfuMZarMdK0RCi-NCrvPztYRbBx8r1aRVw4trzAJ-s",
+      "id": "water.sort.color.puzzle.offline.games",
+      "name": "Water Sort! Color Sort Puzzle",
+      "developer": "Bobodoo Game",
+      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/FGKE522gd5FND6fnX-_GdhSe9eoU0IqSBJ3gV8nUEYnOTMubjov8cvlC2FQXMgbb29NA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-03T12:16:10.000Z",
+      "releaseDate": "2026-03-06T17:49:10.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "BF"
+    },
+    {
+      "id": "com.core.biggame.marble.android",
+      "name": "Marble Match Origin",
+      "developer": "LeisureLab Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.core.biggame.marble.android&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/7n2SG17uCxeJbpjA5ELLCGjDrHpUGLUsc7iiH-fISlaSBvEwAbhGxbz3Wy-GLYPDVm4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-21T09:31:15.000Z",
       "genres": [
         "Casual"
       ],
@@ -1308,6 +1280,34 @@
       "country": "BF"
     },
     {
+      "id": "com.king.candycrushsodasaga",
+      "name": "Candy Crush Soda Saga",
+      "developer": "King",
+      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsodasaga&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/EdYMqphxFLNjWYRDzZ0pFKxbYgfuMZarMdK0RCi-NCrvPztYRbBx8r1aRVw4trzAJ-s",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T12:16:10.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "BF"
+    },
+    {
+      "id": "com.winquizstoo.sportquizsapp",
+      "name": "Fanatics Sportsbook",
+      "developer": "Tech 9",
+      "url": "https://play.google.com/store/apps/details?id=com.winquizstoo.sportquizsapp&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/GDSMcOzR2UB_HxwI_RJ2QY1uf6lnqEP6sor3JaUENJKfzm1IrAwbpcMiNfwzQm-PO80G5JzbpZlMAVIDG4ZB",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T13:24:35.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "BF"
+    },
+    {
       "id": "com.ta.strike.ops",
       "name": "FPS Strike Ops : Modern Arena",
       "developer": "FPS Shooter & Action Game",
@@ -1318,20 +1318,6 @@
       "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "BF"
-    },
-    {
-      "id": "com.tencent.ig",
-      "name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-29T01:31:07.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "BF"
     },
@@ -1364,14 +1350,14 @@
       "country": "BF"
     },
     {
-      "id": "com.animal.hunter.sniper",
-      "name": "Animal Hunter: Wild Shooting",
-      "developer": "Fun Fun Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.animal.hunter.sniper&hl=en&gl=BF",
-      "artwork": "https://play-lh.googleusercontent.com/pd0Voe0O6zBPbVAdSBaVuBdQqiVSHe8V3wIhtuYpuIZS5Owam7E35TGxGkxHP3bUYf4",
+      "id": "com.tencent.ig",
+      "name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-02T10:54:02.000Z",
+      "releaseDate": "2025-12-29T01:31:07.000Z",
       "genres": [
         "Action"
       ],
@@ -1388,6 +1374,20 @@
       "releaseDate": "2026-01-29T02:52:31.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "BF"
+    },
+    {
+      "id": "com.animal.hunter.sniper",
+      "name": "Animal Hunter: Wild Shooting",
+      "developer": "Fun Fun Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.animal.hunter.sniper&hl=en&gl=BF",
+      "artwork": "https://play-lh.googleusercontent.com/pd0Voe0O6zBPbVAdSBaVuBdQqiVSHe8V3wIhtuYpuIZS5Owam7E35TGxGkxHP3bUYf4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T10:54:02.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "BF"
     },

@@ -1,8 +1,36 @@
 {
   "country": "BD",
   "store": "google",
-  "updatedAt": "2026-03-06T23:56:57.676Z",
+  "updatedAt": "2026-03-07T10:40:13.272Z",
   "new": [
+    {
+      "id": "com.atesgamestudio.rollance",
+      "name": "Rollance : Adventure Balls",
+      "developer": "CASUAL AZUR GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.atesgamestudio.rollance&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/nvF8c1Xym9P4X8lva7irs84bdeHUYcvhgToaQM6RgYn372anFhNOD_ZlwdD5pOoF9Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-07T07:22:07.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "BD"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T16:58:46.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "BD"
+    },
     {
       "id": "io.voodoo.holeio",
       "name": "Hole.io",
@@ -56,20 +84,6 @@
       "releaseDate": "2026-03-06T08:03:51.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "BD"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T06:47:57.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "BD"
     },
@@ -688,20 +702,6 @@
         "Racing"
       ],
       "country": "BD"
-    },
-    {
-      "id": "com.atesgamestudio.rollance",
-      "name": "Rollance : Adventure Balls",
-      "developer": "CASUAL AZUR GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.atesgamestudio.rollance&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/nvF8c1Xym9P4X8lva7irs84bdeHUYcvhgToaQM6RgYn372anFhNOD_ZlwdD5pOoF9Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T11:42:37.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "BD"
     }
   ],
   "updated": [
@@ -818,34 +818,6 @@
       "country": "BD"
     },
     {
-      "id": "com.wildspike.wormszone",
-      "name": "Worms Zone .io - Hungry Snake",
-      "developer": "CASUAL AZUR GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/_3HpCRk6_njK_LIknzcmgILuo6PGD-sH-fGs6UZFM3MrBzYULVr3M0cpfWahEH34Zmw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T13:04:41.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "BD"
-    },
-    {
-      "id": "com.kishor.VehicleAr",
-      "name": "Vehicle AR Drive",
-      "developer": "KLD Apptech",
-      "url": "https://play.google.com/store/apps/details?id=com.kishor.VehicleAr&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/ngkMOXPXdUT89PTEAO4ShaY-_FBH3AbhQQLxftQY1stzOHoFPXEfkMFFKR_6GT7FZOM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2024-09-08T13:57:14.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "BD"
-    },
-    {
       "id": "com.Rohit.IndianBikes",
       "name": "Indian Bikes Driving 3D",
       "developer": "Rohit Gaming Studio",
@@ -856,6 +828,20 @@
       "releaseDate": "2026-02-03T16:47:32.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "BD"
+    },
+    {
+      "id": "com.wildspike.wormszone",
+      "name": "Worms Zone .io - Hungry Snake",
+      "developer": "CASUAL AZUR GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/_3HpCRk6_njK_LIknzcmgILuo6PGD-sH-fGs6UZFM3MrBzYULVr3M0cpfWahEH34Zmw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T13:04:41.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "BD"
     },
@@ -902,16 +888,16 @@
       "country": "BD"
     },
     {
-      "id": "com.outfit7.mytalkingtomfree",
-      "name": "My Talking Tom",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/NYdtBII04HwY8fU2-BgU7_xAYJwfz2TUTou3D5R0lGiIjeyAy0n4oLDJdwUXII5sdA",
+      "id": "com.kishor.VehicleAr",
+      "name": "Vehicle AR Drive",
+      "developer": "KLD Apptech",
+      "url": "https://play.google.com/store/apps/details?id=com.kishor.VehicleAr&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/ngkMOXPXdUT89PTEAO4ShaY-_FBH3AbhQQLxftQY1stzOHoFPXEfkMFFKR_6GT7FZOM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T11:55:53.000Z",
+      "releaseDate": "2024-09-08T13:57:14.000Z",
       "genres": [
-        "Casual"
+        "Simulation"
       ],
       "country": "BD"
     },
@@ -940,6 +926,20 @@
       "releaseDate": "2026-01-19T09:51:08.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "BD"
+    },
+    {
+      "id": "com.outfit7.mytalkingtomfree",
+      "name": "My Talking Tom",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/NYdtBII04HwY8fU2-BgU7_xAYJwfz2TUTou3D5R0lGiIjeyAy0n4oLDJdwUXII5sdA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T11:55:53.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "BD"
     },
@@ -986,20 +986,6 @@
       "country": "BD"
     },
     {
-      "id": "com.fingersoft.hillclimb",
-      "name": "Hill Climb Racing",
-      "developer": "Fingersoft",
-      "url": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/N0UxhBVUmx8s7y3F7Kqre2AcpXyPDKAp8nHjiPPoOONc_sfugHCYMjBpbUKCMlK_XUs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-23T08:13:54.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "BD"
-    },
-    {
       "id": "com.dongbasiki.snowrace3d.snowball",
       "name": "Ice Runner Battle: Snow Race",
       "developer": "Dongbasiki",
@@ -1014,6 +1000,34 @@
       "country": "BD"
     },
     {
+      "id": "com.flightsimulator.airplane3d.airportsimulator.airplane.flying",
+      "name": "Flight Simulator Game",
+      "developer": "HiveMind Games Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.flightsimulator.airplane3d.airportsimulator.airplane.flying&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/ZIaXy61RgqKP2sc_WdoX1k5ZTvOBMoCvgFwGjZk8Ph0Cha6pm816h-MHMMZcuZpUCOA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T17:56:45.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "BD"
+    },
+    {
+      "id": "com.fingersoft.hillclimb",
+      "name": "Hill Climb Racing",
+      "developer": "Fingersoft",
+      "url": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/N0UxhBVUmx8s7y3F7Kqre2AcpXyPDKAp8nHjiPPoOONc_sfugHCYMjBpbUKCMlK_XUs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-23T08:13:54.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "BD"
+    },
+    {
       "id": "com.outfit7.mytalkingtom2",
       "name": "My Talking Tom 2: Pet Game",
       "developer": "Outfit7 Limited",
@@ -1022,6 +1036,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-20T11:25:29.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "BD"
+    },
+    {
+      "id": "com.LZkJw.GuessHitElite",
+      "name": "KG999 GuessHitElite",
+      "developer": "PixGames",
+      "url": "https://play.google.com/store/apps/details?id=com.LZkJw.GuessHitElite&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/7pecStha_xCr7NnCXcnNbhBxjVol3DRnBM92My71DCiQNc6f9CxHHpoqt2cIhbIZx407lHopMuiJ5pPvDMYqtA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T06:20:23.000Z",
       "genres": [
         "Casual"
       ],
@@ -1112,20 +1140,6 @@
       "country": "BD"
     },
     {
-      "id": "io.voodoo.holeio",
-      "name": "Hole.io",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T13:15:52.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "BD"
-    },
-    {
       "id": "com.netease.newspike",
       "name": "Blood Strike - FPS for all",
       "developer": "NetEase Games",
@@ -1136,20 +1150,6 @@
       "releaseDate": "2026-02-25T07:05:59.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "BD"
-    },
-    {
-      "id": "com.firsttouchgames.dls7",
-      "name": "Dream League Soccer 2026",
-      "developer": "First Touch Games Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T18:33:48.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "BD"
     },
@@ -1168,16 +1168,30 @@
       "country": "BD"
     },
     {
-      "id": "com.LZkJw.GuessHitElite",
-      "name": "KG999 GuessHitElite",
-      "developer": "PixGames",
-      "url": "https://play.google.com/store/apps/details?id=com.LZkJw.GuessHitElite&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/7pecStha_xCr7NnCXcnNbhBxjVol3DRnBM92My71DCiQNc6f9CxHHpoqt2cIhbIZx407lHopMuiJ5pPvDMYqtA",
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T06:20:23.000Z",
+      "releaseDate": "2026-03-06T13:15:52.000Z",
       "genres": [
-        "Casual"
+        "Arcade"
+      ],
+      "country": "BD"
+    },
+    {
+      "id": "com.firsttouchgames.dls7",
+      "name": "Dream League Soccer 2026",
+      "developer": "First Touch Games Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T18:33:48.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "BD"
     },
@@ -1210,16 +1224,16 @@
       "country": "BD"
     },
     {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "id": "com.creations.runnergame",
+      "name": "Kooply Run™: Play and Create!",
+      "developer": "KOOPLY",
+      "url": "https://play.google.com/store/apps/details?id=com.creations.runnergame&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/gMwKsn2RI__kMbkcH3Ta6JljGJnHdcZaZ_FDpIVUfQXjv9hhoiVLy_WCUQPJI766IQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-04T08:49:55.000Z",
+      "releaseDate": "2026-03-04T10:47:21.000Z",
       "genres": [
-        "Simulation"
+        "Arcade"
       ],
       "country": "BD"
     },
@@ -1238,16 +1252,16 @@
       "country": "BD"
     },
     {
-      "id": "com.creations.runnergame",
-      "name": "Kooply Run™: Play and Create!",
-      "developer": "KOOPLY",
-      "url": "https://play.google.com/store/apps/details?id=com.creations.runnergame&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/gMwKsn2RI__kMbkcH3Ta6JljGJnHdcZaZ_FDpIVUfQXjv9hhoiVLy_WCUQPJI766IQ",
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-04T10:47:21.000Z",
+      "releaseDate": "2026-03-04T08:49:55.000Z",
       "genres": [
-        "Arcade"
+        "Simulation"
       ],
       "country": "BD"
     },
@@ -1294,58 +1308,16 @@
       "country": "BD"
     },
     {
-      "id": "com.flightsimulator.airplane3d.airportsimulator.airplane.flying",
-      "name": "Flight Simulator Game",
-      "developer": "HiveMind Games Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.flightsimulator.airplane3d.airportsimulator.airplane.flying&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/ZIaXy61RgqKP2sc_WdoX1k5ZTvOBMoCvgFwGjZk8Ph0Cha6pm816h-MHMMZcuZpUCOA",
+      "id": "com.dino.race.master",
+      "name": "Car Race",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T17:56:45.000Z",
+      "releaseDate": "2026-01-09T02:55:19.000Z",
       "genres": [
-        "Simulation"
-      ],
-      "country": "BD"
-    },
-    {
-      "id": "com.vincentb.MobControl",
-      "name": "Mob Control",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T16:59:15.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "BD"
-    },
-    {
-      "id": "com.imangi.templerun",
-      "name": "Temple Run",
-      "developer": "Imangi Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/onlNBInQHIZtB2rY24BwrEsUUKwE753ao1BAvvhOw2ePEN1IHIUjaR3gvlGd3jyKTdg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T09:37:31.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "BD"
-    },
-    {
-      "id": "com.xgame.VehicleDriving3D",
-      "name": "Real Driving: Vehicle & Park",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T06:55:58.000Z",
-      "genres": [
-        "Simulation"
+        "Racing"
       ],
       "country": "BD"
     },
@@ -1364,6 +1336,62 @@
       "country": "BD"
     },
     {
+      "id": "com.xgame.VehicleDriving3D",
+      "name": "Real Driving: Vehicle & Park",
+      "developer": "XGAME STUDIO",
+      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T06:55:58.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "BD"
+    },
+    {
+      "id": "com.app.cheers",
+      "name": "BDOKThink Blocktopia",
+      "developer": "Cheerscart®",
+      "url": "https://play.google.com/store/apps/details?id=com.app.cheers&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/yLuNE59tR4gBQZyZi1D0lSuU13lpSOsU_F_2j5fSkcKDN7Ux2imetidQxmaehsuXHSq6aeahLQ4RTJlIdVvnPGA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T09:25:47.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "BD"
+    },
+    {
+      "id": "com.miniclip.drone1",
+      "name": "War Drone: 3D Shooting Games",
+      "developer": "Mobile Gaming Studios Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.drone1&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/quIsXpM_hTDjWCfCNHwROYTMyiOHJ3wdkOb8vBRq_6IP63Wv1d68qLC1mvevxX3VOw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T17:28:35.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "BD"
+    },
+    {
+      "id": "com.vincentb.MobControl",
+      "name": "Mob Control",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=BD",
+      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T16:59:15.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "BD"
+    },
+    {
       "id": "com.ea.gp.fifamobile",
       "name": "EA SPORTS FC™ Mobile Soccer 26",
       "developer": "ELECTRONIC ARTS",
@@ -1374,34 +1402,6 @@
       "releaseDate": "2026-02-03T01:41:34.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "BD"
-    },
-    {
-      "id": "com.xgame.trafficmoto",
-      "name": "Moto Race Go",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.xgame.trafficmoto&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/1Q2tg9zP1CbjxZZAZPLxVaE9WNbJqLWAzY38MpCpNANKi9j_oSeEk2UumPzNHlbUL1oJ3ZHWgJMpqa4ssLruNg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T10:36:06.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "BD"
-    },
-    {
-      "id": "com.bubbleshooter.popbubbles.collectcards",
-      "name": "Bubble Shooter",
-      "developer": "IVYGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.collectcards&hl=en&gl=BD",
-      "artwork": "https://play-lh.googleusercontent.com/C0hM-Dn_TvuA0gmg9PnveFMyuDOunQO8hhIWJGatOhO9ZIlZxKfes0aqnfHniAcSUBZp",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T07:43:52.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "BD"
     }
