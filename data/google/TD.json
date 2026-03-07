@@ -1,7 +1,7 @@
 {
   "country": "TD",
   "store": "google",
-  "updatedAt": "2026-03-06T22:50:38.920Z",
+  "updatedAt": "2026-03-07T09:15:49.933Z",
   "new": [
     {
       "id": "com.hexa.master.puzzle.match3d",
@@ -28,6 +28,34 @@
       "releaseDate": "2026-03-06T17:49:10.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "TD"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T16:58:46.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "TD"
+    },
+    {
+      "id": "com.gamebasics.ufm",
+      "name": "Ultimate Football Manager",
+      "developer": "Gamebasics BV",
+      "url": "https://play.google.com/store/apps/details?id=com.gamebasics.ufm&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/jAwq8uTCsTK4POOhZjIUN1cVjzE670yBvAxoHAZalkihu50AUMCKwad7o6Zlu_M8yw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T15:12:34.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "TD"
     },
@@ -74,20 +102,6 @@
       "country": "TD"
     },
     {
-      "id": "com.puzzlegames.puzzlebrickslegend",
-      "name": "Color Block: Combo Blast",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.puzzlebrickslegend&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T09:43:26.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "TD"
-    },
-    {
       "id": "car.parking.jam.solver.puzzle.games",
       "name": "Car Jam Solver: Traffic Jam",
       "developer": "Ladaneta Games",
@@ -96,20 +110,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-06T09:14:16.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "TD"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T06:47:57.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -354,6 +354,20 @@
       "country": "TD"
     },
     {
+      "id": "com.alpg.yatzy",
+      "name": "Yatzy Classic - Dice Games",
+      "developer": "Absolute Lucky Pig Games",
+      "url": "https://play.google.com/store/apps/details?id=com.alpg.yatzy&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/AQY4WMury_OAUEFtLi2jkpcn12WrfDYvL3Sh_1BhgptZLTUS9fJqd_vA2TlLJ_N7BpzN",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T20:01:08.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "TD"
+    },
+    {
       "id": "eu.nordeus.topeleven.android",
       "name": "Top Eleven Be a Soccer Manager",
       "developer": "Nordeus",
@@ -578,20 +592,6 @@
       "country": "TD"
     },
     {
-      "id": "com.knockdown.bottle.game",
-      "name": "Bottle Shooting Game",
-      "developer": "Sigma App Labs",
-      "url": "https://play.google.com/store/apps/details?id=com.knockdown.bottle.game&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/n3Qg8MF8ftypkUI0n2SQ-90QvKDaPYP8kwrsu0MoUOzS6uc2x2veRLfPb1r9etPa1ps",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T03:45:44.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "TD"
-    },
-    {
       "id": "com.NikitaPokruchin.ALTCITYOnline",
       "name": "Grand Hustle RP: Online Game",
       "developer": "LEVEL 26 GAMES - FZCO",
@@ -783,7 +783,7 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T06:47:57.000Z",
+      "releaseDate": "2026-03-06T16:58:46.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -818,16 +818,16 @@
       "country": "TD"
     },
     {
-      "id": "crypto.cosmic.simulator.app",
-      "name": "CryptoCosmic Trading Simulator",
-      "developer": "Cosmic Champions",
-      "url": "https://play.google.com/store/apps/details?id=crypto.cosmic.simulator.app&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/Sy_j56SjWSW5-32j5Z5P6h4OsQ4Iw0tKHZNu9lgSbg5ahJk9J6ZIhHkC92YW-Urdbw",
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T10:17:53.000Z",
+      "releaseDate": "2026-03-06T14:00:43.000Z",
       "genres": [
-        "Educational"
+        "Board"
       ],
       "country": "TD"
     },
@@ -842,20 +842,6 @@
       "releaseDate": "2025-10-27T12:13:41.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "TD"
-    },
-    {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T14:00:43.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "TD"
     },
@@ -888,6 +874,20 @@
       "country": "TD"
     },
     {
+      "id": "crypto.cosmic.simulator.app",
+      "name": "CryptoCosmic Trading Simulator",
+      "developer": "Cosmic Champions",
+      "url": "https://play.google.com/store/apps/details?id=crypto.cosmic.simulator.app&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/Sy_j56SjWSW5-32j5Z5P6h4OsQ4Iw0tKHZNu9lgSbg5ahJk9J6ZIhHkC92YW-Urdbw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T10:17:53.000Z",
+      "genres": [
+        "Educational"
+      ],
+      "country": "TD"
+    },
+    {
       "id": "com.ludo.master.hippo",
       "name": "Ludo Master™ - Ludo Board Game",
       "developer": "Hippo Lab",
@@ -916,20 +916,6 @@
       "country": "TD"
     },
     {
-      "id": "com.firsttouchgames.dls7",
-      "name": "Dream League Soccer 2026",
-      "developer": "First Touch Games Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T18:33:48.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "TD"
-    },
-    {
       "id": "com.refuelgames.rally",
       "name": "Rally Fury - Extreme Racing",
       "developer": "Refuel Games Pty Ltd",
@@ -944,16 +930,16 @@
       "country": "TD"
     },
     {
-      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
-      "name": "Shoot Bubble - Pop Bubbles",
-      "developer": "IVYGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
+      "id": "com.firsttouchgames.dls7",
+      "name": "Dream League Soccer 2026",
+      "developer": "First Touch Games Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-05T10:52:13.000Z",
+      "releaseDate": "2026-02-27T18:33:48.000Z",
       "genres": [
-        "Casual"
+        "Sports"
       ],
       "country": "TD"
     },
@@ -968,6 +954,20 @@
       "releaseDate": "2026-03-04T12:49:52.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "TD"
+    },
+    {
+      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
+      "name": "Shoot Bubble - Pop Bubbles",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T10:52:13.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "TD"
     },
@@ -1014,16 +1014,16 @@
       "country": "TD"
     },
     {
-      "id": "com.zams.car.parking.game",
-      "name": "Prado Parking Game: Car Games",
-      "developer": "Zamsolutions",
-      "url": "https://play.google.com/store/apps/details?id=com.zams.car.parking.game&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/cn2Nwf-s0dzhRf-3XsFeV46-pYVhsx1FR6Pwwrot9GomqObP6-WYTbDYFAvk0Zg-Sw",
+      "id": "com.run.tower.defense",
+      "name": "Kingshot",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T11:51:55.000Z",
+      "releaseDate": "2026-02-27T15:06:36.000Z",
       "genres": [
-        "Role Playing"
+        "Strategy"
       ],
       "country": "TD"
     },
@@ -1038,20 +1038,6 @@
       "releaseDate": "2026-03-05T16:22:25.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "TD"
-    },
-    {
-      "id": "com.alien.shooter.galaxy.attack",
-      "name": "Galaxy Attack: Shooting Game",
-      "developer": "1SOFT",
-      "url": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/0VU1tELbaW2f8vgJYqW_RyZF6DrWY177bYFPt8oXT5esZzFl4V2c39zWlxhDWKo5Mtc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T04:17:39.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "TD"
     },
@@ -1084,30 +1070,16 @@
       "country": "TD"
     },
     {
-      "id": "com.run.tower.defense",
-      "name": "Kingshot",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
+      "id": "com.alien.shooter.galaxy.attack",
+      "name": "Galaxy Attack: Shooting Game",
+      "developer": "1SOFT",
+      "url": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/0VU1tELbaW2f8vgJYqW_RyZF6DrWY177bYFPt8oXT5esZzFl4V2c39zWlxhDWKo5Mtc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T15:06:36.000Z",
+      "releaseDate": "2026-03-05T04:17:39.000Z",
       "genres": [
-        "Strategy"
-      ],
-      "country": "TD"
-    },
-    {
-      "id": "com.real.car.racing.stunt.master.driving.game",
-      "name": "Real Car Driving Midnight Club",
-      "developer": "Zendios",
-      "url": "https://play.google.com/store/apps/details?id=com.real.car.racing.stunt.master.driving.game&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/YGmvUcIoR3_oy0VW3kBtvu5cKvifTKZuaNrETNxHobbK8mbLQMwxA_KUURZCrZF2NGc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T11:25:02.000Z",
-      "genres": [
-        "Racing"
+        "Arcade"
       ],
       "country": "TD"
     },
@@ -1126,6 +1098,34 @@
       "country": "TD"
     },
     {
+      "id": "com.real.car.racing.stunt.master.driving.game",
+      "name": "Real Car Driving Midnight Club",
+      "developer": "Zendios",
+      "url": "https://play.google.com/store/apps/details?id=com.real.car.racing.stunt.master.driving.game&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/YGmvUcIoR3_oy0VW3kBtvu5cKvifTKZuaNrETNxHobbK8mbLQMwxA_KUURZCrZF2NGc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T11:25:02.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "TD"
+    },
+    {
+      "id": "com.pf.bmx.cycle.games.extreme.bicycle.games",
+      "name": "BMX Cycle Extreme Bicycle Game",
+      "developer": "PlayFlix",
+      "url": "https://play.google.com/store/apps/details?id=com.pf.bmx.cycle.games.extreme.bicycle.games&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/wuJ5F_BSGLIphrT3sth8YLpWQ0vkuobI-z1Dr0G1ZfCXWoYzwaa7Z1CHKToEGombsA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T05:46:18.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "TD"
+    },
+    {
       "id": "com.soccer.score.star",
       "name": "Soccer Superstar",
       "developer": "Real Freestyle Soccer",
@@ -1136,6 +1136,34 @@
       "releaseDate": "2026-01-29T15:32:33.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "TD"
+    },
+    {
+      "id": "eu.nordeus.topeleven.android",
+      "name": "Top Eleven Be a Soccer Manager",
+      "developer": "Nordeus",
+      "url": "https://play.google.com/store/apps/details?id=eu.nordeus.topeleven.android&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/syHICcpM4rKF6_vACJknkvXhHRBju_P7P93E3cNR701Rc3alNdC1NpTvPxlhDGvvgT9pHVzfR2gOvyvFesXGrHU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T16:22:14.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "TD"
+    },
+    {
+      "id": "com.circus.balls3D.ball.run.games.arena",
+      "name": "Circus Balls - 3D Ball Games",
+      "developer": "hRango",
+      "url": "https://play.google.com/store/apps/details?id=com.circus.balls3D.ball.run.games.arena&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/M6koBsUoagAWsJAs4GtENsCkLZKjHIPhuvsyXmgMWfUpqJWh98heEt_oUt0iNcPKBvJZ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T17:00:57.000Z",
+      "genres": [
+        "Role Playing"
       ],
       "country": "TD"
     },
@@ -1168,20 +1196,6 @@
       "country": "TD"
     },
     {
-      "id": "com.mikehill.tanchishelaizhan",
-      "name": "Snake Battle: Color Mode",
-      "developer": "chenqiu",
-      "url": "https://play.google.com/store/apps/details?id=com.mikehill.tanchishelaizhan&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/h_cAu9GSMCfDOKw7ur8y17XKwK9MgK70W3XIIIW20qsNroQ8A5SYJnUaXt5A7ZTqHw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-18T11:13:22.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "TD"
-    },
-    {
       "id": "com.ludo.king",
       "name": "Ludo King®",
       "developer": "Gametion",
@@ -1196,44 +1210,16 @@
       "country": "TD"
     },
     {
-      "id": "com.pf.bmx.cycle.games.extreme.bicycle.games",
-      "name": "BMX Cycle Extreme Bicycle Game",
-      "developer": "PlayFlix",
-      "url": "https://play.google.com/store/apps/details?id=com.pf.bmx.cycle.games.extreme.bicycle.games&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/wuJ5F_BSGLIphrT3sth8YLpWQ0vkuobI-z1Dr0G1ZfCXWoYzwaa7Z1CHKToEGombsA",
+      "id": "com.mikehill.tanchishelaizhan",
+      "name": "Snake Battle: Color Mode",
+      "developer": "chenqiu",
+      "url": "https://play.google.com/store/apps/details?id=com.mikehill.tanchishelaizhan&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/h_cAu9GSMCfDOKw7ur8y17XKwK9MgK70W3XIIIW20qsNroQ8A5SYJnUaXt5A7ZTqHw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T05:46:18.000Z",
+      "releaseDate": "2025-10-18T11:13:22.000Z",
       "genres": [
-        "Racing"
-      ],
-      "country": "TD"
-    },
-    {
-      "id": "eu.nordeus.topeleven.android",
-      "name": "Top Eleven Be a Soccer Manager",
-      "developer": "Nordeus",
-      "url": "https://play.google.com/store/apps/details?id=eu.nordeus.topeleven.android&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/syHICcpM4rKF6_vACJknkvXhHRBju_P7P93E3cNR701Rc3alNdC1NpTvPxlhDGvvgT9pHVzfR2gOvyvFesXGrHU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T16:22:14.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "TD"
-    },
-    {
-      "id": "com.badunoglobal.mountain.climbcar.offroad.raccing",
-      "name": "Car Race 3D: Mountain Climb",
-      "developer": "YoZo Global",
-      "url": "https://play.google.com/store/apps/details?id=com.badunoglobal.mountain.climbcar.offroad.raccing&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/D-JeQhqU4TpQFJdyJphAn9ENipN0X1zM9b6PcnUhuy1G0qSmPO34x4QDWlMBRHwuMg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T09:53:53.000Z",
-      "genres": [
-        "Simulation"
+        "Action"
       ],
       "country": "TD"
     },
@@ -1252,20 +1238,6 @@
       "country": "TD"
     },
     {
-      "id": "com.circus.balls3D.ball.run.games.arena",
-      "name": "Circus Balls - 3D Ball Games",
-      "developer": "hRango",
-      "url": "https://play.google.com/store/apps/details?id=com.circus.balls3D.ball.run.games.arena&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/M6koBsUoagAWsJAs4GtENsCkLZKjHIPhuvsyXmgMWfUpqJWh98heEt_oUt0iNcPKBvJZ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T17:00:57.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "TD"
-    },
-    {
       "id": "com.dts.freefireth",
       "name": "Free Fire: Lost Treasure",
       "developer": "GARENA INTERNATIONAL I",
@@ -1276,34 +1248,6 @@
       "releaseDate": "2026-02-04T06:43:26.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "TD"
-    },
-    {
-      "id": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
-      "name": "Ramp Car Games: GT Car Stunts",
-      "developer": "Fun Drive Games",
-      "url": "https://play.google.com/store/apps/details?id=com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/AkcgFr9M2qfIcp1fkrQS8Ny6Ludis4_fBO0_VvfdWLJtrRpu0O-2T1v4mn0b1t59yA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T11:35:46.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "TD"
-    },
-    {
-      "id": "com.gg.highway.racing.car.rider",
-      "name": "Real Highway Car Racing Games",
-      "developer": "CupTie Fun Games",
-      "url": "https://play.google.com/store/apps/details?id=com.gg.highway.racing.car.rider&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/esaumZWqvMwVabMGc4bPXxLOq-eLnSYtRRwyDVhkHYyn1fC170JqBer4rUaL0cTh_iI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T07:28:13.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "TD"
     },
@@ -1322,28 +1266,56 @@
       "country": "TD"
     },
     {
-      "id": "com.ffgames.racingincar2",
-      "name": "Racing in Car 2",
-      "developer": "ckgames",
-      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
+      "id": "com.badunoglobal.mountain.climbcar.offroad.raccing",
+      "name": "Car Race 3D: Mountain Climb",
+      "developer": "YoZo Global",
+      "url": "https://play.google.com/store/apps/details?id=com.badunoglobal.mountain.climbcar.offroad.raccing&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/D-JeQhqU4TpQFJdyJphAn9ENipN0X1zM9b6PcnUhuy1G0qSmPO34x4QDWlMBRHwuMg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-19T14:55:06.000Z",
+      "releaseDate": "2026-03-03T09:53:53.000Z",
       "genres": [
-        "Racing"
+        "Simulation"
       ],
       "country": "TD"
     },
     {
-      "id": "com.tas.westernsurvival.shooterwar",
-      "name": "Western Survival Shooting Game",
-      "developer": "Team AS Studio Pvt Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.tas.westernsurvival.shooterwar&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/Ze5ic1Q9geRp3vrDCVx-BbZWSTLfhpN8xR95OIQxTKgVpwC_SbhWT52kWDdNroj4bLk",
+      "id": "com.igs.real.car.parking.driving.school.sim",
+      "name": "Car Games : Driving School Sim",
+      "developer": "Innovative Gaming Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.igs.real.car.parking.driving.school.sim&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/QtsaFYJS3knUvISk2m95oYIw-A1jwxI3qHweM_Z7tkjUcShx5ERg7FIvxqMT5vPs__Y",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-02T12:16:52.000Z",
+      "releaseDate": "2026-02-13T01:09:56.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "TD"
+    },
+    {
+      "id": "com.zams.car.parking.game",
+      "name": "Prado Parking Game: Car Games",
+      "developer": "Zamsolutions",
+      "url": "https://play.google.com/store/apps/details?id=com.zams.car.parking.game&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/cn2Nwf-s0dzhRf-3XsFeV46-pYVhsx1FR6Pwwrot9GomqObP6-WYTbDYFAvk0Zg-Sw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T11:51:55.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "TD"
+    },
+    {
+      "id": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
+      "name": "Ramp Car Games: GT Car Stunts",
+      "developer": "Fun Drive Games",
+      "url": "https://play.google.com/store/apps/details?id=com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/AkcgFr9M2qfIcp1fkrQS8Ny6Ludis4_fBO0_VvfdWLJtrRpu0O-2T1v4mn0b1t59yA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T11:35:46.000Z",
       "genres": [
         "Strategy"
       ],
@@ -1364,6 +1336,20 @@
       "country": "TD"
     },
     {
+      "id": "com.tas.westernsurvival.shooterwar",
+      "name": "Western Survival Shooting Game",
+      "developer": "Team AS Studio Pvt Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.tas.westernsurvival.shooterwar&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/Ze5ic1Q9geRp3vrDCVx-BbZWSTLfhpN8xR95OIQxTKgVpwC_SbhWT52kWDdNroj4bLk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T12:16:52.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "TD"
+    },
+    {
       "id": "com.bubbleshooter.popbubbles.collectcards",
       "name": "Bubble Shooter",
       "developer": "IVYGAMES",
@@ -1378,30 +1364,44 @@
       "country": "TD"
     },
     {
-      "id": "com.miniclip.realsniper",
-      "name": "Pure Sniper: Gun Shooter Games",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.realsniper&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/D3NtyLCIKLg2VR4hUNyGVgBWICfHj5kkKL6mxGB0n4wLKMGdvhibY66VFPd7aSOR1TI",
+      "id": "com.gp.pilot.simulator.airplanegames",
+      "name": "Pilot Simulator: Airplane Game",
+      "developer": "GamePark",
+      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-29T21:05:43.000Z",
+      "releaseDate": "2026-02-13T10:51:12.000Z",
       "genres": [
-        "Action"
+        "Simulation"
       ],
       "country": "TD"
     },
     {
-      "id": "beetles.puzzle.solitaire",
-      "name": "Solitaire - Classic Card Games",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=beetles.puzzle.solitaire&hl=en&gl=TD",
-      "artwork": "https://play-lh.googleusercontent.com/jnlaXXNYdycu0thEz09T--99QOk_Q6MJOUjBQ4Yqku5-hVXP7B-bbsfef677Fc_XaJQ",
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-05T07:55:04.000Z",
+      "releaseDate": "2025-12-19T14:55:06.000Z",
       "genres": [
-        "Card"
+        "Racing"
+      ],
+      "country": "TD"
+    },
+    {
+      "id": "com.freeplaysultanov.shootit",
+      "name": "Shoot Out: Gun Shooting Games",
+      "developer": "Freeplay Inc",
+      "url": "https://play.google.com/store/apps/details?id=com.freeplaysultanov.shootit&hl=en&gl=TD",
+      "artwork": "https://play-lh.googleusercontent.com/CTsQOaxdnNOeomvRHm9e_-_JWIOoEIzHti1l53cBHNUcgzL07xQMtr6c_NyhYwoapw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T13:30:18.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "TD"
     }
