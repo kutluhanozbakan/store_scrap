@@ -1,8 +1,22 @@
 {
   "country": "AM",
   "store": "google",
-  "updatedAt": "2026-03-07T16:33:09.218Z",
+  "updatedAt": "2026-03-07T21:46:22.221Z",
   "new": [
+    {
+      "id": "com.atesgamestudio.rollance",
+      "name": "Rollance : Adventure Balls",
+      "developer": "CASUAL AZUR GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.atesgamestudio.rollance&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/F1SXXhhAtszuFFGchLwoqleE5OQ5wBqPWAFMKcFxXii7u8WsDBzS47xUr5ryXZJAdg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-07T07:22:07.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "AM"
+    },
     {
       "id": "com.crazylabs.amaze.game",
       "name": "AMAZE!",
@@ -60,20 +74,6 @@
       "country": "AM"
     },
     {
-      "id": "com.erikghonyan.alias",
-      "name": "Alias",
-      "developer": "Erik Ghonyan",
-      "url": "https://play.google.com/store/apps/details?id=com.erikghonyan.alias&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/z51QcdFNaomOeMaJy8X0Fy5rusgnvpmoB4UevtRLR-M4_9NzUQji7YVU08J3vUL10w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T16:21:27.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "AM"
-    },
-    {
       "id": "com.higame.brain.twist.tricky.puzzle",
       "name": "Prison Puzzle: Brain Twist",
       "developer": "HIGAME LTD.",
@@ -98,20 +98,6 @@
       "releaseDate": "2026-03-06T15:08:22.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "AM"
-    },
-    {
-      "id": "com.tfgco.apps.coloring.free.color.by.number",
-      "name": "Color by Number：Coloring Games",
-      "developer": "Wildlife Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.tfgco.apps.coloring.free.color.by.number&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/4TTE3VCAUciSPOnMo5dWn3Y1tvuiZNns7dT1q5_msDzip_UY07RbzmnoYyKnbDFBHw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T14:56:11.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "AM"
     },
@@ -564,6 +550,20 @@
       "country": "AM"
     },
     {
+      "id": "com.arizona21.game",
+      "name": "Arizona Online",
+      "developer": "Arizona Team",
+      "url": "https://play.google.com/store/apps/details?id=com.arizona21.game&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/kL1T3Tct_oxlT_jwIc9BJSECnuKO5lmWmG4I_lqSc3X_88sJr5Hbtm0YsxisyWDHHf02zJKsMHYHNlgzd7ttrg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T22:26:29.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "AM"
+    },
+    {
       "id": "com.openmygame.games.android.jigsaw.solitaire.puzzle",
       "name": "Cardscapes: Jigsaw Puzzle",
       "developer": "Malpa Games",
@@ -588,20 +588,6 @@
       "releaseDate": "2026-03-02T13:08:35.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "AM"
-    },
-    {
-      "id": "com.cedargames.tileclear",
-      "name": "Tile Clear - Puzzle Game",
-      "developer": "Cedar Games Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.cedargames.tileclear&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/NBGbFnv5rrm9rLT6t6vCC5LcxGn3TLGwtgI7wO8i61E04CwWD5_wskBSNF65MCf2GhKjlumetQ87nkNZp74f",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T06:13:56.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "AM"
     },
@@ -700,6 +686,20 @@
       "releaseDate": "2026-02-24T16:48:19.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "AM"
+    },
+    {
+      "id": "com.GamesEZ.CustomClubOnline",
+      "name": "Custom Club: Online Racing 3D",
+      "developer": "GamesEZ",
+      "url": "https://play.google.com/store/apps/details?id=com.GamesEZ.CustomClubOnline&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/hR7Ae7_cy2visuiZBKVBclCFw0AAfOqA1fSE6GkyBE4FU7wY_w28hgZQBmXbFiwkWA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T16:06:06.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "AM"
     }
@@ -1028,6 +1028,20 @@
       "country": "AM"
     },
     {
+      "id": "gg.sunday.dog.escape.puzzle",
+      "name": "Dog Escape: Cute Pet Care Life",
+      "developer": "Sunday.gg",
+      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T16:10:58.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "AM"
+    },
+    {
       "id": "com.puzzlegames.puzzlebrickslegend",
       "name": "Color Block: Combo Blast",
       "developer": "Ivy",
@@ -1052,6 +1066,20 @@
       "releaseDate": "2026-02-20T09:21:18.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "AM"
+    },
+    {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=AM",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T18:38:23.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "AM"
     },
@@ -1350,20 +1378,6 @@
       "country": "AM"
     },
     {
-      "id": "gg.sunday.dog.escape.puzzle",
-      "name": "Dog Escape: Cute Pet Care Life",
-      "developer": "Sunday.gg",
-      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T16:10:58.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "AM"
-    },
-    {
       "id": "com.tapcolor.color.coloring.number.paint.free",
       "name": "Color Oasis - Color by Number",
       "developer": "Tap Color Studio",
@@ -1386,20 +1400,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-04T03:20:44.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "AM"
-    },
-    {
-      "id": "com.mad1.stresscrusher.relaxing.games",
-      "name": "Stress Crusher Relaxing Games",
-      "developer": "Mad1 Games",
-      "url": "https://play.google.com/store/apps/details?id=com.mad1.stresscrusher.relaxing.games&hl=en&gl=AM",
-      "artwork": "https://play-lh.googleusercontent.com/GXKf9fPE6HtOUVuguM4_8vUv_0dbsxVaHmiP_FVBjQ2opFaln2MmijzPWCRqT2VE63U",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T11:52:21.000Z",
       "genres": [
         "Casual"
       ],

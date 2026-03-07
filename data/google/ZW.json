@@ -1,7 +1,7 @@
 {
   "country": "ZW",
   "store": "google",
-  "updatedAt": "2026-03-07T15:54:01.694Z",
+  "updatedAt": "2026-03-07T21:45:47.024Z",
   "new": [
     {
       "id": "water.sort.color.puzzle.offline.games",
@@ -224,6 +224,20 @@
       "releaseDate": "2026-03-05T07:43:52.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "ZW"
+    },
+    {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T18:38:23.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "ZW"
     },
@@ -564,6 +578,20 @@
       "country": "ZW"
     },
     {
+      "id": "com.jetstartgames.chess",
+      "name": "Chess",
+      "developer": "Chess Prince",
+      "url": "https://play.google.com/store/apps/details?id=com.jetstartgames.chess&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/wwAiz5FIU30yGr9wAgt789hQ8eP2hOPNXIYs0NpIKQYJoYkNc1ZAcwegcvVUcIjTIvz6",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T15:12:06.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "ZW"
+    },
+    {
       "id": "com.outfit7.mytalkingangelafree",
       "name": "My Talking Angela",
       "developer": "Outfit7 Limited",
@@ -602,34 +630,6 @@
       "releaseDate": "2026-02-24T14:18:19.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "ZW"
-    },
-    {
-      "id": "com.trophygames.farmmanager",
-      "name": "Farm Manager - 2026",
-      "developer": "Xombat Development - Airline manager games",
-      "url": "https://play.google.com/store/apps/details?id=com.trophygames.farmmanager&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/KIJU_1EGSxw7kVuAwqj6FkAHaO9q7xrcfPFVT66o87MIYtvQrimA4IiFedAnQoZm4oGw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T13:02:30.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "ZW"
-    },
-    {
-      "id": "com.hyperkani.stuntcarextreme",
-      "name": "Stunt Car Extreme",
-      "developer": "Hyperkani",
-      "url": "https://play.google.com/store/apps/details?id=com.hyperkani.stuntcarextreme&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/8xpk5fTVcjTKhRMtv_nIvSGX5oM5xPH29IlxXWP3rhbyOMPqKbRm6DxSuAhUCTBbvW0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T12:36:29.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "ZW"
     },
@@ -706,20 +706,6 @@
   ],
   "updated": [
     {
-      "id": "com.firsttouchgames.dls7",
-      "name": "Dream League Soccer 2026",
-      "developer": "First Touch Games Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T18:33:48.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "ZW"
-    },
-    {
       "id": "ball.sort.color.puz.game.puzzle",
       "name": "Ball Sort - Color Puz Game",
       "developer": "Infinite Joy Ltd.",
@@ -730,6 +716,20 @@
       "releaseDate": "2026-02-03T09:39:56.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "ZW"
+    },
+    {
+      "id": "com.firsttouchgames.dls7",
+      "name": "Dream League Soccer 2026",
+      "developer": "First Touch Games Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T18:33:48.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "ZW"
     },
@@ -958,6 +958,20 @@
       "country": "ZW"
     },
     {
+      "id": "games.joker.bird.road",
+      "name": "Chicken Cross - Sky Road 2",
+      "developer": "Joker Game",
+      "url": "https://play.google.com/store/apps/details?id=games.joker.bird.road&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/vjjzTCdlktVe9f-cuLOTfwOdG1MMX78ttuFfIw0LaNdez-bFLOZfd2y4nxcCv6jzc-k",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-14T06:48:03.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "ZW"
+    },
+    {
       "id": "com.WandaSoftware.TruckersofEurope3",
       "name": "Truckers of Europe 3",
       "developer": "Wanda Software",
@@ -1070,16 +1084,16 @@
       "country": "ZW"
     },
     {
-      "id": "games.joker.bird.road",
-      "name": "Chicken Cross - Sky Road 2",
-      "developer": "Joker Game",
-      "url": "https://play.google.com/store/apps/details?id=games.joker.bird.road&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/vjjzTCdlktVe9f-cuLOTfwOdG1MMX78ttuFfIw0LaNdez-bFLOZfd2y4nxcCv6jzc-k",
+      "id": "com.bettergames.truck.drivingschool.simulator",
+      "name": "Truck Games - Driving School",
+      "developer": "Better Games Studio Pty Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.bettergames.truck.drivingschool.simulator&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/WiHAkl3Qhw2GrZf-angvlDNRPhSG_nkLmwZ_xT8QuN5TC69eGT-kHDjy3xZWyqTPuQc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-14T06:48:03.000Z",
+      "releaseDate": "2026-02-24T09:05:46.000Z",
       "genres": [
-        "Casual"
+        "Strategy"
       ],
       "country": "ZW"
     },
@@ -1176,6 +1190,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2025-10-18T01:24:07.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "ZW"
+    },
+    {
+      "id": "com.combineinc.streetracing.driftthreeD",
+      "name": "Street Racing 3D",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.combineinc.streetracing.driftthreeD&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/nM3nHVAK1oJIcU5BpjQMowaOuru_RNXwAb1y-BP6BGEwWTiAZvWrwPzMhrSfKzaGAHAf",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-11-27T09:42:57.000Z",
       "genres": [
         "Racing"
       ],
@@ -1374,34 +1402,6 @@
       "releaseDate": "2025-12-18T17:53:55.000Z",
       "genres": [
         "Role Playing"
-      ],
-      "country": "ZW"
-    },
-    {
-      "id": "com.games.hexagon.odyssey.puzzle",
-      "name": "Hexa Merge: Tile Sort Puzzle",
-      "developer": "Adaric Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.games.hexagon.odyssey.puzzle&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/e530XJgrI0wXmQ7RlVhGGe5MXwSOg5tLk0ukWZwM6R6iOJorKgnnkORUI7C23zbGISv9",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T07:38:14.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "ZW"
-    },
-    {
-      "id": "com.xgame.VehicleDriving3D",
-      "name": "Real Driving: Vehicle & Park",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T06:55:58.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "ZW"
     }
