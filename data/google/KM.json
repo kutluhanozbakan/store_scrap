@@ -1,7 +1,7 @@
 {
   "country": "KM",
   "store": "google",
-  "updatedAt": "2026-03-06T20:00:05.478Z",
+  "updatedAt": "2026-03-07T06:49:55.782Z",
   "new": [
     {
       "id": "water.sort.color.puzzle.offline.games",
@@ -12,6 +12,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-06T17:49:10.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "KM"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T16:58:46.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -88,14 +102,14 @@
       "country": "KM"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "id": "car.parking.jam.solver.puzzle.games",
+      "name": "Car Jam Solver: Traffic Jam",
+      "developer": "Ladaneta Games",
+      "url": "https://play.google.com/store/apps/details?id=car.parking.jam.solver.puzzle.games&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/zQxxfiBXzDefzKkb6kfISliJstLOknKkmSl_tRrpB2MQxx6f1Zbj4eks9MgLm1j3h2U",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T06:47:57.000Z",
+      "releaseDate": "2026-03-06T09:14:16.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -564,6 +578,20 @@
       "country": "KM"
     },
     {
+      "id": "com.outfit7.mytalkingtom2",
+      "name": "My Talking Tom 2: Pet Game",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T11:25:29.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "KM"
+    },
+    {
       "id": "europe.truck.simulator2",
       "name": "Truckers of Europe 2",
       "developer": "Wanda Software",
@@ -674,34 +702,6 @@
         "Casual"
       ],
       "country": "KM"
-    },
-    {
-      "id": "com.gp.pilot.simulator.airplanegames",
-      "name": "Pilot Simulator: Airplane Game",
-      "developer": "GamePark",
-      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T10:51:12.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "KM"
-    },
-    {
-      "id": "com.ludo.king",
-      "name": "Ludo King®",
-      "developer": "Gametion",
-      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T09:46:13.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "KM"
     }
   ],
   "updated": [
@@ -748,20 +748,6 @@
       "country": "KM"
     },
     {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T12:49:52.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "KM"
-    },
-    {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -776,16 +762,16 @@
       "country": "KM"
     },
     {
-      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
-      "name": "Shoot Bubble - Pop Bubbles",
-      "developer": "IVYGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-05T10:52:13.000Z",
+      "releaseDate": "2026-03-04T12:49:52.000Z",
       "genres": [
-        "Casual"
+        "Puzzle"
       ],
       "country": "KM"
     },
@@ -804,6 +790,20 @@
       "country": "KM"
     },
     {
+      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
+      "name": "Shoot Bubble - Pop Bubbles",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T10:52:13.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "KM"
+    },
+    {
       "id": "com.firsttouchgames.dls7",
       "name": "Dream League Soccer 2026",
       "developer": "First Touch Games Ltd.",
@@ -814,34 +814,6 @@
       "releaseDate": "2026-02-27T18:33:48.000Z",
       "genres": [
         "Sports"
-      ],
-      "country": "KM"
-    },
-    {
-      "id": "com.imangi.templerun2",
-      "name": "Temple Run 2: Endless Escape",
-      "developer": "Imangi Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T14:25:25.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "KM"
-    },
-    {
-      "id": "com.rioo.runnersubway",
-      "name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T07:00:13.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "KM"
     },
@@ -860,6 +832,20 @@
       "country": "KM"
     },
     {
+      "id": "com.imangi.templerun2",
+      "name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T14:25:25.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "KM"
+    },
+    {
       "id": "com.hungrystudio.mahjong",
       "name": "Double Tile!",
       "developer": "HungryStudio",
@@ -874,6 +860,34 @@
       "country": "KM"
     },
     {
+      "id": "com.dreamgames.royalmatch",
+      "name": "Royal Match",
+      "developer": "Dream Games, Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T12:04:55.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "KM"
+    },
+    {
+      "id": "com.rioo.runnersubway",
+      "name": "Subway Princess Runner",
+      "developer": "Ivy",
+      "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/hrXVKx0z5tHoF_BbZTPgisqqHqmXkSKjpNEXN657lDMeDr4HamEySvRNPH6iauPvZcU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T07:00:13.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "KM"
+    },
+    {
       "id": "com.gamovation.tileclub",
       "name": "Tile Club - Match Puzzle Game",
       "developer": "GamoVation",
@@ -882,6 +896,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-01-07T10:41:36.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "KM"
+    },
+    {
+      "id": "com.puzzlegamesclassic.puzzlegame",
+      "name": "Puzzle Game",
+      "developer": "Block Puzzle Games 2018",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzlegamesclassic.puzzlegame&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/HfuesTiHqmFhcF_4rBN5NOuqIQlVcbZ_-boo-Yj1DMtiKLkwm8aLlTRU04Flg5mIh2M",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-27T12:13:41.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -902,20 +930,6 @@
       "country": "KM"
     },
     {
-      "id": "com.puzzlegamesclassic.puzzlegame",
-      "name": "Puzzle Game",
-      "developer": "Block Puzzle Games 2018",
-      "url": "https://play.google.com/store/apps/details?id=com.puzzlegamesclassic.puzzlegame&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/HfuesTiHqmFhcF_4rBN5NOuqIQlVcbZ_-boo-Yj1DMtiKLkwm8aLlTRU04Flg5mIh2M",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-27T12:13:41.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "KM"
-    },
-    {
       "id": "com.miniclip.realsniper",
       "name": "Pure Sniper: Gun Shooter Games",
       "developer": "Miniclip.com",
@@ -926,48 +940,6 @@
       "releaseDate": "2026-01-29T21:05:43.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "KM"
-    },
-    {
-      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
-      "name": "Agent Shooter - Shooting Game",
-      "developer": "Rebel Actions",
-      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T13:08:35.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "KM"
-    },
-    {
-      "id": "com.dreamgames.royalmatch",
-      "name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T12:04:55.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "KM"
-    },
-    {
-      "id": "com.soccer.score.star",
-      "name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T15:32:33.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "KM"
     },
@@ -986,30 +958,44 @@
       "country": "KM"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "id": "ball.sort.puzzle.color.bubble.games.magic",
+      "name": "Ball Sort Magic - Puzzle Game",
+      "developer": "Passion Fruit Joy",
+      "url": "https://play.google.com/store/apps/details?id=ball.sort.puzzle.color.bubble.games.magic&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/2LFoNpVRsnkG8xrDMUN5y-ZZymdRwjIfeYXHdBirrVW_kkqtAO1FPYVWpf42mZ_XIg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T06:47:57.000Z",
+      "releaseDate": "2026-01-22T11:16:52.000Z",
       "genres": [
-        "Puzzle"
+        "Casual"
       ],
       "country": "KM"
     },
     {
-      "id": "com.zams.car.parking.game",
-      "name": "Prado Parking Game: Car Games",
-      "developer": "Zamsolutions",
-      "url": "https://play.google.com/store/apps/details?id=com.zams.car.parking.game&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/cn2Nwf-s0dzhRf-3XsFeV46-pYVhsx1FR6Pwwrot9GomqObP6-WYTbDYFAvk0Zg-Sw",
+      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
+      "name": "Agent Shooter - Shooting Game",
+      "developer": "Rebel Actions",
+      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T11:51:55.000Z",
+      "releaseDate": "2026-03-02T13:08:35.000Z",
       "genres": [
-        "Role Playing"
+        "Action"
+      ],
+      "country": "KM"
+    },
+    {
+      "id": "com.soccer.score.star",
+      "name": "Soccer Superstar",
+      "developer": "Real Freestyle Soccer",
+      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T15:32:33.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "KM"
     },
@@ -1028,20 +1014,6 @@
       "country": "KM"
     },
     {
-      "id": "ball.sort.puzzle.color.bubble.games.magic",
-      "name": "Ball Sort Magic - Puzzle Game",
-      "developer": "Passion Fruit Joy",
-      "url": "https://play.google.com/store/apps/details?id=ball.sort.puzzle.color.bubble.games.magic&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/2LFoNpVRsnkG8xrDMUN5y-ZZymdRwjIfeYXHdBirrVW_kkqtAO1FPYVWpf42mZ_XIg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-22T11:16:52.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "KM"
-    },
-    {
       "id": "com.ta.strike.ops",
       "name": "FPS Strike Ops : Modern Arena",
       "developer": "FPS Shooter & Action Game",
@@ -1052,6 +1024,20 @@
       "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "KM"
+    },
+    {
+      "id": "com.gp.pilot.simulator.airplanegames",
+      "name": "Pilot Simulator: Airplane Game",
+      "developer": "GamePark",
+      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T10:51:12.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "KM"
     },
@@ -1070,6 +1056,20 @@
       "country": "KM"
     },
     {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T16:58:46.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "KM"
+    },
+    {
       "id": "com.tarboosh.collectemall",
       "name": "Collect Em All! Clear the Dots",
       "developer": "VOODOO",
@@ -1084,16 +1084,44 @@
       "country": "KM"
     },
     {
-      "id": "com.adventure.piano.kpopstar",
-      "name": "Music Piano 2: KPop Star",
-      "developer": "HyperMusic",
-      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
+      "id": "com.ludo.king",
+      "name": "Ludo King®",
+      "developer": "Gametion",
+      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-28T10:58:01.000Z",
+      "releaseDate": "2026-02-13T09:46:13.000Z",
       "genres": [
-        "Casual"
+        "Board"
+      ],
+      "country": "KM"
+    },
+    {
+      "id": "com.fxroyale.app",
+      "name": "Trading Arena-Crypto Simulator",
+      "developer": "Edusystems OU",
+      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T18:10:11.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "KM"
+    },
+    {
+      "id": "com.freeplaysultanov.shootit",
+      "name": "Shoot Out: Gun Shooting Games",
+      "developer": "Freeplay Inc",
+      "url": "https://play.google.com/store/apps/details?id=com.freeplaysultanov.shootit&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/CTsQOaxdnNOeomvRHm9e_-_JWIOoEIzHti1l53cBHNUcgzL07xQMtr6c_NyhYwoapw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T13:30:18.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "KM"
     },
@@ -1126,34 +1154,6 @@
       "country": "KM"
     },
     {
-      "id": "com.gp.pilot.simulator.airplanegames",
-      "name": "Pilot Simulator: Airplane Game",
-      "developer": "GamePark",
-      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T10:51:12.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "KM"
-    },
-    {
-      "id": "com.ludo.king",
-      "name": "Ludo King®",
-      "developer": "Gametion",
-      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T09:46:13.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "KM"
-    },
-    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
@@ -1168,30 +1168,16 @@
       "country": "KM"
     },
     {
-      "id": "com.freeplaysultanov.shootit",
-      "name": "Shoot Out: Gun Shooting Games",
-      "developer": "Freeplay Inc",
-      "url": "https://play.google.com/store/apps/details?id=com.freeplaysultanov.shootit&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/CTsQOaxdnNOeomvRHm9e_-_JWIOoEIzHti1l53cBHNUcgzL07xQMtr6c_NyhYwoapw",
+      "id": "io.yarsa.games.ludo",
+      "name": "Ludo",
+      "developer": "Yarsa Games",
+      "url": "https://play.google.com/store/apps/details?id=io.yarsa.games.ludo&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/GP8H9ZbM-FWke-U-N9lGIRVqHX6l4ULTqVpilCKgicIw42D1qEVinQO0_KsFAIft1OEh",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T13:30:18.000Z",
+      "releaseDate": "2026-02-24T08:41:19.000Z",
       "genres": [
-        "Action"
-      ],
-      "country": "KM"
-    },
-    {
-      "id": "com.fxroyale.app",
-      "name": "Trading Arena-Crypto Simulator",
-      "developer": "Edusystems OU",
-      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T18:10:11.000Z",
-      "genres": [
-        "Simulation"
+        "Board"
       ],
       "country": "KM"
     },
@@ -1206,6 +1192,90 @@
       "releaseDate": "2026-03-04T09:22:33.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "KM"
+    },
+    {
+      "id": "com.adventure.piano.kpopstar",
+      "name": "Music Piano 2: KPop Star",
+      "developer": "HyperMusic",
+      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.kpopstar&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/m6XTgPBTflojAqPU_buzN6l0qnaw_HRA-fG4vIDhaSZqTPQlxTu5jPBsFjxV6fKCFEtwHi1CxrUanhRPlKylDw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T10:58:01.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "KM"
+    },
+    {
+      "id": "com.zams.car.parking.game",
+      "name": "Prado Parking Game: Car Games",
+      "developer": "Zamsolutions",
+      "url": "https://play.google.com/store/apps/details?id=com.zams.car.parking.game&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/cn2Nwf-s0dzhRf-3XsFeV46-pYVhsx1FR6Pwwrot9GomqObP6-WYTbDYFAvk0Zg-Sw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T11:51:55.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "KM"
+    },
+    {
+      "id": "sortpuz.water.sort.puzzle.game",
+      "name": "SortPuz™: Water Sort Puzzle",
+      "developer": "Dark Halo",
+      "url": "https://play.google.com/store/apps/details?id=sortpuz.water.sort.puzzle.game&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/-3HN_abojcOrhbiLmDbVQVcV5BkSDKssp2ahhEjjqjOwMb6KrqdcXCpe4tUW7fUBv7A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T09:27:30.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "KM"
+    },
+    {
+      "id": "piano.game.music.beat.tiles",
+      "name": "Piano Beat: Music Game",
+      "developer": "Dream Tiles Piano Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=piano.game.music.beat.tiles&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/0Of6bw3wkKRhftwupXVSF0r0FKn-BVFScRpwXPFKZ9jtdeEwU8hHRK8j8hN-mhkrxFCj",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T12:34:41.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "KM"
+    },
+    {
+      "id": "com.chillingo.robberybob2.android.gplay",
+      "name": "Robbery Bob 2: Double Trouble",
+      "developer": "Deca_Games",
+      "url": "https://play.google.com/store/apps/details?id=com.chillingo.robberybob2.android.gplay&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/SjoUsj06xcSRIz8rWzFUDV2VawAgnRJXebJhcr4UhPUl-ds_C9kTYzxMoadbUgxbUq8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-16T07:07:30.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "KM"
+    },
+    {
+      "id": "com.outfit7.mytalkingangelafree",
+      "name": "My Talking Angela",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/rdMpsc5VkkG4JGHIFqNREbWBzXxkZBHN7ZA86DqcZEMmtwWy58NLVDuqWgoG2XCAu4Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T13:56:11.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "KM"
     },
@@ -1238,34 +1308,6 @@
       "country": "KM"
     },
     {
-      "id": "europe.truck.simulator2",
-      "name": "Truckers of Europe 2",
-      "developer": "Wanda Software",
-      "url": "https://play.google.com/store/apps/details?id=europe.truck.simulator2&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/tS6pdPz6GKrP87gOTTPcBDFMJFd2RsD4ngkl92pqEQp6nkHRIPU30BRM7wB6l5_VaOw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T09:31:02.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "KM"
-    },
-    {
-      "id": "io.yarsa.games.ludo",
-      "name": "Ludo",
-      "developer": "Yarsa Games",
-      "url": "https://play.google.com/store/apps/details?id=io.yarsa.games.ludo&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/GP8H9ZbM-FWke-U-N9lGIRVqHX6l4ULTqVpilCKgicIw42D1qEVinQO0_KsFAIft1OEh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T08:41:19.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "KM"
-    },
-    {
       "id": "com.xgame.trafficmoto",
       "name": "Moto Race Go",
       "developer": "XGAME STUDIO",
@@ -1274,20 +1316,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-28T10:36:06.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "KM"
-    },
-    {
-      "id": "com.dino.race.master",
-      "name": "Car Race",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-09T02:55:19.000Z",
       "genres": [
         "Racing"
       ],
@@ -1308,76 +1336,6 @@
       "country": "KM"
     },
     {
-      "id": "com.outfit7.mytalkingangelafree",
-      "name": "My Talking Angela",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/rdMpsc5VkkG4JGHIFqNREbWBzXxkZBHN7ZA86DqcZEMmtwWy58NLVDuqWgoG2XCAu4Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T13:56:11.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "KM"
-    },
-    {
-      "id": "com.taprun.fruitmanialine",
-      "name": "Fruit Fancy",
-      "developer": "Tap Run",
-      "url": "https://play.google.com/store/apps/details?id=com.taprun.fruitmanialine&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/VbDEx6q27ztXqPF-u6tP4bU2mLRhhEFagEem810vAEPp16dE7sf7guXtmUyYhSCQkJgy",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-14T08:41:11.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "KM"
-    },
-    {
-      "id": "sortpuz.water.sort.puzzle.game",
-      "name": "SortPuz™: Water Sort Puzzle",
-      "developer": "Dark Halo",
-      "url": "https://play.google.com/store/apps/details?id=sortpuz.water.sort.puzzle.game&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/-3HN_abojcOrhbiLmDbVQVcV5BkSDKssp2ahhEjjqjOwMb6KrqdcXCpe4tUW7fUBv7A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T09:27:30.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "KM"
-    },
-    {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T18:38:23.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "KM"
-    },
-    {
-      "id": "games.joker.bird.road",
-      "name": "Chicken Cross - Sky Road 2",
-      "developer": "Joker Game",
-      "url": "https://play.google.com/store/apps/details?id=games.joker.bird.road&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/vjjzTCdlktVe9f-cuLOTfwOdG1MMX78ttuFfIw0LaNdez-bFLOZfd2y4nxcCv6jzc-k",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-14T06:48:03.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "KM"
-    },
-    {
       "id": "com.igs.bus.simulator.bus.games",
       "name": "Bus Simulator - 3D Bus Games",
       "developer": "Innovative Gaming Studios",
@@ -1392,16 +1350,58 @@
       "country": "KM"
     },
     {
-      "id": "piano.game.music.beat.tiles",
-      "name": "Piano Beat: Music Game",
-      "developer": "Dream Tiles Piano Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=piano.game.music.beat.tiles&hl=en&gl=KM",
-      "artwork": "https://play-lh.googleusercontent.com/0Of6bw3wkKRhftwupXVSF0r0FKn-BVFScRpwXPFKZ9jtdeEwU8hHRK8j8hN-mhkrxFCj",
+      "id": "europe.truck.simulator2",
+      "name": "Truckers of Europe 2",
+      "developer": "Wanda Software",
+      "url": "https://play.google.com/store/apps/details?id=europe.truck.simulator2&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/tS6pdPz6GKrP87gOTTPcBDFMJFd2RsD4ngkl92pqEQp6nkHRIPU30BRM7wB6l5_VaOw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-04T12:34:41.000Z",
+      "releaseDate": "2026-02-19T09:31:02.000Z",
       "genres": [
-        "Music"
+        "Simulation"
+      ],
+      "country": "KM"
+    },
+    {
+      "id": "eu.nordeus.topeleven.android",
+      "name": "Top Eleven Be a Soccer Manager",
+      "developer": "Nordeus",
+      "url": "https://play.google.com/store/apps/details?id=eu.nordeus.topeleven.android&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/syHICcpM4rKF6_vACJknkvXhHRBju_P7P93E3cNR701Rc3alNdC1NpTvPxlhDGvvgT9pHVzfR2gOvyvFesXGrHU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T16:22:14.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "KM"
+    },
+    {
+      "id": "com.dino.race.master",
+      "name": "Car Race",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-09T02:55:19.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "KM"
+    },
+    {
+      "id": "com.outfit7.mytalkingangela2",
+      "name": "My Talking Angela 2",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=KM",
+      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T14:20:52.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "KM"
     }
