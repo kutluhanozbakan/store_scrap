@@ -1,7 +1,7 @@
 {
   "country": "AU",
   "store": "google",
-  "updatedAt": "2026-03-06T23:56:38.387Z",
+  "updatedAt": "2026-03-07T10:01:46.480Z",
   "new": [
     {
       "id": "com.sled.surfers.game",
@@ -28,6 +28,34 @@
       "releaseDate": "2026-03-06T17:27:27.000Z",
       "genres": [
         "Music"
+      ],
+      "country": "AU"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T16:58:46.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "AU"
+    },
+    {
+      "id": "com.studio27.MelonPlayground",
+      "name": "Melon Sandbox",
+      "developer": "playducky.com",
+      "url": "https://play.google.com/store/apps/details?id=com.studio27.MelonPlayground&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/9KgS1cF6vWMF9Fl25S36bKr8zDh0ddkTOeN7WpBcQAE-pKfahG2DjUxbQ8sespNoe3KW3qbcaVD8H6DfNys6",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T15:49:31.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "AU"
     },
@@ -88,20 +116,6 @@
       "country": "AU"
     },
     {
-      "id": "com.kayac.aquaform",
-      "name": "Aqua Form",
-      "developer": "KAYAC Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.kayac.aquaform&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/_IOKu7RzFSuIequWfQw4GhUcRk872-dVU9kfYLv-iG3EI0eTpuCmoKsefEVWihFz2b6Vpm8dyJSOlAMptqQJ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T10:41:06.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "AU"
-    },
-    {
       "id": "spell.word.screw.sort.puzzle",
       "name": "Word Screw: 3D Word Puzzle",
       "developer": "Astrasen Global",
@@ -138,20 +152,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-06T09:43:26.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "AU"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T06:47:57.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -452,6 +452,20 @@
       "country": "AU"
     },
     {
+      "id": "com.epicoro.castleclashers",
+      "name": "Castle Clashers!",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.epicoro.castleclashers&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/VW7o5ybPRq9TbTQs9_pzrJkYoFk4QVxUkV96bVfauDmGBZ8O6KNHIRH4oIRlkQAgogw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T12:31:56.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "AU"
+    },
+    {
       "id": "com.traverse.zhfx.en.gp",
       "name": "Dragon Fever TD!",
       "developer": "Wonder Game Inc.",
@@ -634,20 +648,6 @@
       "country": "AU"
     },
     {
-      "id": "com.rovio.baba",
-      "name": "Angry Birds 2",
-      "developer": "Rovio Entertainment Oy",
-      "url": "https://play.google.com/store/apps/details?id=com.rovio.baba&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/AijtYd3ELvSg4ItDkO4NmG-F0PL5qE8AxgNqB-OflSakAiM9ulL5K9k0IOqB16TFJw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T14:54:02.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "AU"
-    },
-    {
       "id": "puzzle.yarn.fever.unravel.puzzle",
       "name": "Yarn Fever! Unravel Puzzle",
       "developer": "Brave HK Limited",
@@ -727,21 +727,7 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T06:47:57.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "AU"
-    },
-    {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T12:49:52.000Z",
+      "releaseDate": "2026-03-06T16:58:46.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -756,6 +742,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-05T16:36:02.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "AU"
+    },
+    {
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T12:49:52.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -790,20 +790,6 @@
       "country": "AU"
     },
     {
-      "id": "com.sybogames.subway.surfers.game",
-      "name": "Subway Surfers City",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T15:04:45.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "AU"
-    },
-    {
       "id": "com.red.sortingstore.android",
       "name": "Water Match™- ASMR Water Sort",
       "developer": "Youyoutang Technology",
@@ -818,30 +804,16 @@
       "country": "AU"
     },
     {
-      "id": "jp.co.goodroid.hyper.hexaaway",
-      "name": "Hexa Away",
-      "developer": "GOODROID,Inc.",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.hexaaway&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/0brW5ursTxAojhRjh0uPdxCoOK5ViPi9zID7stj_ZlklxwpuNSd7jk7sZCB75Gd92A",
+      "id": "com.sybogames.subway.surfers.game",
+      "name": "Subway Surfers City",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/LuW-MinuHa3SRBS512qYk26-DqZPq_0ExcFetf1weV1YoSQUaZyBWw9qRwwPBXPA4hw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-04T11:06:30.000Z",
+      "releaseDate": "2026-03-04T15:04:45.000Z",
       "genres": [
-        "Puzzle"
-      ],
-      "country": "AU"
-    },
-    {
-      "id": "com.mergegames.gossipharbor",
-      "name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/PmMSCDLMab3nn0wj14BFZNqPncr1C14M5VmUrM3aXNmeRa1zEhNI4N3L1F1oO3qDYRPOQigQOyXxwDuQZZvTwA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T07:09:51.000Z",
-      "genres": [
-        "Puzzle"
+        "Action"
       ],
       "country": "AU"
     },
@@ -874,6 +846,34 @@
       "country": "AU"
     },
     {
+      "id": "jp.co.goodroid.hyper.hexaaway",
+      "name": "Hexa Away",
+      "developer": "GOODROID,Inc.",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.hexaaway&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/0brW5ursTxAojhRjh0uPdxCoOK5ViPi9zID7stj_ZlklxwpuNSd7jk7sZCB75Gd92A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T11:06:30.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "AU"
+    },
+    {
+      "id": "com.mergegames.gossipharbor",
+      "name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/PmMSCDLMab3nn0wj14BFZNqPncr1C14M5VmUrM3aXNmeRa1zEhNI4N3L1F1oO3qDYRPOQigQOyXxwDuQZZvTwA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T07:09:51.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "AU"
+    },
+    {
       "id": "com.superplaystudios.disneysolitairedreams",
       "name": "Disney Solitaire",
       "developer": "SuperPlay.",
@@ -896,6 +896,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-06T20:01:24.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "AU"
+    },
+    {
+      "id": "com.robtopx.geometryjumplite",
+      "name": "Geometry Dash Lite",
+      "developer": "RobTop Games",
+      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T14:03:50.000Z",
       "genres": [
         "Arcade"
       ],
@@ -944,34 +958,6 @@
       "country": "AU"
     },
     {
-      "id": "com.robtopx.geometryjumplite",
-      "name": "Geometry Dash Lite",
-      "developer": "RobTop Games",
-      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T14:03:50.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "AU"
-    },
-    {
-      "id": "com.run.tower.defense",
-      "name": "Kingshot",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T15:06:36.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "AU"
-    },
-    {
       "id": "com.dreamgames.royalkingdom",
       "name": "Royal Kingdom",
       "developer": "Dream Games, Ltd.",
@@ -996,6 +982,20 @@
       "releaseDate": "2026-03-05T16:22:25.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "AU"
+    },
+    {
+      "id": "com.run.tower.defense",
+      "name": "Kingshot",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T15:06:36.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "AU"
     },
@@ -1070,20 +1070,6 @@
       "country": "AU"
     },
     {
-      "id": "solitaire.patience.card.games.klondike.free",
-      "name": "Solitaire - Classic Card Games",
-      "developer": "Guru Puzzle Game",
-      "url": "https://play.google.com/store/apps/details?id=solitaire.patience.card.games.klondike.free&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/4lBjHhLwPQxEEPIc6Mad3fwxzaN-dGZW9DTeVi4WW1LH5iu3QdmAsuK-FeLLVggZz6o",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T11:52:01.000Z",
-      "genres": [
-        "Card"
-      ],
-      "country": "AU"
-    },
-    {
       "id": "com.playrix.township",
       "name": "Township",
       "developer": "Playrix",
@@ -1098,44 +1084,16 @@
       "country": "AU"
     },
     {
-      "id": "com.match.mahjong.puzzlegame",
-      "name": "Mahjong Game: Match Puzzle",
-      "developer": "GOBLINGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.match.mahjong.puzzlegame&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/mjreMBnynCYJacSLlvO21fm2cA-cHlathY4DmREyRXbsscZF7EPjHm_WSlHO-XK6NdcykUfDBbBCCXO6TGcI",
+      "id": "solitaire.patience.card.games.klondike.free",
+      "name": "Solitaire - Classic Card Games",
+      "developer": "Guru Puzzle Game",
+      "url": "https://play.google.com/store/apps/details?id=solitaire.patience.card.games.klondike.free&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/4lBjHhLwPQxEEPIc6Mad3fwxzaN-dGZW9DTeVi4WW1LH5iu3QdmAsuK-FeLLVggZz6o",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-03T02:57:07.000Z",
+      "releaseDate": "2026-02-06T11:52:01.000Z",
       "genres": [
-        "Casual"
-      ],
-      "country": "AU"
-    },
-    {
-      "id": "kidultlovin.word.zen",
-      "name": "Zen Word® - Relax Puzzle Game",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=kidultlovin.word.zen&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/B1vB5FicSMSGxmWvb92jDVIh_5VGq0mFSKQ4TBc0Nl1X5XtoANsuarU8hNilV8z4pxA68UpcJkwlLupENp3A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T14:39:50.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "AU"
-    },
-    {
-      "id": "in.playsimple.wordtrip.association",
-      "name": "Word Connect Association",
-      "developer": "PlaySimple Games",
-      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordtrip.association&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/RMDPLS0Ax3WyMb9QfLLvLUy8K-3sgeKvQ_lZ3yqnkAHJKg4-28Jy3aHr5UVdhhiY3NM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T04:54:34.000Z",
-      "genres": [
-        "Word"
+        "Card"
       ],
       "country": "AU"
     },
@@ -1154,30 +1112,16 @@
       "country": "AU"
     },
     {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "id": "kidultlovin.word.zen",
+      "name": "Zen Word® - Relax Puzzle Game",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=kidultlovin.word.zen&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/B1vB5FicSMSGxmWvb92jDVIh_5VGq0mFSKQ4TBc0Nl1X5XtoANsuarU8hNilV8z4pxA68UpcJkwlLupENp3A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T07:21:42.000Z",
+      "releaseDate": "2026-03-05T14:39:50.000Z",
       "genres": [
-        "Arcade"
-      ],
-      "country": "AU"
-    },
-    {
-      "id": "com.fun.lastwar.gp",
-      "name": "Last War:Survival Game",
-      "developer": "FUNFLY PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/2sOxb_s3uan-AmiF_XRh_K2yqRrmVeuzHAqtYCrwrFP-s1u_FMKo1NtlPz0kdn0qQUH8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T11:28:26.000Z",
-      "genres": [
-        "Strategy"
+        "Word"
       ],
       "country": "AU"
     },
@@ -1196,6 +1140,20 @@
       "country": "AU"
     },
     {
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T07:21:42.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "AU"
+    },
+    {
       "id": "com.gamincat.jigsolitaire",
       "name": "Jigsolitaire",
       "developer": "Gamincat",
@@ -1210,14 +1168,28 @@
       "country": "AU"
     },
     {
-      "id": "com.pc.sand.loop",
-      "name": "Sand Loop",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.pc.sand.loop&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/jZb0BuA4DDfbp5gX8DdB2bWz6lNwTlXdM8FjvZio6xGukqFf9WBzi70xgm2pw3XHpa4",
+      "id": "com.match.mahjong.puzzlegame",
+      "name": "Mahjong Game: Match Puzzle",
+      "developer": "GOBLINGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.match.mahjong.puzzlegame&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/mjreMBnynCYJacSLlvO21fm2cA-cHlathY4DmREyRXbsscZF7EPjHm_WSlHO-XK6NdcykUfDBbBCCXO6TGcI",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T16:50:09.000Z",
+      "releaseDate": "2026-03-03T02:57:07.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "AU"
+    },
+    {
+      "id": "com.melon.drop.fruit.merge.master",
+      "name": "Fruit Merge™: Match Game",
+      "developer": "Brave HK Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.melon.drop.fruit.merge.master&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/GugmVimvZqWtfvEmKJj7nnWZF3O8aUHbLhOgwAUIiMaday3EIGM7R58gKl0sbfiIvx_a",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T11:11:28.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1252,58 +1224,58 @@
       "country": "AU"
     },
     {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "id": "com.brain.logic.joygame",
+      "name": "Brain Puzzle 2: Logic Twist",
+      "developer": "JoyGame Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.brain.logic.joygame&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/q19v_2ZYEOdWOt6ABAVCl10zHrft5qkChjAwxtByGKxJxE3gNULQGf3BwsCYVJk4Jbhf",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-04T08:49:55.000Z",
+      "releaseDate": "2026-03-05T09:26:01.000Z",
       "genres": [
-        "Simulation"
+        "Puzzle"
       ],
       "country": "AU"
     },
     {
-      "id": "in.playsimple.crossword.go",
-      "name": "Crossword Go!",
-      "developer": "PlaySimple Games",
-      "url": "https://play.google.com/store/apps/details?id=in.playsimple.crossword.go&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/ztMALscTURn2AHhGhiIeKpTj-fs3zGrrU5BbW62Bgu3ownxHKkSnRgC_Fm-9ttzL6sDp",
+      "id": "com.fun.lastwar.gp",
+      "name": "Last War:Survival Game",
+      "developer": "FUNFLY PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/2sOxb_s3uan-AmiF_XRh_K2yqRrmVeuzHAqtYCrwrFP-s1u_FMKo1NtlPz0kdn0qQUH8",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T10:24:15.000Z",
+      "releaseDate": "2026-03-04T11:28:26.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "AU"
+    },
+    {
+      "id": "com.pc.sand.loop",
+      "name": "Sand Loop",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.pc.sand.loop&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/jZb0BuA4DDfbp5gX8DdB2bWz6lNwTlXdM8FjvZio6xGukqFf9WBzi70xgm2pw3XHpa4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T16:50:09.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "AU"
+    },
+    {
+      "id": "in.playsimple.wordtrip.association",
+      "name": "Word Connect Association",
+      "developer": "PlaySimple Games",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordtrip.association&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/RMDPLS0Ax3WyMb9QfLLvLUy8K-3sgeKvQ_lZ3yqnkAHJKg4-28Jy3aHr5UVdhhiY3NM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T04:54:34.000Z",
       "genres": [
         "Word"
-      ],
-      "country": "AU"
-    },
-    {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:31:23.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "AU"
-    },
-    {
-      "id": "jp.pokemon.pokemontcgp",
-      "name": "Pokémon TCG Pocket",
-      "developer": "The Pokémon Company",
-      "url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-25T05:33:20.000Z",
-      "genres": [
-        "Card"
       ],
       "country": "AU"
     },
@@ -1322,6 +1294,34 @@
       "country": "AU"
     },
     {
+      "id": "jp.pokemon.pokemontcgp",
+      "name": "Pokémon TCG Pocket",
+      "developer": "The Pokémon Company",
+      "url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-25T05:33:20.000Z",
+      "genres": [
+        "Card"
+      ],
+      "country": "AU"
+    },
+    {
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T12:31:23.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "AU"
+    },
+    {
       "id": "com.funplus.ts.global",
       "name": "Tiles Survive!",
       "developer": "FunPlus International AG",
@@ -1332,6 +1332,34 @@
       "releaseDate": "2026-03-03T15:21:10.000Z",
       "genres": [
         "Strategy"
+      ],
+      "country": "AU"
+    },
+    {
+      "id": "com.dongbasiki.savedog.draw.puzzle",
+      "name": "Save The Dog: Dog vs Bee",
+      "developer": "Dongbasiki",
+      "url": "https://play.google.com/store/apps/details?id=com.dongbasiki.savedog.draw.puzzle&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/Yi6ljYkU8bUaJ4GDg-XT7gFPkQSZfmpm3myYnt0R3xIzJJ4sBWDcjz6BYBW-cb3VNAlNrIdoIefCEGfWT4fGeA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-11T12:45:47.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "AU"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T08:49:55.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "AU"
     },
@@ -1350,58 +1378,30 @@
       "country": "AU"
     },
     {
-      "id": "com.brain.logic.joygame",
-      "name": "Brain Puzzle 2: Logic Twist",
-      "developer": "JoyGame Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.brain.logic.joygame&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/q19v_2ZYEOdWOt6ABAVCl10zHrft5qkChjAwxtByGKxJxE3gNULQGf3BwsCYVJk4Jbhf",
+      "id": "com.vottzapps.wordle",
+      "name": "Wordle!",
+      "developer": "Lion Studios Plus",
+      "url": "https://play.google.com/store/apps/details?id=com.vottzapps.wordle&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/_B32rGd7Hz6brMpVBOXqtNCbMpl1SA0nCHJdcXsomylGi0vUaPYmmWMrNtzQOWBmow",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-05T09:26:01.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "AU"
-    },
-    {
-      "id": "com.playvalve.wsjourney",
-      "name": "Word Search - Word Puzzle Game",
-      "developer": "Bluetile",
-      "url": "https://play.google.com/store/apps/details?id=com.playvalve.wsjourney&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/buGx7Qx6e_M9DUqiwABScUWx-xgiUSJBURBhivVel8OdVVzqOB2F5V3Nt60Ov8Qudw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T15:38:38.000Z",
+      "releaseDate": "2026-03-04T16:46:34.000Z",
       "genres": [
         "Word"
       ],
       "country": "AU"
     },
     {
-      "id": "com.melon.drop.fruit.merge.master",
-      "name": "Fruit Merge™: Match Game",
-      "developer": "Brave HK Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.melon.drop.fruit.merge.master&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/GugmVimvZqWtfvEmKJj7nnWZF3O8aUHbLhOgwAUIiMaday3EIGM7R58gKl0sbfiIvx_a",
+      "id": "in.playsimple.crossword.go",
+      "name": "Crossword Go!",
+      "developer": "PlaySimple Games",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.crossword.go&hl=en&gl=AU",
+      "artwork": "https://play-lh.googleusercontent.com/ztMALscTURn2AHhGhiIeKpTj-fs3zGrrU5BbW62Bgu3ownxHKkSnRgC_Fm-9ttzL6sDp",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T11:11:28.000Z",
+      "releaseDate": "2026-02-20T10:24:15.000Z",
       "genres": [
-        "Puzzle"
-      ],
-      "country": "AU"
-    },
-    {
-      "id": "com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter",
-      "name": "Rainbow Six Mobile",
-      "developer": "Ubisoft Nova",
-      "url": "https://play.google.com/store/apps/details?id=com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter&hl=en&gl=AU",
-      "artwork": "https://play-lh.googleusercontent.com/QIH2nL3HlU9UcEL8MuDJtunxs3dSTY9LXeWx4fQMU0XdOzEG8xQ0DVXa6nz4hbNvwrDI_FYOHcvi1up7KAT81A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T08:21:45.000Z",
-      "genres": [
-        "Action"
+        "Word"
       ],
       "country": "AU"
     }
