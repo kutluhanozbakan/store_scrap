@@ -1,7 +1,7 @@
 {
   "country": "EE",
   "store": "google",
-  "updatedAt": "2026-03-07T05:11:19.387Z",
+  "updatedAt": "2026-03-07T11:29:21.021Z",
   "new": [
     {
       "id": "train.ride.master",
@@ -110,6 +110,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-06T15:21:42.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "EE"
+    },
+    {
+      "id": "com.bravestars.savethedog.drawgame",
+      "name": "Save The Pets",
+      "developer": "Bravestars Games",
+      "url": "https://play.google.com/store/apps/details?id=com.bravestars.savethedog.drawgame&hl=en&gl=EE",
+      "artwork": "https://play-lh.googleusercontent.com/M30GFPRmi5D5ZNEB8VMCgXs6kM_dz_C2wzIFu2pMfSqZZUu0M3R2YBt0WB6S5nIOyA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T15:08:22.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -420,20 +434,6 @@
       "releaseDate": "2026-03-05T09:26:01.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "EE"
-    },
-    {
-      "id": "com.fugo.wow",
-      "name": "Words of Wonders: Crossword",
-      "developer": "Fugo Games",
-      "url": "https://play.google.com/store/apps/details?id=com.fugo.wow&hl=en&gl=EE",
-      "artwork": "https://play-lh.googleusercontent.com/8Zc2SWYy3t70pvIdX9PeuaHpZZIP8sJybKiBUH2vkdxx9R2rypcIE-rN9_fbt-G7rWQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T18:16:55.000Z",
-      "genres": [
-        "Word"
       ],
       "country": "EE"
     },
