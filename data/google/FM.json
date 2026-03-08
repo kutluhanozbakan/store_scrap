@@ -1,7 +1,7 @@
 {
   "country": "FM",
   "store": "google",
-  "updatedAt": "2026-03-08T15:54:27.920Z",
+  "updatedAt": "2026-03-08T22:13:38.930Z",
   "new": [
     {
       "id": "com.moonfrog.ludo.club",
@@ -336,6 +336,20 @@
       "releaseDate": "2026-03-05T10:56:20.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "FM"
+    },
+    {
+      "id": "com.amelosinteractive.snake",
+      "name": "Snake.io - Fun Snake .io Games",
+      "developer": "Kooapps Games | Fun Arcade and Casual Action Games",
+      "url": "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake&hl=en&gl=FM",
+      "artwork": "https://play-lh.googleusercontent.com/NG4sZTG49qpKGd3tUxdoxbW2EXSp1-nAxcYr3XCO0SO1WO5P2sWkk0sBtUGZPYzPOU0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T09:25:26.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "FM"
     },
@@ -688,20 +702,6 @@
         "Role Playing"
       ],
       "country": "FM"
-    },
-    {
-      "id": "com.craftland.sandboxworld",
-      "name": "Craft Land: Sandbox World",
-      "developer": "Craftopia Games",
-      "url": "https://play.google.com/store/apps/details?id=com.craftland.sandboxworld&hl=en&gl=FM",
-      "artwork": "https://play-lh.googleusercontent.com/vae8Q0ySuikY-oTC54ejQ8qnEjhaRed6VXl0McEuSEjSWJOFmkExxF0_TSmHeau3XGMDOlop7tEE0_eGICvstw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T10:14:47.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "FM"
     }
   ],
   "updated": [
@@ -958,34 +958,6 @@
       "country": "FM"
     },
     {
-      "id": "com.wood.block.sudoku.puzzle.bm",
-      "name": "Block Crush!",
-      "developer": "Wonderful  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=FM",
-      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T16:36:02.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "FM"
-    },
-    {
-      "id": "com.boat.fishing.simulator",
-      "name": "Boat Fishing Simulator",
-      "developer": "Skyloft Yazılım Bilişim ve Anonim Şirketi",
-      "url": "https://play.google.com/store/apps/details?id=com.boat.fishing.simulator&hl=en&gl=FM",
-      "artwork": "https://play-lh.googleusercontent.com/tVUBC4vB-qhCazWEAJ97013TPTE6muZ17w4PSAUWPFH_Umv8QXj5NJG6--JRJCpOW5rSScqk2GhHNaee5ElvTw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-12T07:59:15.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "FM"
-    },
-    {
       "id": "com.Neurononfire.SupremeDuelist",
       "name": "Supreme Duelist",
       "developer": "Neron's Brother",
@@ -996,6 +968,20 @@
       "releaseDate": "2026-03-04T13:07:21.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "FM"
+    },
+    {
+      "id": "com.wood.block.sudoku.puzzle.bm",
+      "name": "Block Crush!",
+      "developer": "Wonderful  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=FM",
+      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T16:36:02.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "FM"
     },
@@ -1056,6 +1042,20 @@
       "country": "FM"
     },
     {
+      "id": "com.boat.fishing.simulator",
+      "name": "Boat Fishing Simulator",
+      "developer": "Skyloft Yazılım Bilişim ve Anonim Şirketi",
+      "url": "https://play.google.com/store/apps/details?id=com.boat.fishing.simulator&hl=en&gl=FM",
+      "artwork": "https://play-lh.googleusercontent.com/tVUBC4vB-qhCazWEAJ97013TPTE6muZ17w4PSAUWPFH_Umv8QXj5NJG6--JRJCpOW5rSScqk2GhHNaee5ElvTw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-12T07:59:15.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "FM"
+    },
+    {
       "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
       "name": "Agent Shooter - Shooting Game",
       "developer": "Rebel Actions",
@@ -1080,6 +1080,20 @@
       "releaseDate": "2026-03-06T13:15:52.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "FM"
+    },
+    {
+      "id": "com.miniclip.drone1",
+      "name": "War Drone: 3D Shooting Games",
+      "developer": "Mobile Gaming Studios Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.drone1&hl=en&gl=FM",
+      "artwork": "https://play-lh.googleusercontent.com/quIsXpM_hTDjWCfCNHwROYTMyiOHJ3wdkOb8vBRq_6IP63Wv1d68qLC1mvevxX3VOw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-27T17:28:35.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "FM"
     },
@@ -1322,6 +1336,20 @@
       "country": "FM"
     },
     {
+      "id": "com.robtopx.geometryjumplite",
+      "name": "Geometry Dash Lite",
+      "developer": "RobTop Games",
+      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=FM",
+      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T14:03:50.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "FM"
+    },
+    {
       "id": "com.imangi.templerun2",
       "name": "Temple Run 2: Endless Escape",
       "developer": "Imangi Studios",
@@ -1374,34 +1402,6 @@
       "releaseDate": "2026-03-03T03:13:14.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "FM"
-    },
-    {
-      "id": "com.traffic.motorcycle.rider.driving.racing.open.sandbox.world",
-      "name": "Driving Motor Racing Simulator",
-      "developer": "Digital Payment Tech",
-      "url": "https://play.google.com/store/apps/details?id=com.traffic.motorcycle.rider.driving.racing.open.sandbox.world&hl=en&gl=FM",
-      "artwork": "https://play-lh.googleusercontent.com/tu3jt-CbX7hZIZbFMe_icuREWduoAvPcp-egP-6O4O5kEbDhjuq1euxqBgGxJofnylBQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T15:35:32.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "FM"
-    },
-    {
-      "id": "com.miniclip.drone1",
-      "name": "War Drone: 3D Shooting Games",
-      "developer": "Mobile Gaming Studios Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.drone1&hl=en&gl=FM",
-      "artwork": "https://play-lh.googleusercontent.com/quIsXpM_hTDjWCfCNHwROYTMyiOHJ3wdkOb8vBRq_6IP63Wv1d68qLC1mvevxX3VOw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T17:28:35.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "FM"
     }
