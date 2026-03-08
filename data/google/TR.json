@@ -1,8 +1,22 @@
 {
   "country": "TR",
   "store": "google",
-  "updatedAt": "2026-03-08T13:45:27.528Z",
+  "updatedAt": "2026-03-08T19:52:30.833Z",
   "new": [
+    {
+      "id": "com.fugo.wow",
+      "name": "Words of Wonders: Crossword",
+      "developer": "Fugo Games",
+      "url": "https://play.google.com/store/apps/details?id=com.fugo.wow&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/8Zc2SWYy3t70pvIdX9PeuaHpZZIP8sJybKiBUH2vkdxx9R2rypcIE-rN9_fbt-G7rWQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-08T08:32:08.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "TR"
+    },
     {
       "id": "com.tapblaze.pizzabusiness",
       "name": "Good Pizza, Great Pizza",
@@ -592,34 +606,6 @@
       "country": "TR"
     },
     {
-      "id": "com.TeamTerrible.BabyInYellow",
-      "name": "The Baby In Yellow",
-      "developer": "Team Terrible",
-      "url": "https://play.google.com/store/apps/details?id=com.TeamTerrible.BabyInYellow&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/vz14ouljOAK5wXdK_Ve93c8eRLGgxkn2ALT7WTa74cu3h6VEcRHY8LjYfs8PIC_msKrdituk5xfIBVr-Fopm2w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T20:08:15.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "TR"
-    },
-    {
-      "id": "com.supercell.hayday",
-      "name": "Hay Day",
-      "developer": "Supercell",
-      "url": "https://play.google.com/store/apps/details?id=com.supercell.hayday&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/Za8u0ChNK-3mZ3rnLcBirRBTzLYTdqaaAn63Ha9qKZiDp_bF_5u7OGfvWb1dg88WttKw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T08:03:30.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "TR"
-    },
-    {
       "id": "com.PtronPlayDigital.EtiketTofask",
       "name": "Etiket Tofask - Doğan Şahin",
       "developer": "PtronPlay Digital",
@@ -702,6 +688,20 @@
         "Arcade"
       ],
       "country": "TR"
+    },
+    {
+      "id": "com.advant.streamer",
+      "name": "Lamar - Idle Vlogger",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T15:26:20.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "TR"
     }
   ],
   "updated": [
@@ -762,6 +762,20 @@
       "country": "TR"
     },
     {
+      "id": "com.tencent.ig",
+      "name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-29T01:31:07.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "TR"
+    },
+    {
       "id": "com.supercell.brawlstars",
       "name": "Brawl Stars",
       "developer": "Supercell",
@@ -776,14 +790,14 @@
       "country": "TR"
     },
     {
-      "id": "com.tencent.ig",
-      "name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
+      "id": "com.mobile.legends",
+      "name": "Mobile Legends: Bang Bang",
+      "developer": "MOONTON",
+      "url": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/Op7v9XdsyxjrKImMD5RLyiLRCAHs3DMQFANwfsuMTw1hq0lH4j8tOqD3Fd7zyr4ixmC0xoqqRkQDBjAd46NsFQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-29T01:31:07.000Z",
+      "releaseDate": "2026-02-07T03:26:33.000Z",
       "genres": [
         "Action"
       ],
@@ -800,20 +814,6 @@
       "releaseDate": "2026-03-06T09:43:26.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "TR"
-    },
-    {
-      "id": "com.mobile.legends",
-      "name": "Mobile Legends: Bang Bang",
-      "developer": "MOONTON",
-      "url": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/Op7v9XdsyxjrKImMD5RLyiLRCAHs3DMQFANwfsuMTw1hq0lH4j8tOqD3Fd7zyr4ixmC0xoqqRkQDBjAd46NsFQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-07T03:26:33.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "TR"
     },
@@ -842,20 +842,6 @@
       "releaseDate": "2026-03-05T12:22:48.000Z",
       "genres": [
         "Educational"
-      ],
-      "country": "TR"
-    },
-    {
-      "id": "com.run.tower.defense",
-      "name": "Kingshot",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T15:06:36.000Z",
-      "genres": [
-        "Strategy"
       ],
       "country": "TR"
     },
@@ -902,34 +888,6 @@
       "country": "TR"
     },
     {
-      "id": "com.wood.block.sudoku.puzzle.bm",
-      "name": "Block Crush!",
-      "developer": "Wonderful  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T16:36:02.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "TR"
-    },
-    {
-      "id": "com.dreamgames.royalkingdom",
-      "name": "Royal Kingdom",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T15:01:01.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "TR"
-    },
-    {
       "id": "com.craftland.sandboxworld",
       "name": "Craft Land: Sandbox World",
       "developer": "Craftopia Games",
@@ -972,6 +930,20 @@
       "country": "TR"
     },
     {
+      "id": "com.run.tower.defense",
+      "name": "Kingshot",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T15:06:36.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "TR"
+    },
+    {
       "id": "com.vitastudio.mahjong",
       "name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -1000,6 +972,20 @@
       "country": "TR"
     },
     {
+      "id": "com.wood.block.sudoku.puzzle.bm",
+      "name": "Block Crush!",
+      "developer": "Wonderful  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T16:36:02.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "TR"
+    },
+    {
       "id": "com.CAYN.TowerOfHellObby",
       "name": "Obby Parkour: Runner Game",
       "developer": "Kids Games LLC",
@@ -1014,34 +1000,6 @@
       "country": "TR"
     },
     {
-      "id": "com.masomo.headball2",
-      "name": "Head Ball 2 - Online Soccer",
-      "developer": "Masomo Gaming",
-      "url": "https://play.google.com/store/apps/details?id=com.masomo.headball2&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/0j0dq4LmRgx4MAqp1q_AsNWAxCsv9ZRd1pmwl0UPAnai9mu5cwlEKTg66vYH9Iv_lWM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T14:57:43.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "TR"
-    },
-    {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T16:48:19.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "TR"
-    },
-    {
       "id": "com.candyroom.clubcraft",
       "name": "School Party Craft",
       "developer": "Candy Room Games & RabbitCo",
@@ -1052,6 +1010,20 @@
       "releaseDate": "2026-03-04T18:38:23.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "TR"
+    },
+    {
+      "id": "com.dreamgames.royalkingdom",
+      "name": "Royal Kingdom",
+      "developer": "Dream Games, Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T15:01:01.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "TR"
     },
@@ -1098,72 +1070,30 @@
       "country": "TR"
     },
     {
-      "id": "com.mojang.minecrafttrialpe",
-      "name": "Minecraft Trial",
-      "developer": "Mojang",
-      "url": "https://play.google.com/store/apps/details?id=com.mojang.minecrafttrialpe&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/DJexP6PO8dL06XvNrjG7plb7SW_SaxuNamO80ab512JA71lBEBUnaJCaZzlqWVrrlEiG",
+      "id": "com.masomo.headball2",
+      "name": "Head Ball 2 - Online Soccer",
+      "developer": "Masomo Gaming",
+      "url": "https://play.google.com/store/apps/details?id=com.masomo.headball2&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/0j0dq4LmRgx4MAqp1q_AsNWAxCsv9ZRd1pmwl0UPAnai9mu5cwlEKTg66vYH9Iv_lWM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T20:11:16.000Z",
+      "releaseDate": "2026-03-03T14:57:43.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "TR"
+    },
+    {
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T16:48:19.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "TR"
-    },
-    {
-      "id": "com.higame.brain.twist.tricky.puzzle",
-      "name": "Prison Puzzle: Brain Twist",
-      "developer": "HIGAME LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.higame.brain.twist.tricky.puzzle&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/D98i4j50j9-2uH6S0ogm6KKUfq4qyZHo5XLzumjxIpe_Y-CJHSO1Bf4JIY_BDy-HBQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T15:21:42.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "TR"
-    },
-    {
-      "id": "com.magic.music.tiles.game",
-      "name": "Rainbow Piano: EDM Music Game",
-      "developer": "SAWOTIN GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.magic.music.tiles.game&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/JMjsjImWbh5HxeA82nJ3VujASUBLJM120ZWGRZqgTpmzA4akZhRAZ_fhuaGFfAuvHcHy",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T08:50:36.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "TR"
-    },
-    {
-      "id": "com.creations.runnergame",
-      "name": "Kooply Run™: Play and Create!",
-      "developer": "KOOPLY",
-      "url": "https://play.google.com/store/apps/details?id=com.creations.runnergame&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/gMwKsn2RI__kMbkcH3Ta6JljGJnHdcZaZ_FDpIVUfQXjv9hhoiVLy_WCUQPJI766IQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T10:47:21.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "TR"
-    },
-    {
-      "id": "gg.sunday.catescape",
-      "name": "Cat Escape: Virtual Pet Game",
-      "developer": "Sunday.gg",
-      "url": "https://play.google.com/store/apps/details?id=gg.sunday.catescape&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/56xrkazNFnyErWQtFSTWVwhBJsi637vYflAlv3wFIZvH25hOWoeQf2pmBJ6p6ICVs5M",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T17:13:59.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "TR"
     },
@@ -1182,30 +1112,30 @@
       "country": "TR"
     },
     {
-      "id": "com.magic.cyber.piano.tiles.edm.musicgames",
-      "name": "Pop Piano: Music Games",
-      "developer": "Cobby Labs",
-      "url": "https://play.google.com/store/apps/details?id=com.magic.cyber.piano.tiles.edm.musicgames&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/11xNmRHrdqkAEJCotsiisr47VaK4Q4CMeJHkungv4S18mijkBXFDOiESYel8hvLl9Q",
+      "id": "gg.sunday.catescape",
+      "name": "Cat Escape: Virtual Pet Game",
+      "developer": "Sunday.gg",
+      "url": "https://play.google.com/store/apps/details?id=gg.sunday.catescape&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/56xrkazNFnyErWQtFSTWVwhBJsi637vYflAlv3wFIZvH25hOWoeQf2pmBJ6p6ICVs5M",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-10T14:18:37.000Z",
+      "releaseDate": "2026-03-03T17:13:59.000Z",
       "genres": [
-        "Music"
+        "Simulation"
       ],
       "country": "TR"
     },
     {
-      "id": "com.company.shaw",
-      "name": "Shawarma Legend",
-      "developer": "Patates Games",
-      "url": "https://play.google.com/store/apps/details?id=com.company.shaw&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/JEPHywUYJ6BVg9c9isN8ITOqhc_NbzNUPItyCCqpCH7wwHhYTqBUDJEwfaqUVfCYhg",
+      "id": "com.creations.runnergame",
+      "name": "Kooply Run™: Play and Create!",
+      "developer": "KOOPLY",
+      "url": "https://play.google.com/store/apps/details?id=com.creations.runnergame&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/gMwKsn2RI__kMbkcH3Ta6JljGJnHdcZaZ_FDpIVUfQXjv9hhoiVLy_WCUQPJI766IQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-03-07T00:45:08.000Z",
+      "releaseDate": "2026-03-04T10:47:21.000Z",
       "genres": [
-        "Simulation"
+        "Arcade"
       ],
       "country": "TR"
     },
@@ -1238,16 +1168,44 @@
       "country": "TR"
     },
     {
-      "id": "com.outfit7.mytalkingtom2",
-      "name": "My Talking Tom 2: Pet Game",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
+      "id": "com.mojang.minecrafttrialpe",
+      "name": "Minecraft Trial",
+      "developer": "Mojang",
+      "url": "https://play.google.com/store/apps/details?id=com.mojang.minecrafttrialpe&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/DJexP6PO8dL06XvNrjG7plb7SW_SaxuNamO80ab512JA71lBEBUnaJCaZzlqWVrrlEiG",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T11:25:29.000Z",
+      "releaseDate": "2026-02-27T20:11:16.000Z",
       "genres": [
-        "Casual"
+        "Arcade"
+      ],
+      "country": "TR"
+    },
+    {
+      "id": "com.higame.brain.twist.tricky.puzzle",
+      "name": "Prison Puzzle: Brain Twist",
+      "developer": "HIGAME LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.higame.brain.twist.tricky.puzzle&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/D98i4j50j9-2uH6S0ogm6KKUfq4qyZHo5XLzumjxIpe_Y-CJHSO1Bf4JIY_BDy-HBQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T15:21:42.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "TR"
+    },
+    {
+      "id": "com.magic.cyber.piano.tiles.edm.musicgames",
+      "name": "Pop Piano: Music Games",
+      "developer": "Cobby Labs",
+      "url": "https://play.google.com/store/apps/details?id=com.magic.cyber.piano.tiles.edm.musicgames&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/11xNmRHrdqkAEJCotsiisr47VaK4Q4CMeJHkungv4S18mijkBXFDOiESYel8hvLl9Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-10T14:18:37.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "TR"
     },
@@ -1266,16 +1224,30 @@
       "country": "TR"
     },
     {
-      "id": "com.yoyaworld.sparkle",
-      "name": "YoYa Sparkle: Style Pop",
-      "developer": "YoYa World",
-      "url": "https://play.google.com/store/apps/details?id=com.yoyaworld.sparkle&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/p8-BaCjUpkQpVNEZmtMdBOlNI7VKwtAzlGRuN2lHqZByjb5QAcR7iNrOpTr6b63zEB3KajI0C29ZP6ZP_t-cEg",
+      "id": "com.outfit7.mytalkingtom2",
+      "name": "My Talking Tom 2: Pet Game",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/Gx3X4s040rmHEVeNm_wgrFP0uVPjCH7RwMPRDzqUrdglZPh2A6QDjpEn-d9GO_SBxg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-28T11:47:15.000Z",
+      "releaseDate": "2026-02-20T11:25:29.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "TR"
+    },
+    {
+      "id": "com.magic.music.tiles.game",
+      "name": "Rainbow Piano: EDM Music Game",
+      "developer": "SAWOTIN GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.magic.music.tiles.game&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/JMjsjImWbh5HxeA82nJ3VujASUBLJM120ZWGRZqgTpmzA4akZhRAZ_fhuaGFfAuvHcHy",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T08:50:36.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "TR"
     },
@@ -1294,6 +1266,20 @@
       "country": "TR"
     },
     {
+      "id": "com.company.shaw",
+      "name": "Shawarma Legend",
+      "developer": "Patates Games",
+      "url": "https://play.google.com/store/apps/details?id=com.company.shaw&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/JEPHywUYJ6BVg9c9isN8ITOqhc_NbzNUPItyCCqpCH7wwHhYTqBUDJEwfaqUVfCYhg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-03-07T00:45:08.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "TR"
+    },
+    {
       "id": "com.amelosinteractive.snake",
       "name": "Snake.io - Fun Snake .io Games",
       "developer": "Kooapps Games | Fun Arcade and Casual Action Games",
@@ -1304,6 +1290,34 @@
       "releaseDate": "2026-03-05T09:25:26.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "TR"
+    },
+    {
+      "id": "com.yoyaworld.sparkle",
+      "name": "YoYa Sparkle: Style Pop",
+      "developer": "YoYa World",
+      "url": "https://play.google.com/store/apps/details?id=com.yoyaworld.sparkle&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/p8-BaCjUpkQpVNEZmtMdBOlNI7VKwtAzlGRuN2lHqZByjb5QAcR7iNrOpTr6b63zEB3KajI0C29ZP6ZP_t-cEg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T11:47:15.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "TR"
+    },
+    {
+      "id": "gg.sunday.dog.escape.puzzle",
+      "name": "Dog Escape: Cute Pet Care Life",
+      "developer": "Sunday.gg",
+      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T16:10:58.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "TR"
     },
@@ -1350,48 +1364,6 @@
       "country": "TR"
     },
     {
-      "id": "com.rolling.hop.dancing.cats.tiles.musicgames",
-      "name": "Dancing Cats 2: Music Games",
-      "developer": "Cobby Labs",
-      "url": "https://play.google.com/store/apps/details?id=com.rolling.hop.dancing.cats.tiles.musicgames&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/gT89HMPUb-VdmIe-7BQk78PHD859D28TGTdP8Nzm505cBFbVhegvEyfLWDz4jPe2yA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-13T08:44:54.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "TR"
-    },
-    {
-      "id": "com.ice.ball.snow.race",
-      "name": "Snow Race 3D™: Fun Racing",
-      "developer": "Commandoo Jsc",
-      "url": "https://play.google.com/store/apps/details?id=com.ice.ball.snow.race&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/o4o2ZdL8WqcOnpPkOM4Kx4LEGCpRDaHos-njiG_kTcdbHwbHWesOfjiTYYXIWVbiyTI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-12T11:36:06.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "TR"
-    },
-    {
-      "id": "gg.sunday.dog.escape.puzzle",
-      "name": "Dog Escape: Cute Pet Care Life",
-      "developer": "Sunday.gg",
-      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle&hl=en&gl=TR",
-      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T16:10:58.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "TR"
-    },
-    {
       "id": "com.dino.race.master",
       "name": "Car Race",
       "developer": "iKame Games - Zego Studio",
@@ -1402,6 +1374,34 @@
       "releaseDate": "2026-01-09T02:55:19.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "TR"
+    },
+    {
+      "id": "com.GamesEZ.CustomClubOnline",
+      "name": "Custom Club: Online Racing 3D",
+      "developer": "GamesEZ",
+      "url": "https://play.google.com/store/apps/details?id=com.GamesEZ.CustomClubOnline&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/hR7Ae7_cy2visuiZBKVBclCFw0AAfOqA1fSE6GkyBE4FU7wY_w28hgZQBmXbFiwkWA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T16:06:06.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "TR"
+    },
+    {
+      "id": "com.FDGEntertainment.redball4.gp",
+      "name": "Red Ball 4",
+      "developer": "FDG Entertainment GmbH & Co.KG",
+      "url": "https://play.google.com/store/apps/details?id=com.FDGEntertainment.redball4.gp&hl=en&gl=TR",
+      "artwork": "https://play-lh.googleusercontent.com/_2RsmTzfPHkBeSmDVOzgKaSQGLNqYep9mRsuYErzIcQslzAt_0hQDgoP4wJCwvMJkizT",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-13T08:07:22.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "TR"
     }
