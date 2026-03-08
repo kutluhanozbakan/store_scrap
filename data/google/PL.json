@@ -1,7 +1,7 @@
 {
   "country": "PL",
   "store": "google",
-  "updatedAt": "2026-03-08T11:52:57.308Z",
+  "updatedAt": "2026-03-08T19:03:59.605Z",
   "new": [
     {
       "id": "com.fugo.wow",
@@ -14,6 +14,20 @@
       "releaseDate": "2026-03-08T08:32:08.000Z",
       "genres": [
         "Word"
+      ],
+      "country": "PL"
+    },
+    {
+      "id": "com.mandcatgames.thecursedvoicezoo",
+      "name": "The Cursed Voice Zoo",
+      "developer": "Rieus Games",
+      "url": "https://play.google.com/store/apps/details?id=com.mandcatgames.thecursedvoicezoo&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/tqJk65JvQGtNX9Cfkx4us3Fbs2Moxng0eWDVHeDmC1j77eJY_OvPEXud3eQ8crnzvuNmDG3egnpjtkmaX6qcQw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-08T03:50:46.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "PL"
     },
@@ -56,6 +70,20 @@
       "releaseDate": "2026-03-06T20:01:24.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "PL"
+    },
+    {
+      "id": "com.box.simulator.brawl.stars.gifts.loot",
+      "name": "Box Simulator for Brawl Stars",
+      "developer": "Box Simulator for BS",
+      "url": "https://play.google.com/store/apps/details?id=com.box.simulator.brawl.stars.gifts.loot&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/pM7Q5HBx5Mzcx72bGKesVF2RZTnObjr-A6aKDZjy5PYKZHYHlSGlEVSK8fH9XBNq6GDrl6GbLeT8W9JJm4mpfQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T17:33:49.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "PL"
     },
@@ -224,20 +252,6 @@
       "releaseDate": "2026-03-06T11:31:51.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "PL"
-    },
-    {
-      "id": "com.bbg.one.line.puzzle.games",
-      "name": "Line Drawing: No Lift Puzzle",
-      "developer": "The Fashion Valley",
-      "url": "https://play.google.com/store/apps/details?id=com.bbg.one.line.puzzle.games&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/6bi7Df5jyVNBd0vHPlSM28gcF4h6xRJNmyTNqLQBUrc9P8yJNfN_tdzXnqwE-unPXdQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T10:35:43.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "PL"
     },
@@ -688,20 +702,6 @@
         "Board"
       ],
       "country": "PL"
-    },
-    {
-      "id": "com.nianticlabs.pokemongo",
-      "name": "Pokémon GO",
-      "developer": "Niantic, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/Qf2SJGpLxd9eu4CLWRrh2tfmmkncg7TQ2RNr44tWO07EBfhfMs4CHlizioym11Vb6RmfIWCNz6FNsOgHj_5dMA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T17:29:17.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "PL"
     }
   ],
   "updated": [
@@ -748,20 +748,6 @@
       "country": "PL"
     },
     {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T14:00:43.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "PL"
-    },
-    {
       "id": "com.roblox.client",
       "name": "Roblox",
       "developer": "Roblox Corporation",
@@ -772,6 +758,20 @@
       "releaseDate": "2026-03-05T18:09:24.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "PL"
+    },
+    {
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T14:00:43.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "PL"
     },
@@ -846,16 +846,16 @@
       "country": "PL"
     },
     {
-      "id": "com.funplus.ts.global",
-      "name": "Tiles Survive!",
-      "developer": "FunPlus International AG",
-      "url": "https://play.google.com/store/apps/details?id=com.funplus.ts.global&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/zckZa4Pytdr9QxK-Xv6XlbJo62tZV4pk3VPLBnuUXzR-pmM5nWWHUbo3MT1Lu9xxIRye",
+      "id": "com.craftland.sandboxworld",
+      "name": "Craft Land: Sandbox World",
+      "developer": "Craftopia Games",
+      "url": "https://play.google.com/store/apps/details?id=com.craftland.sandboxworld&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/vae8Q0ySuikY-oTC54ejQ8qnEjhaRed6VXl0McEuSEjSWJOFmkExxF0_TSmHeau3XGMDOlop7tEE0_eGICvstw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-03T15:21:10.000Z",
+      "releaseDate": "2026-02-24T10:14:47.000Z",
       "genres": [
-        "Strategy"
+        "Simulation"
       ],
       "country": "PL"
     },
@@ -874,16 +874,16 @@
       "country": "PL"
     },
     {
-      "id": "com.craftland.sandboxworld",
-      "name": "Craft Land: Sandbox World",
-      "developer": "Craftopia Games",
-      "url": "https://play.google.com/store/apps/details?id=com.craftland.sandboxworld&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/vae8Q0ySuikY-oTC54ejQ8qnEjhaRed6VXl0McEuSEjSWJOFmkExxF0_TSmHeau3XGMDOlop7tEE0_eGICvstw",
+      "id": "com.funplus.ts.global",
+      "name": "Tiles Survive!",
+      "developer": "FunPlus International AG",
+      "url": "https://play.google.com/store/apps/details?id=com.funplus.ts.global&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/zckZa4Pytdr9QxK-Xv6XlbJo62tZV4pk3VPLBnuUXzR-pmM5nWWHUbo3MT1Lu9xxIRye",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T10:14:47.000Z",
+      "releaseDate": "2026-03-03T15:21:10.000Z",
       "genres": [
-        "Simulation"
+        "Strategy"
       ],
       "country": "PL"
     },
@@ -916,48 +916,6 @@
       "country": "PL"
     },
     {
-      "id": "com.totalbattle",
-      "name": "Total Battle: Strategy Games",
-      "developer": "Scorewarrior",
-      "url": "https://play.google.com/store/apps/details?id=com.totalbattle&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/tVu9zOuRBk4aUjro3Rgt0XUug_DxzjkyHxaslu9Q1dRd3XTOAw5Pn7UPT_xG4Se4rKS-",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T16:42:02.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "PL"
-    },
-    {
-      "id": "com.playstrom.my.sticker.room",
-      "name": "My Sticker Room - Decor Game",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/Z_DSIS6IGl9aSW67rlVKoatQLa8oc8cyiSQZ-jjkKpFc5sBao4dg4cfEhGTq5z7S3A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T14:39:09.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "PL"
-    },
-    {
-      "id": "com.epicoro.castleclashers",
-      "name": "Castle Clashers!",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.epicoro.castleclashers&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/VW7o5ybPRq9TbTQs9_pzrJkYoFk4QVxUkV96bVfauDmGBZ8O6KNHIRH4oIRlkQAgogw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T12:31:56.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "PL"
-    },
-    {
       "id": "com.loomgames.pixelflow",
       "name": "Pixel Flow!",
       "developer": "Loom Games A.Ş.",
@@ -986,6 +944,20 @@
       "country": "PL"
     },
     {
+      "id": "com.red.arrows.android",
+      "name": "Arrowscapes™ - Arrows Puzzle",
+      "developer": "Beijing Youyoutang Technology Co.,ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.red.arrows.android&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/sLclRCwg48GnYDGbqUFSDXXUDtx1VwFhKy0eNadH3EUn5DccgwDn1GFSwJXV0RrIQNQq",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-12T04:02:08.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "PL"
+    },
+    {
       "id": "com.innplaylabs.animalkingdomraid",
       "name": "Animals & Coins: Animal Run",
       "developer": "Innplay Labs",
@@ -1000,16 +972,44 @@
       "country": "PL"
     },
     {
-      "id": "com.red.arrows.android",
-      "name": "Arrowscapes™ - Arrows Puzzle",
-      "developer": "Beijing Youyoutang Technology Co.,ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.red.arrows.android&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/sLclRCwg48GnYDGbqUFSDXXUDtx1VwFhKy0eNadH3EUn5DccgwDn1GFSwJXV0RrIQNQq",
+      "id": "com.totalbattle",
+      "name": "Total Battle: Strategy Games",
+      "developer": "Scorewarrior",
+      "url": "https://play.google.com/store/apps/details?id=com.totalbattle&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/tVu9zOuRBk4aUjro3Rgt0XUug_DxzjkyHxaslu9Q1dRd3XTOAw5Pn7UPT_xG4Se4rKS-",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-12T04:02:08.000Z",
+      "releaseDate": "2026-02-20T16:42:02.000Z",
       "genres": [
-        "Casual"
+        "Strategy"
+      ],
+      "country": "PL"
+    },
+    {
+      "id": "com.epicoro.castleclashers",
+      "name": "Castle Clashers!",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.epicoro.castleclashers&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/VW7o5ybPRq9TbTQs9_pzrJkYoFk4QVxUkV96bVfauDmGBZ8O6KNHIRH4oIRlkQAgogw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T12:31:56.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "PL"
+    },
+    {
+      "id": "com.playstrom.my.sticker.room",
+      "name": "My Sticker Room - Decor Game",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/Z_DSIS6IGl9aSW67rlVKoatQLa8oc8cyiSQZ-jjkKpFc5sBao4dg4cfEhGTq5z7S3A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T14:39:09.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "PL"
     },
@@ -1028,20 +1028,6 @@
       "country": "PL"
     },
     {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T12:49:52.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "PL"
-    },
-    {
       "id": "com.spyke.resortmatch",
       "name": "Resort Match",
       "developer": "Spyke Games",
@@ -1056,14 +1042,14 @@
       "country": "PL"
     },
     {
-      "id": "com.dreamgames.royalkingdom",
-      "name": "Royal Kingdom",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-03T15:01:01.000Z",
+      "releaseDate": "2026-03-04T12:49:52.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1084,6 +1070,34 @@
       "country": "PL"
     },
     {
+      "id": "com.protostar.starfish",
+      "name": "Super Starfish",
+      "developer": "Protostar",
+      "url": "https://play.google.com/store/apps/details?id=com.protostar.starfish&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/pLGaZRjiHsXSC8xOYVdWUaKJ263BJmwOJtjalPpclRr1HPIdqDxtt-5mU_E4wzhCcg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-05T05:49:06.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "PL"
+    },
+    {
+      "id": "com.dreamgames.royalkingdom",
+      "name": "Royal Kingdom",
+      "developer": "Dream Games, Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T15:01:01.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "PL"
+    },
+    {
       "id": "com.nebula.mahjongtile",
       "name": "Mahjong Blast",
       "developer": "Nebula  Studio",
@@ -1098,16 +1112,16 @@
       "country": "PL"
     },
     {
-      "id": "com.protostar.starfish",
-      "name": "Super Starfish",
-      "developer": "Protostar",
-      "url": "https://play.google.com/store/apps/details?id=com.protostar.starfish&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/pLGaZRjiHsXSC8xOYVdWUaKJ263BJmwOJtjalPpclRr1HPIdqDxtt-5mU_E4wzhCcg",
+      "id": "pt.cosmicode.imposter",
+      "name": "Imposter Up - Who is the Spy?",
+      "developer": "Cosmicode",
+      "url": "https://play.google.com/store/apps/details?id=pt.cosmicode.imposter&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/vG_rEgkLiN6I5tCj8EQxhEw4dktXFrlPAb736d6t050ZFRZ16F3mj9D_o2RNX-qKYRl_VVeAdkgr7_B8z81Z6g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-05T05:49:06.000Z",
+      "releaseDate": "2026-03-04T16:09:35.000Z",
       "genres": [
-        "Action"
+        "Word"
       ],
       "country": "PL"
     },
@@ -1140,34 +1154,6 @@
       "country": "PL"
     },
     {
-      "id": "sheep.animal.parking.puzzle.game.jam",
-      "name": "Sheep Dash: Sheep Away",
-      "developer": "Snap Brain Games",
-      "url": "https://play.google.com/store/apps/details?id=sheep.animal.parking.puzzle.game.jam&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/kl66iWEo6PaSHzE3Gp4oYx22-Kn4REFbQborB288N4le8ErrHIXRn6wINcJVfDnXo4zLZAOjdoRVyDuD7G9X",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T09:04:40.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "PL"
-    },
-    {
-      "id": "com.monopoly.dream.idle.king",
-      "name": "Top Tycoon: Coin Theme Empire",
-      "developer": "BeheFun Games Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.monopoly.dream.idle.king&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/YSofgpw9fVAdL8ARICBntM6H2SchRLC7e-NYczRc-1I_gCQaN8U7y49ikrl3GfUYXW4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-15T14:29:01.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "PL"
-    },
-    {
       "id": "com.red.sortingstore.android",
       "name": "Water Match™- ASMR Water Sort",
       "developer": "Youyoutang Technology",
@@ -1182,30 +1168,44 @@
       "country": "PL"
     },
     {
-      "id": "com.rolling.hop.dancing.cats.tiles.musicgames",
-      "name": "Dancing Cats 2: Music Games",
-      "developer": "Cobby Labs",
-      "url": "https://play.google.com/store/apps/details?id=com.rolling.hop.dancing.cats.tiles.musicgames&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/gT89HMPUb-VdmIe-7BQk78PHD859D28TGTdP8Nzm505cBFbVhegvEyfLWDz4jPe2yA",
+      "id": "sheep.animal.parking.puzzle.game.jam",
+      "name": "Sheep Dash: Sheep Away",
+      "developer": "Snap Brain Games",
+      "url": "https://play.google.com/store/apps/details?id=sheep.animal.parking.puzzle.game.jam&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/kl66iWEo6PaSHzE3Gp4oYx22-Kn4REFbQborB288N4le8ErrHIXRn6wINcJVfDnXo4zLZAOjdoRVyDuD7G9X",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-13T08:44:54.000Z",
+      "releaseDate": "2026-02-09T09:04:40.000Z",
       "genres": [
-        "Music"
+        "Puzzle"
       ],
       "country": "PL"
     },
     {
-      "id": "pt.cosmicode.imposter",
-      "name": "Imposter Up - Who is the Spy?",
-      "developer": "Cosmicode",
-      "url": "https://play.google.com/store/apps/details?id=pt.cosmicode.imposter&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/vG_rEgkLiN6I5tCj8EQxhEw4dktXFrlPAb736d6t050ZFRZ16F3mj9D_o2RNX-qKYRl_VVeAdkgr7_B8z81Z6g",
+      "id": "com.minigames.antistress.relaxinggames.toys",
+      "name": "Antistress Relaxing Mini Games",
+      "developer": "CAT Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.minigames.antistress.relaxinggames.toys&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/GyxH6OelloeKh9B0iWbTpGKeK3qSnVEhKl6MoiCnvLXTniWuITKjEQjrNACCA-XsmxooB1fKWxoXhaYVfLFqiA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-04T16:09:35.000Z",
+      "releaseDate": "2025-12-29T06:05:28.000Z",
       "genres": [
-        "Word"
+        "Casual"
+      ],
+      "country": "PL"
+    },
+    {
+      "id": "com.higame.annoying.tricky.story.puzzle.game",
+      "name": "Tricky Prank: Brain Quest",
+      "developer": "HIGAME Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.higame.annoying.tricky.story.puzzle.game&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/c4GeGD2LgyBEKA6vUalFLxcbhS5rxsqrriNbKUErdyE4ZoxlLaksRGjMtsOHdnjrBrE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-26T11:11:09.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "PL"
     },
@@ -1224,44 +1224,16 @@
       "country": "PL"
     },
     {
-      "id": "com.submarineapps.mill",
-      "name": "Millionaire - Trivia IQ Games",
-      "developer": "Quiz & Trivia Games by Submarine Apps",
-      "url": "https://play.google.com/store/apps/details?id=com.submarineapps.mill&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/QMRXQ2qO8IbaXRm-opc9vqrlW-E8s4J9Mo5GMA2njkIHG4Kcv2fHoghaFhy6H20bAAp3",
+      "id": "com.monopoly.dream.idle.king",
+      "name": "Top Tycoon: Coin Theme Empire",
+      "developer": "BeheFun Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.monopoly.dream.idle.king&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/YSofgpw9fVAdL8ARICBntM6H2SchRLC7e-NYczRc-1I_gCQaN8U7y49ikrl3GfUYXW4",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T13:57:03.000Z",
+      "releaseDate": "2026-01-15T14:29:01.000Z",
       "genres": [
-        "Trivia"
-      ],
-      "country": "PL"
-    },
-    {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T07:21:42.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "PL"
-    },
-    {
-      "id": "jp.pokemon.pokemontcgp",
-      "name": "Pokémon TCG Pocket",
-      "developer": "The Pokémon Company",
-      "url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-25T05:33:20.000Z",
-      "genres": [
-        "Card"
+        "Simulation"
       ],
       "country": "PL"
     },
@@ -1280,14 +1252,14 @@
       "country": "PL"
     },
     {
-      "id": "com.higame.annoying.tricky.story.puzzle.game",
-      "name": "Tricky Prank: Brain Quest",
-      "developer": "HIGAME Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.higame.annoying.tricky.story.puzzle.game&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/c4GeGD2LgyBEKA6vUalFLxcbhS5rxsqrriNbKUErdyE4ZoxlLaksRGjMtsOHdnjrBrE",
+      "id": "com.ecffri.arrows",
+      "name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore UG",
+      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/f3szQ-tBQ5FVtiO2hwnJ6Gg4LbckQ9qKD099oiFqlvDo78uaD85Zn9G4o-W9390XnQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-26T11:11:09.000Z",
+      "releaseDate": "2026-03-05T16:22:25.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1308,72 +1280,16 @@
       "country": "PL"
     },
     {
-      "id": "com.ecffri.arrows",
-      "name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore UG",
-      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/f3szQ-tBQ5FVtiO2hwnJ6Gg4LbckQ9qKD099oiFqlvDo78uaD85Zn9G4o-W9390XnQ",
+      "id": "com.rolling.hop.dancing.cats.tiles.musicgames",
+      "name": "Dancing Cats 2: Music Games",
+      "developer": "Cobby Labs",
+      "url": "https://play.google.com/store/apps/details?id=com.rolling.hop.dancing.cats.tiles.musicgames&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/gT89HMPUb-VdmIe-7BQk78PHD859D28TGTdP8Nzm505cBFbVhegvEyfLWDz4jPe2yA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-05T16:22:25.000Z",
+      "releaseDate": "2026-01-13T08:44:54.000Z",
       "genres": [
-        "Puzzle"
-      ],
-      "country": "PL"
-    },
-    {
-      "id": "com.screenshake.dominodreams",
-      "name": "Domino Dreams™",
-      "developer": "SuperPlay.",
-      "url": "https://play.google.com/store/apps/details?id=com.screenshake.dominodreams&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/KPBcFtNGNn3cMtgFthtbrWL0COVs5bINj1aQYniBa6JxgI-FAkce2czhVONttEtLQXnfd0X5rHA6YGMHp3nfWw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T13:15:57.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "PL"
-    },
-    {
-      "id": "com.luckyskeletonstudios.idlebanktycoon",
-      "name": "Idle Bank Tycoon: Money Empire",
-      "developer": "Kolibri Games",
-      "url": "https://play.google.com/store/apps/details?id=com.luckyskeletonstudios.idlebanktycoon&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/M5BhmZrwy2w0RrvSn_483n_MNAwzEwVWEObm8mbVaQpeIxHwHyh4JmkXniA0PWNE8Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T15:51:25.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "PL"
-    },
-    {
-      "id": "com.minigames.antistress.relaxinggames.toys",
-      "name": "Antistress Relaxing Mini Games",
-      "developer": "CAT Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.minigames.antistress.relaxinggames.toys&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/GyxH6OelloeKh9B0iWbTpGKeK3qSnVEhKl6MoiCnvLXTniWuITKjEQjrNACCA-XsmxooB1fKWxoXhaYVfLFqiA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-29T06:05:28.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "PL"
-    },
-    {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=PL",
-      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:31:23.000Z",
-      "genres": [
-        "Arcade"
+        "Music"
       ],
       "country": "PL"
     },
@@ -1392,6 +1308,20 @@
       "country": "PL"
     },
     {
+      "id": "jp.pokemon.pokemontcgp",
+      "name": "Pokémon TCG Pocket",
+      "developer": "The Pokémon Company",
+      "url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-25T05:33:20.000Z",
+      "genres": [
+        "Card"
+      ],
+      "country": "PL"
+    },
+    {
       "id": "com.innersloth.spacemafia",
       "name": "Among Us",
       "developer": "Innersloth LLC",
@@ -1402,6 +1332,76 @@
       "releaseDate": "2026-02-18T19:19:24.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "PL"
+    },
+    {
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T12:31:23.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "PL"
+    },
+    {
+      "id": "gg.sunday.dog.escape.puzzle",
+      "name": "Dog Escape: Cute Pet Care Life",
+      "developer": "Sunday.gg",
+      "url": "https://play.google.com/store/apps/details?id=gg.sunday.dog.escape.puzzle&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/pov_Vq9Uk3fnRjKs66-SCK8lWNxVltXN3vwO8wRMEuk5DJTpftbROsjkzrPGtTYT5zs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T16:10:58.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "PL"
+    },
+    {
+      "id": "com.pixel.art.coloring.color.number",
+      "name": "Happy Color®: Color by Number",
+      "developer": "X-FLOW",
+      "url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/paB5-2s6q3uXd3nRE0-2QzCLeLklmemDepD0_Erald5YQUazuiOhMvJ8giFluMAX0w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T13:49:33.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "PL"
+    },
+    {
+      "id": "com.submarineapps.mill",
+      "name": "Millionaire - Trivia IQ Games",
+      "developer": "Quiz & Trivia Games by Submarine Apps",
+      "url": "https://play.google.com/store/apps/details?id=com.submarineapps.mill&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/QMRXQ2qO8IbaXRm-opc9vqrlW-E8s4J9Mo5GMA2njkIHG4Kcv2fHoghaFhy6H20bAAp3",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T13:57:03.000Z",
+      "genres": [
+        "Trivia"
+      ],
+      "country": "PL"
+    },
+    {
+      "id": "com.screenshake.dominodreams",
+      "name": "Domino Dreams™",
+      "developer": "SuperPlay.",
+      "url": "https://play.google.com/store/apps/details?id=com.screenshake.dominodreams&hl=en&gl=PL",
+      "artwork": "https://play-lh.googleusercontent.com/KPBcFtNGNn3cMtgFthtbrWL0COVs5bINj1aQYniBa6JxgI-FAkce2czhVONttEtLQXnfd0X5rHA6YGMHp3nfWw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T13:15:57.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "PL"
     }
