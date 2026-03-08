@@ -1,7 +1,7 @@
 {
   "country": "SE",
   "store": "google",
-  "updatedAt": "2026-03-07T20:31:22.480Z",
+  "updatedAt": "2026-03-08T06:26:33.981Z",
   "new": [
     {
       "id": "com.fashionlink.northstone",
@@ -256,6 +256,20 @@
       "country": "SE"
     },
     {
+      "id": "com.manekigames.fashionqueen",
+      "name": "Fashion Queen: Dress Up Game",
+      "developer": "CASUAL AZUR GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.manekigames.fashionqueen&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/uPvGHouNnmeLdfaYYocxfa-lf9Wne5YJcQm3siQfyLpiskxxOIytQj5kDXrPpKBg12Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T15:22:56.000Z",
+      "genres": [
+        "Role Playing"
+      ],
+      "country": "SE"
+    },
+    {
       "id": "in.playsimple.wordsearch",
       "name": "Word Search Explorer",
       "developer": "PlaySimple Games",
@@ -364,6 +378,20 @@
       "releaseDate": "2026-03-04T22:03:05.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "SE"
+    },
+    {
+      "id": "com.nexters.herowars",
+      "name": "Hero Wars: Alliance",
+      "developer": "NEXTERS GLOBAL LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.nexters.herowars&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/FtCFQxVWKIbe0kL2_bLpQp5We65COlUifnATqedJ1HVDybkcIHaf-kacHHabSBrJICGKOKwSJVFy8BVR1Oht",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T15:47:46.000Z",
+      "genres": [
+        "Role Playing"
       ],
       "country": "SE"
     },
@@ -674,34 +702,6 @@
         "Board"
       ],
       "country": "SE"
-    },
-    {
-      "id": "com.nianticlabs.pokemongo",
-      "name": "Pokémon GO",
-      "developer": "Niantic, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/Qf2SJGpLxd9eu4CLWRrh2tfmmkncg7TQ2RNr44tWO07EBfhfMs4CHlizioym11Vb6RmfIWCNz6FNsOgHj_5dMA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T17:29:17.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "SE"
-    },
-    {
-      "id": "com.playrix.gardenscapes",
-      "name": "Gardenscapes",
-      "developer": "Playrix",
-      "url": "https://play.google.com/store/apps/details?id=com.playrix.gardenscapes&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/SffnlIy-_lnakKGEko_-Y8qdOpPen3on0kAI_cs_HOLpB8jKz5lh0rUR7MAt1mv6ow",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T13:07:58.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "SE"
     }
   ],
   "updated": [
@@ -748,20 +748,6 @@
       "country": "SE"
     },
     {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T12:39:52.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "SE"
-    },
-    {
       "id": "com.sled.surfers.game",
       "name": "Sled Surfers",
       "developer": "CrazyLabs LTD",
@@ -772,6 +758,20 @@
       "releaseDate": "2026-03-06T20:01:24.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "SE"
+    },
+    {
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T12:39:52.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "SE"
     },
@@ -902,14 +902,28 @@
       "country": "SE"
     },
     {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "id": "com.nianticlabs.pokemongo",
+      "name": "Pokémon GO",
+      "developer": "Niantic, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/Qf2SJGpLxd9eu4CLWRrh2tfmmkncg7TQ2RNr44tWO07EBfhfMs4CHlizioym11Vb6RmfIWCNz6FNsOgHj_5dMA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-04T12:49:52.000Z",
+      "releaseDate": "2026-03-02T17:29:17.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "SE"
+    },
+    {
+      "id": "jp.co.goodroid.hyper.hexaaway",
+      "name": "Hexa Away",
+      "developer": "GOODROID,Inc.",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.hexaaway&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/0brW5ursTxAojhRjh0uPdxCoOK5ViPi9zID7stj_ZlklxwpuNSd7jk7sZCB75Gd92A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T11:06:30.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -930,44 +944,30 @@
       "country": "SE"
     },
     {
-      "id": "jp.co.goodroid.hyper.hexaaway",
-      "name": "Hexa Away",
-      "developer": "GOODROID,Inc.",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.hexaaway&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/0brW5ursTxAojhRjh0uPdxCoOK5ViPi9zID7stj_ZlklxwpuNSd7jk7sZCB75Gd92A",
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-04T11:06:30.000Z",
+      "releaseDate": "2026-03-04T12:49:52.000Z",
       "genres": [
         "Puzzle"
       ],
       "country": "SE"
     },
     {
-      "id": "com.nianticlabs.pokemongo",
-      "name": "Pokémon GO",
-      "developer": "Niantic, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/Qf2SJGpLxd9eu4CLWRrh2tfmmkncg7TQ2RNr44tWO07EBfhfMs4CHlizioym11Vb6RmfIWCNz6FNsOgHj_5dMA",
+      "id": "com.tocaboca.tocalifeworld",
+      "name": "Toca Boca World",
+      "developer": "Toca Boca",
+      "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/lHmstwWETwEsL2_CtB2J31EhwjTjR-rqnCQWOmVL4tKwYcPF1P_K9cSRErJjcCESDbw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-02T17:29:17.000Z",
+      "releaseDate": "2026-03-05T12:22:48.000Z",
       "genres": [
-        "Adventure"
-      ],
-      "country": "SE"
-    },
-    {
-      "id": "com.superplaystudios.disneysolitairedreams",
-      "name": "Disney Solitaire",
-      "developer": "SuperPlay.",
-      "url": "https://play.google.com/store/apps/details?id=com.superplaystudios.disneysolitairedreams&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/BpyKPyeCiAoCtYP23WtOoHW1G_4IAGUyk4G6V_5YNmXomuBwNC5ZnSq5OfxejW-Ufuukma8-UYZirB2wz3m8UnM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T17:19:50.000Z",
-      "genres": [
-        "Card"
+        "Educational"
       ],
       "country": "SE"
     },
@@ -1014,20 +1014,6 @@
       "country": "SE"
     },
     {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T16:48:19.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "SE"
-    },
-    {
       "id": "com.phs.global",
       "name": "Last Asylum: Plague",
       "developer": "37GAMES GLOBAL",
@@ -1042,16 +1028,30 @@
       "country": "SE"
     },
     {
-      "id": "com.tocaboca.tocalifeworld",
-      "name": "Toca Boca World",
-      "developer": "Toca Boca",
-      "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/lHmstwWETwEsL2_CtB2J31EhwjTjR-rqnCQWOmVL4tKwYcPF1P_K9cSRErJjcCESDbw",
+      "id": "io.voodoo.paper2",
+      "name": "Paper.io 2",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-05T12:22:48.000Z",
+      "releaseDate": "2026-02-24T16:48:19.000Z",
       "genres": [
-        "Educational"
+        "Arcade"
+      ],
+      "country": "SE"
+    },
+    {
+      "id": "com.superplaystudios.disneysolitairedreams",
+      "name": "Disney Solitaire",
+      "developer": "SuperPlay.",
+      "url": "https://play.google.com/store/apps/details?id=com.superplaystudios.disneysolitairedreams&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/BpyKPyeCiAoCtYP23WtOoHW1G_4IAGUyk4G6V_5YNmXomuBwNC5ZnSq5OfxejW-Ufuukma8-UYZirB2wz3m8UnM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T17:19:50.000Z",
+      "genres": [
+        "Card"
       ],
       "country": "SE"
     },
@@ -1070,6 +1070,20 @@
       "country": "SE"
     },
     {
+      "id": "com.funplus.ts.global",
+      "name": "Tiles Survive!",
+      "developer": "FunPlus International AG",
+      "url": "https://play.google.com/store/apps/details?id=com.funplus.ts.global&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/zckZa4Pytdr9QxK-Xv6XlbJo62tZV4pk3VPLBnuUXzR-pmM5nWWHUbo3MT1Lu9xxIRye",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T15:21:10.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "SE"
+    },
+    {
       "id": "com.pixel.art.coloring.color.number",
       "name": "Happy Color®: Color by Number",
       "developer": "X-FLOW",
@@ -1080,34 +1094,6 @@
       "releaseDate": "2026-03-05T13:49:33.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "SE"
-    },
-    {
-      "id": "com.fc.goods.sort.matching.puzzle.triplemaster",
-      "name": "Goods Puzzle: Sort Challenge™",
-      "developer": "FALCON GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.fc.goods.sort.matching.puzzle.triplemaster&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/F4r_imTe0hKKnVfrOUxbS8oumI6LpU-UgFbOW0VHoYQ_FnrcXq0p3QRR96u5wNANm2A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T11:21:51.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "SE"
-    },
-    {
-      "id": "com.innersloth.spacemafia",
-      "name": "Among Us",
-      "developer": "Innersloth LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T19:19:24.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "SE"
     },
@@ -1126,6 +1112,34 @@
       "country": "SE"
     },
     {
+      "id": "com.get.rbx.counter.videost.rblx.calc",
+      "name": "RBX Counters - Get Rbux Calc",
+      "developer": "Videos Status Zone",
+      "url": "https://play.google.com/store/apps/details?id=com.get.rbx.counter.videost.rblx.calc&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/v_yEK0egrz0dNBpVgqXivLxvLniP2196IT2e1Upbr4c9QvnMc7sGDxEAsOpiTLvOMmW7",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-07-01T07:49:57.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "SE"
+    },
+    {
+      "id": "com.innersloth.spacemafia",
+      "name": "Among Us",
+      "developer": "Innersloth LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T19:19:24.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "SE"
+    },
+    {
       "id": "com.arrow.out",
       "name": "Arrow Out",
       "developer": "Lion Studios Plus",
@@ -1140,30 +1154,16 @@
       "country": "SE"
     },
     {
-      "id": "io.randomco.travel",
-      "name": "Travel Town - Merge Adventure",
-      "developer": "Magmatic Games LTD",
-      "url": "https://play.google.com/store/apps/details?id=io.randomco.travel&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/JUd09-Jkgctks6QibZBPeqnpPA-6A6nMXZqAW9Fa0MKOsolbvGKSXEnuq9nxiKNCFVOT",
+      "id": "com.fc.goods.sort.matching.puzzle.triplemaster",
+      "name": "Goods Puzzle: Sort Challenge™",
+      "developer": "FALCON GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.fc.goods.sort.matching.puzzle.triplemaster&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/F4r_imTe0hKKnVfrOUxbS8oumI6LpU-UgFbOW0VHoYQ_FnrcXq0p3QRR96u5wNANm2A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-05T17:13:36.000Z",
+      "releaseDate": "2026-03-05T11:21:51.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "SE"
-    },
-    {
-      "id": "com.funplus.ts.global",
-      "name": "Tiles Survive!",
-      "developer": "FunPlus International AG",
-      "url": "https://play.google.com/store/apps/details?id=com.funplus.ts.global&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/zckZa4Pytdr9QxK-Xv6XlbJo62tZV4pk3VPLBnuUXzR-pmM5nWWHUbo3MT1Lu9xxIRye",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T15:21:10.000Z",
-      "genres": [
-        "Strategy"
       ],
       "country": "SE"
     },
@@ -1196,30 +1196,30 @@
       "country": "SE"
     },
     {
-      "id": "com.king.candycrushsaga",
-      "name": "Candy Crush Saga",
-      "developer": "King",
-      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
+      "id": "io.randomco.travel",
+      "name": "Travel Town - Merge Adventure",
+      "developer": "Magmatic Games LTD",
+      "url": "https://play.google.com/store/apps/details?id=io.randomco.travel&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/JUd09-Jkgctks6QibZBPeqnpPA-6A6nMXZqAW9Fa0MKOsolbvGKSXEnuq9nxiKNCFVOT",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-19T12:54:33.000Z",
+      "releaseDate": "2026-03-05T17:13:36.000Z",
       "genres": [
-        "Casual"
+        "Puzzle"
       ],
       "country": "SE"
     },
     {
-      "id": "com.grandgames.magicsort",
-      "name": "Magic Sort!",
-      "developer": "Grand Games A.Ş.",
-      "url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
+      "id": "se.atg.atg",
+      "name": "ATG",
+      "developer": "AB Trav & Galopp",
+      "url": "https://play.google.com/store/apps/details?id=se.atg.atg&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/W0WpphFivXxYkVoVSUsezdK-xupiIsw8JfS-9VPmXOJAs55CSmgboVcE4WdcwRvjFfY",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-27T17:23:38.000Z",
+      "releaseDate": "2026-02-24T11:47:33.000Z",
       "genres": [
-        "Puzzle"
+        "Sports"
       ],
       "country": "SE"
     },
@@ -1238,20 +1238,6 @@
       "country": "SE"
     },
     {
-      "id": "solitaire.patience.card.games.klondike.free",
-      "name": "Solitaire - Classic Card Games",
-      "developer": "Guru Puzzle Game",
-      "url": "https://play.google.com/store/apps/details?id=solitaire.patience.card.games.klondike.free&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/4lBjHhLwPQxEEPIc6Mad3fwxzaN-dGZW9DTeVi4WW1LH5iu3QdmAsuK-FeLLVggZz6o",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T11:52:01.000Z",
-      "genres": [
-        "Card"
-      ],
-      "country": "SE"
-    },
-    {
       "id": "com.gtsy.annoying.punch.game",
       "name": "Annoying Uncle Punch Game",
       "developer": "Game District LLC",
@@ -1260,6 +1246,48 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-04T07:08:33.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "SE"
+    },
+    {
+      "id": "com.dino.race.master",
+      "name": "Car Race",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-09T02:55:19.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "SE"
+    },
+    {
+      "id": "com.king.candycrushsaga",
+      "name": "Candy Crush Saga",
+      "developer": "King",
+      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T12:54:33.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "SE"
+    },
+    {
+      "id": "com.monopoly.dream.idle.king",
+      "name": "Top Tycoon: Coin Theme Empire",
+      "developer": "BeheFun Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.monopoly.dream.idle.king&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/YSofgpw9fVAdL8ARICBntM6H2SchRLC7e-NYczRc-1I_gCQaN8U7y49ikrl3GfUYXW4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-15T14:29:01.000Z",
       "genres": [
         "Simulation"
       ],
@@ -1280,16 +1308,30 @@
       "country": "SE"
     },
     {
-      "id": "com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter",
-      "name": "Rainbow Six Mobile",
-      "developer": "Ubisoft Nova",
-      "url": "https://play.google.com/store/apps/details?id=com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/QIH2nL3HlU9UcEL8MuDJtunxs3dSTY9LXeWx4fQMU0XdOzEG8xQ0DVXa6nz4hbNvwrDI_FYOHcvi1up7KAT81A",
+      "id": "solitaire.patience.card.games.klondike.free",
+      "name": "Solitaire - Classic Card Games",
+      "developer": "Guru Puzzle Game",
+      "url": "https://play.google.com/store/apps/details?id=solitaire.patience.card.games.klondike.free&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/4lBjHhLwPQxEEPIc6Mad3fwxzaN-dGZW9DTeVi4WW1LH5iu3QdmAsuK-FeLLVggZz6o",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-03T08:21:45.000Z",
+      "releaseDate": "2026-02-06T11:52:01.000Z",
       "genres": [
-        "Action"
+        "Card"
+      ],
+      "country": "SE"
+    },
+    {
+      "id": "com.minigames.antistress.relaxinggames.toys",
+      "name": "Antistress Relaxing Mini Games",
+      "developer": "CAT Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.minigames.antistress.relaxinggames.toys&hl=en&gl=SE",
+      "artwork": "https://play-lh.googleusercontent.com/GyxH6OelloeKh9B0iWbTpGKeK3qSnVEhKl6MoiCnvLXTniWuITKjEQjrNACCA-XsmxooB1fKWxoXhaYVfLFqiA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-29T06:05:28.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "SE"
     },
@@ -1304,20 +1346,6 @@
       "releaseDate": "2026-03-04T08:49:55.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "SE"
-    },
-    {
-      "id": "com.dino.race.master",
-      "name": "Car Race",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-09T02:55:19.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "SE"
     },
@@ -1364,20 +1392,6 @@
       "country": "SE"
     },
     {
-      "id": "com.scopely.monopolygo",
-      "name": "MONOPOLY GO!",
-      "developer": "Scopely",
-      "url": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T03:26:05.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "SE"
-    },
-    {
       "id": "com.chess",
       "name": "Chess - Play and Learn Online",
       "developer": "Chess.com",
@@ -1388,20 +1402,6 @@
       "releaseDate": "2026-03-03T18:18:39.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "SE"
-    },
-    {
-      "id": "block.color.game.jam.blocks.sort.puzzle.games.slide.free",
-      "name": "Block Color Mania, Puzzle Game",
-      "developer": "Brainteaser Puzzle Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=block.color.game.jam.blocks.sort.puzzle.games.slide.free&hl=en&gl=SE",
-      "artwork": "https://play-lh.googleusercontent.com/fJ_pK4YX0tLme8wE7uBkRIiLtwKQTFaSQaqgNezutmVwOMrbv06lvPiHoGsAP6ApOw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-11T03:40:25.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "SE"
     }
