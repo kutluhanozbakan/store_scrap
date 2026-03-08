@@ -1,7 +1,7 @@
 {
   "country": "DK",
   "store": "google",
-  "updatedAt": "2026-03-08T09:16:12.073Z",
+  "updatedAt": "2026-03-08T15:53:33.300Z",
   "new": [
     {
       "id": "com.fashionlink.northstone",
@@ -228,20 +228,6 @@
       "country": "DK"
     },
     {
-      "id": "com.puzzlegames.puzzlebrickslegend",
-      "name": "Color Block: Combo Blast",
-      "developer": "Ivy",
-      "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.puzzlebrickslegend&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T09:43:26.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "DK"
-    },
-    {
       "id": "com.loomgames.pixelflow",
       "name": "Pixel Flow!",
       "developer": "Loom Games A.Ş.",
@@ -418,6 +404,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-05T09:26:01.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "DK"
+    },
+    {
+      "id": "com.ig.screwdom",
+      "name": "Screwdom 3D",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.ig.screwdom&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/lrGM85RjRRh4pax0P6JbDVzXF7XeJA9PSMTpRujqqDhVgiOSInZ1l3sg0uBURw9INs8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T09:25:49.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -734,20 +734,6 @@
       "country": "DK"
     },
     {
-      "id": "com.sled.surfers.game",
-      "name": "Sled Surfers",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/dtrjuQilrP1js6mDnl7mFPerlmnwUPwhYESlGriPKxwlUhWJ1yQ0r52EIvXrc-S5vqY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T20:01:24.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "DK"
-    },
-    {
       "id": "com.loomgames.pixelflow",
       "name": "Pixel Flow!",
       "developer": "Loom Games A.Ş.",
@@ -758,6 +744,20 @@
       "releaseDate": "2026-03-05T18:32:05.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "DK"
+    },
+    {
+      "id": "com.sled.surfers.game",
+      "name": "Sled Surfers",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/dtrjuQilrP1js6mDnl7mFPerlmnwUPwhYESlGriPKxwlUhWJ1yQ0r52EIvXrc-S5vqY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T20:01:24.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "DK"
     },
@@ -804,6 +804,20 @@
       "country": "DK"
     },
     {
+      "id": "com.supercell.brawlstars",
+      "name": "Brawl Stars",
+      "developer": "Supercell",
+      "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/WLJb9DGkxPkiqlvizxSyHnMqPOZATgfd8RH8rEo3L4FM84luI7GYKE8D2qFZNtC2OMsoo-eOy-qquwIRVl-05w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T13:48:42.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "DK"
+    },
+    {
       "id": "com.dreamgames.royalkingdom",
       "name": "Royal Kingdom",
       "developer": "Dream Games, Ltd.",
@@ -828,34 +842,6 @@
       "releaseDate": "2026-03-05T16:36:02.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "DK"
-    },
-    {
-      "id": "com.supercell.brawlstars",
-      "name": "Brawl Stars",
-      "developer": "Supercell",
-      "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/WLJb9DGkxPkiqlvizxSyHnMqPOZATgfd8RH8rEo3L4FM84luI7GYKE8D2qFZNtC2OMsoo-eOy-qquwIRVl-05w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T13:48:42.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "DK"
-    },
-    {
-      "id": "com.epicoro.castleclashers",
-      "name": "Castle Clashers!",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.epicoro.castleclashers&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/VW7o5ybPRq9TbTQs9_pzrJkYoFk4QVxUkV96bVfauDmGBZ8O6KNHIRH4oIRlkQAgogw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T12:31:56.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "DK"
     },
@@ -888,6 +874,20 @@
       "country": "DK"
     },
     {
+      "id": "com.mergegames.gossipharbor",
+      "name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/PmMSCDLMab3nn0wj14BFZNqPncr1C14M5VmUrM3aXNmeRa1zEhNI4N3L1F1oO3qDYRPOQigQOyXxwDuQZZvTwA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T07:09:51.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "DK"
+    },
+    {
       "id": "com.red.arrows.android",
       "name": "Arrowscapes™ - Arrows Puzzle",
       "developer": "Beijing Youyoutang Technology Co.,ltd.",
@@ -902,14 +902,28 @@
       "country": "DK"
     },
     {
-      "id": "com.mergegames.gossipharbor",
-      "name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/PmMSCDLMab3nn0wj14BFZNqPncr1C14M5VmUrM3aXNmeRa1zEhNI4N3L1F1oO3qDYRPOQigQOyXxwDuQZZvTwA",
+      "id": "com.epicoro.castleclashers",
+      "name": "Castle Clashers!",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.epicoro.castleclashers&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/VW7o5ybPRq9TbTQs9_pzrJkYoFk4QVxUkV96bVfauDmGBZ8O6KNHIRH4oIRlkQAgogw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-04T07:09:51.000Z",
+      "releaseDate": "2026-03-04T12:31:56.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "DK"
+    },
+    {
+      "id": "com.oakever.jigsawcard",
+      "name": "Jigsawcard Solitaire Puzzle",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.jigsawcard&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/PZTHuvocowzHTJJ-DSWITmX2gB00UVdXdQM6UKmtzTFTZHq4QLHvhht19UMfaRYa9gfzp1gHB_JFXMY7HtEz6Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T14:15:06.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -926,20 +940,6 @@
       "releaseDate": "2026-01-15T14:29:01.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "DK"
-    },
-    {
-      "id": "com.oakever.jigsawcard",
-      "name": "Jigsawcard Solitaire Puzzle",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.jigsawcard&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/PZTHuvocowzHTJJ-DSWITmX2gB00UVdXdQM6UKmtzTFTZHq4QLHvhht19UMfaRYa9gfzp1gHB_JFXMY7HtEz6Q",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T14:15:06.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "DK"
     },
@@ -986,6 +986,20 @@
       "country": "DK"
     },
     {
+      "id": "com.fatmerge.global",
+      "name": "Tasty Travels: Merge Game",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/Vkqtl-KE8ZRtHhwV90NQZihrzUKiFhKr2OdrTF_YFFYgXMp22vdlXrPbyM7B0ejv16ArQmI9S26lBcwomY7U2w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T02:25:34.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "DK"
+    },
+    {
       "id": "find.difference.spot.differences.hidden.puzzle.games.free",
       "name": "Differences - Find & Spot It",
       "developer": "Guru Puzzle Game",
@@ -1014,30 +1028,30 @@
       "country": "DK"
     },
     {
-      "id": "com.fatmerge.global",
-      "name": "Tasty Travels: Merge Game",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/Vkqtl-KE8ZRtHhwV90NQZihrzUKiFhKr2OdrTF_YFFYgXMp22vdlXrPbyM7B0ejv16ArQmI9S26lBcwomY7U2w",
+      "id": "com.red.sortingstore.android",
+      "name": "Water Match™- ASMR Water Sort",
+      "developer": "Youyoutang Technology",
+      "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-02T02:25:34.000Z",
+      "releaseDate": "2026-02-26T12:56:05.000Z",
       "genres": [
         "Casual"
       ],
       "country": "DK"
     },
     {
-      "id": "com.microdose.balljam",
-      "name": "Marble Sort!",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.microdose.balljam&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/v-DRIDUC_ZilCfXi4kJXgjTs8Mt0j4HWyOy4Y0fC5VPGu-ywUywRcYPoFQ2E6tOKnPxPzpbfnIlrqkMYD5eDQeE",
+      "id": "com.losttemplegames.wordsolitaire",
+      "name": "Word Solitaire Now!",
+      "developer": "LOST TEMPLE GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.losttemplegames.wordsolitaire&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/DPnyPo_2u5wgMEYacR6qpRMdT6qjNvdqYTNnuHkN1tyvSIpOsIKgQF6t_kbBRxCgrv4EvsrF3cbqX2tWcTPiZV4",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T18:03:55.000Z",
+      "releaseDate": "2026-03-05T09:37:51.000Z",
       "genres": [
-        "Puzzle"
+        "Word"
       ],
       "country": "DK"
     },
@@ -1070,16 +1084,16 @@
       "country": "DK"
     },
     {
-      "id": "com.losttemplegames.wordsolitaire",
-      "name": "Word Solitaire Now!",
-      "developer": "LOST TEMPLE GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.losttemplegames.wordsolitaire&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/DPnyPo_2u5wgMEYacR6qpRMdT6qjNvdqYTNnuHkN1tyvSIpOsIKgQF6t_kbBRxCgrv4EvsrF3cbqX2tWcTPiZV4",
+      "id": "com.microdose.balljam",
+      "name": "Marble Sort!",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.microdose.balljam&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/v-DRIDUC_ZilCfXi4kJXgjTs8Mt0j4HWyOy4Y0fC5VPGu-ywUywRcYPoFQ2E6tOKnPxPzpbfnIlrqkMYD5eDQeE",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-05T09:37:51.000Z",
+      "releaseDate": "2026-02-26T18:03:55.000Z",
       "genres": [
-        "Word"
+        "Puzzle"
       ],
       "country": "DK"
     },
@@ -1092,6 +1106,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-04T12:49:52.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "DK"
+    },
+    {
+      "id": "com.ecffri.arrows",
+      "name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore UG",
+      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/f3szQ-tBQ5FVtiO2hwnJ6Gg4LbckQ9qKD099oiFqlvDo78uaD85Zn9G4o-W9390XnQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T16:22:25.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1112,28 +1140,14 @@
       "country": "DK"
     },
     {
-      "id": "com.red.sortingstore.android",
-      "name": "Water Match™- ASMR Water Sort",
-      "developer": "Youyoutang Technology",
-      "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
+      "id": "com.pocket.sort.coin.puzzle.game",
+      "name": "Pocket Sort: Coin Merge Puzzle",
+      "developer": "SayGames Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.pocket.sort.coin.puzzle.game&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/blnQgZLrDseT5XsOOtloqVfgMqHLDgCMOTaqei6q9brw_D182qXvj6ahfp9Sj0FF8dlP36T7xtg42ODz5IAWlQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-26T12:56:05.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "DK"
-    },
-    {
-      "id": "com.ecffri.arrows",
-      "name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore UG",
-      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/f3szQ-tBQ5FVtiO2hwnJ6Gg4LbckQ9qKD099oiFqlvDo78uaD85Zn9G4o-W9390XnQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T16:22:25.000Z",
+      "releaseDate": "2026-02-27T16:22:20.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1150,20 +1164,6 @@
       "releaseDate": "2026-03-05T13:49:33.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "DK"
-    },
-    {
-      "id": "com.pocket.sort.coin.puzzle.game",
-      "name": "Pocket Sort: Coin Merge Puzzle",
-      "developer": "SayGames Ltd",
-      "url": "https://play.google.com/store/apps/details?id=com.pocket.sort.coin.puzzle.game&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/blnQgZLrDseT5XsOOtloqVfgMqHLDgCMOTaqei6q9brw_D182qXvj6ahfp9Sj0FF8dlP36T7xtg42ODz5IAWlQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T16:22:20.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "DK"
     },
@@ -1210,6 +1210,20 @@
       "country": "DK"
     },
     {
+      "id": "com.minigames.antistress.relaxinggames.toys",
+      "name": "Antistress Relaxing Mini Games",
+      "developer": "CAT Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.minigames.antistress.relaxinggames.toys&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/GyxH6OelloeKh9B0iWbTpGKeK3qSnVEhKl6MoiCnvLXTniWuITKjEQjrNACCA-XsmxooB1fKWxoXhaYVfLFqiA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-29T06:05:28.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "DK"
+    },
+    {
       "id": "io.voodoo.holeio",
       "name": "Hole.io",
       "developer": "VOODOO",
@@ -1238,16 +1252,16 @@
       "country": "DK"
     },
     {
-      "id": "com.whalejoy.horrorstory.gp",
-      "name": "Haunted Merge: Horror Story",
-      "developer": "WhaleJoy Game Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.whalejoy.horrorstory.gp&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/wkdnu8OxzFFCnSZw4QO2DczjcybhyW8GOMDWh4p2NG-qXX10MD3CIZHgL2vK3mWjqg",
+      "id": "puzzle.flow.blast",
+      "name": "Flow Blast Shooter",
+      "developer": "kiwilab",
+      "url": "https://play.google.com/store/apps/details?id=puzzle.flow.blast&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/cqsmngGFOy4cFTgXNZjJo_JMw-a_1N3HPvdERMSeO-TZL_Mk-OuTd7PDhN0ytJjKsUOJn82DwJ0_h1YEjdUVsw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-05T12:33:29.000Z",
+      "releaseDate": "2026-03-04T13:54:29.000Z",
       "genres": [
-        "Casual"
+        "Puzzle"
       ],
       "country": "DK"
     },
@@ -1266,16 +1280,16 @@
       "country": "DK"
     },
     {
-      "id": "solitaire.patience.card.games.klondike.free",
-      "name": "Solitaire - Classic Card Games",
-      "developer": "Guru Puzzle Game",
-      "url": "https://play.google.com/store/apps/details?id=solitaire.patience.card.games.klondike.free&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/4lBjHhLwPQxEEPIc6Mad3fwxzaN-dGZW9DTeVi4WW1LH5iu3QdmAsuK-FeLLVggZz6o",
+      "id": "game.bubble.physics.world",
+      "name": "3D Bubble Shoot - ASMR Game",
+      "developer": "TaTa Game Technology Limited",
+      "url": "https://play.google.com/store/apps/details?id=game.bubble.physics.world&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/tU-yYkAfgp0rUksVb_zO0pzvdXdt_Bi3Z8Yv0J_As3HOER6rafraGyKdMGXQ8HIBB24",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T11:52:01.000Z",
+      "releaseDate": "2026-03-04T13:12:01.000Z",
       "genres": [
-        "Card"
+        "Casual"
       ],
       "country": "DK"
     },
@@ -1290,6 +1304,76 @@
       "releaseDate": "2026-03-06T20:49:43.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "DK"
+    },
+    {
+      "id": "com.whalejoy.horrorstory.gp",
+      "name": "Haunted Merge: Horror Story",
+      "developer": "WhaleJoy Game Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.whalejoy.horrorstory.gp&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/wkdnu8OxzFFCnSZw4QO2DczjcybhyW8GOMDWh4p2NG-qXX10MD3CIZHgL2vK3mWjqg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T12:33:29.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "DK"
+    },
+    {
+      "id": "com.gamincat.jigsolitaire",
+      "name": "Jigsolitaire",
+      "developer": "Gamincat",
+      "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T01:36:26.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "DK"
+    },
+    {
+      "id": "com.innersloth.spacemafia",
+      "name": "Among Us",
+      "developer": "Innersloth LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-18T19:19:24.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "DK"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T08:49:55.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "DK"
+    },
+    {
+      "id": "solitaire.patience.card.games.klondike.free",
+      "name": "Solitaire - Classic Card Games",
+      "developer": "Guru Puzzle Game",
+      "url": "https://play.google.com/store/apps/details?id=solitaire.patience.card.games.klondike.free&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/4lBjHhLwPQxEEPIc6Mad3fwxzaN-dGZW9DTeVi4WW1LH5iu3QdmAsuK-FeLLVggZz6o",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-06T11:52:01.000Z",
+      "genres": [
+        "Card"
       ],
       "country": "DK"
     },
@@ -1318,90 +1402,6 @@
       "releaseDate": "2026-02-20T16:42:02.000Z",
       "genres": [
         "Strategy"
-      ],
-      "country": "DK"
-    },
-    {
-      "id": "puzzle.flow.blast",
-      "name": "Flow Blast Shooter",
-      "developer": "kiwilab",
-      "url": "https://play.google.com/store/apps/details?id=puzzle.flow.blast&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/cqsmngGFOy4cFTgXNZjJo_JMw-a_1N3HPvdERMSeO-TZL_Mk-OuTd7PDhN0ytJjKsUOJn82DwJ0_h1YEjdUVsw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T13:54:29.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "DK"
-    },
-    {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T07:21:42.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "DK"
-    },
-    {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T08:49:55.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "DK"
-    },
-    {
-      "id": "game.bubble.physics.world",
-      "name": "3D Bubble Shoot - ASMR Game",
-      "developer": "TaTa Game Technology Limited",
-      "url": "https://play.google.com/store/apps/details?id=game.bubble.physics.world&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/tU-yYkAfgp0rUksVb_zO0pzvdXdt_Bi3Z8Yv0J_As3HOER6rafraGyKdMGXQ8HIBB24",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T13:12:01.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "DK"
-    },
-    {
-      "id": "com.brain.logic.joygame",
-      "name": "Brain Puzzle 2: Logic Twist",
-      "developer": "JoyGame Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.brain.logic.joygame&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/q19v_2ZYEOdWOt6ABAVCl10zHrft5qkChjAwxtByGKxJxE3gNULQGf3BwsCYVJk4Jbhf",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T09:26:01.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "DK"
-    },
-    {
-      "id": "com.innersloth.spacemafia",
-      "name": "Among Us",
-      "developer": "Innersloth LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T19:19:24.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "DK"
     }
