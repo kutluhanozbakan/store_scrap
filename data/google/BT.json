@@ -1,7 +1,7 @@
 {
   "country": "BT",
   "store": "google",
-  "updatedAt": "2026-03-08T08:46:25.721Z",
+  "updatedAt": "2026-03-08T14:58:49.980Z",
   "new": [
     {
       "id": "com.NewFolderGames.TaxiDriver",
@@ -14,6 +14,20 @@
       "releaseDate": "2026-03-06T20:58:21.000Z",
       "genres": [
         "Role Playing"
+      ],
+      "country": "BT"
+    },
+    {
+      "id": "com.crazylabs.amaze.game",
+      "name": "AMAZE!",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.crazylabs.amaze.game&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/tegSUYPt-TN62vflhHBR3pWXrrMgEVJhve3pzIsFc6FO0hMj7QFG9GBx68fO2-qf93Q",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T19:52:20.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "BT"
     },
@@ -354,6 +368,20 @@
       "country": "BT"
     },
     {
+      "id": "com.metax.prison.escape.obby.parkour",
+      "name": "Prison Escape: 3D Obby Parkour",
+      "developer": "Metagame.Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.metax.prison.escape.obby.parkour&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/NlF65IIo3fs7YZ4SsSpnEEskYWMNYf8JzhVEZ7o-zV8UuBgNYZSI3ZkjB7k3BygvDGk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T02:36:06.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "BT"
+    },
+    {
       "id": "com.outfit7.mytalkingtomfriends2",
       "name": "My Talking Tom Friends 2",
       "developer": "Outfit7 Limited",
@@ -674,34 +702,6 @@
         "Puzzle"
       ],
       "country": "BT"
-    },
-    {
-      "id": "com.NewFolderGames.IAmMonkey",
-      "name": "I Am Monkey",
-      "developer": "Estoty",
-      "url": "https://play.google.com/store/apps/details?id=com.NewFolderGames.IAmMonkey&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/Qfc9KivAAH65ag0GAZEMSJbihSQbCcqdu2ZIWT9r-zIr3CM-nhxVOXeo9P9ZMie6BBFp7Murw_yvYxXkRPV9",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T18:30:08.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "BT"
-    },
-    {
-      "id": "com.miniclip.eightballpool",
-      "name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-18T11:45:50.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "BT"
     }
   ],
   "updated": [
@@ -776,6 +776,20 @@
       "country": "BT"
     },
     {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T16:58:46.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "BT"
+    },
+    {
       "id": "com.PlayMax.playergames",
       "name": "Stickman Party 234 MiniGames",
       "developer": "PlayMax Game Studio",
@@ -800,20 +814,6 @@
       "releaseDate": "2026-03-05T11:54:14.000Z",
       "genres": [
         "Board"
-      ],
-      "country": "BT"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T16:58:46.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "BT"
     },
@@ -846,20 +846,6 @@
       "country": "BT"
     },
     {
-      "id": "com.ludo.king",
-      "name": "Ludo King®",
-      "developer": "Gametion",
-      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T09:46:13.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "BT"
-    },
-    {
       "id": "com.blockgamesstudio.blockworld3d",
       "name": "Block World 3D: Craft & Build",
       "developer": "Funburstgame LTD",
@@ -888,16 +874,16 @@
       "country": "BT"
     },
     {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "id": "com.ludo.king",
+      "name": "Ludo King®",
+      "developer": "Gametion",
+      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-04T08:49:55.000Z",
+      "releaseDate": "2026-02-13T09:46:13.000Z",
       "genres": [
-        "Simulation"
+        "Board"
       ],
       "country": "BT"
     },
@@ -930,44 +916,16 @@
       "country": "BT"
     },
     {
-      "id": "com.sprunki.mod.horror.incredibox.monster.beats.music.game",
-      "name": "Sprunki Beat: Full Mod Music",
-      "developer": "Gotstar Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.sprunki.mod.horror.incredibox.monster.beats.music.game&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/O7_TKLHLE3Q0XnE--e5tTXLbJYdfbo7J521cseiShnn4L_a2HnJduwxhKqVjWj4jLg",
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-04T12:17:13.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "BT"
-    },
-    {
-      "id": "com.gtsy.annoying.punch.game",
-      "name": "Annoying Uncle Punch Game",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T07:08:33.000Z",
+      "releaseDate": "2026-03-04T08:49:55.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "BT"
-    },
-    {
-      "id": "com.youmusic.magictiles",
-      "name": "Magic Tiles 3™ - Piano Game",
-      "developer": "AMANOTES PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T17:27:27.000Z",
-      "genres": [
-        "Music"
       ],
       "country": "BT"
     },
@@ -986,6 +944,34 @@
       "country": "BT"
     },
     {
+      "id": "com.sprunki.mod.horror.incredibox.monster.beats.music.game",
+      "name": "Sprunki Beat: Full Mod Music",
+      "developer": "Gotstar Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.sprunki.mod.horror.incredibox.monster.beats.music.game&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/O7_TKLHLE3Q0XnE--e5tTXLbJYdfbo7J521cseiShnn4L_a2HnJduwxhKqVjWj4jLg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T12:17:13.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "BT"
+    },
+    {
+      "id": "com.youmusic.magictiles",
+      "name": "Magic Tiles 3™ - Piano Game",
+      "developer": "AMANOTES PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T17:27:27.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "BT"
+    },
+    {
       "id": "com.unicc.uni",
       "name": "Uni - Craft your world",
       "developer": "UniccPlay",
@@ -996,6 +982,20 @@
       "releaseDate": "2026-02-09T12:29:40.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "BT"
+    },
+    {
+      "id": "com.hungrystudio.mahjong",
+      "name": "Double Tile!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/X5NGhTzKUZvS0Iuw96qg6ExRf-i3x9nXW_BgtFv39fHdn5yP2uwIHiNGEmgOMn7cqV0rbOROWm4vsp-7hRdr",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T11:33:35.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "BT"
     },
@@ -1014,16 +1014,16 @@
       "country": "BT"
     },
     {
-      "id": "com.hungrystudio.mahjong",
-      "name": "Double Tile!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/X5NGhTzKUZvS0Iuw96qg6ExRf-i3x9nXW_BgtFv39fHdn5yP2uwIHiNGEmgOMn7cqV0rbOROWm4vsp-7hRdr",
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-05T11:33:35.000Z",
+      "releaseDate": "2026-03-04T07:08:33.000Z",
       "genres": [
-        "Puzzle"
+        "Simulation"
       ],
       "country": "BT"
     },
@@ -1098,6 +1098,20 @@
       "country": "BT"
     },
     {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "BT"
+    },
+    {
       "id": "com.ByteRaft.IndianBusSimulator",
       "name": "Indian Bus Simulator Game 3D",
       "developer": "Byteraft Studios",
@@ -1126,16 +1140,16 @@
       "country": "BT"
     },
     {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "id": "com.wood.block.sudoku.puzzle.bm",
+      "name": "Block Crush!",
+      "developer": "Wonderful  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "releaseDate": "2026-03-05T16:36:02.000Z",
       "genres": [
-        "Adventure"
+        "Puzzle"
       ],
       "country": "BT"
     },
@@ -1154,20 +1168,6 @@
       "country": "BT"
     },
     {
-      "id": "com.wood.block.sudoku.puzzle.bm",
-      "name": "Block Crush!",
-      "developer": "Wonderful  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T16:36:02.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "BT"
-    },
-    {
       "id": "com.outfit7.mytalkingtom2",
       "name": "My Talking Tom 2: Pet Game",
       "developer": "Outfit7 Limited",
@@ -1178,6 +1178,20 @@
       "releaseDate": "2026-02-20T11:25:29.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "BT"
+    },
+    {
+      "id": "com.pf.bmx.cycle.games.extreme.bicycle.games",
+      "name": "BMX Cycle Extreme Bicycle Game",
+      "developer": "PlayFlix",
+      "url": "https://play.google.com/store/apps/details?id=com.pf.bmx.cycle.games.extreme.bicycle.games&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/wuJ5F_BSGLIphrT3sth8YLpWQ0vkuobI-z1Dr0G1ZfCXWoYzwaa7Z1CHKToEGombsA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T05:46:18.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "BT"
     },
@@ -1196,6 +1210,34 @@
       "country": "BT"
     },
     {
+      "id": "com.outfit7.mytalkingangela2",
+      "name": "My Talking Angela 2",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T14:20:52.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "BT"
+    },
+    {
+      "id": "com.dts.freefiremax",
+      "name": "Free Fire MAX x JUJUTSU KAISEN",
+      "developer": "GARENA INTERNATIONAL I",
+      "url": "https://play.google.com/store/apps/details?id=com.dts.freefiremax&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/ipL9El76Ug50yGguLeoy-BSwKtYz5fI5n9WHCkP6Im8CkUfXQTyzsSjgf5hlmEn5RuRP8yQPC-LOlTKlJLKEv8g",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-09T06:52:43.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "BT"
+    },
+    {
       "id": "com.playgendary.kickthebuddy",
       "name": "Kick the Buddy－Fun Action Game",
       "developer": "Playgendary Limited",
@@ -1206,20 +1248,6 @@
       "releaseDate": "2026-03-03T13:03:03.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "BT"
-    },
-    {
-      "id": "com.moon.craft.buildingcraft",
-      "name": "Town Building Life Simulator",
-      "developer": "XGame Global",
-      "url": "https://play.google.com/store/apps/details?id=com.moon.craft.buildingcraft&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/G5R2W3S_SD2347tHCtfue5hJma4VY1-e6V7Vf7kmAxsIZ9jy0x9NDXeQwp7fJm0EWA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T09:20:48.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "BT"
     },
@@ -1238,16 +1266,30 @@
       "country": "BT"
     },
     {
-      "id": "com.dts.freefiremax",
-      "name": "Free Fire MAX x JUJUTSU KAISEN",
-      "developer": "GARENA INTERNATIONAL I",
-      "url": "https://play.google.com/store/apps/details?id=com.dts.freefiremax&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/ipL9El76Ug50yGguLeoy-BSwKtYz5fI5n9WHCkP6Im8CkUfXQTyzsSjgf5hlmEn5RuRP8yQPC-LOlTKlJLKEv8g",
+      "id": "com.NewFolderGames.IAmMonkey",
+      "name": "I Am Monkey",
+      "developer": "Estoty",
+      "url": "https://play.google.com/store/apps/details?id=com.NewFolderGames.IAmMonkey&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/Qfc9KivAAH65ag0GAZEMSJbihSQbCcqdu2ZIWT9r-zIr3CM-nhxVOXeo9P9ZMie6BBFp7Murw_yvYxXkRPV9",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-09T06:52:43.000Z",
+      "releaseDate": "2026-02-18T18:30:08.000Z",
       "genres": [
-        "Action"
+        "Simulation"
+      ],
+      "country": "BT"
+    },
+    {
+      "id": "com.moon.craft.buildingcraft",
+      "name": "Town Building Life Simulator",
+      "developer": "XGame Global",
+      "url": "https://play.google.com/store/apps/details?id=com.moon.craft.buildingcraft&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/G5R2W3S_SD2347tHCtfue5hJma4VY1-e6V7Vf7kmAxsIZ9jy0x9NDXeQwp7fJm0EWA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T09:20:48.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "BT"
     },
@@ -1294,20 +1336,6 @@
       "country": "BT"
     },
     {
-      "id": "com.playflix.kick.breakragdoll.games",
-      "name": "Kick & Break The Ragdoll Games",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.playflix.kick.breakragdoll.games&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/nnTl4mcwpOeZjWVtHbVeXtLLb_HRKmEMJ8l2QjYxzDz8tEBG8g8u9S3UkucLNgRgQQun",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T11:27:11.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "BT"
-    },
-    {
       "id": "com.uc.sprunki.transform",
       "name": "Sprunki Transformer Monster",
       "developer": "Dinosaur House",
@@ -1322,30 +1350,30 @@
       "country": "BT"
     },
     {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "id": "com.playflix.kick.breakragdoll.games",
+      "name": "Kick & Break The Ragdoll Games",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.playflix.kick.breakragdoll.games&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/nnTl4mcwpOeZjWVtHbVeXtLLb_HRKmEMJ8l2QjYxzDz8tEBG8g8u9S3UkucLNgRgQQun",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
+      "releaseDate": "2026-02-27T11:27:11.000Z",
       "genres": [
-        "Sports"
+        "Simulation"
       ],
       "country": "BT"
     },
     {
-      "id": "com.NewFolderGames.IAmMonkey",
-      "name": "I Am Monkey",
-      "developer": "Estoty",
-      "url": "https://play.google.com/store/apps/details?id=com.NewFolderGames.IAmMonkey&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/Qfc9KivAAH65ag0GAZEMSJbihSQbCcqdu2ZIWT9r-zIr3CM-nhxVOXeo9P9ZMie6BBFp7Murw_yvYxXkRPV9",
+      "id": "com.passiongamesstudio.mergehunter",
+      "name": "Craft Sword 3D: Monster Hunt",
+      "developer": "Volodymyr Pukha",
+      "url": "https://play.google.com/store/apps/details?id=com.passiongamesstudio.mergehunter&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/FFxVD4fGlGYZtUjln-lIl7E5Zz72s3-tzp5rPJaSLhsaSVhJwysaR-OyfCR0oU6HkDc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-18T18:30:08.000Z",
+      "releaseDate": "2026-02-28T22:33:21.000Z",
       "genres": [
-        "Simulation"
+        "Action"
       ],
       "country": "BT"
     },
@@ -1364,44 +1392,16 @@
       "country": "BT"
     },
     {
-      "id": "com.outfit7.mytalkingangela2",
-      "name": "My Talking Angela 2",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=BT",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-16T14:20:52.000Z",
+      "releaseDate": "2026-02-03T01:41:34.000Z",
       "genres": [
-        "Casual"
-      ],
-      "country": "BT"
-    },
-    {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T12:39:52.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "BT"
-    },
-    {
-      "id": "com.starplay.spider.fighter.openworld",
-      "name": "Spider Fighter 3: Action Game",
-      "developer": "Starplay FZCO",
-      "url": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter.openworld&hl=en&gl=BT",
-      "artwork": "https://play-lh.googleusercontent.com/HGJGoIR7ZpHDMhRuaYJz_M5k8L0DCwXPcSBDGt217ye4o40LSaXTPHI-XIyiPbRw7g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T14:37:43.000Z",
-      "genres": [
-        "Action"
+        "Sports"
       ],
       "country": "BT"
     }
