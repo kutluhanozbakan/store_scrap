@@ -1,7 +1,7 @@
 {
   "country": "MT",
   "store": "google",
-  "updatedAt": "2026-03-08T17:56:24.106Z",
+  "updatedAt": "2026-03-08T23:55:33.488Z",
   "new": [
     {
       "id": "com.fugo.wow",
@@ -82,6 +82,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-06T16:58:46.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.zm.crossmath",
+      "name": "Math Crossword — Number puzzle",
+      "developer": "Tripledot Studios Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.zm.crossmath&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/S7KghUp5n1pbdx38PztRpL3WWfU3bV-rx-uGHlO5LBAtHOvpnv3qFx9HmH1z4OQTzGc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T14:40:33.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -688,20 +702,6 @@
         "Puzzle"
       ],
       "country": "MT"
-    },
-    {
-      "id": "com.pc.sand.loop",
-      "name": "Sand Loop",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.pc.sand.loop&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/jZb0BuA4DDfbp5gX8DdB2bWz6lNwTlXdM8FjvZio6xGukqFf9WBzi70xgm2pw3XHpa4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T16:50:09.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "MT"
     }
   ],
   "updated": [
@@ -1028,20 +1028,6 @@
       "country": "MT"
     },
     {
-      "id": "com.supercell.brawlstars",
-      "name": "Brawl Stars",
-      "developer": "Supercell",
-      "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/WLJb9DGkxPkiqlvizxSyHnMqPOZATgfd8RH8rEo3L4FM84luI7GYKE8D2qFZNtC2OMsoo-eOy-qquwIRVl-05w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T13:48:42.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "MT"
-    },
-    {
       "id": "com.youmusic.magictiles",
       "name": "Magic Tiles 3™ - Piano Game",
       "developer": "AMANOTES PTE. LTD.",
@@ -1052,6 +1038,20 @@
       "releaseDate": "2026-03-06T17:27:27.000Z",
       "genres": [
         "Music"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.supercell.brawlstars",
+      "name": "Brawl Stars",
+      "developer": "Supercell",
+      "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/WLJb9DGkxPkiqlvizxSyHnMqPOZATgfd8RH8rEo3L4FM84luI7GYKE8D2qFZNtC2OMsoo-eOy-qquwIRVl-05w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T13:48:42.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "MT"
     },
@@ -1140,20 +1140,6 @@
       "country": "MT"
     },
     {
-      "id": "com.red.sortingstore.android",
-      "name": "Water Match™- ASMR Water Sort",
-      "developer": "Youyoutang Technology",
-      "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android&hl=en&gl=MT",
-      "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T12:56:05.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "MT"
-    },
-    {
       "id": "com.robtopx.geometryjumplite",
       "name": "Geometry Dash Lite",
       "developer": "RobTop Games",
@@ -1178,6 +1164,20 @@
       "releaseDate": "2026-03-05T16:22:25.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "MT"
+    },
+    {
+      "id": "com.red.sortingstore.android",
+      "name": "Water Match™- ASMR Water Sort",
+      "developer": "Youyoutang Technology",
+      "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android&hl=en&gl=MT",
+      "artwork": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-26T12:56:05.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "MT"
     },

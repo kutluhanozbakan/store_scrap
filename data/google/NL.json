@@ -1,7 +1,7 @@
 {
   "country": "NL",
   "store": "google",
-  "updatedAt": "2026-03-08T18:40:20.156Z",
+  "updatedAt": "2026-03-08T23:56:39.323Z",
   "new": [
     {
       "id": "com.fugo.wow",
@@ -96,6 +96,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-06T15:21:42.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "NL"
+    },
+    {
+      "id": "com.bravestars.savethedog.drawgame",
+      "name": "Save The Pets",
+      "developer": "Bravestars Games",
+      "url": "https://play.google.com/store/apps/details?id=com.bravestars.savethedog.drawgame&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/M30GFPRmi5D5ZNEB8VMCgXs6kM_dz_C2wzIFu2pMfSqZZUu0M3R2YBt0WB6S5nIOyA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T15:08:22.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -688,20 +702,6 @@
         "Casual"
       ],
       "country": "NL"
-    },
-    {
-      "id": "com.arrow.out",
-      "name": "Arrow Out",
-      "developer": "Lion Studios Plus",
-      "url": "https://play.google.com/store/apps/details?id=com.arrow.out&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/i4S66jnxU0h4mBg7aURDxn2gUkQmkq2U09Z-QpwxGnoEl_zjS2Fmo49_Nh3eTlYGB6hg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T19:11:28.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "NL"
     }
   ],
   "updated": [
@@ -1280,20 +1280,6 @@
       "country": "NL"
     },
     {
-      "id": "com.nianticlabs.pokemongo",
-      "name": "Pokémon GO",
-      "developer": "Niantic, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en&gl=NL",
-      "artwork": "https://play-lh.googleusercontent.com/Qf2SJGpLxd9eu4CLWRrh2tfmmkncg7TQ2RNr44tWO07EBfhfMs4CHlizioym11Vb6RmfIWCNz6FNsOgHj_5dMA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T17:29:17.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "NL"
-    },
-    {
       "id": "com.pc.sand.loop",
       "name": "Sand Loop",
       "developer": "VOODOO",
@@ -1304,6 +1290,20 @@
       "releaseDate": "2026-02-27T16:50:09.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "NL"
+    },
+    {
+      "id": "com.nianticlabs.pokemongo",
+      "name": "Pokémon GO",
+      "developer": "Niantic, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en&gl=NL",
+      "artwork": "https://play-lh.googleusercontent.com/Qf2SJGpLxd9eu4CLWRrh2tfmmkncg7TQ2RNr44tWO07EBfhfMs4CHlizioym11Vb6RmfIWCNz6FNsOgHj_5dMA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T17:29:17.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "NL"
     },
