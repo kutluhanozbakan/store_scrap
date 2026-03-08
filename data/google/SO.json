@@ -1,8 +1,22 @@
 {
   "country": "SO",
   "store": "google",
-  "updatedAt": "2026-03-08T12:58:28.446Z",
+  "updatedAt": "2026-03-08T19:34:46.709Z",
   "new": [
+    {
+      "id": "com.blacklightsw.ludo",
+      "name": "Ludo SuperStar- Board Game",
+      "developer": "BlackLight Studio Games",
+      "url": "https://play.google.com/store/apps/details?id=com.blacklightsw.ludo&hl=en&gl=SO",
+      "artwork": "https://play-lh.googleusercontent.com/DE3Pnn2lQ0vrudHmK8gKC_WKzXHNjUJ6mU1B76fX3hHQAhaVTtHL50a3AUrdbOZNaJWG",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-08T16:59:15.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "SO"
+    },
     {
       "id": "com.NikitaPokruchin.ALTCITYOnline",
       "name": "Grand Hustle RP: Online Game",
@@ -70,6 +84,20 @@
       "releaseDate": "2026-03-06T12:12:34.000Z",
       "genres": [
         "Board"
+      ],
+      "country": "SO"
+    },
+    {
+      "id": "com.candle.car_master",
+      "name": "extreme car race master games",
+      "developer": "XGAME STUDIO",
+      "url": "https://play.google.com/store/apps/details?id=com.candle.car_master&hl=en&gl=SO",
+      "artwork": "https://play-lh.googleusercontent.com/f2FLQWyeI8wlo_yq96nq_NJC3YoDUIMZPv4SpZ7pymvIuBiABXWMWgVTC50C5x0N2zc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T08:35:50.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "SO"
     },
@@ -674,51 +702,9 @@
         "Board"
       ],
       "country": "SO"
-    },
-    {
-      "id": "com.imangi.templerun2",
-      "name": "Temple Run 2: Endless Escape",
-      "developer": "Imangi Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=SO",
-      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T14:25:25.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "SO"
-    },
-    {
-      "id": "com.outfit7.mytalkingangela2",
-      "name": "My Talking Angela 2",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=SO",
-      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T14:20:52.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "SO"
     }
   ],
   "updated": [
-    {
-      "id": "jp.konami.pesam",
-      "name": "eFootball™",
-      "developer": "KONAMI",
-      "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=en&gl=SO",
-      "artwork": "https://play-lh.googleusercontent.com/o-iscF0u9uAm9jaems25nNUw3cIgxrzIELVTy-DPKb3CxN0_HLBcaWoeetZca_BBOp_u_NXeyQKz0nJkXiFMkA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T00:47:50.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "SO"
-    },
     {
       "id": "com.catchup.ball.goingball",
       "name": "3D Ball Catch Up - Racing Ball",
@@ -730,6 +716,20 @@
       "releaseDate": "2026-03-05T11:40:56.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "SO"
+    },
+    {
+      "id": "jp.konami.pesam",
+      "name": "eFootball™",
+      "developer": "KONAMI",
+      "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=en&gl=SO",
+      "artwork": "https://play-lh.googleusercontent.com/o-iscF0u9uAm9jaems25nNUw3cIgxrzIELVTy-DPKb3CxN0_HLBcaWoeetZca_BBOp_u_NXeyQKz0nJkXiFMkA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T00:47:50.000Z",
+      "genres": [
+        "Sports"
       ],
       "country": "SO"
     },
@@ -874,20 +874,6 @@
       "country": "SO"
     },
     {
-      "id": "com.aim.racing",
-      "name": "Extreme Car Driving Simulator",
-      "developer": "AxesInMotion Racing",
-      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=SO",
-      "artwork": "https://play-lh.googleusercontent.com/4FcOEy8DK_gNKdR9szjd5d0m1h1cxyzHb3ejxk4IcuAi5JcMcyp-f61Wag2-SHlLt-s",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-20T13:51:00.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "SO"
-    },
-    {
       "id": "com.rubygames.assassin",
       "name": "Hunter Assassin",
       "developer": "Ruby Games AS",
@@ -916,44 +902,16 @@
       "country": "SO"
     },
     {
-      "id": "com.pf.bmx.cycle.games.extreme.bicycle.games",
-      "name": "BMX Cycle Extreme Bicycle Game",
-      "developer": "PlayFlix",
-      "url": "https://play.google.com/store/apps/details?id=com.pf.bmx.cycle.games.extreme.bicycle.games&hl=en&gl=SO",
-      "artwork": "https://play-lh.googleusercontent.com/wuJ5F_BSGLIphrT3sth8YLpWQ0vkuobI-z1Dr0G1ZfCXWoYzwaa7Z1CHKToEGombsA",
+      "id": "com.aim.racing",
+      "name": "Extreme Car Driving Simulator",
+      "developer": "AxesInMotion Racing",
+      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=SO",
+      "artwork": "https://play-lh.googleusercontent.com/4FcOEy8DK_gNKdR9szjd5d0m1h1cxyzHb3ejxk4IcuAi5JcMcyp-f61Wag2-SHlLt-s",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T05:46:18.000Z",
+      "releaseDate": "2026-02-20T13:51:00.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "SO"
-    },
-    {
-      "id": "com.chillingo.robberybobfree.android.row",
-      "name": "Robbery Bob - King of Sneak",
-      "developer": "Deca_Games",
-      "url": "https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row&hl=en&gl=SO",
-      "artwork": "https://play-lh.googleusercontent.com/5QgtTvnfJatWSZJ0DnCiaQ501N8Wp55rwWWV1GN_MARlmhJmwJQdmiNVMM5T-MhIO6GX",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-23T13:25:32.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "SO"
-    },
-    {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=SO",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "SO"
     },
@@ -972,16 +930,44 @@
       "country": "SO"
     },
     {
-      "id": "com.ansangha.drdriving",
-      "name": "Dr. Driving",
-      "developer": "SUD Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=SO",
-      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
+      "id": "com.pf.bmx.cycle.games.extreme.bicycle.games",
+      "name": "BMX Cycle Extreme Bicycle Game",
+      "developer": "PlayFlix",
+      "url": "https://play.google.com/store/apps/details?id=com.pf.bmx.cycle.games.extreme.bicycle.games&hl=en&gl=SO",
+      "artwork": "https://play-lh.googleusercontent.com/wuJ5F_BSGLIphrT3sth8YLpWQ0vkuobI-z1Dr0G1ZfCXWoYzwaa7Z1CHKToEGombsA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-08-25T07:34:27.000Z",
+      "releaseDate": "2026-02-13T05:46:18.000Z",
       "genres": [
         "Racing"
+      ],
+      "country": "SO"
+    },
+    {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=SO",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "SO"
+    },
+    {
+      "id": "com.chillingo.robberybobfree.android.row",
+      "name": "Robbery Bob - King of Sneak",
+      "developer": "Deca_Games",
+      "url": "https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row&hl=en&gl=SO",
+      "artwork": "https://play-lh.googleusercontent.com/5QgtTvnfJatWSZJ0DnCiaQ501N8Wp55rwWWV1GN_MARlmhJmwJQdmiNVMM5T-MhIO6GX",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-23T13:25:32.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "SO"
     },
@@ -996,6 +982,20 @@
       "releaseDate": "2026-02-25T13:56:11.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "SO"
+    },
+    {
+      "id": "com.ansangha.drdriving",
+      "name": "Dr. Driving",
+      "developer": "SUD Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=SO",
+      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-25T07:34:27.000Z",
+      "genres": [
+        "Racing"
       ],
       "country": "SO"
     },
@@ -1042,20 +1042,6 @@
       "country": "SO"
     },
     {
-      "id": "com.ffgames.racingincar2",
-      "name": "Racing in Car 2",
-      "developer": "ckgames",
-      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=SO",
-      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-19T14:55:06.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "SO"
-    },
-    {
       "id": "com.creations.runnergame",
       "name": "Kooply Run™: Play and Create!",
       "developer": "KOOPLY",
@@ -1070,16 +1056,16 @@
       "country": "SO"
     },
     {
-      "id": "com.homedesign.restore.asmr.games",
-      "name": "Home Makeover: ASMR Game",
-      "developer": "Happy Giggles",
-      "url": "https://play.google.com/store/apps/details?id=com.homedesign.restore.asmr.games&hl=en&gl=SO",
-      "artwork": "https://play-lh.googleusercontent.com/5PKuhy9WvL6v-5klhBM60A8uvCylSxNKc-RnOkCMtKToQwZF5o75Bx-Wgx2GDfU14cg",
+      "id": "com.ffgames.racingincar2",
+      "name": "Racing in Car 2",
+      "developer": "ckgames",
+      "url": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar2&hl=en&gl=SO",
+      "artwork": "https://play-lh.googleusercontent.com/zvKQ4IArTMB5a2hOQ8HF9vEGckb5zy3i2WVaXbGVC5prUDFDYdpU8mh8tjM8xNt8eLk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T14:32:45.000Z",
+      "releaseDate": "2025-12-19T14:55:06.000Z",
       "genres": [
-        "Casual"
+        "Racing"
       ],
       "country": "SO"
     },
@@ -1094,6 +1080,20 @@
       "releaseDate": "2026-01-29T15:32:33.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "SO"
+    },
+    {
+      "id": "com.homedesign.restore.asmr.games",
+      "name": "Home Makeover: ASMR Game",
+      "developer": "Happy Giggles",
+      "url": "https://play.google.com/store/apps/details?id=com.homedesign.restore.asmr.games&hl=en&gl=SO",
+      "artwork": "https://play-lh.googleusercontent.com/5PKuhy9WvL6v-5klhBM60A8uvCylSxNKc-RnOkCMtKToQwZF5o75Bx-Wgx2GDfU14cg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T14:32:45.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "SO"
     },
@@ -1140,20 +1140,6 @@
       "country": "SO"
     },
     {
-      "id": "com.imangi.templerun2",
-      "name": "Temple Run 2: Endless Escape",
-      "developer": "Imangi Studios",
-      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=SO",
-      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-17T14:25:25.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "SO"
-    },
-    {
       "id": "ball.sort.color.puz.game.puzzle",
       "name": "Ball Sort - Color Puz Game",
       "developer": "Infinite Joy Ltd.",
@@ -1164,6 +1150,20 @@
       "releaseDate": "2026-02-03T09:39:56.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "SO"
+    },
+    {
+      "id": "com.imangi.templerun2",
+      "name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=SO",
+      "artwork": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-17T14:25:25.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "SO"
     },
@@ -1224,20 +1224,6 @@
       "country": "SO"
     },
     {
-      "id": "com.gamepark.cop.simulator.police.games",
-      "name": "Police Simulator: Police Games",
-      "developer": "GamePark",
-      "url": "https://play.google.com/store/apps/details?id=com.gamepark.cop.simulator.police.games&hl=en&gl=SO",
-      "artwork": "https://play-lh.googleusercontent.com/QwPIUPB3w0JXeRQakO_2ij4GrHQ1e6yuUYHIBRV_JmHxSChSzoOQf6kWvusy2yVvjfUW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T10:34:21.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "SO"
-    },
-    {
       "id": "com.igoldtech.streetchaser",
       "name": "Street Chaser",
       "developer": "iGold Technologies Private Limited",
@@ -1266,6 +1252,20 @@
       "country": "SO"
     },
     {
+      "id": "com.gamepark.cop.simulator.police.games",
+      "name": "Police Simulator: Police Games",
+      "developer": "GamePark",
+      "url": "https://play.google.com/store/apps/details?id=com.gamepark.cop.simulator.police.games&hl=en&gl=SO",
+      "artwork": "https://play-lh.googleusercontent.com/QwPIUPB3w0JXeRQakO_2ij4GrHQ1e6yuUYHIBRV_JmHxSChSzoOQf6kWvusy2yVvjfUW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T10:34:21.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "SO"
+    },
+    {
       "id": "com.blacklightsw.ludo",
       "name": "Ludo SuperStar- Board Game",
       "developer": "BlackLight Studio Games",
@@ -1273,7 +1273,7 @@
       "artwork": "https://play-lh.googleusercontent.com/DE3Pnn2lQ0vrudHmK8gKC_WKzXHNjUJ6mU1B76fX3hHQAhaVTtHL50a3AUrdbOZNaJWG",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-11T10:16:37.000Z",
+      "releaseDate": "2026-03-08T16:59:15.000Z",
       "genres": [
         "Board"
       ],
@@ -1308,6 +1308,34 @@
       "country": "SO"
     },
     {
+      "id": "com.popupgames.ludo.king.club.dice.board.game",
+      "name": "Ludo Buzz - Multiplayer Game",
+      "developer": "Popup Games",
+      "url": "https://play.google.com/store/apps/details?id=com.popupgames.ludo.king.club.dice.board.game&hl=en&gl=SO",
+      "artwork": "https://play-lh.googleusercontent.com/fQx0YLEYP5K-IG-OMTfpVjRNvkHiisxVgXziQXYsn9Tfbzpp1QrYIOnxk3n7WPDNKtY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T20:32:16.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "SO"
+    },
+    {
+      "id": "com.fxroyale.app",
+      "name": "Trading Arena-Crypto Simulator",
+      "developer": "Edusystems OU",
+      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=SO",
+      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T18:10:11.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "SO"
+    },
+    {
       "id": "com.rasugames.pls",
       "name": "Pro League Soccer",
       "developer": "Rasu Games",
@@ -1318,6 +1346,20 @@
       "releaseDate": "2025-11-03T11:06:12.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "SO"
+    },
+    {
+      "id": "com.candyroom.clubcraft",
+      "name": "School Party Craft",
+      "developer": "Candy Room Games & RabbitCo",
+      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=SO",
+      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T18:38:23.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "SO"
     },
@@ -1350,34 +1392,6 @@
       "country": "SO"
     },
     {
-      "id": "com.candyroom.clubcraft",
-      "name": "School Party Craft",
-      "developer": "Candy Room Games & RabbitCo",
-      "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=SO",
-      "artwork": "https://play-lh.googleusercontent.com/DJckHf0N4Z7ZSdg8CdoxbgNitQVdzPkhsFBS6ddi3Cl8KuQ8nD0vwNt0zfwBRkUKhw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T18:38:23.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "SO"
-    },
-    {
-      "id": "com.popupgames.ludo.king.club.dice.board.game",
-      "name": "Ludo Buzz - Multiplayer Game",
-      "developer": "Popup Games",
-      "url": "https://play.google.com/store/apps/details?id=com.popupgames.ludo.king.club.dice.board.game&hl=en&gl=SO",
-      "artwork": "https://play-lh.googleusercontent.com/fQx0YLEYP5K-IG-OMTfpVjRNvkHiisxVgXziQXYsn9Tfbzpp1QrYIOnxk3n7WPDNKtY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T20:32:16.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "SO"
-    },
-    {
       "id": "com.miniclip.drone1",
       "name": "War Drone: 3D Shooting Games",
       "developer": "Mobile Gaming Studios Ltd.",
@@ -1386,20 +1400,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-01-27T17:28:35.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "SO"
-    },
-    {
-      "id": "com.snake.io.slither.worms",
-      "name": "Snake Lite® - Worm Snake Game",
-      "developer": "Hippo Lab",
-      "url": "https://play.google.com/store/apps/details?id=com.snake.io.slither.worms&hl=en&gl=SO",
-      "artwork": "https://play-lh.googleusercontent.com/unaCabpPBNL2HiMCyjCIO81ab1XGJU2ZnNYOdobeg60bEfc8zoIcudRA10SjJlSHkQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T08:03:51.000Z",
       "genres": [
         "Action"
       ],
