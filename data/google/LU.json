@@ -1,8 +1,22 @@
 {
   "country": "LU",
   "store": "google",
-  "updatedAt": "2026-03-08T11:01:36.972Z",
+  "updatedAt": "2026-03-08T17:33:24.854Z",
   "new": [
+    {
+      "id": "com.fashionlink.northstone",
+      "name": "Jigmerge™ Puzzles",
+      "developer": "RedInfinity Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.fashionlink.northstone&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/EZP7wDL_-gFczA3LUvcPwX7Z5CpmePZ1m5rYM5hjyLGFB2qNxGggE4VaNQ8wqtC3Hs7ilQrvH3g2KVYGm2a4hdY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-07T15:20:17.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "LU"
+    },
     {
       "id": "com.phs.global",
       "name": "Last Asylum: Plague",
@@ -96,20 +110,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-06T16:58:46.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "net.peakgames.match",
-      "name": "Match Factory!",
-      "developer": "Peak",
-      "url": "https://play.google.com/store/apps/details?id=net.peakgames.match&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/JdkgreDBCOxt7_0eeiVgbwtQkkdWmlWMO9cwAyj6rfVcAM5Z9l99zbg4eoUac5C0Bw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T15:46:16.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -224,20 +224,6 @@
       "releaseDate": "2026-03-06T10:21:04.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "ai.projectx.clickx.gp",
-      "name": "Click X",
-      "developer": "bin ming",
-      "url": "https://play.google.com/store/apps/details?id=ai.projectx.clickx.gp&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/fpnQgiiJKAarMIuwNMfPmFk6C5J4-b3aZjFJ-nNS8eeVS4IC2H7u1pHLhm2FQYJ44mB5HcpfeioZAFyrqg2LiQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T09:11:05.000Z",
-      "genres": [
-        "Board"
       ],
       "country": "LU"
     },
@@ -550,6 +536,20 @@
       "country": "LU"
     },
     {
+      "id": "com.gamovation.chessclubpilot",
+      "name": "Chess - Offline Board Game",
+      "developer": "GamoVation",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.chessclubpilot&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/e3YeRDmaHxppJ8-StfxFjbeenX9qSiCmM1dfQ-fd5-IL8Q8DumcNHZXhGTzF6aWP2A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T09:13:29.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "LU"
+    },
+    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
@@ -776,16 +776,16 @@
       "country": "LU"
     },
     {
-      "id": "com.hitappsgames.wordsolitaire",
-      "name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games",
-      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.wordsolitaire&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/j-9VRhsIgqovIynxkWftb_9lqBOXjaE291cv5xdYtaEpPdFwTgpRSl4P8XRQtEBET6vH2F33OzhnXmzDt5BuNA",
+      "id": "com.roblox.client",
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-03T17:03:06.000Z",
+      "releaseDate": "2026-03-05T18:09:24.000Z",
       "genres": [
-        "Word"
+        "Adventure"
       ],
       "country": "LU"
     },
@@ -818,6 +818,20 @@
       "country": "LU"
     },
     {
+      "id": "com.hitappsgames.wordsolitaire",
+      "name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games",
+      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.wordsolitaire&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/j-9VRhsIgqovIynxkWftb_9lqBOXjaE291cv5xdYtaEpPdFwTgpRSl4P8XRQtEBET6vH2F33OzhnXmzDt5BuNA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T17:03:06.000Z",
+      "genres": [
+        "Word"
+      ],
+      "country": "LU"
+    },
+    {
       "id": "com.sled.surfers.game",
       "name": "Sled Surfers",
       "developer": "CrazyLabs LTD",
@@ -828,20 +842,6 @@
       "releaseDate": "2026-03-06T20:01:24.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "com.roblox.client",
-      "name": "Roblox",
-      "developer": "Roblox Corporation",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T18:09:24.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "LU"
     },
@@ -874,20 +874,6 @@
       "country": "LU"
     },
     {
-      "id": "find.difference.spot.differences.hidden.puzzle.games.free",
-      "name": "Differences - Find & Spot It",
-      "developer": "Guru Puzzle Game",
-      "url": "https://play.google.com/store/apps/details?id=find.difference.spot.differences.hidden.puzzle.games.free&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/C31xBlmSFWl6KylUxTdFV8r_K8m1ttR8Cxm1YDLOQZGVqPWlxQcAP-uO4OnEKHuAiAc",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-10T08:33:48.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "LU"
-    },
-    {
       "id": "io.voodoo.paper2",
       "name": "Paper.io 2",
       "developer": "VOODOO",
@@ -916,16 +902,16 @@
       "country": "LU"
     },
     {
-      "id": "com.epicoro.castleclashers",
-      "name": "Castle Clashers!",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.epicoro.castleclashers&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/VW7o5ybPRq9TbTQs9_pzrJkYoFk4QVxUkV96bVfauDmGBZ8O6KNHIRH4oIRlkQAgogw",
+      "id": "find.difference.spot.differences.hidden.puzzle.games.free",
+      "name": "Differences - Find & Spot It",
+      "developer": "Guru Puzzle Game",
+      "url": "https://play.google.com/store/apps/details?id=find.difference.spot.differences.hidden.puzzle.games.free&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/C31xBlmSFWl6KylUxTdFV8r_K8m1ttR8Cxm1YDLOQZGVqPWlxQcAP-uO4OnEKHuAiAc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-04T12:31:56.000Z",
+      "releaseDate": "2026-02-10T08:33:48.000Z",
       "genres": [
-        "Action"
+        "Puzzle"
       ],
       "country": "LU"
     },
@@ -958,6 +944,20 @@
       "country": "LU"
     },
     {
+      "id": "com.epicoro.castleclashers",
+      "name": "Castle Clashers!",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.epicoro.castleclashers&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/VW7o5ybPRq9TbTQs9_pzrJkYoFk4QVxUkV96bVfauDmGBZ8O6KNHIRH4oIRlkQAgogw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T12:31:56.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "LU"
+    },
+    {
       "id": "com.red.sortingstore.android",
       "name": "Water Match™- ASMR Water Sort",
       "developer": "Youyoutang Technology",
@@ -968,118 +968,6 @@
       "releaseDate": "2026-02-26T12:56:05.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "com.dreamgames.royalmatch",
-      "name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T12:04:55.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "com.phs.global",
-      "name": "Last Asylum: Plague",
-      "developer": "37GAMES GLOBAL",
-      "url": "https://play.google.com/store/apps/details?id=com.phs.global&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-07T09:26:17.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "in.playsimple.wordsearch",
-      "name": "Word Search Explorer",
-      "developer": "PlaySimple Games",
-      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T14:56:53.000Z",
-      "genres": [
-        "Word"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "com.loomgames.pixelflow",
-      "name": "Pixel Flow!",
-      "developer": "Loom Games A.Ş.",
-      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T18:32:05.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:31:23.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "com.cedargames.tileclear",
-      "name": "Tile Clear - Puzzle Game",
-      "developer": "Cedar Games Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.cedargames.tileclear&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/NBGbFnv5rrm9rLT6t6vCC5LcxGn3TLGwtgI7wO8i61E04CwWD5_wskBSNF65MCf2GhKjlumetQ87nkNZp74f",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T06:13:56.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "io.voodoo.holeio",
-      "name": "Hole.io",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T13:15:52.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "com.youmusic.magictiles",
-      "name": "Magic Tiles 3™ - Piano Game",
-      "developer": "AMANOTES PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T17:27:27.000Z",
-      "genres": [
-        "Music"
       ],
       "country": "LU"
     },
@@ -1098,42 +986,28 @@
       "country": "LU"
     },
     {
-      "id": "math.puzzle.games.crossmath.number.puzzles.free",
-      "name": "Crossmath® - Math Puzzle Games",
-      "developer": "Guru Puzzle Game",
-      "url": "https://play.google.com/store/apps/details?id=math.puzzle.games.crossmath.number.puzzles.free&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/gZMoYCpjSwN_BJtwVM7f2UQASnQ0EUch1Ylpg3NaFvF-lq82gHdc1FoL1KucPtVXkQ5V",
+      "id": "com.dreamgames.royalmatch",
+      "name": "Royal Match",
+      "developer": "Dream Games, Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T12:38:06.000Z",
+      "releaseDate": "2026-02-16T12:04:55.000Z",
       "genres": [
         "Puzzle"
       ],
       "country": "LU"
     },
     {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "id": "com.loomgames.pixelflow",
+      "name": "Pixel Flow!",
+      "developer": "Loom Games A.Ş.",
+      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T07:21:42.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "com.mergegames.gossipharbor",
-      "name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/PmMSCDLMab3nn0wj14BFZNqPncr1C14M5VmUrM3aXNmeRa1zEhNI4N3L1F1oO3qDYRPOQigQOyXxwDuQZZvTwA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T07:09:51.000Z",
+      "releaseDate": "2026-03-05T18:32:05.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1154,72 +1028,114 @@
       "country": "LU"
     },
     {
-      "id": "com.arrow.out",
-      "name": "Arrow Out",
-      "developer": "Lion Studios Plus",
-      "url": "https://play.google.com/store/apps/details?id=com.arrow.out&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/i4S66jnxU0h4mBg7aURDxn2gUkQmkq2U09Z-QpwxGnoEl_zjS2Fmo49_Nh3eTlYGB6hg",
+      "id": "in.playsimple.wordsearch",
+      "name": "Word Search Explorer",
+      "developer": "PlaySimple Games",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-28T19:11:28.000Z",
+      "releaseDate": "2026-03-05T14:56:53.000Z",
       "genres": [
-        "Puzzle"
+        "Word"
       ],
       "country": "LU"
     },
     {
-      "id": "com.tp.pmu3d",
-      "name": "Pick Me Up 3D: Taxi Game",
-      "developer": "Azur Interactive Games Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.tp.pmu3d&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/-45mcdAUu8hi22BF8ARH7zR0CO6b7xtLs_rTLtnph_lY06aXryIM-2DYJ4kLqHoKOQ",
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T14:37:44.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "com.playrix.township",
-      "name": "Township",
-      "developer": "Playrix",
-      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T10:21:04.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "com.robtopx.geometryjumplite",
-      "name": "Geometry Dash Lite",
-      "developer": "RobTop Games",
-      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-30T14:03:50.000Z",
+      "releaseDate": "2026-02-27T12:31:23.000Z",
       "genres": [
         "Arcade"
       ],
       "country": "LU"
     },
     {
-      "id": "com.advant.streamer",
-      "name": "Lamar - Idle Vlogger",
-      "developer": "CrazyLabs LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
+      "id": "com.phs.global",
+      "name": "Last Asylum: Plague",
+      "developer": "37GAMES GLOBAL",
+      "url": "https://play.google.com/store/apps/details?id=com.phs.global&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-20T15:26:20.000Z",
+      "releaseDate": "2026-03-07T09:26:17.000Z",
       "genres": [
-        "Simulation"
+        "Strategy"
+      ],
+      "country": "LU"
+    },
+    {
+      "id": "com.cedargames.tileclear",
+      "name": "Tile Clear - Puzzle Game",
+      "developer": "Cedar Games Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.cedargames.tileclear&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/NBGbFnv5rrm9rLT6t6vCC5LcxGn3TLGwtgI7wO8i61E04CwWD5_wskBSNF65MCf2GhKjlumetQ87nkNZp74f",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T06:13:56.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "LU"
+    },
+    {
+      "id": "com.youmusic.magictiles",
+      "name": "Magic Tiles 3™ - Piano Game",
+      "developer": "AMANOTES PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T17:27:27.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "LU"
+    },
+    {
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T07:21:42.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "LU"
+    },
+    {
+      "id": "io.voodoo.holeio",
+      "name": "Hole.io",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T13:15:52.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "LU"
+    },
+    {
+      "id": "com.mergegames.gossipharbor",
+      "name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/PmMSCDLMab3nn0wj14BFZNqPncr1C14M5VmUrM3aXNmeRa1zEhNI4N3L1F1oO3qDYRPOQigQOyXxwDuQZZvTwA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T07:09:51.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "LU"
     },
@@ -1234,62 +1150,6 @@
       "releaseDate": "2026-03-06T20:49:43.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "beats.color.sing.star.rush",
-      "name": "Magic Level 9 Music Piano Game",
-      "developer": "Beatwave Studio",
-      "url": "https://play.google.com/store/apps/details?id=beats.color.sing.star.rush&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/uIih37VSDcSfq-Fp2ve2BGmBSLGEVD_AZj1_dI7_GeJLUuHxh-sgNBCIPEt5Axt98T-x",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T15:08:18.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "com.monopoly.dream.idle.king",
-      "name": "Top Tycoon: Coin Theme Empire",
-      "developer": "BeheFun Games Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.monopoly.dream.idle.king&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/YSofgpw9fVAdL8ARICBntM6H2SchRLC7e-NYczRc-1I_gCQaN8U7y49ikrl3GfUYXW4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-15T14:29:01.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "com.oakever.tiletrip",
-      "name": "Tile Explorer - Triple Match",
-      "developer": "Oakever Games",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T12:49:52.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "com.firsttouchgames.dls7",
-      "name": "Dream League Soccer 2026",
-      "developer": "First Touch Games Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T18:33:48.000Z",
-      "genres": [
-        "Sports"
       ],
       "country": "LU"
     },
@@ -1322,30 +1182,156 @@
       "country": "LU"
     },
     {
-      "id": "com.miniclip.drone1",
-      "name": "War Drone: 3D Shooting Games",
-      "developer": "Mobile Gaming Studios Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.drone1&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/quIsXpM_hTDjWCfCNHwROYTMyiOHJ3wdkOb8vBRq_6IP63Wv1d68qLC1mvevxX3VOw",
+      "id": "com.playrix.township",
+      "name": "Township",
+      "developer": "Playrix",
+      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-27T17:28:35.000Z",
+      "releaseDate": "2026-03-06T10:21:04.000Z",
       "genres": [
-        "Action"
+        "Casual"
       ],
       "country": "LU"
     },
     {
-      "id": "com.king.candycrushsaga",
-      "name": "Candy Crush Saga",
-      "developer": "King",
-      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
+      "id": "com.fc.goods.sort.matching.puzzle.triplemaster",
+      "name": "Goods Puzzle: Sort Challenge™",
+      "developer": "FALCON GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.fc.goods.sort.matching.puzzle.triplemaster&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/F4r_imTe0hKKnVfrOUxbS8oumI6LpU-UgFbOW0VHoYQ_FnrcXq0p3QRR96u5wNANm2A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-19T12:54:33.000Z",
+      "releaseDate": "2026-03-05T11:21:51.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "LU"
+    },
+    {
+      "id": "math.puzzle.games.crossmath.number.puzzles.free",
+      "name": "Crossmath® - Math Puzzle Games",
+      "developer": "Guru Puzzle Game",
+      "url": "https://play.google.com/store/apps/details?id=math.puzzle.games.crossmath.number.puzzles.free&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/gZMoYCpjSwN_BJtwVM7f2UQASnQ0EUch1Ylpg3NaFvF-lq82gHdc1FoL1KucPtVXkQ5V",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T12:38:06.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "LU"
+    },
+    {
+      "id": "com.brain.logic.joygame",
+      "name": "Brain Puzzle 2: Logic Twist",
+      "developer": "JoyGame Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.brain.logic.joygame&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/q19v_2ZYEOdWOt6ABAVCl10zHrft5qkChjAwxtByGKxJxE3gNULQGf3BwsCYVJk4Jbhf",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T09:26:01.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "LU"
+    },
+    {
+      "id": "com.gtsy.annoying.punch.game",
+      "name": "Annoying Uncle Punch Game",
+      "developer": "Game District LLC",
+      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T07:08:33.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "LU"
+    },
+    {
+      "id": "beats.color.sing.star.rush",
+      "name": "Magic Level 9 Music Piano Game",
+      "developer": "Beatwave Studio",
+      "url": "https://play.google.com/store/apps/details?id=beats.color.sing.star.rush&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/uIih37VSDcSfq-Fp2ve2BGmBSLGEVD_AZj1_dI7_GeJLUuHxh-sgNBCIPEt5Axt98T-x",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T15:08:18.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "LU"
+    },
+    {
+      "id": "com.tp.pmu3d",
+      "name": "Pick Me Up 3D: Taxi Game",
+      "developer": "Azur Interactive Games Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.tp.pmu3d&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/-45mcdAUu8hi22BF8ARH7zR0CO6b7xtLs_rTLtnph_lY06aXryIM-2DYJ4kLqHoKOQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T14:37:44.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "LU"
+    },
+    {
+      "id": "com.advant.streamer",
+      "name": "Lamar - Idle Vlogger",
+      "developer": "CrazyLabs LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T15:26:20.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "LU"
+    },
+    {
+      "id": "com.robtopx.geometryjumplite",
+      "name": "Geometry Dash Lite",
+      "developer": "RobTop Games",
+      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T14:03:50.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "LU"
+    },
+    {
+      "id": "com.arrow.out",
+      "name": "Arrow Out",
+      "developer": "Lion Studios Plus",
+      "url": "https://play.google.com/store/apps/details?id=com.arrow.out&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/i4S66jnxU0h4mBg7aURDxn2gUkQmkq2U09Z-QpwxGnoEl_zjS2Fmo49_Nh3eTlYGB6hg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-28T19:11:28.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "LU"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T08:49:55.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "LU"
     },
@@ -1364,16 +1350,16 @@
       "country": "LU"
     },
     {
-      "id": "com.justgame.jails",
-      "name": "Lands of Jail",
-      "developer": "SINGAPORE JUST GAME TECHNOLOGY PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.justgame.jails&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/Ms4UyzsEEE4kwdQb2EoAwovIFN4wOabxDtpjlD9jpnfI7WG00l3B4Ue7Katc1CbQ6vmTGNQomk1LewfY-tmPPes",
+      "id": "com.firsttouchgames.dls7",
+      "name": "Dream League Soccer 2026",
+      "developer": "First Touch Games Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/f7DZ9TRn1gEVLP4xF0D5tTy8QB2jccsP36eJK5tMOY_q4YQ9EH7yemP9I2c7Me48_tjp_fXn3A38vOMuK1di",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T15:55:02.000Z",
+      "releaseDate": "2026-02-27T18:33:48.000Z",
       "genres": [
-        "Strategy"
+        "Sports"
       ],
       "country": "LU"
     },
@@ -1392,16 +1378,30 @@
       "country": "LU"
     },
     {
-      "id": "com.gtsy.annoying.punch.game",
-      "name": "Annoying Uncle Punch Game",
-      "developer": "Game District LLC",
-      "url": "https://play.google.com/store/apps/details?id=com.gtsy.annoying.punch.game&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/KmYiIMZXwzQEi2TNfL_lnDUEjdCn1bCiG_7ZQuHP0Y0JE9KFukfYPe0bDZr80TmhGmDC",
+      "id": "com.miniclip.drone1",
+      "name": "War Drone: 3D Shooting Games",
+      "developer": "Mobile Gaming Studios Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.drone1&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/quIsXpM_hTDjWCfCNHwROYTMyiOHJ3wdkOb8vBRq_6IP63Wv1d68qLC1mvevxX3VOw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-04T07:08:33.000Z",
+      "releaseDate": "2026-01-27T17:28:35.000Z",
       "genres": [
-        "Simulation"
+        "Action"
+      ],
+      "country": "LU"
+    },
+    {
+      "id": "com.ecffri.arrows",
+      "name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore UG",
+      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/f3szQ-tBQ5FVtiO2hwnJ6Gg4LbckQ9qKD099oiFqlvDo78uaD85Zn9G4o-W9390XnQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T16:22:25.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "LU"
     }
