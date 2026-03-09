@@ -1,8 +1,22 @@
 {
   "country": "CF",
   "store": "google",
-  "updatedAt": "2026-03-08T21:30:53.471Z",
+  "updatedAt": "2026-03-09T09:28:42.274Z",
   "new": [
+    {
+      "id": "net.jokergame.flappybird",
+      "name": "Tower Rush - Tower Building",
+      "developer": "Joker Game",
+      "url": "https://play.google.com/store/apps/details?id=net.jokergame.flappybird&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/7vc3cpqrjB18jd_ZFvqsT_S0URjEEKlOEM83X5X4vrJsDJgqugUfKGivMPcwx7UwEPntdAJqEKLmSxh0a00l8w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-08T10:59:11.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "CF"
+    },
     {
       "id": "com.hexa.master.puzzle.match3d",
       "name": "Hexa Master 3D - Color Sort",
@@ -14,20 +28,6 @@
       "releaseDate": "2026-03-06T19:07:38.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "CF"
-    },
-    {
-      "id": "water.sort.color.puzzle.offline.games",
-      "name": "Water Sort! Color Sort Puzzle",
-      "developer": "Bobodoo Game",
-      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/FGKE522gd5FND6fnX-_GdhSe9eoU0IqSBJ3gV8nUEYnOTMubjov8cvlC2FQXMgbb29NA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T17:49:10.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "CF"
     },
@@ -172,16 +172,30 @@
       "country": "CF"
     },
     {
-      "id": "com.WandaSoftware.TruckersofEurope3",
-      "name": "Truckers of Europe 3",
-      "developer": "Wanda Software",
-      "url": "https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/FwKtLtLulWDsEawc5dOelxZyvzTQK6gEZUmqLkpEIlVJjiyPtikvwpWEkSrsgREt9yCg",
+      "id": "com.kiloo.subwaysurf",
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/I7CQ7JWKDgh5bNebcSJmVIYsrfvTxDMk_HXR7yBtcTGFOv6ubA2SJk4dwOlb27Y8IjE",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-05T13:24:09.000Z",
+      "releaseDate": "2026-03-05T14:31:55.000Z",
       "genres": [
-        "Simulation"
+        "Arcade"
+      ],
+      "country": "CF"
+    },
+    {
+      "id": "pl.lukok.draughts",
+      "name": "Checkers Online",
+      "developer": "CC  Games",
+      "url": "https://play.google.com/store/apps/details?id=pl.lukok.draughts&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/Wvqk6zrQ0pfpqxKhoSW08NkobAg8pXye6Q9lCUlvvoDPBUDy3AzTDbG5_uZfV3Qz2w",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T13:00:51.000Z",
+      "genres": [
+        "Board"
       ],
       "country": "CF"
     },
@@ -214,6 +228,20 @@
       "country": "CF"
     },
     {
+      "id": "com.camelgames.superking",
+      "name": "War and Order",
+      "developer": "CamelStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.camelgames.superking&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/mKO4a5KElTwxC_pysn5Dh9Ybb4fBcI4kgvDobufsj7ZMf-klNSBFrWjcjmnUYpXmeDA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T10:53:31.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "CF"
+    },
+    {
       "id": "beetles.puzzle.solitaire",
       "name": "Solitaire - Classic Card Games",
       "developer": "Oakever Games",
@@ -242,6 +270,20 @@
       "country": "CF"
     },
     {
+      "id": "com.oakever.tiletrip",
+      "name": "Tile Explorer - Triple Match",
+      "developer": "Oakever Games",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T12:49:52.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CF"
+    },
+    {
       "id": "com.nebula.mahjongtile",
       "name": "Mahjong Blast",
       "developer": "Nebula  Studio",
@@ -266,20 +308,6 @@
       "releaseDate": "2026-03-04T11:07:46.000Z",
       "genres": [
         "Strategy"
-      ],
-      "country": "CF"
-    },
-    {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T08:49:55.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "CF"
     },
@@ -396,6 +424,20 @@
       "country": "CF"
     },
     {
+      "id": "com.animal.hunter.sniper",
+      "name": "Animal Hunter: Wild Shooting",
+      "developer": "Fun Fun Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.animal.hunter.sniper&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/pd0Voe0O6zBPbVAdSBaVuBdQqiVSHe8V3wIhtuYpuIZS5Owam7E35TGxGkxHP3bUYf4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T10:54:02.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "CF"
+    },
+    {
       "id": "color.bolts.sorting.nuts.sort",
       "name": "Nut Puzzle - Nut Sort Games",
       "developer": "BitEpoch",
@@ -466,20 +508,6 @@
       "country": "CF"
     },
     {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:31:23.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "CF"
-    },
-    {
       "id": "com.globalappsh.racer.heavytraffic.speedy",
       "name": "Heavy Traffic Rider Car Game",
       "developer": "GlobalApps H",
@@ -504,20 +532,6 @@
       "releaseDate": "2026-02-26T13:15:04.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "CF"
-    },
-    {
-      "id": "com.outfit7.mytalkingtomfree",
-      "name": "My Talking Tom",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/NYdtBII04HwY8fU2-BgU7_xAYJwfz2TUTou3D5R0lGiIjeyAy0n4oLDJdwUXII5sdA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-26T11:55:53.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "CF"
     },
@@ -606,6 +620,20 @@
       "country": "CF"
     },
     {
+      "id": "com.totalbattle",
+      "name": "Total Battle: Strategy Games",
+      "developer": "Scorewarrior",
+      "url": "https://play.google.com/store/apps/details?id=com.totalbattle&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/tVu9zOuRBk4aUjro3Rgt0XUug_DxzjkyHxaslu9Q1dRd3XTOAw5Pn7UPT_xG4Se4rKS-",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-20T16:42:02.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "CF"
+    },
+    {
       "id": "com.freeplaysultanov.shootit",
       "name": "Shoot Out: Gun Shooting Games",
       "developer": "Freeplay Inc",
@@ -674,34 +702,6 @@
         "Puzzle"
       ],
       "country": "CF"
-    },
-    {
-      "id": "com.taprun.fruitmanialine",
-      "name": "Fruit Fancy",
-      "developer": "Tap Run",
-      "url": "https://play.google.com/store/apps/details?id=com.taprun.fruitmanialine&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/VbDEx6q27ztXqPF-u6tP4bU2mLRhhEFagEem810vAEPp16dE7sf7guXtmUyYhSCQkJgy",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-14T08:41:11.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CF"
-    },
-    {
-      "id": "com.id.gun.shooting.games",
-      "name": "Gun Games FPS Shooting Games",
-      "developer": "Interactive Dreams Inc",
-      "url": "https://play.google.com/store/apps/details?id=com.id.gun.shooting.games&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/rGDRjIGiAtxqczCRz1T1_Eytrlmg0rmY4ZHpl5TgCeP7QzGhsvAgj0WVXxY9WvDdQLwJ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T11:59:45.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "CF"
     }
   ],
   "updated": [
@@ -762,20 +762,6 @@
       "country": "CF"
     },
     {
-      "id": "com.ludo.master.hippo",
-      "name": "Ludo Master™ - Ludo Board Game",
-      "developer": "Hippo Lab",
-      "url": "https://play.google.com/store/apps/details?id=com.ludo.master.hippo&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/w4hT0PH6yHVUY3trO3ICmTOzGt9x3UPrwZsC9uAF3CmuCPtS2CD6lwjUIeEIqcjxHEw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T10:48:46.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "CF"
-    },
-    {
       "id": "com.dreamgames.royalmatch",
       "name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -784,6 +770,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-16T12:04:55.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CF"
+    },
+    {
+      "id": "com.hungrystudio.mahjong",
+      "name": "Double Tile!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/X5NGhTzKUZvS0Iuw96qg6ExRf-i3x9nXW_BgtFv39fHdn5yP2uwIHiNGEmgOMn7cqV0rbOROWm4vsp-7hRdr",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T11:33:35.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -804,16 +804,16 @@
       "country": "CF"
     },
     {
-      "id": "com.hungrystudio.mahjong",
-      "name": "Double Tile!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/X5NGhTzKUZvS0Iuw96qg6ExRf-i3x9nXW_BgtFv39fHdn5yP2uwIHiNGEmgOMn7cqV0rbOROWm4vsp-7hRdr",
+      "id": "com.ludo.master.hippo",
+      "name": "Ludo Master™ - Ludo Board Game",
+      "developer": "Hippo Lab",
+      "url": "https://play.google.com/store/apps/details?id=com.ludo.master.hippo&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/w4hT0PH6yHVUY3trO3ICmTOzGt9x3UPrwZsC9uAF3CmuCPtS2CD6lwjUIeEIqcjxHEw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-05T11:33:35.000Z",
+      "releaseDate": "2026-01-28T10:48:46.000Z",
       "genres": [
-        "Puzzle"
+        "Board"
       ],
       "country": "CF"
     },
@@ -888,20 +888,6 @@
       "country": "CF"
     },
     {
-      "id": "com.miniclip.realsniper",
-      "name": "Pure Sniper: Gun Shooter Games",
-      "developer": "Miniclip.com",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.realsniper&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/D3NtyLCIKLg2VR4hUNyGVgBWICfHj5kkKL6mxGB0n4wLKMGdvhibY66VFPd7aSOR1TI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T21:05:43.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "CF"
-    },
-    {
       "id": "best.word.connect.search.free.offline.puzzle.word.games.world",
       "name": "Word Find - Word Connect Games",
       "developer": "Fantasy Games Ltd",
@@ -944,16 +930,58 @@
       "country": "CF"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T16:58:46.000Z",
+      "releaseDate": "2026-03-04T12:39:52.000Z",
       "genres": [
-        "Puzzle"
+        "Board"
+      ],
+      "country": "CF"
+    },
+    {
+      "id": "com.gp.pilot.simulator.airplanegames",
+      "name": "Pilot Simulator: Airplane Game",
+      "developer": "GamePark",
+      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T10:51:12.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "CF"
+    },
+    {
+      "id": "com.catchup.ball.goingball",
+      "name": "3D Ball Catch Up - Racing Ball",
+      "developer": "Takenick Innovation",
+      "url": "https://play.google.com/store/apps/details?id=com.catchup.ball.goingball&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/F01h3ZGppzyqRdHMflxbf7KVKOa6VulVk2kcmfZ1vNDHvDy-H7uZuUroKRvKua75dIP0_luT_ar-uInovN4yuQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T11:40:56.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "CF"
+    },
+    {
+      "id": "com.miniclip.realsniper",
+      "name": "Pure Sniper: Gun Shooter Games",
+      "developer": "Miniclip.com",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.realsniper&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/D3NtyLCIKLg2VR4hUNyGVgBWICfHj5kkKL6mxGB0n4wLKMGdvhibY66VFPd7aSOR1TI",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T21:05:43.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "CF"
     },
@@ -986,34 +1014,6 @@
       "country": "CF"
     },
     {
-      "id": "com.catchup.ball.goingball",
-      "name": "3D Ball Catch Up - Racing Ball",
-      "developer": "Takenick Innovation",
-      "url": "https://play.google.com/store/apps/details?id=com.catchup.ball.goingball&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/F01h3ZGppzyqRdHMflxbf7KVKOa6VulVk2kcmfZ1vNDHvDy-H7uZuUroKRvKua75dIP0_luT_ar-uInovN4yuQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T11:40:56.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "CF"
-    },
-    {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T12:39:52.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "CF"
-    },
-    {
       "id": "com.firsttouchgames.story",
       "name": "Score! Hero",
       "developer": "First Touch Games Ltd.",
@@ -1022,6 +1022,34 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-01-27T17:01:42.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "CF"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T16:58:46.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CF"
+    },
+    {
+      "id": "eu.nordeus.topeleven.android",
+      "name": "Top Eleven Be a Soccer Manager",
+      "developer": "Nordeus",
+      "url": "https://play.google.com/store/apps/details?id=eu.nordeus.topeleven.android&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/syHICcpM4rKF6_vACJknkvXhHRBju_P7P93E3cNR701Rc3alNdC1NpTvPxlhDGvvgT9pHVzfR2gOvyvFesXGrHU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-02T16:22:14.000Z",
       "genres": [
         "Sports"
       ],
@@ -1042,48 +1070,6 @@
       "country": "CF"
     },
     {
-      "id": "com.richest.trillionaire235",
-      "name": "Business Tycoon: Richest",
-      "developer": "Innovatix Tech",
-      "url": "https://play.google.com/store/apps/details?id=com.richest.trillionaire235&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/gRLmVba9gZc_VkouhaoIXycQdlDbVRAlFTHRPbrnakeghxrWqtNzt0-AeF_6GmP2DrEmphL41Knws1ezUQKbEtM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T07:10:33.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "CF"
-    },
-    {
-      "id": "com.puzzlegamesclassic.puzzlegame",
-      "name": "Puzzle Game",
-      "developer": "Block Puzzle Games 2018",
-      "url": "https://play.google.com/store/apps/details?id=com.puzzlegamesclassic.puzzlegame&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/HfuesTiHqmFhcF_4rBN5NOuqIQlVcbZ_-boo-Yj1DMtiKLkwm8aLlTRU04Flg5mIh2M",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-27T12:13:41.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "CF"
-    },
-    {
-      "id": "com.gp.pilot.simulator.airplanegames",
-      "name": "Pilot Simulator: Airplane Game",
-      "developer": "GamePark",
-      "url": "https://play.google.com/store/apps/details?id=com.gp.pilot.simulator.airplanegames&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/8k4aWqpwTX4eFyzC5vIKCkpB68jJQPQwdgJWZmFI5BfrHL4QxOeGA6-REPGiTLg-ZCU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T10:51:12.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "CF"
-    },
-    {
       "id": "com.freeplaysultanov.shootit",
       "name": "Shoot Out: Gun Shooting Games",
       "developer": "Freeplay Inc",
@@ -1094,6 +1080,20 @@
       "releaseDate": "2026-02-20T13:30:18.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "CF"
+    },
+    {
+      "id": "com.puzzle.crazy.bubble",
+      "name": "Crazy Bubble: Shoot and Pop!",
+      "developer": "SAMZU",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzle.crazy.bubble&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/X3WkBu_yrpuZ0JzJxMz8bjv3VIC0hm3M7e5xXxDN9qB-KO0YfPv9dSq37fraQaOlhYQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-30T10:30:29.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "CF"
     },
@@ -1112,16 +1112,16 @@
       "country": "CF"
     },
     {
-      "id": "com.puzzle.crazy.bubble",
-      "name": "Crazy Bubble: Shoot and Pop!",
-      "developer": "SAMZU",
-      "url": "https://play.google.com/store/apps/details?id=com.puzzle.crazy.bubble&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/X3WkBu_yrpuZ0JzJxMz8bjv3VIC0hm3M7e5xXxDN9qB-KO0YfPv9dSq37fraQaOlhYQ",
+      "id": "com.miniclip.drone1",
+      "name": "War Drone: 3D Shooting Games",
+      "developer": "Mobile Gaming Studios Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.drone1&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/quIsXpM_hTDjWCfCNHwROYTMyiOHJ3wdkOb8vBRq_6IP63Wv1d68qLC1mvevxX3VOw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-30T10:30:29.000Z",
+      "releaseDate": "2026-01-27T17:28:35.000Z",
       "genres": [
-        "Puzzle"
+        "Action"
       ],
       "country": "CF"
     },
@@ -1154,6 +1154,20 @@
       "country": "CF"
     },
     {
+      "id": "com.ludo.king",
+      "name": "Ludo King®",
+      "developer": "Gametion",
+      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T09:46:13.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "CF"
+    },
+    {
       "id": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
       "name": "Ramp Car Games: GT Car Stunts",
       "developer": "Fun Drive Games",
@@ -1164,6 +1178,34 @@
       "releaseDate": "2026-02-11T11:35:46.000Z",
       "genres": [
         "Strategy"
+      ],
+      "country": "CF"
+    },
+    {
+      "id": "com.puzzlegamesclassic.puzzlegame",
+      "name": "Puzzle Game",
+      "developer": "Block Puzzle Games 2018",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzlegamesclassic.puzzlegame&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/HfuesTiHqmFhcF_4rBN5NOuqIQlVcbZ_-boo-Yj1DMtiKLkwm8aLlTRU04Flg5mIh2M",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-27T12:13:41.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CF"
+    },
+    {
+      "id": "com.tarboosh.collectemall",
+      "name": "Collect Em All! Clear the Dots",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.tarboosh.collectemall&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/1Zgbqux8C1W0by560urxm1cowz3l0QaCogMRjXXNkGRUennrde8hfSkk40k5uDWZkvc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-14T18:34:19.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "CF"
     },
@@ -1182,142 +1224,16 @@
       "country": "CF"
     },
     {
-      "id": "eu.nordeus.topeleven.android",
-      "name": "Top Eleven Be a Soccer Manager",
-      "developer": "Nordeus",
-      "url": "https://play.google.com/store/apps/details?id=eu.nordeus.topeleven.android&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/syHICcpM4rKF6_vACJknkvXhHRBju_P7P93E3cNR701Rc3alNdC1NpTvPxlhDGvvgT9pHVzfR2gOvyvFesXGrHU",
+      "id": "com.ecffri.arrows",
+      "name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore UG",
+      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/f3szQ-tBQ5FVtiO2hwnJ6Gg4LbckQ9qKD099oiFqlvDo78uaD85Zn9G4o-W9390XnQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-02T16:22:14.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "CF"
-    },
-    {
-      "id": "com.miniclip.drone1",
-      "name": "War Drone: 3D Shooting Games",
-      "developer": "Mobile Gaming Studios Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.drone1&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/quIsXpM_hTDjWCfCNHwROYTMyiOHJ3wdkOb8vBRq_6IP63Wv1d68qLC1mvevxX3VOw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-27T17:28:35.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "CF"
-    },
-    {
-      "id": "com.tile.home.match.puzzle.game",
-      "name": "Tile Home-Match Puzzle Games",
-      "developer": "Mindful Daily Puzzles",
-      "url": "https://play.google.com/store/apps/details?id=com.tile.home.match.puzzle.game&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/mCUT9kNXbESWd7jNPLixsrarrocEkrKyujoRtiKqRMf9Pl9LNHMCf9q5CGZnfw0JsABZ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T14:05:04.000Z",
+      "releaseDate": "2026-03-05T16:22:25.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "CF"
-    },
-    {
-      "id": "com.ludo.king",
-      "name": "Ludo King®",
-      "developer": "Gametion",
-      "url": "https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T09:46:13.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "CF"
-    },
-    {
-      "id": "com.tencent.ig",
-      "name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-29T01:31:07.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "CF"
-    },
-    {
-      "id": "com.board.treasure102",
-      "name": "Roobet",
-      "developer": "Poiskilr",
-      "url": "https://play.google.com/store/apps/details?id=com.board.treasure102&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/JNOoo8iemTnvzeNQRs53ZvVXeHzfr-VsB5jq87bq3FmdbPK2ZrTWYyUYKRK1yZiUe-tbZ-k_LM7JP-08KY34",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T16:51:05.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "CF"
-    },
-    {
-      "id": "com.monstergamesproductions.truck.driving.school.games",
-      "name": "Truck Driving School Games Pro",
-      "developer": "Monster Games Productions PTY LTD",
-      "url": "https://play.google.com/store/apps/details?id=com.monstergamesproductions.truck.driving.school.games&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/WKPxJmcHORrl02RXsSnCOypXfCV3QxKEtH0aWHZUXDEcrO53TqmnFz6Oq1oyW0WWW0A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-27T13:15:06.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "CF"
-    },
-    {
-      "id": "com.zuuks.truck.simulator.ultimate",
-      "name": "Truck Simulator : Ultimate",
-      "developer": "Zuuks Games",
-      "url": "https://play.google.com/store/apps/details?id=com.zuuks.truck.simulator.ultimate&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/JoSjpnw113F0re_89aZ8pwLwrgrJ7x4I_VLVgP82GV_pY1513fR5QfJCGzpPFnmws2I",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-28T16:49:37.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "CF"
-    },
-    {
-      "id": "com.circus.balls3D.ball.run.games.arena",
-      "name": "Circus Balls - 3D Ball Games",
-      "developer": "hRango",
-      "url": "https://play.google.com/store/apps/details?id=com.circus.balls3D.ball.run.games.arena&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/M6koBsUoagAWsJAs4GtENsCkLZKjHIPhuvsyXmgMWfUpqJWh98heEt_oUt0iNcPKBvJZ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T17:00:57.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "CF"
-    },
-    {
-      "id": "com.kiloo.subwaysurf",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/RADdMlTgNCNgv5J1EjAqI3vWHFMAxZjGwsMcACGSigbzBYZdEUfSpabw_SSNxNFGgQk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T12:31:23.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "CF"
     },
@@ -1350,6 +1266,62 @@
       "country": "CF"
     },
     {
+      "id": "com.rfg.Sniper.Rage.Zombie.Assassin3D",
+      "name": "Sniper Shooting Game Offline",
+      "developer": "Pacific Games Club",
+      "url": "https://play.google.com/store/apps/details?id=com.rfg.Sniper.Rage.Zombie.Assassin3D&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/jbZ7OdprQUI1fasb_J7qTVAugZ67OXbVh7CRtXwqNiWoseQdiVr-IvTl-jhav1z7UQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-29T10:33:59.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "CF"
+    },
+    {
+      "id": "com.monstergamesproductions.truck.driving.school.games",
+      "name": "Truck Driving School Games Pro",
+      "developer": "Monster Games Productions PTY LTD",
+      "url": "https://play.google.com/store/apps/details?id=com.monstergamesproductions.truck.driving.school.games&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/WKPxJmcHORrl02RXsSnCOypXfCV3QxKEtH0aWHZUXDEcrO53TqmnFz6Oq1oyW0WWW0A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-27T13:15:06.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "CF"
+    },
+    {
+      "id": "com.zuuks.truck.simulator.ultimate",
+      "name": "Truck Simulator : Ultimate",
+      "developer": "Zuuks Games",
+      "url": "https://play.google.com/store/apps/details?id=com.zuuks.truck.simulator.ultimate&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/JoSjpnw113F0re_89aZ8pwLwrgrJ7x4I_VLVgP82GV_pY1513fR5QfJCGzpPFnmws2I",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T16:49:37.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "CF"
+    },
+    {
+      "id": "com.taprun.fruitmanialine",
+      "name": "Fruit Fancy",
+      "developer": "Tap Run",
+      "url": "https://play.google.com/store/apps/details?id=com.taprun.fruitmanialine&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/VbDEx6q27ztXqPF-u6tP4bU2mLRhhEFagEem810vAEPp16dE7sf7guXtmUyYhSCQkJgy",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-14T08:41:11.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CF"
+    },
+    {
       "id": "ghost.shooting.sniper.real3d.action.free.android",
       "name": "Ghost Shooting: shooter games",
       "developer": "BitStrong Games",
@@ -1360,6 +1332,34 @@
       "releaseDate": "2025-10-27T09:57:21.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "CF"
+    },
+    {
+      "id": "com.tile.home.match.puzzle.game",
+      "name": "Tile Home-Match Puzzle Games",
+      "developer": "Mindful Daily Puzzles",
+      "url": "https://play.google.com/store/apps/details?id=com.tile.home.match.puzzle.game&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/mCUT9kNXbESWd7jNPLixsrarrocEkrKyujoRtiKqRMf9Pl9LNHMCf9q5CGZnfw0JsABZ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T14:05:04.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "CF"
+    },
+    {
+      "id": "com.wood.block.sudoku.puzzle.bm",
+      "name": "Block Crush!",
+      "developer": "Wonderful  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T16:36:02.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "CF"
     },
@@ -1378,30 +1378,30 @@
       "country": "CF"
     },
     {
-      "id": "com.ecffri.arrows",
-      "name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore UG",
-      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/f3szQ-tBQ5FVtiO2hwnJ6Gg4LbckQ9qKD099oiFqlvDo78uaD85Zn9G4o-W9390XnQ",
+      "id": "com.games.hexagon.odyssey.puzzle",
+      "name": "Hexa Merge: Tile Sort Puzzle",
+      "developer": "Adaric Ltd",
+      "url": "https://play.google.com/store/apps/details?id=com.games.hexagon.odyssey.puzzle&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/e530XJgrI0wXmQ7RlVhGGe5MXwSOg5tLk0ukWZwM6R6iOJorKgnnkORUI7C23zbGISv9",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-05T16:22:25.000Z",
+      "releaseDate": "2026-03-03T07:38:14.000Z",
       "genres": [
         "Puzzle"
       ],
       "country": "CF"
     },
     {
-      "id": "in.playsimple.wordsearch",
-      "name": "Word Search Explorer",
-      "developer": "PlaySimple Games",
-      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=en&gl=CF",
-      "artwork": "https://play-lh.googleusercontent.com/k7RcltpIXoXb8EeDUxZxgDnPoKsRVp6t5YCegGIFAL91fk1PHX65W62uAfqwcg5drWpW",
+      "id": "com.board.treasure102",
+      "name": "Roobet",
+      "developer": "Poiskilr",
+      "url": "https://play.google.com/store/apps/details?id=com.board.treasure102&hl=en&gl=CF",
+      "artwork": "https://play-lh.googleusercontent.com/JNOoo8iemTnvzeNQRs53ZvVXeHzfr-VsB5jq87bq3FmdbPK2ZrTWYyUYKRK1yZiUe-tbZ-k_LM7JP-08KY34",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-05T14:56:53.000Z",
+      "releaseDate": "2026-02-28T16:51:05.000Z",
       "genres": [
-        "Word"
+        "Arcade"
       ],
       "country": "CF"
     }
