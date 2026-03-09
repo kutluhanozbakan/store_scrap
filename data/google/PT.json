@@ -1,8 +1,22 @@
 {
   "country": "PT",
   "store": "google",
-  "updatedAt": "2026-03-08T19:04:16.256Z",
+  "updatedAt": "2026-03-09T02:33:49.802Z",
   "new": [
+    {
+      "id": "com.JindoBlu.OfflineGames",
+      "name": "Offline Games - No Wifi Games",
+      "developer": "JindoBlu",
+      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.OfflineGames&hl=en&gl=PT",
+      "artwork": "https://play-lh.googleusercontent.com/UoBeMWwIeHSxGAx1EhmvWrG1lkzlG78UByGwEkEhRlp40udqC0hHJeRTl266g9aG-A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-09T01:40:54.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "PT"
+    },
     {
       "id": "com.fugo.wow",
       "name": "Words of Wonders: Crossword",
@@ -182,6 +196,20 @@
       "releaseDate": "2026-03-06T12:38:06.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "PT"
+    },
+    {
+      "id": "com.visionstudio.tilevacation",
+      "name": "Tile Vacation - Triple Match",
+      "developer": "VisionStudio(HK)",
+      "url": "https://play.google.com/store/apps/details?id=com.visionstudio.tilevacation&hl=en&gl=PT",
+      "artwork": "https://play-lh.googleusercontent.com/s8kKJIUT7IqtbPDqjaVIGhpzEEg7uPMBeq2SFZsG07uH25_9Th3B7EhKwNz7uv5-nA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T11:46:46.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "PT"
     },
@@ -606,6 +634,20 @@
       "country": "PT"
     },
     {
+      "id": "jp.pokemon.pokemontcgp",
+      "name": "Pokémon TCG Pocket",
+      "developer": "The Pokémon Company",
+      "url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp&hl=en&gl=PT",
+      "artwork": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T10:39:11.000Z",
+      "genres": [
+        "Card"
+      ],
+      "country": "PT"
+    },
+    {
       "id": "com.scopely.monopolygo",
       "name": "MONOPOLY GO!",
       "developer": "Scopely",
@@ -658,48 +700,6 @@
       "releaseDate": "2026-02-28T11:47:15.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "PT"
-    },
-    {
-      "id": "hidden.object.find.seek.search.mystery.puzzle.games.free",
-      "name": "Hidden Object Games: Seek It",
-      "developer": "NimbleMind Network Inc.",
-      "url": "https://play.google.com/store/apps/details?id=hidden.object.find.seek.search.mystery.puzzle.games.free&hl=en&gl=PT",
-      "artwork": "https://play-lh.googleusercontent.com/jrJoqH7cUwbJNuBvRUGxvTwmfpOPm0wHOygyMBxse5hjPwmbyduNziFWYDZS7Zj4qHBS",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T10:14:43.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "PT"
-    },
-    {
-      "id": "com.heartsnet.clickwood.gp",
-      "name": "Click Wood",
-      "developer": "Heartsnet",
-      "url": "https://play.google.com/store/apps/details?id=com.heartsnet.clickwood.gp&hl=en&gl=PT",
-      "artwork": "https://play-lh.googleusercontent.com/E9W-APtwIYfSjzZAKaXEvL1iJaJ5SzcDXhaLgGoUhCisAggu6CjDeDluaCZpEGe0SlCgfBhttyM2WXNaGarx",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T10:00:23.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "PT"
-    },
-    {
-      "id": "com.cedargames.tileclear",
-      "name": "Tile Clear - Puzzle Game",
-      "developer": "Cedar Games Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.cedargames.tileclear&hl=en&gl=PT",
-      "artwork": "https://play-lh.googleusercontent.com/NBGbFnv5rrm9rLT6t6vCC5LcxGn3TLGwtgI7wO8i61E04CwWD5_wskBSNF65MCf2GhKjlumetQ87nkNZp74f",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T06:13:56.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "PT"
     }
@@ -762,20 +762,6 @@
       "country": "PT"
     },
     {
-      "id": "com.nebula.mahjongtile",
-      "name": "Mahjong Blast",
-      "developer": "Nebula  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=PT",
-      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T12:39:52.000Z",
-      "genres": [
-        "Board"
-      ],
-      "country": "PT"
-    },
-    {
       "id": "com.block.juggle",
       "name": "Block Blast!",
       "developer": "HungryStudio",
@@ -804,16 +790,16 @@
       "country": "PT"
     },
     {
-      "id": "com.mergegames.gossipharbor",
-      "name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=PT",
-      "artwork": "https://play-lh.googleusercontent.com/PmMSCDLMab3nn0wj14BFZNqPncr1C14M5VmUrM3aXNmeRa1zEhNI4N3L1F1oO3qDYRPOQigQOyXxwDuQZZvTwA",
+      "id": "com.nebula.mahjongtile",
+      "name": "Mahjong Blast",
+      "developer": "Nebula  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=PT",
+      "artwork": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-04T07:09:51.000Z",
+      "releaseDate": "2026-03-04T12:39:52.000Z",
       "genres": [
-        "Puzzle"
+        "Board"
       ],
       "country": "PT"
     },
@@ -828,6 +814,20 @@
       "releaseDate": "2026-03-05T18:09:24.000Z",
       "genres": [
         "Adventure"
+      ],
+      "country": "PT"
+    },
+    {
+      "id": "com.mergegames.gossipharbor",
+      "name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=PT",
+      "artwork": "https://play-lh.googleusercontent.com/PmMSCDLMab3nn0wj14BFZNqPncr1C14M5VmUrM3aXNmeRa1zEhNI4N3L1F1oO3qDYRPOQigQOyXxwDuQZZvTwA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T07:09:51.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "PT"
     },
@@ -867,7 +867,7 @@
       "artwork": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-25T05:33:20.000Z",
+      "releaseDate": "2026-03-03T10:39:11.000Z",
       "genres": [
         "Card"
       ],
@@ -1336,16 +1336,16 @@
       "country": "PT"
     },
     {
-      "id": "com.scopely.monopolygo",
-      "name": "MONOPOLY GO!",
-      "developer": "Scopely",
-      "url": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo&hl=en&gl=PT",
-      "artwork": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g",
+      "id": "com.pazugames.avatarworld",
+      "name": "Avatar World ®",
+      "developer": "Pazu Games",
+      "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld&hl=en&gl=PT",
+      "artwork": "https://play-lh.googleusercontent.com/LnX6GD073ysfflkl2jX8NBcDxdG6ZV8xBkbo985dJgR2v2xdsKD6nIA-EtIl2cFwfHTPKaraLh4U4uq7iH1b",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-03T03:26:05.000Z",
+      "releaseDate": "2026-02-18T10:51:24.000Z",
       "genres": [
-        "Board"
+        "Role Playing"
       ],
       "country": "PT"
     },
@@ -1364,16 +1364,16 @@
       "country": "PT"
     },
     {
-      "id": "com.pazugames.avatarworld",
-      "name": "Avatar World ®",
-      "developer": "Pazu Games",
-      "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld&hl=en&gl=PT",
-      "artwork": "https://play-lh.googleusercontent.com/LnX6GD073ysfflkl2jX8NBcDxdG6ZV8xBkbo985dJgR2v2xdsKD6nIA-EtIl2cFwfHTPKaraLh4U4uq7iH1b",
+      "id": "com.scopely.monopolygo",
+      "name": "MONOPOLY GO!",
+      "developer": "Scopely",
+      "url": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo&hl=en&gl=PT",
+      "artwork": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-18T10:51:24.000Z",
+      "releaseDate": "2026-03-03T03:26:05.000Z",
       "genres": [
-        "Role Playing"
+        "Board"
       ],
       "country": "PT"
     },

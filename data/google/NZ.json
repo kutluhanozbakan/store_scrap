@@ -1,8 +1,22 @@
 {
   "country": "NZ",
   "store": "google",
-  "updatedAt": "2026-03-08T18:40:51.142Z",
+  "updatedAt": "2026-03-09T02:32:58.454Z",
   "new": [
+    {
+      "id": "com.JindoBlu.OfflineGames",
+      "name": "Offline Games - No Wifi Games",
+      "developer": "JindoBlu",
+      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.OfflineGames&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/UoBeMWwIeHSxGAx1EhmvWrG1lkzlG78UByGwEkEhRlp40udqC0hHJeRTl266g9aG-A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-09T01:40:54.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "NZ"
+    },
     {
       "id": "com.fashionlink.northstone",
       "name": "Jigmerge™ Puzzles",
@@ -634,6 +648,20 @@
       "country": "NZ"
     },
     {
+      "id": "jp.pokemon.pokemontcgp",
+      "name": "Pokémon TCG Pocket",
+      "developer": "The Pokémon Company",
+      "url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T10:39:11.000Z",
+      "genres": [
+        "Card"
+      ],
+      "country": "NZ"
+    },
+    {
       "id": "com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter",
       "name": "Rainbow Six Mobile",
       "developer": "Ubisoft Nova",
@@ -672,34 +700,6 @@
       "releaseDate": "2026-03-02T20:51:14.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "NZ"
-    },
-    {
-      "id": "com.nianticlabs.pokemongo",
-      "name": "Pokémon GO",
-      "developer": "Niantic, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/Qf2SJGpLxd9eu4CLWRrh2tfmmkncg7TQ2RNr44tWO07EBfhfMs4CHlizioym11Vb6RmfIWCNz6FNsOgHj_5dMA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T17:29:17.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "NZ"
-    },
-    {
-      "id": "com.moonactive.coinmaster",
-      "name": "Coin Master",
-      "developer": "Moon Active",
-      "url": "https://play.google.com/store/apps/details?id=com.moonactive.coinmaster&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/lja_bcS9SXsaK4x_q0rXuiqf3CIIwfy8QveRWfW5MEaAPOST_auDLuzWMyMUrBzi0sI",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T15:14:33.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "NZ"
     }
@@ -930,20 +930,6 @@
       "country": "NZ"
     },
     {
-      "id": "com.run.tower.defense",
-      "name": "Kingshot",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T15:06:36.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "NZ"
-    },
-    {
       "id": "com.studio27.MelonPlayground",
       "name": "Melon Sandbox",
       "developer": "playducky.com",
@@ -954,6 +940,20 @@
       "releaseDate": "2026-03-06T15:49:31.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "NZ"
+    },
+    {
+      "id": "com.run.tower.defense",
+      "name": "Kingshot",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T15:06:36.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "NZ"
     },
@@ -993,23 +993,9 @@
       "artwork": "https://play-lh.googleusercontent.com/UoBeMWwIeHSxGAx1EhmvWrG1lkzlG78UByGwEkEhRlp40udqC0hHJeRTl266g9aG-A",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-06T13:18:19.000Z",
+      "releaseDate": "2026-03-09T01:40:54.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "NZ"
-    },
-    {
-      "id": "com.tocaboca.tocalifeworld",
-      "name": "Toca Boca World",
-      "developer": "Toca Boca",
-      "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/lHmstwWETwEsL2_CtB2J31EhwjTjR-rqnCQWOmVL4tKwYcPF1P_K9cSRErJjcCESDbw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T12:22:48.000Z",
-      "genres": [
-        "Educational"
       ],
       "country": "NZ"
     },
@@ -1024,6 +1010,20 @@
       "releaseDate": "2026-02-24T07:21:42.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "NZ"
+    },
+    {
+      "id": "com.tocaboca.tocalifeworld",
+      "name": "Toca Boca World",
+      "developer": "Toca Boca",
+      "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/lHmstwWETwEsL2_CtB2J31EhwjTjR-rqnCQWOmVL4tKwYcPF1P_K9cSRErJjcCESDbw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T12:22:48.000Z",
+      "genres": [
+        "Educational"
       ],
       "country": "NZ"
     },
@@ -1077,7 +1077,7 @@
       "artwork": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-12-25T05:33:20.000Z",
+      "releaseDate": "2026-03-03T10:39:11.000Z",
       "genres": [
         "Card"
       ],
@@ -1168,20 +1168,6 @@
       "country": "NZ"
     },
     {
-      "id": "com.dreamgames.royalkingdom",
-      "name": "Royal Kingdom",
-      "developer": "Dream Games, Ltd.",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T15:01:01.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "NZ"
-    },
-    {
       "id": "com.brain.crazy.joygame",
       "name": "Brain Puzzle 3: Crazy Mind",
       "developer": "JoyGame Studio",
@@ -1190,6 +1176,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-04T10:40:23.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "NZ"
+    },
+    {
+      "id": "com.dreamgames.royalkingdom",
+      "name": "Royal Kingdom",
+      "developer": "Dream Games, Ltd.",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/nAAF2bxrD2BeoM1IkUZ6qeRG_QGG_Rekrrh4VYQSMDeRa7FR8sWMWaHClID547XJ3D4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T15:01:01.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1266,20 +1266,6 @@
       "country": "NZ"
     },
     {
-      "id": "com.mergegames.gossipharbor",
-      "name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/PmMSCDLMab3nn0wj14BFZNqPncr1C14M5VmUrM3aXNmeRa1zEhNI4N3L1F1oO3qDYRPOQigQOyXxwDuQZZvTwA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T07:09:51.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "NZ"
-    },
-    {
       "id": "com.pc.sand.loop",
       "name": "Sand Loop",
       "developer": "VOODOO",
@@ -1288,6 +1274,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-27T16:50:09.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "NZ"
+    },
+    {
+      "id": "com.mergegames.gossipharbor",
+      "name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/PmMSCDLMab3nn0wj14BFZNqPncr1C14M5VmUrM3aXNmeRa1zEhNI4N3L1F1oO3qDYRPOQigQOyXxwDuQZZvTwA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T07:09:51.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1304,6 +1304,20 @@
       "releaseDate": "2026-03-06T15:21:42.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "NZ"
+    },
+    {
+      "id": "com.playrix.township",
+      "name": "Township",
+      "developer": "Playrix",
+      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=NZ",
+      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T10:21:04.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "NZ"
     },
@@ -1332,20 +1346,6 @@
       "releaseDate": "2026-03-04T08:49:55.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "NZ"
-    },
-    {
-      "id": "com.playrix.township",
-      "name": "Township",
-      "developer": "Playrix",
-      "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=NZ",
-      "artwork": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T10:21:04.000Z",
-      "genres": [
-        "Casual"
       ],
       "country": "NZ"
     },

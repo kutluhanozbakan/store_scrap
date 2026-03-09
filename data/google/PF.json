@@ -1,8 +1,22 @@
 {
   "country": "PF",
   "store": "google",
-  "updatedAt": "2026-03-08T18:41:08.976Z",
+  "updatedAt": "2026-03-09T02:33:12.791Z",
   "new": [
+    {
+      "id": "com.JindoBlu.OfflineGames",
+      "name": "Offline Games - No Wifi Games",
+      "developer": "JindoBlu",
+      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.OfflineGames&hl=en&gl=PF",
+      "artwork": "https://play-lh.googleusercontent.com/UoBeMWwIeHSxGAx1EhmvWrG1lkzlG78UByGwEkEhRlp40udqC0hHJeRTl266g9aG-A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-09T01:40:54.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "PF"
+    },
     {
       "id": "water.sort.color.puzzle.offline.games",
       "name": "Water Sort! Color Sort Puzzle",
@@ -68,6 +82,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-06T15:21:42.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "PF"
+    },
+    {
+      "id": "com.zm.crossmath",
+      "name": "Math Crossword — Number puzzle",
+      "developer": "Tripledot Studios Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.zm.crossmath&hl=en&gl=PF",
+      "artwork": "https://play-lh.googleusercontent.com/S7KghUp5n1pbdx38PztRpL3WWfU3bV-rx-uGHlO5LBAtHOvpnv3qFx9HmH1z4OQTzGc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T14:40:33.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -674,34 +702,6 @@
         "Casual"
       ],
       "country": "PF"
-    },
-    {
-      "id": "com.mojang.minecrafttrialpe",
-      "name": "Minecraft Trial",
-      "developer": "Mojang",
-      "url": "https://play.google.com/store/apps/details?id=com.mojang.minecrafttrialpe&hl=en&gl=PF",
-      "artwork": "https://play-lh.googleusercontent.com/DJexP6PO8dL06XvNrjG7plb7SW_SaxuNamO80ab512JA71lBEBUnaJCaZzlqWVrrlEiG",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T20:11:16.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "PF"
-    },
-    {
-      "id": "com.vincentb.MobControl",
-      "name": "Mob Control",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=PF",
-      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T16:59:15.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "PF"
     }
   ],
   "updated": [
@@ -804,20 +804,6 @@
       "country": "PF"
     },
     {
-      "id": "com.mergegames.gossipharbor",
-      "name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=PF",
-      "artwork": "https://play-lh.googleusercontent.com/PmMSCDLMab3nn0wj14BFZNqPncr1C14M5VmUrM3aXNmeRa1zEhNI4N3L1F1oO3qDYRPOQigQOyXxwDuQZZvTwA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T07:09:51.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "PF"
-    },
-    {
       "id": "com.fxroyale.app",
       "name": "Trading Arena-Crypto Simulator",
       "developer": "Edusystems OU",
@@ -854,6 +840,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-09T10:29:02.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "PF"
+    },
+    {
+      "id": "com.mergegames.gossipharbor",
+      "name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=PF",
+      "artwork": "https://play-lh.googleusercontent.com/PmMSCDLMab3nn0wj14BFZNqPncr1C14M5VmUrM3aXNmeRa1zEhNI4N3L1F1oO3qDYRPOQigQOyXxwDuQZZvTwA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T07:09:51.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -972,20 +972,6 @@
       "country": "PF"
     },
     {
-      "id": "io.supercent.pizzaidle",
-      "name": "Pizza Ready!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=PF",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T08:49:55.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "PF"
-    },
-    {
       "id": "com.mojang.minecrafttrialpe",
       "name": "Minecraft Trial",
       "developer": "Mojang",
@@ -996,6 +982,20 @@
       "releaseDate": "2026-02-27T20:11:16.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "PF"
+    },
+    {
+      "id": "io.supercent.pizzaidle",
+      "name": "Pizza Ready!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=PF",
+      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T08:49:55.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "PF"
     },
@@ -1056,34 +1056,6 @@
       "country": "PF"
     },
     {
-      "id": "com.gof.global",
-      "name": "Whiteout Survival",
-      "developer": "Century Games PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.gof.global&hl=en&gl=PF",
-      "artwork": "https://play-lh.googleusercontent.com/gtcDOls1xCaV_qtRKx3dsk75bNBqel81gWkhK2xvgq5KKHj_71lnZjXYO6He97w0j-U",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-25T15:26:57.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "PF"
-    },
-    {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=PF",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "PF"
-    },
-    {
       "id": "com.amelosinteractive.snake",
       "name": "Snake.io - Fun Snake .io Games",
       "developer": "Kooapps Games | Fun Arcade and Casual Action Games",
@@ -1098,6 +1070,20 @@
       "country": "PF"
     },
     {
+      "id": "com.gof.global",
+      "name": "Whiteout Survival",
+      "developer": "Century Games PTE. LTD.",
+      "url": "https://play.google.com/store/apps/details?id=com.gof.global&hl=en&gl=PF",
+      "artwork": "https://play-lh.googleusercontent.com/gtcDOls1xCaV_qtRKx3dsk75bNBqel81gWkhK2xvgq5KKHj_71lnZjXYO6He97w0j-U",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T15:26:57.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "PF"
+    },
+    {
       "id": "com.superplaystudios.disneysolitairedreams",
       "name": "Disney Solitaire",
       "developer": "SuperPlay.",
@@ -1108,6 +1094,20 @@
       "releaseDate": "2026-02-24T17:19:50.000Z",
       "genres": [
         "Card"
+      ],
+      "country": "PF"
+    },
+    {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=PF",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "PF"
     },
@@ -1294,20 +1294,6 @@
       "country": "PF"
     },
     {
-      "id": "com.animedoll.avatarmaker",
-      "name": "Anime Avatar Maker 2: Dress Up",
-      "developer": "ToTee Global",
-      "url": "https://play.google.com/store/apps/details?id=com.animedoll.avatarmaker&hl=en&gl=PF",
-      "artwork": "https://play-lh.googleusercontent.com/IVsXRJEB9ca_Rcoog0kGuovVb4NghSj8OPSlEC9ciIfxBdxUDiF_krAxdjFSD16-JJw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-02T08:01:58.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "PF"
-    },
-    {
       "id": "water.sort.color.puzzle.offline.games",
       "name": "Water Sort! Color Sort Puzzle",
       "developer": "Bobodoo Game",
@@ -1322,20 +1308,6 @@
       "country": "PF"
     },
     {
-      "id": "com.JindoBlu.OfflineGames",
-      "name": "Offline Games - No Wifi Games",
-      "developer": "JindoBlu",
-      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.OfflineGames&hl=en&gl=PF",
-      "artwork": "https://play-lh.googleusercontent.com/UoBeMWwIeHSxGAx1EhmvWrG1lkzlG78UByGwEkEhRlp40udqC0hHJeRTl266g9aG-A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-06T13:18:19.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "PF"
-    },
-    {
       "id": "com.activision.callofduty.shooter",
       "name": "Call of Duty®: Mobile",
       "developer": "Activision Publishing, Inc.",
@@ -1346,6 +1318,34 @@
       "releaseDate": "2026-02-05T23:03:57.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "PF"
+    },
+    {
+      "id": "com.JindoBlu.OfflineGames",
+      "name": "Offline Games - No Wifi Games",
+      "developer": "JindoBlu",
+      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.OfflineGames&hl=en&gl=PF",
+      "artwork": "https://play-lh.googleusercontent.com/UoBeMWwIeHSxGAx1EhmvWrG1lkzlG78UByGwEkEhRlp40udqC0hHJeRTl266g9aG-A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-09T01:40:54.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "PF"
+    },
+    {
+      "id": "com.animedoll.avatarmaker",
+      "name": "Anime Avatar Maker 2: Dress Up",
+      "developer": "ToTee Global",
+      "url": "https://play.google.com/store/apps/details?id=com.animedoll.avatarmaker&hl=en&gl=PF",
+      "artwork": "https://play-lh.googleusercontent.com/IVsXRJEB9ca_Rcoog0kGuovVb4NghSj8OPSlEC9ciIfxBdxUDiF_krAxdjFSD16-JJw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-02T08:01:58.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "PF"
     },
@@ -1378,20 +1378,6 @@
       "country": "PF"
     },
     {
-      "id": "com.Earthkwak.Platformer",
-      "name": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=en&gl=PF",
-      "artwork": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-11-26T09:16:49.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "PF"
-    },
-    {
       "id": "com.hp.climb.tower.jump.challenge",
       "name": "Obby 3D Tower: Climb & Jump",
       "developer": "HIGAME Jsc",
@@ -1402,6 +1388,20 @@
       "releaseDate": "2026-02-27T10:07:51.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "PF"
+    },
+    {
+      "id": "beats.color.sing.star.rush",
+      "name": "Magic Level 9 Music Piano Game",
+      "developer": "Beatwave Studio",
+      "url": "https://play.google.com/store/apps/details?id=beats.color.sing.star.rush&hl=en&gl=PF",
+      "artwork": "https://play-lh.googleusercontent.com/uIih37VSDcSfq-Fp2ve2BGmBSLGEVD_AZj1_dI7_GeJLUuHxh-sgNBCIPEt5Axt98T-x",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T15:08:18.000Z",
+      "genres": [
+        "Music"
       ],
       "country": "PF"
     }

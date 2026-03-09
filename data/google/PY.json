@@ -1,7 +1,7 @@
 {
   "country": "PY",
   "store": "google",
-  "updatedAt": "2026-03-08T19:04:16.646Z",
+  "updatedAt": "2026-03-09T02:34:02.135Z",
   "new": [
     {
       "id": "com.block.juggle",
@@ -494,6 +494,20 @@
       "country": "PY"
     },
     {
+      "id": "jp.pokemon.pokemontcgp",
+      "name": "Pokémon TCG Pocket",
+      "developer": "The Pokémon Company",
+      "url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp&hl=en&gl=PY",
+      "artwork": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T10:39:11.000Z",
+      "genres": [
+        "Card"
+      ],
+      "country": "PY"
+    },
+    {
       "id": "com.orange.kidspiano.music.songs",
       "name": "Piano Kids - Music & Songs",
       "developer": "Orange Studios Games",
@@ -536,16 +550,16 @@
       "country": "PY"
     },
     {
-      "id": "com.ea.game.pvzfree_row",
-      "name": "Plants vs. Zombies™",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.game.pvzfree_row&hl=en&gl=PY",
-      "artwork": "https://play-lh.googleusercontent.com/hO7716hh7NCcFauJedDclX-R3Zh9JmbSs8AUU6TP2edGVILlZM7gmyt_8WPCZELiPQA",
+      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
+      "name": "Agent Shooter - Shooting Game",
+      "developer": "Rebel Actions",
+      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=PY",
+      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-02T09:34:02.000Z",
+      "releaseDate": "2026-03-02T13:08:35.000Z",
       "genres": [
-        "Strategy"
+        "Action"
       ],
       "country": "PY"
     },
@@ -686,20 +700,6 @@
       "releaseDate": "2026-02-25T07:05:59.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "PY"
-    },
-    {
-      "id": "io.voodoo.paper2",
-      "name": "Paper.io 2",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=PY",
-      "artwork": "https://play-lh.googleusercontent.com/7kURENGrFkFnWe0pl5ft4lrBMgTsyNurY-Fnp046xItLFnes2sU9vOEnf_oWjFoKLDTAKCTyLWNGnEEZrJqh",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T16:48:19.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "PY"
     }
@@ -1140,20 +1140,6 @@
       "country": "PY"
     },
     {
-      "id": "com.trending.tik.tap.game.challenge",
-      "name": "Tik Tap Challenge",
-      "developer": "XGame Global",
-      "url": "https://play.google.com/store/apps/details?id=com.trending.tik.tap.game.challenge&hl=en&gl=PY",
-      "artwork": "https://play-lh.googleusercontent.com/EhmwEMtalQ_DwWkWlkGkNB1LPgvNHcBDTmN5u6M6Z8Y3Dufk647Rlo0d9hPUeIgNoSKRWS0_XPb6ZPfgBT8k",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-16T11:49:19.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "PY"
-    },
-    {
       "id": "com.amelosinteractive.snake",
       "name": "Snake.io - Fun Snake .io Games",
       "developer": "Kooapps Games | Fun Arcade and Casual Action Games",
@@ -1164,6 +1150,20 @@
       "releaseDate": "2026-03-05T09:25:26.000Z",
       "genres": [
         "Action"
+      ],
+      "country": "PY"
+    },
+    {
+      "id": "com.trending.tik.tap.game.challenge",
+      "name": "Tik Tap Challenge",
+      "developer": "XGame Global",
+      "url": "https://play.google.com/store/apps/details?id=com.trending.tik.tap.game.challenge&hl=en&gl=PY",
+      "artwork": "https://play-lh.googleusercontent.com/EhmwEMtalQ_DwWkWlkGkNB1LPgvNHcBDTmN5u6M6Z8Y3Dufk647Rlo0d9hPUeIgNoSKRWS0_XPb6ZPfgBT8k",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-12-16T11:49:19.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "PY"
     },
@@ -1210,20 +1210,6 @@
       "country": "PY"
     },
     {
-      "id": "com.king.candycrushsaga",
-      "name": "Candy Crush Saga",
-      "developer": "King",
-      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=PY",
-      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-19T12:54:33.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "PY"
-    },
-    {
       "id": "com.firsttouchgames.dls7",
       "name": "Dream League Soccer 2026",
       "developer": "First Touch Games Ltd.",
@@ -1234,6 +1220,20 @@
       "releaseDate": "2026-02-27T18:33:48.000Z",
       "genres": [
         "Sports"
+      ],
+      "country": "PY"
+    },
+    {
+      "id": "com.king.candycrushsaga",
+      "name": "Candy Crush Saga",
+      "developer": "King",
+      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=PY",
+      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T12:54:33.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "PY"
     },
@@ -1350,6 +1350,20 @@
       "country": "PY"
     },
     {
+      "id": "com.music.ball.hop.tiles.beat.dancing.game",
+      "name": "Music Ballz Hop",
+      "developer": "SAMFEN LIMITED",
+      "url": "https://play.google.com/store/apps/details?id=com.music.ball.hop.tiles.beat.dancing.game&hl=en&gl=PY",
+      "artwork": "https://play-lh.googleusercontent.com/A1w2gXMyvfoDsjRze6F1kfgMk1omtWWboFEez8rkZfI9OVGBv1ffBphf6Q0kM0zLKQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-29T12:02:35.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "PY"
+    },
+    {
       "id": "com.innersloth.spacemafia",
       "name": "Among Us",
       "developer": "Innersloth LLC",
@@ -1374,20 +1388,6 @@
       "releaseDate": "2026-02-13T15:35:32.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "PY"
-    },
-    {
-      "id": "com.music.ball.hop.tiles.beat.dancing.game",
-      "name": "Music Ballz Hop",
-      "developer": "SAMFEN LIMITED",
-      "url": "https://play.google.com/store/apps/details?id=com.music.ball.hop.tiles.beat.dancing.game&hl=en&gl=PY",
-      "artwork": "https://play-lh.googleusercontent.com/A1w2gXMyvfoDsjRze6F1kfgMk1omtWWboFEez8rkZfI9OVGBv1ffBphf6Q0kM0zLKQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-29T12:02:35.000Z",
-      "genres": [
-        "Music"
       ],
       "country": "PY"
     },
