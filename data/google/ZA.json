@@ -1,8 +1,64 @@
 {
   "country": "ZA",
   "store": "google",
-  "updatedAt": "2026-03-10T05:55:13.817Z",
+  "updatedAt": "2026-03-10T17:35:16.179Z",
   "new": [
+    {
+      "id": "org.ppsspp.ppsspp",
+      "name": "PPSSPP - PSP emulator",
+      "developer": "Henrik Rydgård",
+      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-10T14:32:15.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.aim.racing",
+      "name": "Extreme Car Driving Simulator",
+      "developer": "AxesInMotion Racing",
+      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/4FcOEy8DK_gNKdR9szjd5d0m1h1cxyzHb3ejxk4IcuAi5JcMcyp-f61Wag2-SHlLt-s",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-10T14:14:17.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "music.beat.piano.fire.magic.tiles.challenge.free",
+      "name": "Beat Piano - Music EDM Tiles",
+      "developer": "Avatar GG",
+      "url": "https://play.google.com/store/apps/details?id=music.beat.piano.fire.magic.tiles.challenge.free&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/JpDJgj9IDuCB52BmEzztSuoE2h53WdFXZn9sUqIdO7ioz1cx-Ou1sMGJwBqIi9bmkUMSrkTg8Pt-ULhpKd_qLA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-10T11:07:52.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.vincentb.MobControl",
+      "name": "Mob Control",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/Iwl1n--czy618kM8m9kHzl262J8FAg02Wd4jUdR1PwBxThYFcExtLGZzPvj7ru1Q0q8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-09T19:54:56.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "ZA"
+    },
     {
       "id": "com.advant.streamer",
       "name": "Lamar - Idle Vlogger",
@@ -260,7 +316,7 @@
       "name": "Pick Me Up 3D: Taxi Game",
       "developer": "Azur Interactive Games Limited",
       "url": "https://play.google.com/store/apps/details?id=com.tp.pmu3d&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/-45mcdAUu8hi22BF8ARH7zR0CO6b7xtLs_rTLtnph_lY06aXryIM-2DYJ4kLqHoKOQ",
+      "artwork": "https://play-lh.googleusercontent.com/_wQVvw-2L_OTMbNyGrQAbanl04c0h_4_pf28kpiQftG-0BJUDGNycQa3yknYToVAyRo",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-06T14:37:44.000Z",
@@ -382,6 +438,20 @@
       "country": "ZA"
     },
     {
+      "id": "com.king.candycrushsaga",
+      "name": "Candy Crush Saga",
+      "developer": "King",
+      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T12:18:15.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "ZA"
+    },
+    {
       "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
       "name": "Shoot Bubble - Pop Bubbles",
       "developer": "IVYGAMES",
@@ -392,6 +462,20 @@
       "releaseDate": "2026-03-05T10:52:13.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.brain.logic.joygame",
+      "name": "Brain Puzzle 2: Logic Twist",
+      "developer": "JoyGame Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.brain.logic.joygame&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/q19v_2ZYEOdWOt6ABAVCl10zHrft5qkChjAwxtByGKxJxE3gNULQGf3BwsCYVJk4Jbhf",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T09:26:01.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "ZA"
     },
@@ -498,7 +582,7 @@
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
       "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "artwork": "https://play-lh.googleusercontent.com/3pb1PebAegbhexBA0vX7cQhDaijGlEory53AouhnP3U62CKQO58FGF_MrDSLzXZd_o5C",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-04T08:49:55.000Z",
@@ -546,20 +630,6 @@
       "releaseDate": "2026-03-03T18:10:11.000Z",
       "genres": [
         "Simulation"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "org.ppsspp.ppsspp",
-      "name": "PPSSPP - PSP emulator",
-      "developer": "Henrik Rydgård",
-      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T15:58:32.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "ZA"
     },
@@ -630,76 +700,6 @@
       "releaseDate": "2026-03-02T10:57:02.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.sh.minibusdrivingsimulator",
-      "name": "City Van Driving Game Offline",
-      "developer": "Simulator Hub 2022",
-      "url": "https://play.google.com/store/apps/details?id=com.sh.minibusdrivingsimulator&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/PLp-_L0iJV49QYTYoJcwOAvyPudaJqpzq3reGeUKf9kheD375B03bEZvh0XNpC00N4E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T10:14:00.000Z",
-      "genres": [
-        "Role Playing"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.yoyaworld.sparkle",
-      "name": "YoYa Sparkle: Style Pop",
-      "developer": "YoYa World",
-      "url": "https://play.google.com/store/apps/details?id=com.yoyaworld.sparkle&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/p8-BaCjUpkQpVNEZmtMdBOlNI7VKwtAzlGRuN2lHqZByjb5QAcR7iNrOpTr6b63zEB3KajI0C29ZP6ZP_t-cEg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T11:47:15.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.yg.mini.games",
-      "name": "Relax Mini Games",
-      "developer": "SUPERIOR  STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.yg.mini.games&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/KIMlcQ9lOM2ewNPBudY8w-4pA8wcZmmH2ArAi--nf4JGjlrZgipdntjK0ZqXJ7XaZ8E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T11:09:08.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "music.beat.piano.fire.magic.tiles.challenge.free",
-      "name": "Beat Piano - Music EDM Tiles",
-      "developer": "Avatar GG",
-      "url": "https://play.google.com/store/apps/details?id=music.beat.piano.fire.magic.tiles.challenge.free&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/JpDJgj9IDuCB52BmEzztSuoE2h53WdFXZn9sUqIdO7ioz1cx-Ou1sMGJwBqIi9bmkUMSrkTg8Pt-ULhpKd_qLA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T08:49:57.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.refection.game.mahjong.match.wrmg",
-      "name": "Mahjong Match Now",
-      "developer": "Refection",
-      "url": "https://play.google.com/store/apps/details?id=com.refection.game.mahjong.match.wrmg&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/dWZKfT0P3zthI7Pgsh3-Znkqzmj6vZrHSTD4JzFTFkhgxViwu7n86dOFD4YQlIPFOTe9V8mTAyrzrVjxhNo7Pg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-28T06:56:16.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "ZA"
     }
@@ -1014,42 +1014,14 @@
       "country": "ZA"
     },
     {
-      "id": "com.WandaSoftware.TruckersofEurope3",
-      "name": "Truckers of Europe 3",
-      "developer": "Wanda Software",
-      "url": "https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/FwKtLtLulWDsEawc5dOelxZyvzTQK6gEZUmqLkpEIlVJjiyPtikvwpWEkSrsgREt9yCg",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-05T13:24:09.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "ZA"
-    },
-    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
       "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/oziOAeGJU88PCXH3UR25owNmU9auT_spDmFOS2ukZZyeXuRj1wIdsCXxTVm6DWnDRps",
+      "artwork": "https://play-lh.googleusercontent.com/3pb1PebAegbhexBA0vX7cQhDaijGlEory53AouhnP3U62CKQO58FGF_MrDSLzXZd_o5C",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-04T08:49:55.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "ZA"
-    },
-    {
-      "id": "com.olzhas.carparking.multyplayer",
-      "name": "Car Parking Multiplayer",
-      "developer": "olzhass",
-      "url": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/86cQqI_vflAIckhMPWltYthLFh4YnemCi5hXm0VCQe4Lbj346-jH3r6uy3lsQtpO9A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-17T11:37:40.000Z",
       "genres": [
         "Simulation"
       ],
@@ -1063,7 +1035,7 @@
       "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-03T15:58:32.000Z",
+      "releaseDate": "2026-03-10T14:32:15.000Z",
       "genres": [
         "Action"
       ],
@@ -1091,7 +1063,7 @@
       "artwork": "https://play-lh.googleusercontent.com/JpDJgj9IDuCB52BmEzztSuoE2h53WdFXZn9sUqIdO7ioz1cx-Ou1sMGJwBqIi9bmkUMSrkTg8Pt-ULhpKd_qLA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-28T08:49:57.000Z",
+      "releaseDate": "2026-03-10T11:07:52.000Z",
       "genres": [
         "Music"
       ],
@@ -1210,6 +1182,20 @@
       "country": "ZA"
     },
     {
+      "id": "com.WandaSoftware.TruckersofEurope3",
+      "name": "Truckers of Europe 3",
+      "developer": "Wanda Software",
+      "url": "https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/FwKtLtLulWDsEawc5dOelxZyvzTQK6gEZUmqLkpEIlVJjiyPtikvwpWEkSrsgREt9yCg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-05T13:24:09.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "ZA"
+    },
+    {
       "id": "com.soccer.score.star",
       "name": "Soccer Superstar",
       "developer": "Real Freestyle Soccer",
@@ -1234,6 +1220,20 @@
       "releaseDate": "2026-03-06T06:50:08.000Z",
       "genres": [
         "Trivia"
+      ],
+      "country": "ZA"
+    },
+    {
+      "id": "com.olzhas.carparking.multyplayer",
+      "name": "Car Parking Multiplayer",
+      "developer": "olzhass",
+      "url": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/86cQqI_vflAIckhMPWltYthLFh4YnemCi5hXm0VCQe4Lbj346-jH3r6uy3lsQtpO9A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-17T11:37:40.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "ZA"
     },
@@ -1329,7 +1329,7 @@
       "artwork": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-19T12:54:33.000Z",
+      "releaseDate": "2026-03-05T12:18:15.000Z",
       "genres": [
         "Casual"
       ],
@@ -1392,16 +1392,16 @@
       "country": "ZA"
     },
     {
-      "id": "com.starplay.spider.fighter.openworld",
-      "name": "Spider Fighter 3: Action Game",
-      "developer": "Starplay FZCO",
-      "url": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter.openworld&hl=en&gl=ZA",
-      "artwork": "https://play-lh.googleusercontent.com/HGJGoIR7ZpHDMhRuaYJz_M5k8L0DCwXPcSBDGt217ye4o40LSaXTPHI-XIyiPbRw7g",
+      "id": "com.game.trllly.racego",
+      "name": "Turbo Ignite",
+      "developer": "MRF Creative",
+      "url": "https://play.google.com/store/apps/details?id=com.game.trllly.racego&hl=en&gl=ZA",
+      "artwork": "https://play-lh.googleusercontent.com/BnwRfxxPW_MOEtVV3nXOXnIc7a8DQDNGdZ-w_5hpA4NQY-kNk91awJZYWgDD6qmvSwYOcMz4eRnjoJzj0hN9RQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T14:37:43.000Z",
+      "releaseDate": "2026-01-04T03:00:39.000Z",
       "genres": [
-        "Action"
+        "Racing"
       ],
       "country": "ZA"
     }
