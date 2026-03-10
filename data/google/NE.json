@@ -1,8 +1,50 @@
 {
   "country": "NE",
   "store": "google",
-  "updatedAt": "2026-03-10T12:28:48.568Z",
+  "updatedAt": "2026-03-10T22:47:05.375Z",
   "new": [
+    {
+      "id": "org.ppsspp.ppsspp",
+      "name": "PPSSPP - PSP emulator",
+      "developer": "Henrik Rydgård",
+      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=NE",
+      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-10T14:32:15.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "NE"
+    },
+    {
+      "id": "com.aim.racing",
+      "name": "Extreme Car Driving Simulator",
+      "developer": "AxesInMotion Racing",
+      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=en&gl=NE",
+      "artwork": "https://play-lh.googleusercontent.com/4FcOEy8DK_gNKdR9szjd5d0m1h1cxyzHb3ejxk4IcuAi5JcMcyp-f61Wag2-SHlLt-s",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-10T14:14:17.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "NE"
+    },
+    {
+      "id": "com.geargames.aow",
+      "name": "Art of War 3:RTS strategy game",
+      "developer": "Gear Games Global",
+      "url": "https://play.google.com/store/apps/details?id=com.geargames.aow&hl=en&gl=NE",
+      "artwork": "https://play-lh.googleusercontent.com/-eyO8rEuzUwB8wP6dcMezbgTSIUro9_Ds5z96EK0i_qzxBP_sp7ZjwwnAFu_34-gwQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-10T12:19:02.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "NE"
+    },
     {
       "id": "com.bubbleshooter.pop.dream.classic.panda.puzzle",
       "name": "Bubble Shooter Magic Adventure",
@@ -480,20 +522,6 @@
       "country": "NE"
     },
     {
-      "id": "org.ppsspp.ppsspp",
-      "name": "PPSSPP - PSP emulator",
-      "developer": "Henrik Rydgård",
-      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=NE",
-      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T15:58:32.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "NE"
-    },
-    {
       "id": "com.king.candycrushsodasaga",
       "name": "Candy Crush Soda Saga",
       "developer": "King",
@@ -544,20 +572,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-02T12:16:52.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "NE"
-    },
-    {
-      "id": "com.geargames.aow",
-      "name": "Art of War 3:RTS strategy game",
-      "developer": "Gear Games Global",
-      "url": "https://play.google.com/store/apps/details?id=com.geargames.aow&hl=en&gl=NE",
-      "artwork": "https://play-lh.googleusercontent.com/-eyO8rEuzUwB8wP6dcMezbgTSIUro9_Ds5z96EK0i_qzxBP_sp7ZjwwnAFu_34-gwQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T09:55:08.000Z",
       "genres": [
         "Strategy"
       ],
@@ -688,20 +702,6 @@
         "Racing"
       ],
       "country": "NE"
-    },
-    {
-      "id": "com.hyperkani.stuntcarextreme",
-      "name": "Stunt Car Extreme",
-      "developer": "Hyperkani",
-      "url": "https://play.google.com/store/apps/details?id=com.hyperkani.stuntcarextreme&hl=en&gl=NE",
-      "artwork": "https://play-lh.googleusercontent.com/8xpk5fTVcjTKhRMtv_nIvSGX5oM5xPH29IlxXWP3rhbyOMPqKbRm6DxSuAhUCTBbvW0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T12:36:29.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "NE"
     }
   ],
   "updated": [
@@ -755,7 +755,7 @@
       "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-03T15:58:32.000Z",
+      "releaseDate": "2026-03-10T14:32:15.000Z",
       "genres": [
         "Action"
       ],
@@ -1175,7 +1175,7 @@
       "artwork": "https://play-lh.googleusercontent.com/-eyO8rEuzUwB8wP6dcMezbgTSIUro9_Ds5z96EK0i_qzxBP_sp7ZjwwnAFu_34-gwQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-02T09:55:08.000Z",
+      "releaseDate": "2026-03-10T12:19:02.000Z",
       "genres": [
         "Strategy"
       ],

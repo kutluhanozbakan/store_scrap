@@ -1,8 +1,22 @@
 {
   "country": "NO",
   "store": "google",
-  "updatedAt": "2026-03-10T13:44:50.305Z",
+  "updatedAt": "2026-03-10T22:47:25.895Z",
   "new": [
+    {
+      "id": "com.chess",
+      "name": "Chess - Play and Learn Online",
+      "developer": "Chess.com",
+      "url": "https://play.google.com/store/apps/details?id=com.chess&hl=en&gl=NO",
+      "artwork": "https://play-lh.googleusercontent.com/a7R5nyeaX8lIEWdBOxjlvbyq9LcFwh3XMvNtBPEKR3LPGgdvgGrec4sJwn8tUaaSkw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-10T16:28:33.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "NO"
+    },
     {
       "id": "com.puzzlegames.puzzlebrickslegend",
       "name": "Color Block: Combo Blast",
@@ -28,6 +42,20 @@
       "releaseDate": "2026-03-10T10:00:31.000Z",
       "genres": [
         "Card"
+      ],
+      "country": "NO"
+    },
+    {
+      "id": "com.kitkagames.fallbuddies",
+      "name": "Stumble Guys",
+      "developer": "Scopely",
+      "url": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies&hl=en&gl=NO",
+      "artwork": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-10T09:42:06.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "NO"
     },
@@ -354,20 +382,6 @@
       "country": "NO"
     },
     {
-      "id": "com.kitkagames.fallbuddies",
-      "name": "Stumble Guys",
-      "developer": "Scopely",
-      "url": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies&hl=en&gl=NO",
-      "artwork": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T11:31:51.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "NO"
-    },
-    {
       "id": "com.playrix.township",
       "name": "Township",
       "developer": "Playrix",
@@ -686,20 +700,6 @@
       "releaseDate": "2026-03-04T11:28:26.000Z",
       "genres": [
         "Strategy"
-      ],
-      "country": "NO"
-    },
-    {
-      "id": "jp.co.goodroid.hyper.hexaaway",
-      "name": "Hexa Away",
-      "developer": "GOODROID,Inc.",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.hexaaway&hl=en&gl=NO",
-      "artwork": "https://play-lh.googleusercontent.com/0brW5ursTxAojhRjh0uPdxCoOK5ViPi9zID7stj_ZlklxwpuNSd7jk7sZCB75Gd92A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T11:06:30.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "NO"
     }
@@ -1161,7 +1161,7 @@
       "artwork": "https://play-lh.googleusercontent.com/a7R5nyeaX8lIEWdBOxjlvbyq9LcFwh3XMvNtBPEKR3LPGgdvgGrec4sJwn8tUaaSkw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-03T18:18:39.000Z",
+      "releaseDate": "2026-03-10T16:28:33.000Z",
       "genres": [
         "Board"
       ],
