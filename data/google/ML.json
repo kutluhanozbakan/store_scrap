@@ -1,8 +1,50 @@
 {
   "country": "ML",
   "store": "google",
-  "updatedAt": "2026-03-10T12:27:37.573Z",
+  "updatedAt": "2026-03-10T22:02:11.731Z",
   "new": [
+    {
+      "id": "com.gg.karate.fighting.game",
+      "name": "Kung Fu Game - Fighting Games",
+      "developer": "Offline Games Gallery",
+      "url": "https://play.google.com/store/apps/details?id=com.gg.karate.fighting.game&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/fbVfb62Wlj6IOvDaZx6jBMrSAgkk64_OmYsLV641mzv8tkT6TzVgmDLsNx0ndMO-1G4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-10T14:36:06.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "ML"
+    },
+    {
+      "id": "org.ppsspp.ppsspp",
+      "name": "PPSSPP - PSP emulator",
+      "developer": "Henrik Rydgård",
+      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-10T14:32:15.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "ML"
+    },
+    {
+      "id": "com.geargames.aow",
+      "name": "Art of War 3:RTS strategy game",
+      "developer": "Gear Games Global",
+      "url": "https://play.google.com/store/apps/details?id=com.geargames.aow&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/-eyO8rEuzUwB8wP6dcMezbgTSIUro9_Ds5z96EK0i_qzxBP_sp7ZjwwnAFu_34-gwQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-10T12:19:02.000Z",
+      "genres": [
+        "Strategy"
+      ],
+      "country": "ML"
+    },
     {
       "id": "com.animal.hunter.sniper",
       "name": "Animal Hunter: Wild Shooting",
@@ -466,20 +508,6 @@
       "country": "ML"
     },
     {
-      "id": "org.ppsspp.ppsspp",
-      "name": "PPSSPP - PSP emulator",
-      "developer": "Henrik Rydgård",
-      "url": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-03T15:58:32.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "ML"
-    },
-    {
       "id": "com.king.candycrushsodasaga",
       "name": "Candy Crush Soda Saga",
       "developer": "King",
@@ -530,20 +558,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-02T12:16:52.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "ML"
-    },
-    {
-      "id": "com.geargames.aow",
-      "name": "Art of War 3:RTS strategy game",
-      "developer": "Gear Games Global",
-      "url": "https://play.google.com/store/apps/details?id=com.geargames.aow&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/-eyO8rEuzUwB8wP6dcMezbgTSIUro9_Ds5z96EK0i_qzxBP_sp7ZjwwnAFu_34-gwQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T09:55:08.000Z",
       "genres": [
         "Strategy"
       ],
@@ -688,20 +702,6 @@
         "Casual"
       ],
       "country": "ML"
-    },
-    {
-      "id": "com.mega.game.drop.gamvix",
-      "name": "Mega Win: Drop",
-      "developer": "Gabriel Garuti Paiva Cracco",
-      "url": "https://play.google.com/store/apps/details?id=com.mega.game.drop.gamvix&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/7hJrC9JhzgPJk8e-pK_LNBDZjIL2ttM_k0kUOy2-9QRtdgRu4onMHGTzail6EHHZn6SxWFDkanvQLmVhD0vdRw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-23T14:19:48.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "ML"
     }
   ],
   "updated": [
@@ -755,7 +755,7 @@
       "artwork": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-03T15:58:32.000Z",
+      "releaseDate": "2026-03-10T14:32:15.000Z",
       "genres": [
         "Action"
       ],
@@ -1196,20 +1196,6 @@
       "country": "ML"
     },
     {
-      "id": "com.mega.game.drop.gamvix",
-      "name": "Mega Win: Drop",
-      "developer": "Gabriel Garuti Paiva Cracco",
-      "url": "https://play.google.com/store/apps/details?id=com.mega.game.drop.gamvix&hl=en&gl=ML",
-      "artwork": "https://play-lh.googleusercontent.com/7hJrC9JhzgPJk8e-pK_LNBDZjIL2ttM_k0kUOy2-9QRtdgRu4onMHGTzail6EHHZn6SxWFDkanvQLmVhD0vdRw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-23T14:19:48.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "ML"
-    },
-    {
       "id": "com.rubygames.assassin",
       "name": "Hunter Assassin",
       "developer": "Ruby Games AS",
@@ -1402,6 +1388,20 @@
       "releaseDate": "2026-03-04T08:49:55.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "ML"
+    },
+    {
+      "id": "com.sega.sonicdash",
+      "name": "Sonic Dash: Endless Run",
+      "developer": "SEGA",
+      "url": "https://play.google.com/store/apps/details?id=com.sega.sonicdash&hl=en&gl=ML",
+      "artwork": "https://play-lh.googleusercontent.com/4F-WwVKAs56rT6DGSfu1-9sW4MqSjenlIUqWS1K_8iB25ktsHKXXScAwJonvwo7DuMA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-27T14:59:56.000Z",
+      "genres": [
+        "Arcade"
       ],
       "country": "ML"
     }

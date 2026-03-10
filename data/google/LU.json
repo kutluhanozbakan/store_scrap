@@ -1,8 +1,36 @@
 {
   "country": "LU",
   "store": "google",
-  "updatedAt": "2026-03-10T11:42:16.506Z",
+  "updatedAt": "2026-03-10T22:01:35.133Z",
   "new": [
+    {
+      "id": "com.chess",
+      "name": "Chess - Play and Learn Online",
+      "developer": "Chess.com",
+      "url": "https://play.google.com/store/apps/details?id=com.chess&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/a7R5nyeaX8lIEWdBOxjlvbyq9LcFwh3XMvNtBPEKR3LPGgdvgGrec4sJwn8tUaaSkw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-10T16:28:33.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "LU"
+    },
+    {
+      "id": "com.WalkTalk.FlightMaster",
+      "name": "Epic Plane Evolution",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.WalkTalk.FlightMaster&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/7xuAu-xVz9-KaJin2nSWjmz6JYPGa7syi0TBE1zpHswt5DdvLC7XxaUJi5Bc0kFmiaIRS4nnsEE7s_b4GO8mkw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-10T16:08:51.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "LU"
+    },
     {
       "id": "com.cedargames.tileclear",
       "name": "Tile Clear - Puzzle Game",
@@ -14,6 +42,20 @@
       "releaseDate": "2026-03-10T09:53:30.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "LU"
+    },
+    {
+      "id": "com.kitkagames.fallbuddies",
+      "name": "Stumble Guys",
+      "developer": "Scopely",
+      "url": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies&hl=en&gl=LU",
+      "artwork": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-10T09:42:06.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "LU"
     },
@@ -396,20 +438,6 @@
       "country": "LU"
     },
     {
-      "id": "com.kitkagames.fallbuddies",
-      "name": "Stumble Guys",
-      "developer": "Scopely",
-      "url": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T11:31:51.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "LU"
-    },
-    {
       "id": "com.justgame.jails",
       "name": "Lands of Jail",
       "developer": "SINGAPORE JUST GAME TECHNOLOGY PTE. LTD.",
@@ -672,34 +700,6 @@
       "releaseDate": "2026-03-04T12:31:56.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "com.fun.lastwar.gp",
-      "name": "Last War:Survival Game",
-      "developer": "FUNFLY PTE. LTD.",
-      "url": "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/2sOxb_s3uan-AmiF_XRh_K2yqRrmVeuzHAqtYCrwrFP-s1u_FMKo1NtlPz0kdn0qQUH8",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T11:28:26.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "LU"
-    },
-    {
-      "id": "jp.co.goodroid.hyper.hexaaway",
-      "name": "Hexa Away",
-      "developer": "GOODROID,Inc.",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.hexaaway&hl=en&gl=LU",
-      "artwork": "https://play-lh.googleusercontent.com/0brW5ursTxAojhRjh0uPdxCoOK5ViPi9zID7stj_ZlklxwpuNSd7jk7sZCB75Gd92A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T11:06:30.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "LU"
     }
@@ -965,7 +965,7 @@
       "artwork": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T11:31:51.000Z",
+      "releaseDate": "2026-03-10T09:42:06.000Z",
       "genres": [
         "Action"
       ],
@@ -1217,7 +1217,7 @@
       "artwork": "https://play-lh.googleusercontent.com/7xuAu-xVz9-KaJin2nSWjmz6JYPGa7syi0TBE1zpHswt5DdvLC7XxaUJi5Bc0kFmiaIRS4nnsEE7s_b4GO8mkw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-23T15:29:41.000Z",
+      "releaseDate": "2026-03-10T16:08:51.000Z",
       "genres": [
         "Action"
       ],
