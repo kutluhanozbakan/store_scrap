@@ -1,8 +1,22 @@
 {
   "country": "ZW",
   "store": "google",
-  "updatedAt": "2026-03-10T17:35:20.284Z",
+  "updatedAt": "2026-03-11T02:47:17.815Z",
   "new": [
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-10T16:03:55.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "ZW"
+    },
     {
       "id": "org.ppsspp.ppsspp",
       "name": "PPSSPP - PSP emulator",
@@ -154,20 +168,6 @@
       "releaseDate": "2026-03-09T09:52:10.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "ZW"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-09T09:47:57.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "ZW"
     },
@@ -1322,20 +1322,6 @@
       "country": "ZW"
     },
     {
-      "id": "com.chillingo.robberybobfree.android.row",
-      "name": "Robbery Bob - King of Sneak",
-      "developer": "Deca_Games",
-      "url": "https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row&hl=en&gl=ZW",
-      "artwork": "https://play-lh.googleusercontent.com/H3jfnH0UVoITHIsLUqrK5R-Gsw7_4sfzDdrND-uoZJAGQsYXCu20ccmnZcK74hYyGcY",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-10-23T13:25:32.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "ZW"
-    },
-    {
       "id": "com.zuuks.truck.simulator.ultimate",
       "name": "Truck Simulator : Ultimate",
       "developer": "Zuuks Games",
@@ -1360,6 +1346,20 @@
       "releaseDate": "2026-01-28T16:38:33.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "ZW"
+    },
+    {
+      "id": "com.chillingo.robberybobfree.android.row",
+      "name": "Robbery Bob - King of Sneak",
+      "developer": "Deca_Games",
+      "url": "https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row&hl=en&gl=ZW",
+      "artwork": "https://play-lh.googleusercontent.com/H3jfnH0UVoITHIsLUqrK5R-Gsw7_4sfzDdrND-uoZJAGQsYXCu20ccmnZcK74hYyGcY",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-10-23T13:25:32.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "ZW"
     },

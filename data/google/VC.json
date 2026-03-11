@@ -1,8 +1,36 @@
 {
   "country": "VC",
   "store": "google",
-  "updatedAt": "2026-03-10T16:42:37.471Z",
+  "updatedAt": "2026-03-11T02:46:26.947Z",
   "new": [
+    {
+      "id": "com.WalkTalk.FlightMaster",
+      "name": "Epic Plane Evolution",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.WalkTalk.FlightMaster&hl=en&gl=VC",
+      "artwork": "https://play-lh.googleusercontent.com/7xuAu-xVz9-KaJin2nSWjmz6JYPGa7syi0TBE1zpHswt5DdvLC7XxaUJi5Bc0kFmiaIRS4nnsEE7s_b4GO8mkw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-10T16:08:51.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "VC"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=VC",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-10T16:03:55.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "VC"
+    },
     {
       "id": "com.aim.racing",
       "name": "Extreme Car Driving Simulator",
@@ -84,20 +112,6 @@
       "releaseDate": "2026-03-10T10:06:50.000Z",
       "genres": [
         "Puzzle"
-      ],
-      "country": "VC"
-    },
-    {
-      "id": "com.vectorunit.cobalt.googleplay",
-      "name": "Beach Buggy Racing 2",
-      "developer": "Vector Unit",
-      "url": "https://play.google.com/store/apps/details?id=com.vectorunit.cobalt.googleplay&hl=en&gl=VC",
-      "artwork": "https://play-lh.googleusercontent.com/SvIrI_PAENPqd9XRI41_PAcEPWkRJiBU7uZtaWCzrwYy0yv71q3QJQ7ldnU94H0FdwM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-10T03:32:18.000Z",
-      "genres": [
-        "Racing"
       ],
       "country": "VC"
     },
@@ -210,20 +224,6 @@
       "releaseDate": "2026-03-09T10:28:18.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "VC"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=VC",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-09T09:47:57.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "VC"
     },
@@ -550,6 +550,20 @@
       "country": "VC"
     },
     {
+      "id": "com.playgendary.kickthebuddy",
+      "name": "Kick the Buddy－Fun Action Game",
+      "developer": "Playgendary Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.playgendary.kickthebuddy&hl=en&gl=VC",
+      "artwork": "https://play-lh.googleusercontent.com/4zT9waZhwrqSCMVFBXCi7jSzjMRP9LMdR4ZylVTd4KRRBy0aK79-IZvQWawRTSb-CLE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-03T13:03:03.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "VC"
+    },
+    {
       "id": "com.lukedoukakis.speedstars",
       "name": "Speed Stars: Running Game",
       "developer": "Miniclip.com",
@@ -688,20 +702,6 @@
         "Racing"
       ],
       "country": "VC"
-    },
-    {
-      "id": "com.craftland.sandboxworld",
-      "name": "Craft Land: Sandbox World",
-      "developer": "Craftopia Games",
-      "url": "https://play.google.com/store/apps/details?id=com.craftland.sandboxworld&hl=en&gl=VC",
-      "artwork": "https://play-lh.googleusercontent.com/vae8Q0ySuikY-oTC54ejQ8qnEjhaRed6VXl0McEuSEjSWJOFmkExxF0_TSmHeau3XGMDOlop7tEE0_eGICvstw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-24T10:14:47.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "VC"
     }
   ],
   "updated": [
@@ -713,7 +713,7 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-09T09:47:57.000Z",
+      "releaseDate": "2026-03-10T16:03:55.000Z",
       "genres": [
         "Puzzle"
       ],
