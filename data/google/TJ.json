@@ -1,8 +1,36 @@
 {
   "country": "TJ",
   "store": "google",
-  "updatedAt": "2026-03-11T23:01:45.164Z",
+  "updatedAt": "2026-03-12T11:35:16.238Z",
   "new": [
+    {
+      "id": "com.football.soccer.league",
+      "name": "Football League 2026",
+      "developer": "MOBILE SOCCER",
+      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-12T10:10:02.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-12T02:29:06.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "TJ"
+    },
     {
       "id": "com.oakever.tiletrip",
       "name": "Tile Explorer - Triple Match",
@@ -28,34 +56,6 @@
       "releaseDate": "2026-03-11T13:10:14.000Z",
       "genres": [
         "Action"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.football.soccer.league",
-      "name": "Football League 2026",
-      "developer": "MOBILE SOCCER",
-      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-11T11:28:06.000Z",
-      "genres": [
-        "Sports"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-11T10:16:45.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "TJ"
     },
@@ -326,20 +326,6 @@
       "country": "TJ"
     },
     {
-      "id": "com.azurgames.stackball",
-      "name": "Stack Ball - Crash Platforms",
-      "developer": "CASUAL AZUR GAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.azurgames.stackball&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/3pf26YI4SRN_Uk72hQeHJHbv57xOKOVEThflyjzoM6OegOxEolE8lGCImYz7DC9bv4w",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T17:53:45.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "TJ"
-    },
-    {
       "id": "com.Garawell.BridgeRace",
       "name": "Bridge Race",
       "developer": "Supersonic Studios LTD",
@@ -494,6 +480,20 @@
       "country": "TJ"
     },
     {
+      "id": "com.obg.shape.shift.race.master.shape.shifting.tranform.race.shapeshifting",
+      "name": "Shape Transform: Shifting Car",
+      "developer": "Rebel Actions",
+      "url": "https://play.google.com/store/apps/details?id=com.obg.shape.shift.race.master.shape.shifting.tranform.race.shapeshifting&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/1y0t0pavD2OWpUhbOXMAMavhRKqBQnuy8AiUipCCfUkmskjUgH_tcosuU1bdOxWS5xc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T12:37:37.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "TJ"
+    },
+    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
@@ -620,20 +620,6 @@
       "country": "TJ"
     },
     {
-      "id": "com.sega.sonicdash",
-      "name": "Sonic Dash: Endless Run",
-      "developer": "SEGA",
-      "url": "https://play.google.com/store/apps/details?id=com.sega.sonicdash&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/4F-WwVKAs56rT6DGSfu1-9sW4MqSjenlIUqWS1K_8iB25ktsHKXXScAwJonvwo7DuMA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-27T14:59:56.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "TJ"
-    },
-    {
       "id": "com.playflix.kick.breakragdoll.games",
       "name": "Kick & Break The Ragdoll Games",
       "developer": "Game District LLC",
@@ -702,6 +688,20 @@
         "Casual"
       ],
       "country": "TJ"
+    },
+    {
+      "id": "com.real.car.racing.stunt.master.driving.game",
+      "name": "Real Car Driving Midnight Club",
+      "developer": "Zendios",
+      "url": "https://play.google.com/store/apps/details?id=com.real.car.racing.stunt.master.driving.game&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/YGmvUcIoR3_oy0VW3kBtvu5cKvifTKZuaNrETNxHobbK8mbLQMwxA_KUURZCrZF2NGc",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-25T11:25:02.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "TJ"
     }
   ],
   "updated": [
@@ -734,20 +734,6 @@
       "country": "TJ"
     },
     {
-      "id": "com.ForgeGames.SpecialForcesGroup2",
-      "name": "Special Forces Group 2",
-      "developer": "ForgeGames Mobile",
-      "url": "https://play.google.com/store/apps/details?id=com.ForgeGames.SpecialForcesGroup2&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/GR2lZuHq4IbY74vnPZ1dg7gdDYwYrpmJDFayNImeHaBDYx4XDLlEN_lcbPM8BAxlTKU",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2024-10-25T15:41:01.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "TJ"
-    },
-    {
       "id": "io.supercent.pizzaidle",
       "name": "Pizza Ready!",
       "developer": "Supercent, Inc.",
@@ -758,6 +744,20 @@
       "releaseDate": "2026-03-04T08:49:55.000Z",
       "genres": [
         "Simulation"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.ForgeGames.SpecialForcesGroup2",
+      "name": "Special Forces Group 2",
+      "developer": "ForgeGames Mobile",
+      "url": "https://play.google.com/store/apps/details?id=com.ForgeGames.SpecialForcesGroup2&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/GR2lZuHq4IbY74vnPZ1dg7gdDYwYrpmJDFayNImeHaBDYx4XDLlEN_lcbPM8BAxlTKU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2024-10-25T15:41:01.000Z",
+      "genres": [
+        "Action"
       ],
       "country": "TJ"
     },
@@ -783,7 +783,7 @@
       "artwork": "https://play-lh.googleusercontent.com/qKBPPJyUloYRwghs4i7z0cMAb7TDfL9w6QSQnYBpcrluORjQU0IEeyhLyayKIKd_u2yW",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-11T11:28:06.000Z",
+      "releaseDate": "2026-03-12T10:10:02.000Z",
       "genres": [
         "Sports"
       ],
@@ -818,6 +818,20 @@
       "country": "TJ"
     },
     {
+      "id": "com.ansangha.drdriving",
+      "name": "Dr. Driving",
+      "developer": "SUD Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-25T07:34:27.000Z",
+      "genres": [
+        "Racing"
+      ],
+      "country": "TJ"
+    },
+    {
       "id": "com.hfa.us.car.dive.simulator.offline",
       "name": "US Car Drive Simulator offline",
       "developer": "Health fitness app",
@@ -839,9 +853,23 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-11T10:16:45.000Z",
+      "releaseDate": "2026-03-12T02:29:06.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.gps.draw.flag.coloring.games",
+      "name": "Satisfying Coloring",
+      "developer": "Mad1 Games",
+      "url": "https://play.google.com/store/apps/details?id=com.gps.draw.flag.coloring.games&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/VLjDQF7_vbOFGFTiPqKw6YXfpuz-LPpPeYQYpnxRIWkTgZ2YGKQ9vKK6S5UsV3SysXU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-19T11:03:58.000Z",
+      "genres": [
+        "Casual"
       ],
       "country": "TJ"
     },
@@ -860,30 +888,16 @@
       "country": "TJ"
     },
     {
-      "id": "com.hollywood.merge",
-      "name": "Hollywood Merge",
-      "developer": "VoyagerOne IE",
-      "url": "https://play.google.com/store/apps/details?id=com.hollywood.merge&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/UCB8C2kwzgBnZQoiTcPvha4gmZBhET41ArNFmz9Kz1L56iRQJgLppcAdUN8n9PmaF4I",
+      "id": "funvent.tilepark",
+      "name": "Tile Park",
+      "developer": "Funvent Studios DMCC",
+      "url": "https://play.google.com/store/apps/details?id=funvent.tilepark&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/xIcIeb1IJWDSJbAzuE6O9n1-g6U-lxkTKCHUijzZpCgv6wX8qPz82OIW7MZSyVnSFQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T09:57:32.000Z",
+      "releaseDate": "2026-03-09T11:22:00.000Z",
       "genres": [
-        "Casual"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.ea.gp.fifamobile",
-      "name": "EA SPORTS FC™ Mobile Soccer 26",
-      "developer": "ELECTRONIC ARTS",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-03T01:41:34.000Z",
-      "genres": [
-        "Sports"
+        "Puzzle"
       ],
       "country": "TJ"
     },
@@ -902,16 +916,16 @@
       "country": "TJ"
     },
     {
-      "id": "com.ansangha.drdriving",
-      "name": "Dr. Driving",
-      "developer": "SUD Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs",
+      "id": "com.hollywood.merge",
+      "name": "Hollywood Merge",
+      "developer": "VoyagerOne IE",
+      "url": "https://play.google.com/store/apps/details?id=com.hollywood.merge&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/UCB8C2kwzgBnZQoiTcPvha4gmZBhET41ArNFmz9Kz1L56iRQJgLppcAdUN8n9PmaF4I",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-08-25T07:34:27.000Z",
+      "releaseDate": "2026-03-06T09:57:32.000Z",
       "genres": [
-        "Racing"
+        "Casual"
       ],
       "country": "TJ"
     },
@@ -924,6 +938,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-02-27T18:33:48.000Z",
+      "genres": [
+        "Sports"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.ea.gp.fifamobile",
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-03T01:41:34.000Z",
       "genres": [
         "Sports"
       ],
@@ -944,42 +972,28 @@
       "country": "TJ"
     },
     {
-      "id": "funvent.tilepark",
-      "name": "Tile Park",
-      "developer": "Funvent Studios DMCC",
-      "url": "https://play.google.com/store/apps/details?id=funvent.tilepark&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/xIcIeb1IJWDSJbAzuE6O9n1-g6U-lxkTKCHUijzZpCgv6wX8qPz82OIW7MZSyVnSFQ",
+      "id": "com.dmg.carsalessimulator",
+      "name": "Car Sales & Drive Simulator 25",
+      "developer": "Skyloft Yazılım Bilişim ve Anonim Şirketi",
+      "url": "https://play.google.com/store/apps/details?id=com.dmg.carsalessimulator&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/-bvPsb2P-MNnCaaE-CoYq6GYWq_W1w8biOG7F01zMHLTDJT5HSu-o8aszaVhvlV59_w",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-09T11:22:00.000Z",
+      "releaseDate": "2026-02-09T13:56:22.000Z",
       "genres": [
-        "Puzzle"
+        "Simulation"
       ],
       "country": "TJ"
     },
     {
-      "id": "io.supercent.linkedcubic",
-      "name": "Snake Clash!",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "id": "com.gps.housemakeover.satisfying.clean",
+      "name": "House Makeover: ASMR Cleaning",
+      "developer": "Mad1 Games",
+      "url": "https://play.google.com/store/apps/details?id=com.gps.housemakeover.satisfying.clean&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/7y126KQrQEKp0Ba5tySSSyl9N30WrP0VQl0xQ4diTnqpoxohAAhoZvlTYeP0S8gOYQ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-24T07:21:42.000Z",
-      "genres": [
-        "Arcade"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.outfit7.mytalkingangela2",
-      "name": "My Talking Angela 2",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-16T14:20:52.000Z",
+      "releaseDate": "2026-02-14T17:03:58.000Z",
       "genres": [
         "Casual"
       ],
@@ -1000,6 +1014,62 @@
       "country": "TJ"
     },
     {
+      "id": "com.outfit7.mytalkingangela2",
+      "name": "My Talking Angela 2",
+      "developer": "Outfit7 Limited",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/bIgLUVCMr0XySKvnhqChW8Mw1kFU88GRPGSKjdwXTcog26OefgJsOb0Qf1KZigAJXwk",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-16T14:20:52.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "io.supercent.linkedcubic",
+      "name": "Snake Clash!",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-24T07:21:42.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.xgame.VehicleDriving3D",
+      "name": "Real Driving: Vehicle & Park",
+      "developer": "XGAME STUDIO",
+      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T06:55:58.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "dasi.prs2.lumberchopper",
+      "name": "Idle Lumber Chopper Empire Inc",
+      "developer": "Supercent, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=dasi.prs2.lumberchopper&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/0_2l4Yk9uqKwTvAv-yZp02Og-DRr5GT-AfsH42zjExvkQkKsP4NUsyZz0lp8APHMaQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-09T09:27:51.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "TJ"
+    },
+    {
       "id": "ru.playvision.durak",
       "name": "Durak Online 3D",
       "developer": "Playvision Games",
@@ -1010,6 +1080,34 @@
       "releaseDate": "2026-03-10T15:17:00.000Z",
       "genres": [
         "Card"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "net.apex_designs.payback2",
+      "name": "Payback 2 - The Battle Sandbox",
+      "developer": "Apex Designs Games LLP",
+      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2025-08-27T16:01:25.000Z",
+      "genres": [
+        "Arcade"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.ta.strike.ops",
+      "name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-23T07:01:58.000Z",
+      "genres": [
+        "Adventure"
       ],
       "country": "TJ"
     },
@@ -1042,86 +1140,16 @@
       "country": "TJ"
     },
     {
-      "id": "net.apex_designs.payback2",
-      "name": "Payback 2 - The Battle Sandbox",
-      "developer": "Apex Designs Games LLP",
-      "url": "https://play.google.com/store/apps/details?id=net.apex_designs.payback2&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/bebfNTPjllv_YHTNoKzWGoJ4tATGJoS1uXvH2Yg29SpXa5Ec9wQR6PBfEl6Zr7W10Od8",
+      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
+      "name": "Shoot Bubble - Pop Bubbles",
+      "developer": "IVYGAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2025-08-27T16:01:25.000Z",
+      "releaseDate": "2026-03-05T10:52:13.000Z",
       "genres": [
-        "Arcade"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.WalkTalk.FlightMaster",
-      "name": "Epic Plane Evolution",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.WalkTalk.FlightMaster&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/7xuAu-xVz9-KaJin2nSWjmz6JYPGa7syi0TBE1zpHswt5DdvLC7XxaUJi5Bc0kFmiaIRS4nnsEE7s_b4GO8mkw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-10T16:08:51.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "dasi.prs2.lumberchopper",
-      "name": "Idle Lumber Chopper Empire Inc",
-      "developer": "Supercent, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=dasi.prs2.lumberchopper&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/0_2l4Yk9uqKwTvAv-yZp02Og-DRr5GT-AfsH42zjExvkQkKsP4NUsyZz0lp8APHMaQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-09T09:27:51.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.ta.strike.ops",
-      "name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-23T07:01:58.000Z",
-      "genres": [
-        "Adventure"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
-      "name": "Agent Shooter - Shooting Game",
-      "developer": "Rebel Actions",
-      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-02T13:08:35.000Z",
-      "genres": [
-        "Action"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.id.gun.shooting.games",
-      "name": "Gun Games FPS Shooting Games",
-      "developer": "Interactive Dreams Inc",
-      "url": "https://play.google.com/store/apps/details?id=com.id.gun.shooting.games&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/rGDRjIGiAtxqczCRz1T1_Eytrlmg0rmY4ZHpl5TgCeP7QzGhsvAgj0WVXxY9WvDdQLwJ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-13T11:59:45.000Z",
-      "genres": [
-        "Role Playing"
+        "Casual"
       ],
       "country": "TJ"
     },
@@ -1140,42 +1168,42 @@
       "country": "TJ"
     },
     {
-      "id": "com.xgame.VehicleDriving3D",
-      "name": "Real Driving: Vehicle & Park",
-      "developer": "XGAME STUDIO",
-      "url": "https://play.google.com/store/apps/details?id=com.xgame.VehicleDriving3D&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/q2yzhAfC0RSgHdtMH-DZgROsYJZykP2oJe0p2dXH4DAoSok2rokOWGXzlQEw0VEt5nM",
+      "id": "com.id.gun.shooting.games",
+      "name": "Gun Games FPS Shooting Games",
+      "developer": "Interactive Dreams Inc",
+      "url": "https://play.google.com/store/apps/details?id=com.id.gun.shooting.games&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/rGDRjIGiAtxqczCRz1T1_Eytrlmg0rmY4ZHpl5TgCeP7QzGhsvAgj0WVXxY9WvDdQLwJ",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-23T06:55:58.000Z",
+      "releaseDate": "2026-02-13T11:59:45.000Z",
       "genres": [
-        "Simulation"
+        "Role Playing"
       ],
       "country": "TJ"
     },
     {
-      "id": "com.gamepark.vehicle.simulator.driving.games",
-      "name": "Mega Truck Simulator Games 3D",
-      "developer": "GamePark",
-      "url": "https://play.google.com/store/apps/details?id=com.gamepark.vehicle.simulator.driving.games&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/quFE2rNBamJENQPKPlBGFepStbCGUWguGxYwLUNDEqPi42SupeLMnbPwrWRr0tgsOyJi",
+      "id": "com.WalkTalk.FlightMaster",
+      "name": "Epic Plane Evolution",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.WalkTalk.FlightMaster&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/7xuAu-xVz9-KaJin2nSWjmz6JYPGa7syi0TBE1zpHswt5DdvLC7XxaUJi5Bc0kFmiaIRS4nnsEE7s_b4GO8mkw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-01-28T13:16:42.000Z",
+      "releaseDate": "2026-03-10T16:08:51.000Z",
       "genres": [
-        "Simulation"
+        "Action"
       ],
       "country": "TJ"
     },
     {
-      "id": "com.tencent.ig",
-      "name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
+      "id": "com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game",
+      "name": "Agent Shooter - Shooting Game",
+      "developer": "Rebel Actions",
+      "url": "https://play.google.com/store/apps/details?id=com.sgs.sniper.agent.agenthunt.shootergame.snipergame.gun.game&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/O8B0zxWDyMMfvStCXI_0IgVXt6tFIcmxvL5iRk7zlUXCW6jj4177oSc-5LDwKuvWvIcTlsUH_MJ_CWz5W0As7g",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T10:50:02.000Z",
+      "releaseDate": "2026-03-02T13:08:35.000Z",
       "genres": [
         "Action"
       ],
@@ -1192,6 +1220,20 @@
       "releaseDate": "2026-02-26T11:55:53.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.gamepark.vehicle.simulator.driving.games",
+      "name": "Mega Truck Simulator Games 3D",
+      "developer": "GamePark",
+      "url": "https://play.google.com/store/apps/details?id=com.gamepark.vehicle.simulator.driving.games&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/quFE2rNBamJENQPKPlBGFepStbCGUWguGxYwLUNDEqPi42SupeLMnbPwrWRr0tgsOyJi",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-01-28T13:16:42.000Z",
+      "genres": [
+        "Simulation"
       ],
       "country": "TJ"
     },
@@ -1224,14 +1266,42 @@
       "country": "TJ"
     },
     {
-      "id": "com.bubbleshooter.popbubbles.shootbubblesgame",
-      "name": "Shoot Bubble - Pop Bubbles",
-      "developer": "IVYGAMES",
-      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.popbubbles.shootbubblesgame&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/umtbyNACiEY4lo-ElNWIuWI8N-qCGGGBhpxOb2vLZ9EVGz10mMUQiQj9EhIadZ-yLQc",
+      "id": "game.piano.music.tiles.challenge",
+      "name": "Piano Game: Classic Music Song",
+      "developer": "Dream Tiles Piano Game Studio",
+      "url": "https://play.google.com/store/apps/details?id=game.piano.music.tiles.challenge&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/gVa8sVgS9LBuv4rOl8ZM_g7KPiGijciriFnm0iRvSWtZcaesKEcEgUXhZvEDahS5pyo",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-05T10:52:13.000Z",
+      "releaseDate": "2026-01-25T09:03:23.000Z",
+      "genres": [
+        "Music"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.tencent.ig",
+      "name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T10:50:02.000Z",
+      "genres": [
+        "Action"
+      ],
+      "country": "TJ"
+    },
+    {
+      "id": "com.homedesign.restore.asmr.games",
+      "name": "Home Makeover: ASMR Game",
+      "developer": "Happy Giggles",
+      "url": "https://play.google.com/store/apps/details?id=com.homedesign.restore.asmr.games&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/5PKuhy9WvL6v-5klhBM60A8uvCylSxNKc-RnOkCMtKToQwZF5o75Bx-Wgx2GDfU14cg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-13T14:32:45.000Z",
       "genres": [
         "Casual"
       ],
@@ -1252,30 +1322,16 @@
       "country": "TJ"
     },
     {
-      "id": "com.adventure.piano.musictiles",
-      "name": "Music Piano 5: Demon Piano",
-      "developer": "HyperMusic",
-      "url": "https://play.google.com/store/apps/details?id=com.adventure.piano.musictiles&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/QvQHWzQ2AUdSvIu4HpVgg2j_BfiAHD5IDXazFrcm6j9FHG3Q2993oTJBiIL_QK6KrH7m",
+      "id": "com.andregal.android.poolbilliard",
+      "name": "Pool Billiards offline",
+      "developer": "Andregal",
+      "url": "https://play.google.com/store/apps/details?id=com.andregal.android.poolbilliard&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/prsJFxj_daaTKEn6F1sW2aSsMT-2dBe41HGx9J31jWd3xAPU2rTDBbm-tlLpWacmyyHF",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-28T10:24:37.000Z",
+      "releaseDate": "2026-02-14T17:33:38.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.dts.freefiremax",
-      "name": "Free Fire MAX: Lost Treasure",
-      "developer": "GARENA INTERNATIONAL I",
-      "url": "https://play.google.com/store/apps/details?id=com.dts.freefiremax&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/uVRjDZ9q6OBIYE2ASYcl0wyBUFOgXsex5XnzS1BA7YP-CbVYCTEY3kD_t3zFP63W7W6SYesGEMgbbgG9Onn7",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-09T06:52:43.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "TJ"
     },
@@ -1294,44 +1350,30 @@
       "country": "TJ"
     },
     {
-      "id": "com.MadOut.BIG",
-      "name": "MadOut 2: Grand Auto Racing",
-      "developer": "MadOut Games LLC FZ",
-      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/dYeAjuPFJGv-XfIiKEzuR6ACSG-4pBjs31DZcjn_qRoQ2WfMzm5iKFKNLEjGERYQ6Cn-",
+      "id": "com.dino.race.master",
+      "name": "Car Race",
+      "developer": "iKame Games - Zego Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-19T07:16:00.000Z",
+      "releaseDate": "2026-01-09T02:55:19.000Z",
       "genres": [
         "Racing"
       ],
       "country": "TJ"
     },
     {
-      "id": "com.outfit7.mytalkingtomfriends",
-      "name": "My Talking Tom Friends",
-      "developer": "Outfit7 Limited",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/WY69uGwaQPUx5vS9bxF3sm4mc9N1ZzvVHVqLrZOycExHb6m8A2v5hGoroTRjih1a_d4Y",
+      "id": "com.ea.game.nfs14_row",
+      "name": "Need for Speed™ No Limits",
+      "developer": "ELECTRONIC ARTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.game.nfs14_row&hl=en&gl=TJ",
+      "artwork": "https://play-lh.googleusercontent.com/rDAmDCGhyX7FcXYJcR0QrcO04uWgdiQaiWw6oA3T93oK4Xq8qOof0-J_qtw2XFYpKg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-02-13T13:03:47.000Z",
+      "releaseDate": "2026-03-04T03:29:13.000Z",
       "genres": [
-        "Casual"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.andregal.android.poolbilliard",
-      "name": "Pool Billiards offline",
-      "developer": "Andregal",
-      "url": "https://play.google.com/store/apps/details?id=com.andregal.android.poolbilliard&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/prsJFxj_daaTKEn6F1sW2aSsMT-2dBe41HGx9J31jWd3xAPU2rTDBbm-tlLpWacmyyHF",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-14T17:33:38.000Z",
-      "genres": [
-        "Casual"
+        "Racing"
       ],
       "country": "TJ"
     },
@@ -1360,48 +1402,6 @@
       "releaseDate": "2026-02-20T11:25:29.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.dino.race.master",
-      "name": "Car Race",
-      "developer": "iKame Games - Zego Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.dino.race.master&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-09T02:55:19.000Z",
-      "genres": [
-        "Racing"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "game.piano.music.tiles.challenge",
-      "name": "Piano Game: Classic Music Song",
-      "developer": "Dream Tiles Piano Game Studio",
-      "url": "https://play.google.com/store/apps/details?id=game.piano.music.tiles.challenge&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/gVa8sVgS9LBuv4rOl8ZM_g7KPiGijciriFnm0iRvSWtZcaesKEcEgUXhZvEDahS5pyo",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-01-25T09:03:23.000Z",
-      "genres": [
-        "Music"
-      ],
-      "country": "TJ"
-    },
-    {
-      "id": "com.dvloper.granny",
-      "name": "Granny",
-      "developer": "DVloper",
-      "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=en&gl=TJ",
-      "artwork": "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2025-12-01T14:35:20.000Z",
-      "genres": [
-        "Arcade"
       ],
       "country": "TJ"
     }
