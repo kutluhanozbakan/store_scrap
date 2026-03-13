@@ -1,8 +1,50 @@
 {
   "country": "DK",
   "store": "google",
-  "updatedAt": "2026-03-12T16:18:32.204Z",
+  "updatedAt": "2026-03-13T02:48:32.362Z",
   "new": [
+    {
+      "id": "com.nianticlabs.pokemongo",
+      "name": "Pokémon GO",
+      "developer": "Niantic, Inc.",
+      "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/Qf2SJGpLxd9eu4CLWRrh2tfmmkncg7TQ2RNr44tWO07EBfhfMs4CHlizioym11Vb6RmfIWCNz6FNsOgHj_5dMA",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-12T17:10:32.000Z",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "DK"
+    },
+    {
+      "id": "com.fiogonia.drop",
+      "name": "Drop Escape: Color Puzzle",
+      "developer": "FIOGONIA LIMITED",
+      "url": "https://play.google.com/store/apps/details?id=com.fiogonia.drop&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/bffyhB3mKwpLnydfnWji8Pck4IN8wNz4kvaBGD8uiyvk5SQFYV5ZkaTUjz1G_BI2V30",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-12T15:36:11.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "DK"
+    },
+    {
+      "id": "com.vitastudio.mahjong",
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-12T14:56:55.000Z",
+      "genres": [
+        "Board"
+      ],
+      "country": "DK"
+    },
     {
       "id": "io.voodoo.holeio",
       "name": "Hole.io",
@@ -18,6 +60,34 @@
       "country": "DK"
     },
     {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-12T14:38:16.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "DK"
+    },
+    {
+      "id": "com.wood.block.sudoku.puzzle.bm",
+      "name": "Block Crush!",
+      "developer": "Wonderful  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-12T14:01:33.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "DK"
+    },
+    {
       "id": "com.oakever.jigsawcard",
       "name": "Jigsawcard Solitaire Puzzle",
       "developer": "Oakever Games",
@@ -28,6 +98,20 @@
       "releaseDate": "2026-03-12T13:39:00.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "DK"
+    },
+    {
+      "id": "com.phs.global",
+      "name": "Last Asylum: Plague",
+      "developer": "37GAMES GLOBAL",
+      "url": "https://play.google.com/store/apps/details?id=com.phs.global&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-12T13:17:45.000Z",
+      "genres": [
+        "Strategy"
       ],
       "country": "DK"
     },
@@ -116,20 +200,6 @@
       "country": "DK"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-12T02:29:06.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "DK"
-    },
-    {
       "id": "com.tocaboca.tocalifeworld",
       "name": "Toca Boca World",
       "developer": "Toca Boca",
@@ -140,20 +210,6 @@
       "releaseDate": "2026-03-11T16:52:29.000Z",
       "genres": [
         "Educational"
-      ],
-      "country": "DK"
-    },
-    {
-      "id": "com.wood.block.sudoku.puzzle.bm",
-      "name": "Block Crush!",
-      "developer": "Wonderful  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-11T16:36:06.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "DK"
     },
@@ -208,34 +264,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-11T13:24:29.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "DK"
-    },
-    {
-      "id": "com.phs.global",
-      "name": "Last Asylum: Plague",
-      "developer": "37GAMES GLOBAL",
-      "url": "https://play.google.com/store/apps/details?id=com.phs.global&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-11T12:20:12.000Z",
-      "genres": [
-        "Strategy"
-      ],
-      "country": "DK"
-    },
-    {
-      "id": "com.fiogonia.drop",
-      "name": "Drop Escape: Color Puzzle",
-      "developer": "FIOGONIA LIMITED",
-      "url": "https://play.google.com/store/apps/details?id=com.fiogonia.drop&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/bffyhB3mKwpLnydfnWji8Pck4IN8wNz4kvaBGD8uiyvk5SQFYV5ZkaTUjz1G_BI2V30",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-11T12:01:32.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -540,7 +568,7 @@
       "name": "Jigsolitaire",
       "developer": "Gamincat",
       "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
+      "artwork": "https://play-lh.googleusercontent.com/XWwZhcl6wrRJfGDdIMK0gbAKKUnHT5VbbuttDTJf6dZb2tWCyAiRZ7K3uhTipjfJPQ",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-09T05:29:55.000Z",
@@ -560,20 +588,6 @@
       "releaseDate": "2026-03-07T15:20:17.000Z",
       "genres": [
         "Casual"
-      ],
-      "country": "DK"
-    },
-    {
-      "id": "com.nianticlabs.pokemongo",
-      "name": "Pokémon GO",
-      "developer": "Niantic, Inc.",
-      "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/Qf2SJGpLxd9eu4CLWRrh2tfmmkncg7TQ2RNr44tWO07EBfhfMs4CHlizioym11Vb6RmfIWCNz6FNsOgHj_5dMA",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-07T03:52:10.000Z",
-      "genres": [
-        "Adventure"
       ],
       "country": "DK"
     },
@@ -648,20 +662,6 @@
       "country": "DK"
     },
     {
-      "id": "net.peakgames.match",
-      "name": "Match Factory!",
-      "developer": "Peak",
-      "url": "https://play.google.com/store/apps/details?id=net.peakgames.match&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/JdkgreDBCOxt7_0eeiVgbwtQkkdWmlWMO9cwAyj6rfVcAM5Z9l99zbg4eoUac5C0Bw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T15:46:16.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "DK"
-    },
-    {
       "id": "com.higame.brain.twist.tricky.puzzle",
       "name": "Prison Puzzle: Brain Twist",
       "developer": "HIGAME LTD.",
@@ -690,16 +690,16 @@
       "country": "DK"
     },
     {
-      "id": "com.vitastudio.mahjong",
-      "name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
+      "id": "wool.match.color.sort.jam.puzzle",
+      "name": "Wool Crush™ - Yarn Car Jam",
+      "developer": "Astrasen Global",
+      "url": "https://play.google.com/store/apps/details?id=wool.match.color.sort.jam.puzzle&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/RpURzdbyfPcjTXenqqNO3BFnl2L2-NhTac9c2BtZeKq3t9Wfbto3OXm1uJ-MuLNv8us",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T14:00:43.000Z",
+      "releaseDate": "2026-03-06T13:55:28.000Z",
       "genres": [
-        "Board"
+        "Puzzle"
       ],
       "country": "DK"
     }
@@ -713,7 +713,7 @@
       "artwork": "https://play-lh.googleusercontent.com/iIaEsuNyQNL06EoGybecxKi0dE8RLKk0Vldy0NGzJ3L8hjQoNnH4jTqjgjVU8cClHLwa2hoGgxrF51P7rFuwcg",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-06T14:00:43.000Z",
+      "releaseDate": "2026-03-12T14:56:55.000Z",
       "genres": [
         "Board"
       ],
@@ -769,7 +769,7 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-12T02:29:06.000Z",
+      "releaseDate": "2026-03-12T14:38:16.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -916,6 +916,20 @@
       "country": "DK"
     },
     {
+      "id": "jp.co.goodroid.hyper.hexaaway",
+      "name": "Hexa Away",
+      "developer": "GOODROID,Inc.",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.hexaaway&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/0brW5ursTxAojhRjh0uPdxCoOK5ViPi9zID7stj_ZlklxwpuNSd7jk7sZCB75Gd92A",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-04T11:06:30.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "DK"
+    },
+    {
       "id": "com.red.arrows.android",
       "name": "Arrowscapes™ - Arrows Puzzle",
       "developer": "Beijing Youyoutang Technology Co.,ltd.",
@@ -937,7 +951,7 @@
       "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-11T16:36:06.000Z",
+      "releaseDate": "2026-03-12T14:01:33.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -979,7 +993,7 @@
       "artwork": "https://play-lh.googleusercontent.com/Qf2SJGpLxd9eu4CLWRrh2tfmmkncg7TQ2RNr44tWO07EBfhfMs4CHlizioym11Vb6RmfIWCNz6FNsOgHj_5dMA",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-07T03:52:10.000Z",
+      "releaseDate": "2026-03-12T17:10:32.000Z",
       "genres": [
         "Adventure"
       ],
@@ -1024,20 +1038,6 @@
       "releaseDate": "2026-02-27T15:06:36.000Z",
       "genres": [
         "Strategy"
-      ],
-      "country": "DK"
-    },
-    {
-      "id": "jp.co.goodroid.hyper.hexaaway",
-      "name": "Hexa Away",
-      "developer": "GOODROID,Inc.",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.hexaaway&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/0brW5ursTxAojhRjh0uPdxCoOK5ViPi9zID7stj_ZlklxwpuNSd7jk7sZCB75Gd92A",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-04T11:06:30.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "DK"
     },
@@ -1147,7 +1147,7 @@
       "artwork": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-11T12:20:12.000Z",
+      "releaseDate": "2026-03-12T13:17:45.000Z",
       "genres": [
         "Strategy"
       ],
@@ -1217,7 +1217,7 @@
       "artwork": "https://play-lh.googleusercontent.com/bffyhB3mKwpLnydfnWji8Pck4IN8wNz4kvaBGD8uiyvk5SQFYV5ZkaTUjz1G_BI2V30",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-11T12:01:32.000Z",
+      "releaseDate": "2026-03-12T15:36:11.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1234,6 +1234,20 @@
       "releaseDate": "2026-02-27T17:23:38.000Z",
       "genres": [
         "Puzzle"
+      ],
+      "country": "DK"
+    },
+    {
+      "id": "com.losttemplegames.wordsolitaire",
+      "name": "Word Solitaire Now!",
+      "developer": "LOST TEMPLE GAMES",
+      "url": "https://play.google.com/store/apps/details?id=com.losttemplegames.wordsolitaire&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/DPnyPo_2u5wgMEYacR6qpRMdT6qjNvdqYTNnuHkN1tyvSIpOsIKgQF6t_kbBRxCgrv4EvsrF3cbqX2tWcTPiZV4",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-12T09:39:03.000Z",
+      "genres": [
+        "Word"
       ],
       "country": "DK"
     },
@@ -1308,6 +1322,20 @@
       "country": "DK"
     },
     {
+      "id": "com.microdose.balljam",
+      "name": "Marble Sort!",
+      "developer": "VOODOO",
+      "url": "https://play.google.com/store/apps/details?id=com.microdose.balljam&hl=en&gl=DK",
+      "artwork": "https://play-lh.googleusercontent.com/v-DRIDUC_ZilCfXi4kJXgjTs8Mt0j4HWyOy4Y0fC5VPGu-ywUywRcYPoFQ2E6tOKnPxPzpbfnIlrqkMYD5eDQeE",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-06T18:19:40.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "DK"
+    },
+    {
       "id": "com.playrix.township",
       "name": "Township",
       "developer": "Playrix",
@@ -1350,20 +1378,6 @@
       "country": "DK"
     },
     {
-      "id": "com.microdose.balljam",
-      "name": "Marble Sort!",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.microdose.balljam&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/v-DRIDUC_ZilCfXi4kJXgjTs8Mt0j4HWyOy4Y0fC5VPGu-ywUywRcYPoFQ2E6tOKnPxPzpbfnIlrqkMYD5eDQeE",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-06T18:19:40.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "DK"
-    },
-    {
       "id": "com.yolo.hiddenobjects",
       "name": "Find Hidden Objects - Spot It!",
       "developer": "Yolo Game Studios",
@@ -1388,20 +1402,6 @@
       "releaseDate": "2026-03-12T10:26:16.000Z",
       "genres": [
         "Arcade"
-      ],
-      "country": "DK"
-    },
-    {
-      "id": "com.WalkTalk.FlightMaster",
-      "name": "Epic Plane Evolution",
-      "developer": "VOODOO",
-      "url": "https://play.google.com/store/apps/details?id=com.WalkTalk.FlightMaster&hl=en&gl=DK",
-      "artwork": "https://play-lh.googleusercontent.com/7xuAu-xVz9-KaJin2nSWjmz6JYPGa7syi0TBE1zpHswt5DdvLC7XxaUJi5Bc0kFmiaIRS4nnsEE7s_b4GO8mkw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-10T16:08:51.000Z",
-      "genres": [
-        "Action"
       ],
       "country": "DK"
     }
