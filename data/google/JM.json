@@ -1,22 +1,8 @@
 {
   "country": "JM",
   "store": "google",
-  "updatedAt": "2026-03-12T18:07:20.352Z",
+  "updatedAt": "2026-03-13T06:31:40.935Z",
   "new": [
-    {
-      "id": "com.studio27.MelonPlayground",
-      "name": "Melon Sandbox",
-      "developer": "playducky.com",
-      "url": "https://play.google.com/store/apps/details?id=com.studio27.MelonPlayground&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/9KgS1cF6vWMF9Fl25S36bKr8zDh0ddkTOeN7WpBcQAE-pKfahG2DjUxbQ8sespNoe3KW3qbcaVD8H6DfNys6",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-12T15:55:34.000Z",
-      "genres": [
-        "Simulation"
-      ],
-      "country": "JM"
-    },
     {
       "id": "com.aim.racing",
       "name": "Extreme Car Driving Simulator",
@@ -70,6 +56,20 @@
       "releaseDate": "2026-03-12T14:43:38.000Z",
       "genres": [
         "Arcade"
+      ],
+      "country": "JM"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-12T14:38:16.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "JM"
     },
@@ -154,20 +154,6 @@
       "releaseDate": "2026-03-12T07:26:16.000Z",
       "genres": [
         "Racing"
-      ],
-      "country": "JM"
-    },
-    {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-12T02:29:06.000Z",
-      "genres": [
-        "Puzzle"
       ],
       "country": "JM"
     },
@@ -312,6 +298,20 @@
       "country": "JM"
     },
     {
+      "id": "com.cedargames.tileclear",
+      "name": "Tile Clear - Puzzle Game",
+      "developer": "Cedar Games Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.cedargames.tileclear&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/NBGbFnv5rrm9rLT6t6vCC5LcxGn3TLGwtgI7wO8i61E04CwWD5_wskBSNF65MCf2GhKjlumetQ87nkNZp74f",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-10T09:53:30.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "JM"
+    },
+    {
       "id": "com.craft.city.blockbuilder.pro",
       "name": "Craft Explore: Block Builder",
       "developer": "Appsgrooves",
@@ -400,7 +400,7 @@
       "name": "Jigsolitaire",
       "developer": "Gamincat",
       "url": "https://play.google.com/store/apps/details?id=com.gamincat.jigsolitaire&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/lOjF0kPO3canejX2jRwiuZufUp3Y0B-chegEvt_EIITSbebddVZD61NjfuYD7MgY2dA",
+      "artwork": "https://play-lh.googleusercontent.com/XWwZhcl6wrRJfGDdIMK0gbAKKUnHT5VbbuttDTJf6dZb2tWCyAiRZ7K3uhTipjfJPQ",
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-09T05:29:55.000Z",
@@ -727,7 +727,7 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-12T02:29:06.000Z",
+      "releaseDate": "2026-03-12T14:38:16.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1098,20 +1098,6 @@
       "country": "JM"
     },
     {
-      "id": "com.gps.housemakeover.satisfying.clean",
-      "name": "House Makeover: ASMR Cleaning",
-      "developer": "Mad1 Games",
-      "url": "https://play.google.com/store/apps/details?id=com.gps.housemakeover.satisfying.clean&hl=en&gl=JM",
-      "artwork": "https://play-lh.googleusercontent.com/7y126KQrQEKp0Ba5tySSSyl9N30WrP0VQl0xQ4diTnqpoxohAAhoZvlTYeP0S8gOYQ",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-02-14T17:03:58.000Z",
-      "genres": [
-        "Casual"
-      ],
-      "country": "JM"
-    },
-    {
       "id": "com.nebula.mahjongtile",
       "name": "Mahjong Blast",
       "developer": "Nebula  Studio",
@@ -1274,6 +1260,20 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-05T12:18:15.000Z",
+      "genres": [
+        "Casual"
+      ],
+      "country": "JM"
+    },
+    {
+      "id": "com.gps.housemakeover.satisfying.clean",
+      "name": "House Makeover: ASMR Cleaning",
+      "developer": "Mad1 Games",
+      "url": "https://play.google.com/store/apps/details?id=com.gps.housemakeover.satisfying.clean&hl=en&gl=JM",
+      "artwork": "https://play-lh.googleusercontent.com/7y126KQrQEKp0Ba5tySSSyl9N30WrP0VQl0xQ4diTnqpoxohAAhoZvlTYeP0S8gOYQ",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-02-14T17:03:58.000Z",
       "genres": [
         "Casual"
       ],

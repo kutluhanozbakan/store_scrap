@@ -1,7 +1,7 @@
 {
   "country": "KI",
   "store": "google",
-  "updatedAt": "2026-03-12T19:10:07.914Z",
+  "updatedAt": "2026-03-13T06:32:18.709Z",
   "new": [
     {
       "id": "com.aim.racing",
@@ -56,6 +56,34 @@
       "releaseDate": "2026-03-12T14:38:23.000Z",
       "genres": [
         "Casual"
+      ],
+      "country": "KI"
+    },
+    {
+      "id": "com.block.juggle",
+      "name": "Block Blast!",
+      "developer": "HungryStudio",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-12T14:38:16.000Z",
+      "genres": [
+        "Puzzle"
+      ],
+      "country": "KI"
+    },
+    {
+      "id": "com.wood.block.sudoku.puzzle.bm",
+      "name": "Block Crush!",
+      "developer": "Wonderful  Studio",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-12T14:01:33.000Z",
+      "genres": [
+        "Puzzle"
       ],
       "country": "KI"
     },
@@ -144,20 +172,6 @@
       "country": "KI"
     },
     {
-      "id": "com.block.juggle",
-      "name": "Block Blast!",
-      "developer": "HungryStudio",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-12T02:29:06.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "KI"
-    },
-    {
       "id": "com.homagames.studio.allinhole",
       "name": "All in Hole: Black Hole Games",
       "developer": "Homa",
@@ -166,20 +180,6 @@
       "price": "Free",
       "isFree": true,
       "releaseDate": "2026-03-11T17:34:05.000Z",
-      "genres": [
-        "Puzzle"
-      ],
-      "country": "KI"
-    },
-    {
-      "id": "com.wood.block.sudoku.puzzle.bm",
-      "name": "Block Crush!",
-      "developer": "Wonderful  Studio",
-      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-11T16:36:06.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -727,7 +727,7 @@
       "artwork": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-12T02:29:06.000Z",
+      "releaseDate": "2026-03-12T14:38:16.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -867,7 +867,7 @@
       "artwork": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
       "price": "Free",
       "isFree": true,
-      "releaseDate": "2026-03-11T16:36:06.000Z",
+      "releaseDate": "2026-03-12T14:01:33.000Z",
       "genres": [
         "Puzzle"
       ],
@@ -1098,6 +1098,20 @@
       "country": "KI"
     },
     {
+      "id": "com.fxroyale.app",
+      "name": "Trading Arena-Crypto Simulator",
+      "developer": "Edusystems OU",
+      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=KI",
+      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
+      "price": "Free",
+      "isFree": true,
+      "releaseDate": "2026-03-12T10:18:15.000Z",
+      "genres": [
+        "Simulation"
+      ],
+      "country": "KI"
+    },
+    {
       "id": "com.kiloo.subwaysurf",
       "name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -1136,20 +1150,6 @@
       "releaseDate": "2026-01-23T07:01:58.000Z",
       "genres": [
         "Adventure"
-      ],
-      "country": "KI"
-    },
-    {
-      "id": "com.fxroyale.app",
-      "name": "Trading Arena-Crypto Simulator",
-      "developer": "Edusystems OU",
-      "url": "https://play.google.com/store/apps/details?id=com.fxroyale.app&hl=en&gl=KI",
-      "artwork": "https://play-lh.googleusercontent.com/F12GfeVtk_k_E28bwn_DYIOuoD28UBpkKpY0EJbndrmN1XbDG8N5E77TmPmjB_rYG6D2XXS3TU0O8iCkjbQ4MCw",
-      "price": "Free",
-      "isFree": true,
-      "releaseDate": "2026-03-12T10:18:15.000Z",
-      "genres": [
-        "Simulation"
       ],
       "country": "KI"
     },
